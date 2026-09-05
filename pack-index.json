@@ -1,0 +1,183 @@
+{
+  "packs": [
+    {
+      "county": "Boulder County",
+      "exploreSiteCount": 2,
+      "idOnlySiteCount": 19,
+      "packId": "co-boulder-v11",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1BG-U8FwzmrSQawYAHzdSvCyHvNei0ddd&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 11
+    },
+    {
+      "county": "Chaffee County",
+      "exploreSiteCount": 14,
+      "idOnlySiteCount": 4,
+      "packId": "co-chaffee-v9",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1vnsDfL8LCll5ImfXsr0aLLUZWRalf8jU&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 9
+    },
+    {
+      "county": "Clear Creek County",
+      "exploreSiteCount": 72,
+      "idOnlySiteCount": 211,
+      "packId": "co-clear-creek-v84",
+      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/clear-creek-county.json",
+      "state": "Colorado",
+      "version": 84
+    },
+    {
+      "county": "Dolores County",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 6,
+      "packId": "co-dolores-v3",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1MYZiYOrAV3MnNfxrN0_AeLONtnYUwOzB&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 3
+    },
+    {
+      "county": "Eagle County",
+      "exploreSiteCount": 8,
+      "idOnlySiteCount": 2,
+      "packId": "co-eagle-v6",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1hYY84z1iMfyOiKUpgVB3IyPIgWWUqsR8&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 6
+    },
+    {
+      "county": "Gilpin County",
+      "exploreSiteCount": 2,
+      "idOnlySiteCount": 9,
+      "packId": "co-gilpin-v5",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1H_j-TjdUtUII3UJzefGLC63zAzLD7f-p&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 5
+    },
+    {
+      "county": "Gunnison County",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 30,
+      "packId": "co-gunnison-v6",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1xsPIOxgRvgMFk7kwKY7yMBKzQ6UhXMGf&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 6
+    },
+    {
+      "county": "Hinsdale County",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 11,
+      "packId": "co-hinsdale-v2",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1XpxBkMfTM4cOy8SFRGxvexe1b0U-lghJ&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 2
+    },
+    {
+      "county": "Jefferson County",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 11,
+      "packId": "co-jefferson-v5",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1HtvtQz7Ps1KuXvbD_nRllLNg4r7YgfDp&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 5
+    },
+    {
+      "county": "Lake County",
+      "exploreSiteCount": 18,
+      "idOnlySiteCount": 44,
+      "packId": "co-lake-v19",
+      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/lake-county.json",
+      "state": "Colorado",
+      "version": 19
+    },
+    {
+      "county": "Mineral County",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 7,
+      "packId": "co-mineral-v2",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1fkcSLU9C14nc1MsXA5uhdLYGbrGeKr9T&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 2
+    },
+    {
+      "county": "Ouray County",
+      "exploreSiteCount": 20,
+      "idOnlySiteCount": 9,
+      "packId": "co-ouray-v4",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1GSuXDyy64oIWyxlNwlahERJHUFS1n1RS&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 4
+    },
+    {
+      "county": "Park County",
+      "exploreSiteCount": 9,
+      "idOnlySiteCount": 13,
+      "packId": "co-park-v10",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1iLVO2f9UynR_hxX0yc7ys_IcXiUfyyxO&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 10
+    },
+    {
+      "county": "Rio Grande County",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 3,
+      "packId": "co-rio-grande-v2",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1XSa4h-65V34WvJxSRq93sYy8901ansQ7&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 2
+    },
+    {
+      "county": "Saguache County",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 5,
+      "packId": "co-saguache-v4",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1wNadumZCGsuWZk39ZNgEoTVLVCKE308m&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 4
+    },
+    {
+      "county": "San Juan County",
+      "exploreSiteCount": 5,
+      "idOnlySiteCount": 19,
+      "packId": "co-san-juan-v6",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1dOusp3SCkn6ZzKokoUVFEL29AP2DVJR1&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 6
+    },
+    {
+      "county": "San Miguel County",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 11,
+      "packId": "co-san-miguel-v3",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1JWgpybjNIzLzmENeR4cvOBmrG2LvQgss&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 3
+    },
+    {
+      "county": "Summit County",
+      "exploreSiteCount": 16,
+      "idOnlySiteCount": 45,
+      "packId": "co-summit-v24",
+      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/summit-county.json",
+      "state": "Colorado",
+      "version": 24
+    },
+    {
+      "county": "Teller County",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 11,
+      "packId": "co-teller-v2",
+      "payloadUrl": "https://drive.usercontent.google.com/download?id=1OFTZiaKFk-Wbfgx7R7Wj2ot7JOVX5-lC&export=download&confirm=t",
+      "state": "Colorado",
+      "version": 2
+    }
+  ],
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-04T16:04:07.720Z",
+  "delivery": "staged-github-pilot",
+  "githubHostedCounties": [
+    "Summit County",
+    "Lake County",
+    "Clear Creek County"
+  ]
+}

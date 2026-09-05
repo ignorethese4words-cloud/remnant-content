@@ -1,0 +1,2289 @@
+{
+  "schemaVersion": 1,
+  "packId": "co-lake-v19",
+  "county": "Lake County",
+  "state": "Colorado",
+  "version": 19,
+  "generatedAt": "2026-08-30T22:46:33.011876Z",
+  "mode": "replace",
+  "exploreSites": [
+    {
+      "id": "CO-LAKE-CHAMPION",
+      "name": "Champion Mill",
+      "location": "Halfmoon Valley / Leadville",
+      "county": "Lake County",
+      "category": "Mill",
+      "componentType": "Mill",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "Champion Mill was the processing end of the Mount Champion mining system west of Leadville. Ore moved from the high-elevation mine to the mill by a long aerial tramway, making the surviving mill, tram towers, and upper mine workings parts of one connected industrial landscape.",
+        "Period mining literature describes the mill at roughly 12,000 feet elevation and the mine above 13,000 feet. The operation treated gold-bearing sulphide ore that could also carry silver, copper, and lead values before concentrates or selected high-grade ore were sent toward Leadville smelters."
+      ],
+      "timeline": [
+        {
+          "year": "1881",
+          "text": "The Mount Champion property was discovered, although substantial development came later."
+        },
+        {
+          "year": "1907",
+          "text": "The Mount Champion Mining Company acquired the property and began major development of the mine, mill, and aerial-tram system."
+        },
+        {
+          "year": "1910",
+          "text": "The Mount Champion Mining Company was incorporated during the period when the operation was being developed into a substantial mine-and-mill complex."
+        },
+        {
+          "year": "1912–1918",
+          "text": "The operation entered its principal production period. The aerial tram carried ore from the high mine workings to the mill in Halfmoon Valley."
+        },
+        {
+          "year": "1917",
+          "text": "Engineering and Mining Journal published a technical account of practice at the Mount Champion mill, documenting the unusually high-elevation operating conditions and the connected mine-to-mill tramway."
+        },
+        {
+          "year": "1918–1919",
+          "text": "Regular production ended as transportation and operating economics made continued shipment and treatment unprofitable."
+        },
+        {
+          "year": "1937–1940",
+          "text": "The property saw a brief later reopening before shutting down again."
+        },
+        {
+          "year": "Today",
+          "text": "The large mill structure and surviving pieces of the aerial-tram landscape remain strong visual evidence of how the remote mine and processing plant functioned together."
+        }
+      ],
+      "moreHistory": [
+        "The Champion site is best understood as a system rather than as one building. The mine occupied the high slopes of Mount Champion, while the mill stood far below in Halfmoon Valley. An aerial tram roughly 6,100 feet long linked the two, allowing ore to move across terrain that would have made wagon haulage extremely difficult.",
+        "A Mining History Association account describes the underground mine as three drift tunnels totaling about 10,000 feet of workings, with roughly thirty men employed underground during the principal operating period. The same account describes sixteen men working at the mill.",
+        "The mill used a multi-stage crushing and concentration process. Documented equipment included jaw and disc crushers, screens, a ball mill and tube mill, classifiers, amalgamating copper plates, a thickener, concentrating tables, an elevator, and additional gravity-concentration equipment. This machinery explains why the surviving structure was so large: it housed a sequence of processing steps rather than a single crusher.",
+        "Ore from the Mount Champion workings contained values chiefly in sulphides. Gold was important, with smaller silver values and occasional copper and lead. Selected high-grade ore could bypass some milling and be shipped toward Leadville smelters, while lower-grade material was concentrated at the mill before shipment.",
+        "The tramway is one of the defining features of the Champion complex. Historical descriptions note that it crossed very high terrain and used numerous wooden towers to carry buckets between the mine and mill. The surviving towers and tram-related remains are therefore not separate curiosities; they are evidence of the transportation system that made the mill practical.",
+        "Champion also illustrates the economic limits of remote high-country mining. Even with mechanized milling and aerial transport, the operation depended on the cost of moving ore and concentrates onward to Leadville. When those costs outweighed the value recovered, the main production period ended.",
+        "The mill and upper Champion Mine workings were distinct components of the same historic operation. Together, the mine, tramway, and mill illustrate the full path from extraction to processing."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.1375,
+        "longitude": -106.503889
+      },
+      "mediaNotice": "Historic image not available",
+      "legacyIds": [
+        "champion"
+      ]
+    },
+    {
+      "id": "CO-LAKE-HAGERMAN",
+      "name": "Hagerman Trestle",
+      "location": "Hagerman Pass / Leadville",
+      "county": "Lake County",
+      "category": "Railroad",
+      "componentType": "Trestle",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Hagerman Trestle was part of the Colorado Midland railroad’s difficult high-elevation route across the mountains west of Leadville. The railroad landscape around Hagerman Pass required major engineering works to overcome steep grades, snow, and rugged terrain.",
+        "The trestle should be understood as one component of the broader Colorado Midland route rather than as an isolated structure."
+      ],
+      "timeline": [
+        {
+          "year": "1880s",
+          "text": "The Colorado Midland developed its high-country route west of Leadville as part of the railroad’s push across the Continental Divide."
+        },
+        {
+          "year": "Railroad era",
+          "text": "Large timber trestles, cuts, grades, snow-control work, and tunnel infrastructure were used to carry trains through the Hagerman Pass landscape."
+        },
+        {
+          "year": "1890s",
+          "text": "Period imagery documented the dramatic railroad engineering around Hagerman Pass, including trestle and snow-operation scenes."
+        },
+        {
+          "year": "After abandonment",
+          "text": "The original railroad infrastructure fell out of use, but portions of the grade and structural remains continued to mark the former route."
+        },
+        {
+          "year": "Today",
+          "text": "The surviving railroad landscape helps interpret the engineering challenge of operating a mountain railroad at very high elevation."
+        }
+      ],
+      "moreHistory": [
+        "Hagerman Pass presented severe operating problems: heavy winter snow, steep mountain terrain, high elevation, and the need to maintain a workable railroad grade.",
+        "The trestle was one of several engineering elements in the route. Tunnel approaches, grade, cuts, fills, snow-control operations, and other structures should be interpreted as related components.",
+        "The Library of Congress preserves a rights-cleared historical image of Colorado Midland snow-plow operations at Hagerman Pass. That image provides operating-era railroad context, but it should not be captioned as a direct photograph of the trestle unless the structure is actually shown.",
+        "A separate W.H. Jackson catalog reference documents that a trestle-specific historical view existed, further supporting the importance of the structure within the Hagerman route."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "hag-trestle",
+          "name": "Hagerman Trestle",
+          "type": "Railroad Structure",
+          "confidence": "Confirmed",
+          "note": "A major timber railroad structure associated with the Colorado Midland mountain route."
+        },
+        {
+          "id": "hag-grade",
+          "name": "Colorado Midland Grade",
+          "type": "Railroad Grade",
+          "confidence": "Confirmed",
+          "note": "The trestle is part of the broader high-elevation railroad grade."
+        },
+        {
+          "id": "hag-snow",
+          "name": "Snow-Operation Landscape",
+          "type": "Railroad Operations",
+          "confidence": "Confirmed",
+          "note": "Historic imagery documents the extreme snow conditions faced by railroad crews at Hagerman Pass."
+        }
+      ],
+      "mediaNotice": "Historic image not available",
+      "legacyIds": [
+        "hagerman"
+      ]
+    },
+    {
+      "id": "CO-LAKE-LITTLE-JONNY",
+      "name": "Ibex / Little Jonny Mine",
+      "location": "Breece Hill / Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Little Jonny was a major gold-producing working within the broader Ibex property on Breece Hill in the Leadville district.",
+        "The Little Jonny working formed part of the broader Ibex property, while retaining its own distinct workings and surface features."
+      ],
+      "timeline": [
+        {
+          "year": "1890s",
+          "text": "Major development expanded the Ibex / Little Jonny workings during Leadville’s later gold-producing period."
+        },
+        {
+          "year": "1893–1923",
+          "text": "USGS historical mapping records substantial gold production from the Ibex / Little Jonny operation during this period."
+        },
+        {
+          "year": "1898",
+          "text": "Historical records document a Denver & Rio Grande railroad connection serving the Ibex operation."
+        },
+        {
+          "year": "20th century",
+          "text": "The property remained part of the heavily developed Breece Hill mining landscape."
+        }
+      ],
+      "moreHistory": [
+        "USGS and Colorado mining-history sources identify the Little Jonny as a significant gold-development component of the Ibex property.",
+        "The property is also associated with J.J. Brown management in the broader historical record, linking the industrial history of Breece Hill with well-known Leadville personalities.",
+        "The 1898 railroad connection illustrates how large mine properties depended on transportation infrastructure for ore, supplies, and equipment."
+      ],
+      "displayImages": [],
+      "production": {
+        "summary": "Historical federal sources describe substantial gold production from the Ibex / Little Jonny operation between 1893 and 1923, although surviving sources do not support a single definitive lifetime total.",
+        "commodities": [
+          {
+            "name": "Gold",
+            "period": "Substantial production documented for 1893–1923"
+          }
+        ],
+        "note": "Published historical sources vary in how production was reported, so no single lifetime total is presented here."
+      },
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-MAID-OF-ERIN",
+      "name": "Maid of Erin Mine",
+      "location": "Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Maid of Erin was one of the named mines in Leadville’s dense Carbonate Hill mining landscape. Its history overlaps with neighboring properties, but it operated as a distinct mine.",
+        "The property is useful for understanding how Leadville’s mines changed through operating, leasing, dump-processing, and later environmental-remediation periods."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "The Maid of Erin operated as part of the heavily developed Carbonate Hill district."
+        },
+        {
+          "year": "Later operations",
+          "text": "Historical property records document leasing and later processing of mine-dump material."
+        },
+        {
+          "year": "1997",
+          "text": "EPA historic-property documentation records consolidation and remediation of waste associated with Maid of Erin, Wolftone, and Mahala areas."
+        },
+        {
+          "year": "Today",
+          "text": "The site is interpreted as a distinct mine component within a tightly packed historic and remediated mining landscape."
+        }
+      ],
+      "moreHistory": [
+        "EPA California Gulch documentation provides unusually useful information because it preserves both operating history and later changes to the physical mining landscape.",
+        "Maid of Erin should not be merged with Wolftone or other nearby Carbonate Hill properties simply because their histories and remediation areas overlap.",
+        "USGS Leadville district studies provide the larger geologic and ore-deposit framework needed to understand why so many mines were concentrated in this area."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-MATCHLESS",
+      "name": "Matchless Mine",
+      "location": "Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Matchless Mine is one of Leadville’s best-known historic silver properties, important both for its role in the mining industry and for its association with Horace Tabor and Elizabeth “Baby Doe” Tabor.",
+        "The surviving complex preserves recognizable mine infrastructure that helps explain underground extraction, surface hoisting, ore handling, and support functions."
+      ],
+      "timeline": [
+        {
+          "year": "1879",
+          "text": "The Matchless property became associated with Horace Tabor during Leadville’s rapid silver boom."
+        },
+        {
+          "year": "1880s",
+          "text": "The mine operated during Leadville’s major silver-production era and became part of Tabor’s mining fortune."
+        },
+        {
+          "year": "1893",
+          "text": "The national silver crisis badly damaged Leadville’s silver economy and Tabor’s finances."
+        },
+        {
+          "year": "1899",
+          "text": "Horace Tabor died after the collapse of much of his former fortune."
+        },
+        {
+          "year": "1901–1935",
+          "text": "Baby Doe Tabor remained closely associated with the property."
+        },
+        {
+          "year": "Today",
+          "text": "Surviving mine buildings and equipment make the Matchless one of the most recognizable historic mining complexes in Leadville."
+        }
+      ],
+      "moreHistory": [
+        "History Colorado recognizes the Matchless for both industrial and social significance.",
+        "The complex includes the No. 6 shaft area, headframe and hoisting infrastructure, a powder magazine, cabin, and other surface features.",
+        "The Tabor story turned the mine into a symbol of both the extraordinary wealth and the volatility of Colorado’s silver era.",
+        "Baby Doe’s long association with the property helped preserve the Matchless in public memory well after the mine’s peak industrial period."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "match-shaft",
+          "name": "No. 6 Shaft and Headframe Area",
+          "type": "Mine Working",
+          "confidence": "Confirmed",
+          "note": "A central surviving component of the surface complex."
+        },
+        {
+          "id": "match-hoist",
+          "name": "Hoisting Infrastructure",
+          "type": "Mine Machinery / Structure",
+          "confidence": "Confirmed",
+          "note": "The hoisting system illustrates movement between surface and underground workings."
+        },
+        {
+          "id": "match-powder",
+          "name": "Powder Magazine",
+          "type": "Support Structure",
+          "confidence": "Confirmed",
+          "note": "A distinct support component of mine operations."
+        },
+        {
+          "id": "match-cabin",
+          "name": "Historic Cabin",
+          "type": "Support / Residential Structure",
+          "confidence": "Confirmed",
+          "note": "The cabin contributes to the social history of the property and its Tabor association."
+        }
+      ],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-ORO-CITY",
+      "name": "Oro City & California Gulch Placer Diggings",
+      "location": "Leadville / California Gulch",
+      "county": "Lake County",
+      "category": "Mining Camp / Placer",
+      "componentType": "Camp / Placer",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "Oro City and the California Gulch placer diggings represent the early gold-rush phase of the Leadville story, before the district became famous for later hard-rock silver, lead, zinc, and gold mining.",
+        "Old Oro City, later settlement components, and the surrounding placer-mining landscape represent related but distinct parts of California Gulch history."
+      ],
+      "timeline": [
+        {
+          "year": "1860",
+          "text": "Gold discoveries in California Gulch triggered rapid placer mining and settlement in the Leadville area."
+        },
+        {
+          "year": "Early placer era",
+          "text": "Oro City developed around the booming gulch while miners worked stream gravels and other placer deposits."
+        },
+        {
+          "year": "Later 19th century",
+          "text": "As easy placer deposits declined, the district’s economic focus shifted toward hard-rock mining and new communities."
+        },
+        {
+          "year": "1878",
+          "text": "W.G. Chamberlain photographed hydraulic mining in California Gulch, preserving a rights-cleared image of the placer landscape."
+        }
+      ],
+      "moreHistory": [
+        "USGS historic mapping distinguishes multiple Oro City place references from the broader placer landscape, showing that the settlement and mining ground changed over time.",
+        "The California Gulch placer story is important because it explains the first major mining rush that preceded Leadville’s better-known carbonate-ore boom.",
+        "The cleared 1878 Library of Congress stereograph provides direct historical evidence of hydraulic placer mining in California Gulch."
+      ],
+      "displayImages": [
+        {
+          "id": "california-gulch-hydraulic-1878",
+          "title": "Hydraulic mining in California Gulch, 1878",
+          "label": "",
+          "source": {
+            "uri": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c10000/3c10800/3c10833v.jpg"
+          },
+          "remoteUri": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c10000/3c10800/3c10833v.jpg",
+          "sourceNote": "W. G. Chamberlain, 1878. Library of Congress LC-USZ62-110833. No known restrictions on publication.",
+          "credit": "W. G. Chamberlain / Library of Congress, 1878."
+        }
+      ]
+    },
+    {
+      "id": "CO-LAKE-WOLFTONE",
+      "name": "Wolftone Mine",
+      "location": "Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Wolftone was an important Carbonate Hill mine whose history extended beyond Leadville’s classic silver era into the later zinc economy.",
+        "It was connected historically with the broader A.M.W. operating context but remains a distinct mine from Maid of Erin, Adams, and neighboring properties."
+      ],
+      "timeline": [
+        {
+          "year": "19th century",
+          "text": "The Wolftone developed as part of Leadville’s densely mined Carbonate Hill area."
+        },
+        {
+          "year": "1899",
+          "text": "EPA historical documentation records renewed operation after the mine was unwatered."
+        },
+        {
+          "year": "Early 20th century",
+          "text": "The property became important in Leadville’s shift toward zinc production."
+        },
+        {
+          "year": "1940s",
+          "text": "Historical records document reprocessing of mine-dump material."
+        },
+        {
+          "year": "1997",
+          "text": "Waste from Wolftone and nearby mine areas was consolidated as part of California Gulch remediation work."
+        }
+      ],
+      "moreHistory": [
+        "The Wolftone illustrates how one mine can pass through several industrial phases: underground production, changes in target commodities, dump reprocessing, and environmental remediation.",
+        "EPA records are especially useful for reconstructing both the operational history and later physical changes to the property.",
+        "USGS district studies provide the broader geological framework for the lead, silver, and zinc ores that shaped Carbonate Hill mining."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-BLACK-CLOUD",
+      "name": "Black Cloud Mine / Leadville Unit / Irene Shaft",
+      "location": "Iowa Gulch / Leadville",
+      "county": "Lake County",
+      "category": "Mine / Mining Complex",
+      "componentType": "Major Underground Lead-Zinc-Silver Mine / Shaft & Flotation-Mill System",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Black Cloud, also known as the Leadville Unit, was a major modern-era underground lead-zinc-silver operation in the Leadville mining district. Its surface and underground system included the Irene Shaft, mill and tailings infrastructure, and connections with older workings in the district.",
+        "The Black Cloud is best understood as a mine complex whose history spans underground workings, shaft facilities, ore processing, tailings, and later environmental management."
+      ],
+      "timeline": [
+        {
+          "year": "1971",
+          "text": "Production began at the Black Cloud / Leadville Unit during a later phase of large-scale mining in the Leadville district."
+        },
+        {
+          "year": "Late 20th century",
+          "text": "The operation worked lead-zinc-silver ore through an extensive underground and surface industrial system associated with the Irene Shaft."
+        },
+        {
+          "year": "1999",
+          "text": "The Black Cloud Mine closed after nearly three decades of modern production."
+        },
+        {
+          "year": "Today",
+          "text": "The remaining industrial landscape is useful for identifying the scale and form of later Leadville mining compared with nineteenth-century properties."
+        }
+      ],
+      "moreHistory": [
+        "Federal and mining-record sources identify Black Cloud Mine with the Leadville Unit and Irene Shaft. The operation also intersected or connected with older Leadville workings, illustrating how later mines reused and expanded an already complex underground landscape.",
+        "The modern tailings impoundment and related surface features should be interpreted as components of the larger mine complex, not as the whole mine."
+      ],
+      "displayImages": [
+        {
+          "id": "black-cloud-tailings-2008",
+          "title": "Black Cloud Mine tailings impoundment",
+          "label": "",
+          "source": {
+            "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Black_Cloud_Mine_tailings_pond.jpg"
+          },
+          "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Black_Cloud_Mine_tailings_pond.jpg",
+          "sourceNote": "John Holm, 2008, Wikimedia Commons. CC BY 2.0.",
+          "credit": "John Holm / Wikimedia Commons. CC BY 2.0."
+        }
+      ],
+      "features": [
+        {
+          "id": "black-cloud-irene",
+          "name": "Irene Shaft / Leadville Unit surface plant",
+          "type": "Mine Shaft / Surface Plant",
+          "confidence": "Confirmed",
+          "note": "The Irene Shaft is a principal identified component of the Black Cloud / Leadville Unit operation."
+        },
+        {
+          "id": "black-cloud-tailings",
+          "name": "Tailings and processing landscape",
+          "type": "Mine / Mill Infrastructure",
+          "confidence": "Confirmed",
+          "note": "Tailings and processing infrastructure form part of the larger Black Cloud industrial complex."
+        }
+      ]
+    },
+    {
+      "id": "CO-LAKE-CLIMAX-MOLY",
+      "name": "Climax Molybdenum Mine / Climax Mine",
+      "location": "Fremont Pass",
+      "county": "Lake County",
+      "category": "Mine / Mill / Mining Complex",
+      "componentType": "World-Class Molybdenum Mine / Underground & Open-Pit Complex",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "Climax is one of the world’s best-known molybdenum deposits and one of Colorado’s most important twentieth-century mining operations. The high-elevation complex at Fremont Pass evolved from underground mining into a very large open-pit and milling operation.",
+        "The site is especially useful for showing how mining technology, scale, and surface appearance changed from early underground development to modern bulk mining and flotation processing."
+      ],
+      "timeline": [
+        {
+          "year": "1879",
+          "text": "Claims were staked on Bartlett Mountain for mineralization that was later recognized as molybdenum ore."
+        },
+        {
+          "year": "1917–1918",
+          "text": "Large-scale development accelerated during World War I as demand for molybdenum increased."
+        },
+        {
+          "year": "1919",
+          "text": "Production was suspended after wartime demand collapsed."
+        },
+        {
+          "year": "1924",
+          "text": "Production resumed after metallurgical improvements and new markets were developed."
+        },
+        {
+          "year": "1930",
+          "text": "Climax was operating at roughly 1,000–1,200 tons of ore per day and had become one of Colorado’s largest mining operations."
+        },
+        {
+          "year": "20th century",
+          "text": "The mine expanded through extensive underground workings and later transitioned to large-scale open-pit mining and modern milling."
+        },
+        {
+          "year": "2012",
+          "text": "The modern Climax operation reopened after a closure period."
+        }
+      ],
+      "moreHistory": [
+        "Molybdenite is the principal ore mineral at Climax, and the deposit became the type example for the rare class of Climax-type porphyry molybdenum deposits.",
+        "Historic components include major underground levels and tunnels, hoisting and haulage facilities, crushing and flotation systems, and later open-pit, concentrator, and tailings landscapes. These should be kept as linked components rather than treated as one building or portal.",
+        "Historic production figures should remain tied to the specific years and sources that reported them rather than being extrapolated into an unsupported lifetime total."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "climax-underground",
+          "name": "Historic Underground Mine System",
+          "type": "Underground Workings",
+          "confidence": "Confirmed",
+          "note": "Climax developed a very large underground mine before the later open-pit phase."
+        },
+        {
+          "id": "climax-openpit",
+          "name": "Open-Pit Mine and Modern Mill",
+          "type": "Mine / Mill Complex",
+          "confidence": "Confirmed",
+          "note": "The modern operation includes the open pit, concentrator, tailings and related industrial infrastructure."
+        }
+      ],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-LEADVILLE-DRAINAGE-TUNNEL",
+      "name": "Leadville Mine Drainage Tunnel / LMDT",
+      "location": "Leadville mining district",
+      "county": "Lake County",
+      "category": "Mining Infrastructure / Federal Engineering / Environmental History",
+      "componentType": "Two-Mile Mine-Drainage Tunnel / Treatment-Plant System",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Leadville Mine Drainage Tunnel is a major federal engineering feature built beneath the Leadville mining district to lower groundwater in underground workings and improve access to mineral reserves. It later became a central part of the district’s water-treatment and environmental history.",
+        "The tunnel, outlet, treatment plant, connected mine workings, and monitoring locations are related components and should not be treated as a single visible structure."
+      ],
+      "timeline": [
+        {
+          "year": "1943–1945",
+          "text": "The U.S. Bureau of Mines constructed the first section of the tunnel during World War II to drain mine workings and improve mineral access."
+        },
+        {
+          "year": "1950–1952",
+          "text": "The tunnel was extended during renewed Korean War demand for metals."
+        },
+        {
+          "year": "1959",
+          "text": "The U.S. Bureau of Reclamation acquired the tunnel."
+        },
+        {
+          "year": "1992",
+          "text": "A modern treatment plant was commissioned to treat metal-bearing tunnel discharge before it entered the Arkansas River headwaters."
+        },
+        {
+          "year": "Today",
+          "text": "The tunnel and treatment system remain important parts of the environmental and engineering history of the Leadville district."
+        }
+      ],
+      "moreHistory": [
+        "Federal sources describe the LMDT as approximately two miles long. USGS studies documented substantial lowering of mine-water levels after tunnel drainage began.",
+        "The tunnel was later considered as a possible water source for the Fryingpan-Arkansas Project, but existing water-rights claims prevented that use.",
+        "Because mine drainage contains dissolved metals, treatment of the discharge became a long-term federal responsibility and an important chapter in the post-mining history of the district."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "lmdt-tunnel",
+          "name": "Leadville Mine Drainage Tunnel",
+          "type": "Mine Drainage / Engineering",
+          "confidence": "Confirmed",
+          "note": "The underground tunnel is the principal drainage feature beneath the historic mining district."
+        },
+        {
+          "id": "lmdt-treatment",
+          "name": "Water Treatment System",
+          "type": "Environmental Infrastructure",
+          "confidence": "Confirmed",
+          "note": "The modern treatment system addresses metal-bearing drainage from the historic mine network."
+        }
+      ],
+      "coordinates": {
+        "latitude": 39.2747115,
+        "longitude": -106.2880795
+      },
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-CHRYSOLITE",
+      "name": "Chrysolite Mine",
+      "location": "Fryer Hill / Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Historic Silver-Lead Mine",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "Chrysolite was one of the famous Fryer Hill mines that helped define Leadville’s late-1870s silver boom. Government mining reports place it among the important carbonate-ore workings on Fryer Hill, where rich lead-silver deposits were developed beneath a complex sequence of porphyry, limestone, and quartzite.",
+        "The mine is historically tied to Horace Tabor’s rise during the Leadville boom and operated independently from nearby properties such as the Matchless and Little Pittsburg."
+      ],
+      "timeline": [
+        {
+          "year": "Late 1870s",
+          "text": "Chrysolite emerged during the first rush of major carbonate discoveries on Fryer Hill as Leadville’s silver boom accelerated."
+        },
+        {
+          "year": "1880s",
+          "text": "The mine became one of the significant Fryer Hill producers documented in federal mining reports and detailed geological mapping."
+        },
+        {
+          "year": "1890s",
+          "text": "Leadville mining continued through changing metal markets; government accounts record work on Chrysolite dumps as operators sought value from previously mined material."
+        },
+        {
+          "year": "Early 1900s",
+          "text": "Federal geological work documented the Chrysolite workings in detail, including the Roberts and Clark shaft areas and the complicated Fryer Hill ore geology."
+        },
+        {
+          "year": "Today",
+          "text": "Chrysolite remains an important reference point for interpreting Fryer Hill and the dense cluster of historic Leadville mines."
+        }
+      ],
+      "moreHistory": [
+        "Fryer Hill was one of the most intensely developed parts of the Leadville district. Chrysolite worked the same broad carbonate-ore environment that made neighboring mines famous, but each property followed its own shafts, stopes, faults, and ore bodies.",
+        "USGS and earlier federal mining reports describe Fryer Hill as geologically complicated. Sheets of white and gray porphyry cut and displaced the favorable limestone units, and miners had to follow irregular replacement bodies rather than a simple vein.",
+        "Historic federal mapping specifically documents Chrysolite mine workings and later shaft development. Those records make the mine useful for understanding how Leadville operators used shafts and underground levels to chase ore through a difficult three-dimensional geologic setting.",
+        "Chrysolite is also part of the Horace Tabor story. Period and later mining histories connect Tabor with the property during the same extraordinary boom that produced fortunes from Little Pittsburg and other Fryer Hill mines.",
+        "The close spacing of Chrysolite, Matchless, Little Pittsburg, and other nearby properties is part of the Leadville story: a relatively small hill contained numerous independently operated mines competing for access to rich carbonate ore."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.2553,
+        "longitude": -106.2764
+      },
+      "mediaNotice": "Historic image not available",
+      "legacyIds": [
+        "chrysolite"
+      ]
+    },
+    {
+      "id": "CO-LAKE-STUMPTOWN",
+      "name": "Stumptown Mining Camp",
+      "location": "South Evans Gulch / Leadville",
+      "county": "Lake County",
+      "category": "Mining Camp",
+      "componentType": "Mining Camp / Mine Cluster",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "Stumptown was a mining camp in South Evans Gulch that grew around the mines east of Leadville. Mining History Association material traces its beginning to the 1879 discovery of the Little Ellen Mine and identifies the settlement as an active mining community into the twentieth century.",
+        "The camp is best understood as a cluster: homes and camp structures were surrounded by individual mines including the Little Ellen, Ollie Reed, Favorite, Silent Friend, and nearby tunnel workings."
+      ],
+      "timeline": [
+        {
+          "year": "1879",
+          "text": "Discovery of the Little Ellen Mine helped start the settlement first known as South Evans and later as Stumptown."
+        },
+        {
+          "year": "1880s–1890s",
+          "text": "The camp developed alongside a dense group of mines in South Evans Gulch during Leadville’s major mining era."
+        },
+        {
+          "year": "Early 1900s",
+          "text": "Mining continued around the camp, with several neighboring properties remaining active as ore types and markets changed."
+        },
+        {
+          "year": "1910–1924",
+          "text": "The nearby Silent Friend Mine was an important producer of oxidized zinc ores during this period."
+        },
+        {
+          "year": "By 1930s",
+          "text": "Long-term mining activity declined and the settlement was largely abandoned, while mine ruins and landscape traces remained."
+        },
+        {
+          "year": "Today",
+          "text": "Stumptown survives primarily as a historic mining landscape where camp history and multiple mine sites overlap."
+        }
+      ],
+      "moreHistory": [
+        "Stumptown illustrates how Leadville’s mining camps often formed directly beside groups of producing properties rather than as isolated towns. Workers could live near the mines that employed them, and the camp’s identity was tied closely to activity in South Evans Gulch.",
+        "The Little Ellen discovery is central to the camp’s origin. Later historical interpretation links Stumptown with the Ollie Reed, Favorite, Silent Friend, Little Ellen, Little Bob, and St. Louis Tunnel areas, showing how many separate workings contributed to one community landscape.",
+        "The camp also has a well-known social-history connection: Margaret “Molly” Brown and her husband J. J. Brown lived in the Stumptown area early in their marriage before the family became nationally prominent.",
+        "Stumptown was a mining camp surrounded by numerous individual mines and industrial sites. Those neighboring workings had their own histories even though they shared the same South Evans Gulch landscape."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-TUCSON",
+      "name": "Tucson Mine Ruins",
+      "location": "Iron Hill / Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Underground Mine / Shaft Complex",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Tucson Mine was a substantial Iron Hill operation in the Leadville district. Historic accounts describe deep shaft development and later mining of silver, lead, zinc, and zinc-carbonate ores, while surviving heavy foundations and ore-handling remains indicate the scale of the surface plant.",
+        "The Tucson should be interpreted as one mine within the broader Iron Silver Mining Company landscape, not as a label for every nearby Iron Hill working."
+      ],
+      "timeline": [
+        {
+          "year": "Late 1800s",
+          "text": "The Tucson became one of the developed Iron Hill workings as Leadville operators expanded underground through shafts and inclines."
+        },
+        {
+          "year": "Early 1900s",
+          "text": "The Tucson shaft reached roughly 1,100 feet, reflecting substantial underground development."
+        },
+        {
+          "year": "1910",
+          "text": "Historic mining literature reported very high-grade silver assays from lower levels of the mine."
+        },
+        {
+          "year": "1912–1918",
+          "text": "Considerable mining continued, with lead- and zinc-sulfide ores forming an important part of production."
+        },
+        {
+          "year": "1918–1926",
+          "text": "Several attempts were made to reopen or sustain the property, but none produced a lasting revival."
+        },
+        {
+          "year": "1940",
+          "text": "The upper part of the shaft was reopened to reach a remaining zinc-carbonate, or smithsonite, ore body."
+        },
+        {
+          "year": "Today",
+          "text": "Large ore-bin remnants, dumps, and heavy hoist foundations remain useful identification clues for the former mine complex."
+        }
+      ],
+      "moreHistory": [
+        "Iron Hill was one of Leadville’s major mining zones. The Tucson developed within a dense group of Iron Silver Mining Company properties where separate shafts and claims tapped related but locally complex ore bodies.",
+        "Historical descriptions of the Tucson emphasize the depth of the shaft and the changing character of the ore. Silver-rich material was reported from deeper levels, while lead and zinc sulfides became important during the 1910s.",
+        "The 1940 reopening targeted smithsonite, a zinc carbonate left from earlier mining. That episode shows how operators repeatedly reconsidered old workings when metal prices, processing methods, or knowledge of remaining ore changed.",
+        "Surviving surface features are especially useful for identification. Large ore-storage remnants and substantial concrete hoist foundations indicate that Tucson was not a minor prospect; it required heavy equipment to move ore and workers through a deep shaft system.",
+        "Nearby Iron Hill mines sometimes shared ownership or underground relationships, but the surviving ruins in the area belonged to several distinct operations rather than to the Tucson Mine alone."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-TWIN-LAKES-DISTRICT",
+      "name": "Twin Lakes Historic District / Historic Twin Lakes Village",
+      "location": "Twin Lakes",
+      "county": "Lake County",
+      "category": "Historic Village / Mining-Era Community",
+      "componentType": "Late-19th-Century Mountain Village / Historic District",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "Twin Lakes Historic District preserves one of Lake County’s best surviving late-nineteenth-century mountain villages. Its compact collection of historic buildings reflects the community that served travelers, residents, miners, and visitors moving through the Upper Arkansas and Independence Pass region.",
+        "The historic village of Twin Lakes developed separately from the Interlaken Resort complex across the lake and represents its own community landscape."
+      ],
+      "timeline": [
+        {
+          "year": "1860s–1870s",
+          "text": "Twin Lakes was already recognized as a mountain destination and transportation setting during the early mining era; surviving historic photography documents the landscape by the 1870s."
+        },
+        {
+          "year": "1880s–1890s",
+          "text": "Most principal contributing buildings associated with the historic district date from the final two decades of the nineteenth century."
+        },
+        {
+          "year": "Mining era",
+          "text": "The village served a regional network of mining, transportation, lodging, commerce, fishing, and mountain travel rather than functioning as a single mine camp."
+        },
+        {
+          "year": "Later 1900s",
+          "text": "The village retained enough historic fabric to preserve a recognizable nineteenth-century mountain-community character."
+        },
+        {
+          "year": "Today",
+          "text": "The historic district remains identifiable through its concentration of log buildings, gabled roofs, village-scale setting, and relationship to Twin Lakes and the surrounding mountains."
+        }
+      ],
+      "moreHistory": [
+        "History Colorado describes Twin Lakes as one of the best remaining examples of a late-1800s Colorado mountain village. Many of the principal contributing buildings are log construction with gabled roofs, giving the district a coherent visual character.",
+        "Twin Lakes occupied an important position between the Upper Arkansas Valley and routes crossing the high country. Its history therefore mixes mining-era transportation and commerce with lodging, tourism, fishing, and community life.",
+        "Early landscape photographs are valuable evidence because they show that Twin Lakes had already become a recognized destination during the nineteenth century. They provide context for the village even when a photograph does not identify one specific surviving building.",
+        "Interlaken Resort is historically related but physically and functionally separate. Keeping the two records distinct prevents the resort’s development history from being incorrectly assigned to the Twin Lakes village.",
+        "The district is best understood as a historic community made up of many individual houses, commercial buildings, streets, and civic features."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.0820493,
+        "longitude": -106.38228
+      },
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-MORNING-STAR",
+      "name": "Morning Star Mine",
+      "location": "Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "The Morning Star was part of the densely developed hard-rock mining landscape around Leadville. A surviving 1882 mine map documents the Morning Star and neighboring Waterloo workings, including shafts and underground development.",
+        "The Morning Star was a distinct mine within the broader Leadville district and should be understood in relation to, but separately from, nearby workings."
+      ],
+      "timeline": [
+        {
+          "year": "1882",
+          "text": "A historic map of the Morning Star and Waterloo mines documented underground workings, including shafts and mapped mine geometry."
+        },
+        {
+          "year": "Late 19th century",
+          "text": "The Morning Star operated within the rapidly expanding Leadville mining district as underground development replaced the earliest placer-focused phase of mining."
+        },
+        {
+          "year": "Later mining era",
+          "text": "The property remained part of the heavily worked Leadville mine landscape as neighboring workings expanded and interconnected across the district."
+        },
+        {
+          "year": "Today",
+          "text": "Historic maps and surviving mine-landscape evidence help identify the Morning Star as a distinct component of the Leadville mining district."
+        }
+      ],
+      "moreHistory": [
+        "The 1882 Morning Star and Waterloo mine map is especially valuable because it records underground workings rather than simply naming the property on a surface map.",
+        "Leadville's mines frequently developed in close proximity, and the Morning Star's workings existed alongside neighboring shafts, claims, and later consolidated operations.",
+        "Where surviving surface remains are fragmentary, historic mine mapping provides an important reference for understanding the scale and orientation of the original workings."
+      ],
+      "mediaNotice": "Historic image not available",
+      "displayImages": [],
+      "features": [
+        {
+          "id": "morning-star-workings",
+          "name": "Underground Workings",
+          "type": "Mine Workings",
+          "confidence": "Confirmed",
+          "note": "Historic mapping documents shafts and underground development associated with the Morning Star property."
+        },
+        {
+          "id": "morning-star-surface",
+          "name": "Surface Mine Landscape",
+          "type": "Mining Landscape",
+          "confidence": "Confirmed",
+          "note": "Mine dumps and disturbed ground preserve the surface expression of the historic workings."
+        }
+      ],
+      "coordinates": {
+        "latitude": 39.2477,
+        "longitude": -106.27609
+      },
+      "legacyIds": [
+        "morning-star"
+      ]
+    },
+    {
+      "id": "CO-LAKE-NEW-MONARCH",
+      "name": "New Monarch Mine",
+      "location": "Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "The New Monarch was a substantial Leadville mine whose surviving ore house remains one of the more recognizable industrial remnants in the district. The property formed part of the broader Evans Gulch–Stumptown mining landscape.",
+        "Historic industrial records also connect New Monarch ore with large regional smelting operations, illustrating how Leadville mines fed processing plants well beyond the immediate mine site."
+      ],
+      "timeline": [
+        {
+          "year": "Mining era",
+          "text": "The New Monarch developed as one of the hard-rock properties in the Leadville district near the Evans Gulch and Stumptown mining areas."
+        },
+        {
+          "year": "Early 20th century",
+          "text": "New Monarch ore was important enough to be identified as a principal supply source for a major Colorado smelting operation."
+        },
+        {
+          "year": "Later years",
+          "text": "The mine became part of the layered industrial landscape of shafts, ore houses, roads, dumps, and neighboring Leadville workings."
+        },
+        {
+          "year": "Today",
+          "text": "The surviving ore house provides a strong visual reference for identifying the New Monarch site within the historic district."
+        }
+      ],
+      "moreHistory": [
+        "The New Monarch is best interpreted as a mine complex rather than a single isolated structure. Its ore house, workings, dumps, and transportation relationships formed parts of one industrial system.",
+        "The mine's connection with regional smelting demonstrates how ore left the Leadville district for treatment elsewhere, linking individual mines to a larger statewide mining economy.",
+        "The New Monarch formed one distinct operation within the larger Evans Gulch landscape alongside Stumptown, Resurrection, and other nearby mines."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "new-monarch-orehouse",
+          "name": "Ore House",
+          "type": "Ore Handling",
+          "confidence": "Confirmed",
+          "note": "The surviving ore house is a major identifying feature of the historic property."
+        },
+        {
+          "id": "new-monarch-workings",
+          "name": "Mine Workings",
+          "type": "Underground Mine",
+          "confidence": "Confirmed",
+          "note": "The property includes underground mine development associated with the New Monarch operation."
+        },
+        {
+          "id": "new-monarch-dumps",
+          "name": "Waste-Rock & Mine Landscape",
+          "type": "Mining Landscape",
+          "confidence": "Confirmed",
+          "note": "Surface disturbance and waste rock record the physical extent of mining activity."
+        }
+      ],
+      "coordinates": {
+        "latitude": 39.253611,
+        "longitude": -106.227101
+      },
+      "legacyIds": [
+        "new-monarch"
+      ],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-PRINTER-BOY",
+      "name": "Printer Boy Mine",
+      "location": "Printer Boy Hill / Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "The Printer Boy was one of the earliest important underground gold mines in the Leadville area. Its development on Printer Boy Hill helped mark the transition from the district's first placer-gold rush to hard-rock mining.",
+        "Historical accounts distinguish Upper and Lower Printer Boy workings and describe unusually rich gold-bearing ore, including pyrite, galena, and copper-bearing minerals."
+      ],
+      "timeline": [
+        {
+          "year": "1860s",
+          "text": "The Printer Boy became an early hard-rock gold property as miners shifted from declining placer deposits toward underground lode mining."
+        },
+        {
+          "year": "1868",
+          "text": "Historical accounts record a major change in ownership and distinguish the Upper and Lower Printer Boy workings."
+        },
+        {
+          "year": "Late 19th century",
+          "text": "Additional shafts and drifts were developed as miners pursued high-grade gold-bearing ore on Printer Boy Hill."
+        },
+        {
+          "year": "Historic documentation",
+          "text": "USGS and later mining-history studies preserved detailed descriptions of the mine's geology, workings, and reported high-grade specimens."
+        }
+      ],
+      "moreHistory": [
+        "Printer Boy Hill lies near the southern end of the Leadville gold belt, where gold mineralization is closely associated with bismuth-bearing mineralization.",
+        "Historical descriptions report both sulfide replacement and vein-style mineralization and note gold occurring with pyrite and galena.",
+        "Some spectacular nineteenth-century production and specimen claims are difficult to independently verify today and are best understood as historical reports rather than unquestioned fact.",
+        "The Upper and Lower Printer Boy workings were related parts of the same historic property, distinct from neighboring mines on Printer Boy Hill."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "printer-boy-upper",
+          "name": "Upper Printer Boy Workings",
+          "type": "Mine Workings",
+          "confidence": "Confirmed",
+          "note": "Historic records distinguish upper workings within the Printer Boy property."
+        },
+        {
+          "id": "printer-boy-lower",
+          "name": "Lower Printer Boy Workings",
+          "type": "Mine Workings",
+          "confidence": "Confirmed",
+          "note": "Historic records separately identify the lower portion of the property."
+        },
+        {
+          "id": "printer-boy-hill",
+          "name": "Printer Boy Hill Mining Landscape",
+          "type": "Mining Landscape",
+          "confidence": "Confirmed",
+          "note": "The surrounding hill contains the broader geologic and mining context for the mine."
+        }
+      ],
+      "production": {
+        "summary": "The Printer Boy was historically known for gold-rich ore, with silver and base-metal minerals also present in the deposit.",
+        "commodities": [
+          {
+            "name": "Gold"
+          },
+          {
+            "name": "Silver"
+          },
+          {
+            "name": "Lead"
+          },
+          {
+            "name": "Copper"
+          }
+        ]
+      },
+      "coordinates": {
+        "latitude": 39.22946,
+        "longitude": -106.24818
+      },
+      "legacyIds": [
+        "printer-boy"
+      ],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-YAK-TUNNEL",
+      "name": "Yak Tunnel",
+      "location": "California Gulch / Leadville",
+      "county": "Lake County",
+      "category": "Mining Infrastructure / Environmental History",
+      "componentType": "Mine Drainage & Exploration Tunnel",
+      "overview": [
+        "The Yak Tunnel was a major drainage and exploration tunnel built to dewater deep mine workings in the southern Leadville mining district. Driven eastward from California Gulch, it eventually connected with a large network of mines across Iron Hill, Breece Hill, the Ibex area, and the Resurrection workings.",
+        "Its long mining role was followed by an equally important environmental history as contaminated mine drainage from the tunnel became a major focus of the California Gulch cleanup."
+      ],
+      "timeline": [
+        {
+          "year": "1895",
+          "text": "A. A. Blow began driving the Yak Tunnel to drain mines in the Iron Hill area."
+        },
+        {
+          "year": "1895–1912",
+          "text": "The tunnel was repeatedly extended as successful drainage opened access toward Breece Hill, the Ibex area, and Resurrection mines."
+        },
+        {
+          "year": "1912",
+          "text": "A major phase of extension reached the Resurrection No. 2 Mine; the tunnel system and principal laterals exceeded four miles."
+        },
+        {
+          "year": "1923",
+          "text": "Later work completed the final major extension of the historic tunnel system."
+        },
+        {
+          "year": "Late 20th century",
+          "text": "Metal-rich drainage from the Yak Tunnel became a major environmental concern within the California Gulch Superfund site."
+        },
+        {
+          "year": "1990s onward",
+          "text": "Treatment and cleanup measures substantially reduced the metal load entering California Gulch and the Arkansas River system."
+        }
+      ],
+      "moreHistory": [
+        "Drainage tunnels allowed mines to use gravity to remove groundwater that otherwise had to be pumped from increasingly deep underground workings.",
+        "The Yak became more than a simple drain. Its main tunnel, laterals, and connections tied together numerous mines and also supported exploration and development across a large portion of the district.",
+        "Federal environmental studies later identified the Yak Tunnel as a major pathway for acidic, metal-bearing mine water entering California Gulch. Its history therefore links nineteenth-century mining engineering with twentieth-century mine-water remediation.",
+        "The Yak Tunnel functioned as shared mining infrastructure rather than as a single mine because its historical role depended on connections to many separate properties."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "yak-portal",
+          "name": "Yak Tunnel Portal",
+          "type": "Drainage Tunnel",
+          "confidence": "Confirmed",
+          "note": "The California Gulch portal is the surface outlet of the historic tunnel system."
+        },
+        {
+          "id": "yak-main",
+          "name": "Main Tunnel & Laterals",
+          "type": "Underground Infrastructure",
+          "confidence": "Confirmed",
+          "note": "The tunnel and laterals connected multiple mining areas across the Leadville district."
+        },
+        {
+          "id": "yak-treatment",
+          "name": "Mine-Water Treatment System",
+          "type": "Environmental Infrastructure",
+          "confidence": "Confirmed",
+          "note": "Later treatment infrastructure addresses contaminated drainage associated with the historic tunnel."
+        }
+      ],
+      "coordinates": {
+        "latitude": 39.23016,
+        "longitude": -106.2477
+      },
+      "legacyIds": [
+        "yak-tunnel"
+      ],
+      "mediaNotice": "Historic image not available"
+    }
+  ],
+  "identificationSites": [
+    {
+      "id": "CO-LAKE-CHAMPION",
+      "name": "Champion Mill",
+      "location": "Halfmoon Valley / Leadville",
+      "county": "Lake County",
+      "category": "Mill",
+      "componentType": "Mill",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "Champion Mill was the processing end of the Mount Champion mining system west of Leadville. Ore moved from the high-elevation mine to the mill by a long aerial tramway, making the surviving mill, tram towers, and upper mine workings parts of one connected industrial landscape.",
+        "Period mining literature describes the mill at roughly 12,000 feet elevation and the mine above 13,000 feet. The operation treated gold-bearing sulphide ore that could also carry silver, copper, and lead values before concentrates or selected high-grade ore were sent toward Leadville smelters."
+      ],
+      "timeline": [
+        {
+          "year": "1881",
+          "text": "The Mount Champion property was discovered, although substantial development came later."
+        },
+        {
+          "year": "1907",
+          "text": "The Mount Champion Mining Company acquired the property and began major development of the mine, mill, and aerial-tram system."
+        },
+        {
+          "year": "1910",
+          "text": "The Mount Champion Mining Company was incorporated during the period when the operation was being developed into a substantial mine-and-mill complex."
+        },
+        {
+          "year": "1912–1918",
+          "text": "The operation entered its principal production period. The aerial tram carried ore from the high mine workings to the mill in Halfmoon Valley."
+        },
+        {
+          "year": "1917",
+          "text": "Engineering and Mining Journal published a technical account of practice at the Mount Champion mill, documenting the unusually high-elevation operating conditions and the connected mine-to-mill tramway."
+        },
+        {
+          "year": "1918–1919",
+          "text": "Regular production ended as transportation and operating economics made continued shipment and treatment unprofitable."
+        },
+        {
+          "year": "1937–1940",
+          "text": "The property saw a brief later reopening before shutting down again."
+        },
+        {
+          "year": "Today",
+          "text": "The large mill structure and surviving pieces of the aerial-tram landscape remain strong visual evidence of how the remote mine and processing plant functioned together."
+        }
+      ],
+      "moreHistory": [
+        "The Champion site is best understood as a system rather than as one building. The mine occupied the high slopes of Mount Champion, while the mill stood far below in Halfmoon Valley. An aerial tram roughly 6,100 feet long linked the two, allowing ore to move across terrain that would have made wagon haulage extremely difficult.",
+        "A Mining History Association account describes the underground mine as three drift tunnels totaling about 10,000 feet of workings, with roughly thirty men employed underground during the principal operating period. The same account describes sixteen men working at the mill.",
+        "The mill used a multi-stage crushing and concentration process. Documented equipment included jaw and disc crushers, screens, a ball mill and tube mill, classifiers, amalgamating copper plates, a thickener, concentrating tables, an elevator, and additional gravity-concentration equipment. This machinery explains why the surviving structure was so large: it housed a sequence of processing steps rather than a single crusher.",
+        "Ore from the Mount Champion workings contained values chiefly in sulphides. Gold was important, with smaller silver values and occasional copper and lead. Selected high-grade ore could bypass some milling and be shipped toward Leadville smelters, while lower-grade material was concentrated at the mill before shipment.",
+        "The tramway is one of the defining features of the Champion complex. Historical descriptions note that it crossed very high terrain and used numerous wooden towers to carry buckets between the mine and mill. The surviving towers and tram-related remains are therefore not separate curiosities; they are evidence of the transportation system that made the mill practical.",
+        "Champion also illustrates the economic limits of remote high-country mining. Even with mechanized milling and aerial transport, the operation depended on the cost of moving ore and concentrates onward to Leadville. When those costs outweighed the value recovered, the main production period ended.",
+        "The mill and upper Champion Mine workings were distinct components of the same historic operation. Together, the mine, tramway, and mill illustrate the full path from extraction to processing."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.1375,
+        "longitude": -106.503889
+      },
+      "mediaNotice": "Historic image not available",
+      "legacyIds": [
+        "champion"
+      ]
+    },
+    {
+      "id": "CO-LAKE-LITTLE-JONNY",
+      "name": "Ibex / Little Jonny Mine",
+      "location": "Breece Hill / Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Little Jonny was a major gold-producing working within the broader Ibex property on Breece Hill in the Leadville district.",
+        "The Little Jonny working formed part of the broader Ibex property, while retaining its own distinct workings and surface features."
+      ],
+      "timeline": [
+        {
+          "year": "1890s",
+          "text": "Major development expanded the Ibex / Little Jonny workings during Leadville’s later gold-producing period."
+        },
+        {
+          "year": "1893–1923",
+          "text": "USGS historical mapping records substantial gold production from the Ibex / Little Jonny operation during this period."
+        },
+        {
+          "year": "1898",
+          "text": "Historical records document a Denver & Rio Grande railroad connection serving the Ibex operation."
+        },
+        {
+          "year": "20th century",
+          "text": "The property remained part of the heavily developed Breece Hill mining landscape."
+        }
+      ],
+      "moreHistory": [
+        "USGS and Colorado mining-history sources identify the Little Jonny as a significant gold-development component of the Ibex property.",
+        "The property is also associated with J.J. Brown management in the broader historical record, linking the industrial history of Breece Hill with well-known Leadville personalities.",
+        "The 1898 railroad connection illustrates how large mine properties depended on transportation infrastructure for ore, supplies, and equipment."
+      ],
+      "displayImages": [],
+      "production": {
+        "summary": "Historical federal sources describe substantial gold production from the Ibex / Little Jonny operation between 1893 and 1923, although surviving sources do not support a single definitive lifetime total.",
+        "commodities": [
+          {
+            "name": "Gold",
+            "period": "Substantial production documented for 1893–1923"
+          }
+        ],
+        "note": "Published historical sources vary in how production was reported, so no single lifetime total is presented here."
+      },
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-MAID-OF-ERIN",
+      "name": "Maid of Erin Mine",
+      "location": "Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Maid of Erin was one of the named mines in Leadville’s dense Carbonate Hill mining landscape. Its history overlaps with neighboring properties, but it operated as a distinct mine.",
+        "The property is useful for understanding how Leadville’s mines changed through operating, leasing, dump-processing, and later environmental-remediation periods."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "The Maid of Erin operated as part of the heavily developed Carbonate Hill district."
+        },
+        {
+          "year": "Later operations",
+          "text": "Historical property records document leasing and later processing of mine-dump material."
+        },
+        {
+          "year": "1997",
+          "text": "EPA historic-property documentation records consolidation and remediation of waste associated with Maid of Erin, Wolftone, and Mahala areas."
+        },
+        {
+          "year": "Today",
+          "text": "The site is interpreted as a distinct mine component within a tightly packed historic and remediated mining landscape."
+        }
+      ],
+      "moreHistory": [
+        "EPA California Gulch documentation provides unusually useful information because it preserves both operating history and later changes to the physical mining landscape.",
+        "Maid of Erin should not be merged with Wolftone or other nearby Carbonate Hill properties simply because their histories and remediation areas overlap.",
+        "USGS Leadville district studies provide the larger geologic and ore-deposit framework needed to understand why so many mines were concentrated in this area."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-MATCHLESS",
+      "name": "Matchless Mine",
+      "location": "Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Matchless Mine is one of Leadville’s best-known historic silver properties, important both for its role in the mining industry and for its association with Horace Tabor and Elizabeth “Baby Doe” Tabor.",
+        "The surviving complex preserves recognizable mine infrastructure that helps explain underground extraction, surface hoisting, ore handling, and support functions."
+      ],
+      "timeline": [
+        {
+          "year": "1879",
+          "text": "The Matchless property became associated with Horace Tabor during Leadville’s rapid silver boom."
+        },
+        {
+          "year": "1880s",
+          "text": "The mine operated during Leadville’s major silver-production era and became part of Tabor’s mining fortune."
+        },
+        {
+          "year": "1893",
+          "text": "The national silver crisis badly damaged Leadville’s silver economy and Tabor’s finances."
+        },
+        {
+          "year": "1899",
+          "text": "Horace Tabor died after the collapse of much of his former fortune."
+        },
+        {
+          "year": "1901–1935",
+          "text": "Baby Doe Tabor remained closely associated with the property."
+        },
+        {
+          "year": "Today",
+          "text": "Surviving mine buildings and equipment make the Matchless one of the most recognizable historic mining complexes in Leadville."
+        }
+      ],
+      "moreHistory": [
+        "History Colorado recognizes the Matchless for both industrial and social significance.",
+        "The complex includes the No. 6 shaft area, headframe and hoisting infrastructure, a powder magazine, cabin, and other surface features.",
+        "The Tabor story turned the mine into a symbol of both the extraordinary wealth and the volatility of Colorado’s silver era.",
+        "Baby Doe’s long association with the property helped preserve the Matchless in public memory well after the mine’s peak industrial period."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "match-shaft",
+          "name": "No. 6 Shaft and Headframe Area",
+          "type": "Mine Working",
+          "confidence": "Confirmed",
+          "note": "A central surviving component of the surface complex."
+        },
+        {
+          "id": "match-hoist",
+          "name": "Hoisting Infrastructure",
+          "type": "Mine Machinery / Structure",
+          "confidence": "Confirmed",
+          "note": "The hoisting system illustrates movement between surface and underground workings."
+        },
+        {
+          "id": "match-powder",
+          "name": "Powder Magazine",
+          "type": "Support Structure",
+          "confidence": "Confirmed",
+          "note": "A distinct support component of mine operations."
+        },
+        {
+          "id": "match-cabin",
+          "name": "Historic Cabin",
+          "type": "Support / Residential Structure",
+          "confidence": "Confirmed",
+          "note": "The cabin contributes to the social history of the property and its Tabor association."
+        }
+      ],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-ORO-CITY",
+      "name": "Oro City & California Gulch Placer Diggings",
+      "location": "Leadville / California Gulch",
+      "county": "Lake County",
+      "category": "Mining Camp / Placer",
+      "componentType": "Camp / Placer",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "Oro City and the California Gulch placer diggings represent the early gold-rush phase of the Leadville story, before the district became famous for later hard-rock silver, lead, zinc, and gold mining.",
+        "Old Oro City, later settlement components, and the surrounding placer-mining landscape represent related but distinct parts of California Gulch history."
+      ],
+      "timeline": [
+        {
+          "year": "1860",
+          "text": "Gold discoveries in California Gulch triggered rapid placer mining and settlement in the Leadville area."
+        },
+        {
+          "year": "Early placer era",
+          "text": "Oro City developed around the booming gulch while miners worked stream gravels and other placer deposits."
+        },
+        {
+          "year": "Later 19th century",
+          "text": "As easy placer deposits declined, the district’s economic focus shifted toward hard-rock mining and new communities."
+        },
+        {
+          "year": "1878",
+          "text": "W.G. Chamberlain photographed hydraulic mining in California Gulch, preserving a rights-cleared image of the placer landscape."
+        }
+      ],
+      "moreHistory": [
+        "USGS historic mapping distinguishes multiple Oro City place references from the broader placer landscape, showing that the settlement and mining ground changed over time.",
+        "The California Gulch placer story is important because it explains the first major mining rush that preceded Leadville’s better-known carbonate-ore boom.",
+        "The cleared 1878 Library of Congress stereograph provides direct historical evidence of hydraulic placer mining in California Gulch."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-WOLFTONE",
+      "name": "Wolftone Mine",
+      "location": "Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Wolftone was an important Carbonate Hill mine whose history extended beyond Leadville’s classic silver era into the later zinc economy.",
+        "It was connected historically with the broader A.M.W. operating context but remains a distinct mine from Maid of Erin, Adams, and neighboring properties."
+      ],
+      "timeline": [
+        {
+          "year": "19th century",
+          "text": "The Wolftone developed as part of Leadville’s densely mined Carbonate Hill area."
+        },
+        {
+          "year": "1899",
+          "text": "EPA historical documentation records renewed operation after the mine was unwatered."
+        },
+        {
+          "year": "Early 20th century",
+          "text": "The property became important in Leadville’s shift toward zinc production."
+        },
+        {
+          "year": "1940s",
+          "text": "Historical records document reprocessing of mine-dump material."
+        },
+        {
+          "year": "1997",
+          "text": "Waste from Wolftone and nearby mine areas was consolidated as part of California Gulch remediation work."
+        }
+      ],
+      "moreHistory": [
+        "The Wolftone illustrates how one mine can pass through several industrial phases: underground production, changes in target commodities, dump reprocessing, and environmental remediation.",
+        "EPA records are especially useful for reconstructing both the operational history and later physical changes to the property.",
+        "USGS district studies provide the broader geological framework for the lead, silver, and zinc ores that shaped Carbonate Hill mining."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-BLACK-CLOUD",
+      "name": "Black Cloud Mine / Leadville Unit / Irene Shaft",
+      "location": "Iowa Gulch / Leadville",
+      "county": "Lake County",
+      "category": "Mine / Mining Complex",
+      "componentType": "Major Underground Lead-Zinc-Silver Mine / Shaft & Flotation-Mill System",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Black Cloud, also known as the Leadville Unit, was a major modern-era underground lead-zinc-silver operation in the Leadville mining district. Its surface and underground system included the Irene Shaft, mill and tailings infrastructure, and connections with older workings in the district.",
+        "The Black Cloud is best understood as a mine complex whose history spans underground workings, shaft facilities, ore processing, tailings, and later environmental management."
+      ],
+      "timeline": [
+        {
+          "year": "1971",
+          "text": "Production began at the Black Cloud / Leadville Unit during a later phase of large-scale mining in the Leadville district."
+        },
+        {
+          "year": "Late 20th century",
+          "text": "The operation worked lead-zinc-silver ore through an extensive underground and surface industrial system associated with the Irene Shaft."
+        },
+        {
+          "year": "1999",
+          "text": "The Black Cloud Mine closed after nearly three decades of modern production."
+        },
+        {
+          "year": "Today",
+          "text": "The remaining industrial landscape is useful for identifying the scale and form of later Leadville mining compared with nineteenth-century properties."
+        }
+      ],
+      "moreHistory": [
+        "Federal and mining-record sources identify Black Cloud Mine with the Leadville Unit and Irene Shaft. The operation also intersected or connected with older Leadville workings, illustrating how later mines reused and expanded an already complex underground landscape.",
+        "The modern tailings impoundment and related surface features should be interpreted as components of the larger mine complex, not as the whole mine."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "black-cloud-irene",
+          "name": "Irene Shaft / Leadville Unit surface plant",
+          "type": "Mine Shaft / Surface Plant",
+          "confidence": "Confirmed",
+          "note": "The Irene Shaft is a principal identified component of the Black Cloud / Leadville Unit operation."
+        },
+        {
+          "id": "black-cloud-tailings",
+          "name": "Tailings and processing landscape",
+          "type": "Mine / Mill Infrastructure",
+          "confidence": "Confirmed",
+          "note": "Tailings and processing infrastructure form part of the larger Black Cloud industrial complex."
+        }
+      ],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-CLIMAX-MOLY",
+      "name": "Climax Molybdenum Mine / Climax Mine",
+      "location": "Fremont Pass",
+      "county": "Lake County",
+      "category": "Mine / Mill / Mining Complex",
+      "componentType": "World-Class Molybdenum Mine / Underground & Open-Pit Complex",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "Climax is one of the world’s best-known molybdenum deposits and one of Colorado’s most important twentieth-century mining operations. The high-elevation complex at Fremont Pass evolved from underground mining into a very large open-pit and milling operation.",
+        "The site is especially useful for showing how mining technology, scale, and surface appearance changed from early underground development to modern bulk mining and flotation processing."
+      ],
+      "timeline": [
+        {
+          "year": "1879",
+          "text": "Claims were staked on Bartlett Mountain for mineralization that was later recognized as molybdenum ore."
+        },
+        {
+          "year": "1917–1918",
+          "text": "Large-scale development accelerated during World War I as demand for molybdenum increased."
+        },
+        {
+          "year": "1919",
+          "text": "Production was suspended after wartime demand collapsed."
+        },
+        {
+          "year": "1924",
+          "text": "Production resumed after metallurgical improvements and new markets were developed."
+        },
+        {
+          "year": "1930",
+          "text": "Climax was operating at roughly 1,000–1,200 tons of ore per day and had become one of Colorado’s largest mining operations."
+        },
+        {
+          "year": "20th century",
+          "text": "The mine expanded through extensive underground workings and later transitioned to large-scale open-pit mining and modern milling."
+        },
+        {
+          "year": "2012",
+          "text": "The modern Climax operation reopened after a closure period."
+        }
+      ],
+      "moreHistory": [
+        "Molybdenite is the principal ore mineral at Climax, and the deposit became the type example for the rare class of Climax-type porphyry molybdenum deposits.",
+        "Historic components include major underground levels and tunnels, hoisting and haulage facilities, crushing and flotation systems, and later open-pit, concentrator, and tailings landscapes. These should be kept as linked components rather than treated as one building or portal.",
+        "Historic production figures should remain tied to the specific years and sources that reported them rather than being extrapolated into an unsupported lifetime total."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "climax-underground",
+          "name": "Historic Underground Mine System",
+          "type": "Underground Workings",
+          "confidence": "Confirmed",
+          "note": "Climax developed a very large underground mine before the later open-pit phase."
+        },
+        {
+          "id": "climax-openpit",
+          "name": "Open-Pit Mine and Modern Mill",
+          "type": "Mine / Mill Complex",
+          "confidence": "Confirmed",
+          "note": "The modern operation includes the open pit, concentrator, tailings and related industrial infrastructure."
+        }
+      ],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-LEADVILLE-DRAINAGE-TUNNEL",
+      "name": "Leadville Mine Drainage Tunnel / LMDT",
+      "location": "Leadville mining district",
+      "county": "Lake County",
+      "category": "Mining Infrastructure / Federal Engineering / Environmental History",
+      "componentType": "Two-Mile Mine-Drainage Tunnel / Treatment-Plant System",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Leadville Mine Drainage Tunnel is a major federal engineering feature built beneath the Leadville mining district to lower groundwater in underground workings and improve access to mineral reserves. It later became a central part of the district’s water-treatment and environmental history.",
+        "The tunnel, outlet, treatment plant, connected mine workings, and monitoring locations are related components and should not be treated as a single visible structure."
+      ],
+      "timeline": [
+        {
+          "year": "1943–1945",
+          "text": "The U.S. Bureau of Mines constructed the first section of the tunnel during World War II to drain mine workings and improve mineral access."
+        },
+        {
+          "year": "1950–1952",
+          "text": "The tunnel was extended during renewed Korean War demand for metals."
+        },
+        {
+          "year": "1959",
+          "text": "The U.S. Bureau of Reclamation acquired the tunnel."
+        },
+        {
+          "year": "1992",
+          "text": "A modern treatment plant was commissioned to treat metal-bearing tunnel discharge before it entered the Arkansas River headwaters."
+        },
+        {
+          "year": "Today",
+          "text": "The tunnel and treatment system remain important parts of the environmental and engineering history of the Leadville district."
+        }
+      ],
+      "moreHistory": [
+        "Federal sources describe the LMDT as approximately two miles long. USGS studies documented substantial lowering of mine-water levels after tunnel drainage began.",
+        "The tunnel was later considered as a possible water source for the Fryingpan-Arkansas Project, but existing water-rights claims prevented that use.",
+        "Because mine drainage contains dissolved metals, treatment of the discharge became a long-term federal responsibility and an important chapter in the post-mining history of the district."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "lmdt-tunnel",
+          "name": "Leadville Mine Drainage Tunnel",
+          "type": "Mine Drainage / Engineering",
+          "confidence": "Confirmed",
+          "note": "The underground tunnel is the principal drainage feature beneath the historic mining district."
+        },
+        {
+          "id": "lmdt-treatment",
+          "name": "Water Treatment System",
+          "type": "Environmental Infrastructure",
+          "confidence": "Confirmed",
+          "note": "The modern treatment system addresses metal-bearing drainage from the historic mine network."
+        }
+      ],
+      "coordinates": {
+        "latitude": 39.2747115,
+        "longitude": -106.2880795
+      },
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-STUMPTOWN",
+      "name": "Stumptown Mining Camp",
+      "location": "South Evans Gulch / Leadville",
+      "county": "Lake County",
+      "category": "Mining Camp",
+      "componentType": "Mining Camp / Mine Cluster",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "Stumptown was a mining camp in South Evans Gulch that grew around the mines east of Leadville. Mining History Association material traces its beginning to the 1879 discovery of the Little Ellen Mine and identifies the settlement as an active mining community into the twentieth century.",
+        "The camp is best understood as a cluster: homes and camp structures were surrounded by individual mines including the Little Ellen, Ollie Reed, Favorite, Silent Friend, and nearby tunnel workings."
+      ],
+      "timeline": [
+        {
+          "year": "1879",
+          "text": "Discovery of the Little Ellen Mine helped start the settlement first known as South Evans and later as Stumptown."
+        },
+        {
+          "year": "1880s–1890s",
+          "text": "The camp developed alongside a dense group of mines in South Evans Gulch during Leadville’s major mining era."
+        },
+        {
+          "year": "Early 1900s",
+          "text": "Mining continued around the camp, with several neighboring properties remaining active as ore types and markets changed."
+        },
+        {
+          "year": "1910–1924",
+          "text": "The nearby Silent Friend Mine was an important producer of oxidized zinc ores during this period."
+        },
+        {
+          "year": "By 1930s",
+          "text": "Long-term mining activity declined and the settlement was largely abandoned, while mine ruins and landscape traces remained."
+        },
+        {
+          "year": "Today",
+          "text": "Stumptown survives primarily as a historic mining landscape where camp history and multiple mine sites overlap."
+        }
+      ],
+      "moreHistory": [
+        "Stumptown illustrates how Leadville’s mining camps often formed directly beside groups of producing properties rather than as isolated towns. Workers could live near the mines that employed them, and the camp’s identity was tied closely to activity in South Evans Gulch.",
+        "The Little Ellen discovery is central to the camp’s origin. Later historical interpretation links Stumptown with the Ollie Reed, Favorite, Silent Friend, Little Ellen, Little Bob, and St. Louis Tunnel areas, showing how many separate workings contributed to one community landscape.",
+        "The camp also has a well-known social-history connection: Margaret “Molly” Brown and her husband J. J. Brown lived in the Stumptown area early in their marriage before the family became nationally prominent.",
+        "Stumptown was a mining camp surrounded by numerous individual mines and industrial sites. Those neighboring workings had their own histories even though they shared the same South Evans Gulch landscape."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-TUCSON",
+      "name": "Tucson Mine Ruins",
+      "location": "Iron Hill / Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Underground Mine / Shaft Complex",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Tucson Mine was a substantial Iron Hill operation in the Leadville district. Historic accounts describe deep shaft development and later mining of silver, lead, zinc, and zinc-carbonate ores, while surviving heavy foundations and ore-handling remains indicate the scale of the surface plant.",
+        "The Tucson should be interpreted as one mine within the broader Iron Silver Mining Company landscape, not as a label for every nearby Iron Hill working."
+      ],
+      "timeline": [
+        {
+          "year": "Late 1800s",
+          "text": "The Tucson became one of the developed Iron Hill workings as Leadville operators expanded underground through shafts and inclines."
+        },
+        {
+          "year": "Early 1900s",
+          "text": "The Tucson shaft reached roughly 1,100 feet, reflecting substantial underground development."
+        },
+        {
+          "year": "1910",
+          "text": "Historic mining literature reported very high-grade silver assays from lower levels of the mine."
+        },
+        {
+          "year": "1912–1918",
+          "text": "Considerable mining continued, with lead- and zinc-sulfide ores forming an important part of production."
+        },
+        {
+          "year": "1918–1926",
+          "text": "Several attempts were made to reopen or sustain the property, but none produced a lasting revival."
+        },
+        {
+          "year": "1940",
+          "text": "The upper part of the shaft was reopened to reach a remaining zinc-carbonate, or smithsonite, ore body."
+        },
+        {
+          "year": "Today",
+          "text": "Large ore-bin remnants, dumps, and heavy hoist foundations remain useful identification clues for the former mine complex."
+        }
+      ],
+      "moreHistory": [
+        "Iron Hill was one of Leadville’s major mining zones. The Tucson developed within a dense group of Iron Silver Mining Company properties where separate shafts and claims tapped related but locally complex ore bodies.",
+        "Historical descriptions of the Tucson emphasize the depth of the shaft and the changing character of the ore. Silver-rich material was reported from deeper levels, while lead and zinc sulfides became important during the 1910s.",
+        "The 1940 reopening targeted smithsonite, a zinc carbonate left from earlier mining. That episode shows how operators repeatedly reconsidered old workings when metal prices, processing methods, or knowledge of remaining ore changed.",
+        "Surviving surface features are especially useful for identification. Large ore-storage remnants and substantial concrete hoist foundations indicate that Tucson was not a minor prospect; it required heavy equipment to move ore and workers through a deep shaft system.",
+        "Nearby Iron Hill mines sometimes shared ownership or underground relationships, but the surviving ruins in the area belonged to several distinct operations rather than to the Tucson Mine alone."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-TWIN-LAKES-DISTRICT",
+      "name": "Twin Lakes Historic District / Historic Twin Lakes Village",
+      "location": "Twin Lakes",
+      "county": "Lake County",
+      "category": "Historic Village / Mining-Era Community",
+      "componentType": "Late-19th-Century Mountain Village / Historic District",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "Twin Lakes Historic District preserves one of Lake County’s best surviving late-nineteenth-century mountain villages. Its compact collection of historic buildings reflects the community that served travelers, residents, miners, and visitors moving through the Upper Arkansas and Independence Pass region.",
+        "The historic village of Twin Lakes developed separately from the Interlaken Resort complex across the lake and represents its own community landscape."
+      ],
+      "timeline": [
+        {
+          "year": "1860s–1870s",
+          "text": "Twin Lakes was already recognized as a mountain destination and transportation setting during the early mining era; surviving historic photography documents the landscape by the 1870s."
+        },
+        {
+          "year": "1880s–1890s",
+          "text": "Most principal contributing buildings associated with the historic district date from the final two decades of the nineteenth century."
+        },
+        {
+          "year": "Mining era",
+          "text": "The village served a regional network of mining, transportation, lodging, commerce, fishing, and mountain travel rather than functioning as a single mine camp."
+        },
+        {
+          "year": "Later 1900s",
+          "text": "The village retained enough historic fabric to preserve a recognizable nineteenth-century mountain-community character."
+        },
+        {
+          "year": "Today",
+          "text": "The historic district remains identifiable through its concentration of log buildings, gabled roofs, village-scale setting, and relationship to Twin Lakes and the surrounding mountains."
+        }
+      ],
+      "moreHistory": [
+        "History Colorado describes Twin Lakes as one of the best remaining examples of a late-1800s Colorado mountain village. Many of the principal contributing buildings are log construction with gabled roofs, giving the district a coherent visual character.",
+        "Twin Lakes occupied an important position between the Upper Arkansas Valley and routes crossing the high country. Its history therefore mixes mining-era transportation and commerce with lodging, tourism, fishing, and community life.",
+        "Early landscape photographs are valuable evidence because they show that Twin Lakes had already become a recognized destination during the nineteenth century. They provide context for the village even when a photograph does not identify one specific surviving building.",
+        "Interlaken Resort is historically related but physically and functionally separate. Keeping the two records distinct prevents the resort’s development history from being incorrectly assigned to the Twin Lakes village.",
+        "The district is best understood as a historic community made up of many individual houses, commercial buildings, streets, and civic features."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.0820493,
+        "longitude": -106.38228
+      },
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-LAKE-MORNING-STAR",
+      "name": "Morning Star Mine",
+      "location": "Leadville",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "The Morning Star was part of the densely developed hard-rock mining landscape around Leadville. A surviving 1882 mine map documents the Morning Star and neighboring Waterloo workings, including shafts and underground development.",
+        "The Morning Star was a distinct mine within the broader Leadville district and should be understood in relation to, but separately from, nearby workings."
+      ],
+      "timeline": [
+        {
+          "year": "1882",
+          "text": "A historic map of the Morning Star and Waterloo mines documented underground workings, including shafts and mapped mine geometry."
+        },
+        {
+          "year": "Late 19th century",
+          "text": "The Morning Star operated within the rapidly expanding Leadville mining district as underground development replaced the earliest placer-focused phase of mining."
+        },
+        {
+          "year": "Later mining era",
+          "text": "The property remained part of the heavily worked Leadville mine landscape as neighboring workings expanded and interconnected across the district."
+        },
+        {
+          "year": "Today",
+          "text": "Historic maps and surviving mine-landscape evidence help identify the Morning Star as a distinct component of the Leadville mining district."
+        }
+      ],
+      "moreHistory": [
+        "The 1882 Morning Star and Waterloo mine map is especially valuable because it records underground workings rather than simply naming the property on a surface map.",
+        "Leadville's mines frequently developed in close proximity, and the Morning Star's workings existed alongside neighboring shafts, claims, and later consolidated operations.",
+        "Where surviving surface remains are fragmentary, historic mine mapping provides an important reference for understanding the scale and orientation of the original workings."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "morning-star-workings",
+          "name": "Underground Workings",
+          "type": "Mine Workings",
+          "confidence": "Confirmed",
+          "note": "Historic mapping documents shafts and underground development associated with the Morning Star property."
+        },
+        {
+          "id": "morning-star-surface",
+          "name": "Surface Mine Landscape",
+          "type": "Mining Landscape",
+          "confidence": "Confirmed",
+          "note": "Mine dumps and disturbed ground preserve the surface expression of the historic workings."
+        }
+      ],
+      "coordinates": {
+        "latitude": 39.2477,
+        "longitude": -106.27609
+      },
+      "legacyIds": [
+        "morning-star"
+      ]
+    },
+    {
+      "id": "CO-LAKE-DINERO-MINE",
+      "name": "Dinero Mine & Drainage Tunnel",
+      "location": "Sugar Loaf District / west of Leadville",
+      "county": "Lake County",
+      "category": "Mine / Mining Infrastructure",
+      "componentType": "Silver Mine / Drainage Tunnel",
+      "overview": [
+        "Historic silver mine in the Sugar Loaf mining district west of Leadville. This basic record is available for Scan identification while the full Explore history is still being prepared."
+      ],
+      "coordinates": {
+        "latitude": 39.2511111,
+        "longitude": -106.3811111
+      }
+    },
+    {
+      "id": "CO-LAKE-HAGERMAN-TUNNEL-EAST-PORTAL",
+      "name": "Hagerman Tunnel East Portal",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Railroad Tunnel / Historic Transportation",
+      "componentType": "Adit / Portal",
+      "overview": [
+        "Exterior portal of the historic Hagerman railroad tunnel. This lightweight record supports Scan identification; it does not provide entry or access guidance."
+      ]
+    },
+    {
+      "id": "CO-LAKE-BUSK-IVANHOE-EAST-PORTAL",
+      "name": "Busk–Ivanhoe / Carlton Tunnel East Portal",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Railroad Tunnel / Highway / Water Infrastructure",
+      "componentType": "Adit / Portal",
+      "overview": [
+        "East portal of the historic Busk–Ivanhoe/Carlton Tunnel. This lightweight record supports exterior Scan identification only; tunnel entry is not part of Remnant."
+      ]
+    },
+    {
+      "id": "CO-LAKE-GREENBACK-MINE",
+      "name": "Greenback Mine",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "Historic Greenback Mine in the Leadville mining district. This lightweight record supports Scan identification while deeper Explore content remains optional."
+      ]
+    },
+    {
+      "id": "CO-LAKE-FANNY-RAWLINS",
+      "name": "Fanny Rawlins Mine",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "Historic Fanny Rawlins Mine in the Leadville mining district. This lightweight record supports Scan identification without implying access to mine workings."
+      ]
+    },
+    {
+      "id": "CO-LAKE-ROBERT-EMMET",
+      "name": "Robert Emmet Mine & Shaft",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Mining Infrastructure",
+      "componentType": "Mine / Mining Infrastructure",
+      "overview": [
+        "Historic Robert Emmet mine-and-shaft site in the Leadville district. This lightweight record supports Scan identification of the named mining site."
+      ]
+    },
+    {
+      "id": "CO-LAKE-PYRENEES-HEADFRAME",
+      "name": "Pyrenees Mine Headframe & Hoist Foundations",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Headframe Remains",
+      "componentType": "Headframe",
+      "overview": [
+        "Surviving Pyrenees Mine headframe and hoist-foundation remains. A strong component-level Scan target in the Leadville mining landscape."
+      ]
+    },
+    {
+      "id": "CO-LAKE-COLONEL-SELLERS-3",
+      "name": "Colonel Sellers Mine No. 3 / Accident Shaft Headframe",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Shaft Remains",
+      "componentType": "Headframe",
+      "overview": [
+        "Surviving headframe associated with Colonel Sellers Mine No. 3, also known as the Accident Shaft. Added as a discrete Scan target."
+      ]
+    },
+    {
+      "id": "CO-LAKE-FREE-AMERICA-2",
+      "name": "Free America No. 2 Mine Headframe & Shaft Site",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Shaft Remains",
+      "componentType": "Headframe",
+      "overview": [
+        "Surviving Free America No. 2 headframe and shaft-site remains. Identification only; Remnant does not provide mine-entry guidance."
+      ]
+    },
+    {
+      "id": "CO-LAKE-JULIA-FISK",
+      "name": "Julia Fisk Mine Headframe",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Headframe Remains",
+      "componentType": "Headframe",
+      "overview": [
+        "Surviving Julia Fisk Mine headframe in the Leadville district. Added as a discrete secondary Scan target."
+      ]
+    },
+    {
+      "id": "CO-LAKE-AY-MINE",
+      "name": "A.Y. Mine Cribbing & Surface Remains",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Surface Remains",
+      "componentType": "Mine",
+      "overview": [
+        "A.Y. Mine surface remains and cribbing in the Leadville district. Kept distinct from the nearby Minnie Mine for Scan identification."
+      ]
+    },
+    {
+      "id": "CO-LAKE-CLEAR-GRIT",
+      "name": "Clear Grit Mine Surface Remains",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Surface Remains",
+      "componentType": "Mine",
+      "overview": [
+        "Named Clear Grit Mine surface remains in the Leadville mining landscape. Added as a lightweight Scan-identification record."
+      ]
+    },
+    {
+      "id": "CO-LAKE-DIAMOND-RESURRECTION-SHAFT",
+      "name": "Diamond / Resurrection Mine Shaft Remains",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Shaft Remains",
+      "componentType": "Shaft / Mine",
+      "overview": [
+        "Named shaft remains linked to the Diamond/Resurrection mining system. Added as a component-level Scan record rather than a duplicate Explore parent."
+      ]
+    },
+    {
+      "id": "CO-LAKE-OLLIE-REED",
+      "name": "Ollie Reed Mine Ruins",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Surface Ruins",
+      "componentType": "Mine",
+      "overview": [
+        "Ollie Reed Mine ruins in the Stumptown mining landscape. Added as a small named Scan target linked to the broader district history."
+      ]
+    },
+    {
+      "id": "CO-LAKE-LITTLE-BOB-ST-LOUIS",
+      "name": "Little Bob Mine & St. Louis Tunnel Ruins",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Tunnel Remains",
+      "componentType": "Adit / Portal",
+      "overview": [
+        "Named Little Bob Mine and St. Louis Tunnel ruins in the Stumptown area. Identification only; no tunnel-entry guidance is provided."
+      ]
+    },
+    {
+      "id": "CO-LAKE-MIKADO-MINE",
+      "name": "Mikado Mine Adit & Dump Remains",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Adit Remains",
+      "componentType": "Adit / Portal",
+      "overview": [
+        "Mikado Mine adit-area and dump remains in the Leadville district. Added as a secondary Scan target while component details continue to be refined."
+      ]
+    },
+    {
+      "id": "CO-LAKE-SILVER-SPOON-SHAFT",
+      "name": "Silver Spoon Shaft",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Shaft Remains",
+      "componentType": "Shaft / Mine",
+      "overview": [
+        "Historic Silver Spoon Shaft in the Leadville mining district. Added as a named shaft-level Scan target."
+      ]
+    },
+    {
+      "id": "CO-LAKE-FAMOUS-MINE",
+      "name": "Famous Mine Surface Site",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Surface Remains",
+      "componentType": "Mine",
+      "overview": [
+        "Historic Famous Mine surface site in the Leadville district. Added as a lightweight Scan-identification record."
+      ]
+    },
+    {
+      "id": "CO-LAKE-FAVORITE-MINE",
+      "name": "Favorite Mine Remains",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Surface Remains",
+      "componentType": "Mine",
+      "overview": [
+        "Historic Favorite Mine remains in the Leadville mining landscape. Added for secondary Scan coverage."
+      ]
+    },
+    {
+      "id": "CO-LAKE-LITTLE-ELLEN-INCLINE",
+      "name": "Little Ellen Incline Mine Remains",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Incline Remains",
+      "componentType": "Shaft / Mine",
+      "overview": [
+        "Historic Little Ellen Incline mine remains. Added as a component-level Scan target in the dense Leadville mining landscape."
+      ]
+    },
+    {
+      "id": "CO-LAKE-SILENT-FRIEND",
+      "name": "Silent Friend Mine Remains",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Surface Remains",
+      "componentType": "Mine",
+      "overview": [
+        "Historic Silent Friend Mine remains above the Stumptown area. Added for precise Scan identification."
+      ]
+    },
+    {
+      "id": "CO-LAKE-ELIZA-CLAIM",
+      "name": "Eliza Claim Mine Remnants",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Surface Remains",
+      "componentType": "Mine",
+      "overview": [
+        "Surviving remnants associated with the Eliza Claim. Added as a small physical Scan target in the Leadville district."
+      ]
+    },
+    {
+      "id": "CO-LAKE-GRIFFIN-TUNNEL-3",
+      "name": "Griffin Mine / Griffin Tunnel No. 3",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Tunnel Remains",
+      "componentType": "Adit / Portal",
+      "overview": [
+        "Griffin Mine / Griffin Tunnel No. 3 remains. Identification is exterior-only; Remnant does not provide mine-entry guidance."
+      ]
+    },
+    {
+      "id": "CO-LAKE-WILKES-BARRE-MINE",
+      "name": "Wilkes-Barre Mine / Tunnel Remains",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Tunnel Remains",
+      "componentType": "Adit / Portal",
+      "overview": [
+        "Wilkes-Barre mine and tunnel remains in the St. Kevin Gulch mining landscape. Added as a named Scan target with exterior-only identification."
+      ]
+    },
+    {
+      "id": "CO-LAKE-WRIGHT-SHAFT",
+      "name": "Wright Shaft Headframe",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Headframe Remains",
+      "componentType": "Headframe",
+      "overview": [
+        "Surviving Wright Shaft headframe linked to the Denver City property. Added as a discrete component-level Scan target."
+      ]
+    },
+    {
+      "id": "CO-LAKE-DERRY-MINING-CAMP",
+      "name": "Derry Mining Site Camp / Derry Dredge Site",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mining Camp / Placer Remains",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Historic Derry mining-camp and placer/dredge landscape. Added as a secondary Scan target with potential for later Explore promotion."
+      ]
+    },
+    {
+      "id": "CO-LAKE-ROBERT-E-LEE",
+      "name": "Robert E. Lee Mine Dump & Site",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Surface Remains",
+      "componentType": "Mine",
+      "overview": [
+        "Robert E. Lee Mine dump and surface site in the Leadville district. Added as a visible secondary Scan target."
+      ]
+    },
+    {
+      "id": "CO-LAKE-MINNIE-MINE",
+      "name": "Minnie Mine Cribbing & Surface Remains",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Surface Remains",
+      "componentType": "Mine",
+      "overview": [
+        "Minnie Mine cribbing and surface remains in Lake County. Kept distinct from the nearby A.Y. Mine and from Summit County's Minnie Mine."
+      ]
+    },
+    {
+      "id": "CO-LAKE-ADELAIDE-PARK",
+      "name": "Adelaide Park Mining Townsite",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Ghost Town / Mining Camp",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Historic Adelaide Park mining townsite. Added to Scan now; the site may later merit a fuller Explore page after deeper content work."
+      ]
+    },
+    {
+      "id": "CO-LAKE-CAMP-BIRD-LEADVILLE",
+      "name": "Camp Bird Mine Site (Leadville District)",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Surface Remains",
+      "componentType": "Mine",
+      "overview": [
+        "Lake County's Camp Bird Mine site in the Leadville district. This record is explicitly distinct from the better-known Camp Bird Mine in Ouray County."
+      ]
+    },
+    {
+      "id": "CO-LAKE-CORONADO-MINE",
+      "name": "Coronado Mine Site",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Surface Remains",
+      "componentType": "Mine",
+      "overview": [
+        "Historic Coronado Mine site in the Leadville mining district. Added as a smaller named Scan target."
+      ]
+    },
+    {
+      "id": "CO-LAKE-EVANSVILLE-TOWNSITE",
+      "name": "Evansville Mining Camp Townsite",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Ghost Town / Mining Camp",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Historic Evansville mining-camp townsite near the Leadville mining landscape. Added for Scan identification and possible later Explore promotion."
+      ]
+    },
+    {
+      "id": "CO-LAKE-HARRISON-REDUCTION-WORKS",
+      "name": "Harrison Reduction Works / Smelter Site",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Smelter / Ore Processing",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Historic Harrison Reduction Works / smelter site. Added as an industrial Scan target beyond individual mines and shafts."
+      ]
+    },
+    {
+      "id": "CO-LAKE-MINNIE-PUMP-SHAFT",
+      "name": "Minnie Pump Shaft",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Shaft Remains",
+      "componentType": "Shaft / Mine",
+      "overview": [
+        "Minnie Pump Shaft, a discrete component of the A.Y./Minnie mining complex. Added as a component-level Scan target."
+      ]
+    },
+    {
+      "id": "CO-LAKE-NEW-DISCOVERY-MINE",
+      "name": "New Discovery Mine Site",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Historic Shaft Site",
+      "componentType": "Mine",
+      "overview": [
+        "Historic New Discovery Mine site associated with the Leadville mining landscape. Added as a lightweight identification endpoint."
+      ]
+    },
+    {
+      "id": "CO-LAKE-HOPEMORE-HEADFRAME",
+      "name": "Hopemore Mine Headframe / Shaft Site",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Headframe",
+      "componentType": "Headframe",
+      "overview": [
+        "Visible Hopemore Mine headframe and shaft site. Added as a strong discrete Scan target."
+      ]
+    },
+    {
+      "id": "CO-LAKE-IBEX-ORE-HOUSE",
+      "name": "Ibex Mine Ore House",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Ore House",
+      "componentType": "Mine Building",
+      "overview": [
+        "Preserved Ibex Mine ore house. Added as a component-level Scan target linked to the existing Ibex / Little Jonny Explore site."
+      ]
+    },
+    {
+      "id": "CO-LAKE-IBEX-NO4-SHAFT",
+      "name": "Ibex No. 4 Shaft Hoist House",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Hoist House",
+      "componentType": "Mine Building",
+      "overview": [
+        "Ibex No. 4 Shaft hoist house and surviving hoist. Added as a component-level Scan target linked to the Ibex / Little Jonny parent site."
+      ]
+    },
+    {
+      "id": "CO-LAKE-RESURRECTION-NO2",
+      "name": "Resurrection No. 2 Shaft Site",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Shaft Remains",
+      "componentType": "Shaft / Mine",
+      "overview": [
+        "Capped Resurrection No. 2 shaft site, linked to the Resurrection/Yak/Black Cloud system. Added as a concise component-level Scan record."
+      ]
+    },
+    {
+      "id": "CO-LAKE-LA-PLATA-SMELTER-SLAG",
+      "name": "La Plata / Bi-Metallic Smelter Slag Dump",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Smelter / Industrial Remains",
+      "componentType": "Smelter / Slag",
+      "overview": [
+        "Surviving slag dump associated with the La Plata / Bi-Metallic smelting operation. Added as a distinctive industrial Scan target."
+      ]
+    },
+    {
+      "id": "CO-LAKE-ASARCO-ARKANSAS-VALLEY",
+      "name": "ASARCO Arkansas Valley Smelter Site",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Smelter / Industrial Site",
+      "componentType": "Smelter / Processing",
+      "overview": [
+        "Historic Arkansas Valley smelter site, later associated with ASARCO. Added as an industrial Scan target with potential for future Explore development."
+      ]
+    },
+    {
+      "id": "CO-LAKE-VENIR-MINE",
+      "name": "Venir Mine Site",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Surface Site",
+      "componentType": "Mine",
+      "overview": [
+        "Historic Venir Mine site in the Leadville mining district. Added as a named lightweight Scan record."
+      ]
+    },
+    {
+      "id": "CO-LAKE-ARTY-SNOW-ADIT",
+      "name": "Arty–Snow Adit / Upper Wilkes-Barre Workings",
+      "location": "Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine / Adit Remains",
+      "componentType": "Adit / Portal",
+      "overview": [
+        "Arty–Snow adit / upper Wilkes-Barre workings. Added for exterior Scan identification only; no mine-entry guidance is provided."
+      ]
+    },
+    {
+      "id": "CO-LAKE-DENVER-CITY-MINE",
+      "name": "Denver City Mine",
+      "location": "Fryer Hill / West Point Hill area, Leadville, Lake County, Colorado",
+      "county": "Lake County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "The Denver City Mine is a documented historic Leadville-area underground mine with shaft and tunnel workings. Surviving heritage interpretation associates the recognizable Wright Shaft headframe with the Denver City property, supporting a basic Scan identity."
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-30T22:46:33.011876Z"
+}
