@@ -1,0 +1,81 @@
+name: Bootstrap Remnant Content
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/bootstrap-content.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bootstrap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout content repo
+        uses: actions/checkout@v4
+
+      - name: Pull live index and selected county packs
+        run: |
+          python - <<'PY'
+          import json, os, urllib.request
+
+          INDEX_URL = 'https://drive.usercontent.google.com/download?id=1hH7crzHI2s-bJtRrMAdnNZXva-Pye5CM&export=download&confirm=t'
+          RAW_BASE = 'https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/'
+          selected = {
+              'Summit County': 'summit-county.json',
+              'Lake County': 'lake-county.json',
+              'Clear Creek County': 'clear-creek-county.json',
+          }
+
+          os.makedirs('packs', exist_ok=True)
+          with urllib.request.urlopen(INDEX_URL, timeout=60) as r:
+              index = json.load(r)
+
+          for entry in index.get('packs', []):
+              county = entry.get('county')
+              if county not in selected:
+                  continue
+              filename = selected[county]
+              source = entry['payloadUrl']
+              print(f'Downloading {county} from live Drive payload')
+              urllib.request.urlretrieve(source, os.path.join('packs', filename))
+              entry['payloadUrl'] = RAW_BASE + filename
+
+          index['delivery'] = 'staged-github-pilot'
+          index['githubHostedCounties'] = list(selected)
+          with open('pack-index.json', 'w', encoding='utf-8') as f:
+              json.dump(index, f, indent=2)
+              f.write('\n')
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write('# Remnant Content\n\nPublic phone-delivery payloads only. The Remnant application source, registry, research workflow, and internal data remain private.\n')
+          PY
+
+      - name: Validate payloads
+        run: |
+          python - <<'PY'
+          import json, os
+          idx = json.load(open('pack-index.json', encoding='utf-8'))
+          assert len(idx.get('packs', [])) >= 19
+          for county, filename in {
+              'Summit County':'summit-county.json',
+              'Lake County':'lake-county.json',
+              'Clear Creek County':'clear-creek-county.json',
+          }.items():
+              p = json.load(open(os.path.join('packs', filename), encoding='utf-8'))
+              assert p.get('county') == county
+              assert isinstance(p.get('exploreSites'), list)
+              assert isinstance(p.get('identificationSites'), list)
+              print(county, len(p['exploreSites']), len(p['identificationSites']))
+          PY
+
+      - name: Commit public delivery files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md pack-index.json packs
+          git commit -m 'Seed live Remnant phone content' || exit 0
+          git push
