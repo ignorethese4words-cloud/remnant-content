@@ -13,22 +13,32 @@ function controlledUrl(relPath) {
   return `https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/${relPath.replace(/\\/g, '/')}`;
 }
 
-async function download(url, destination) {
+async function fetchBytes(url) {
   const res = await fetch(url, { headers: { 'User-Agent': 'RemnantControlledMedia/1.0' } });
   if (!res.ok) throw new Error(`Media download failed ${res.status}: ${url}`);
   const bytes = Buffer.from(await res.arrayBuffer());
   if (bytes.length < 1000) throw new Error(`Media download suspiciously small (${bytes.length} bytes): ${url}`);
-  fs.mkdirSync(path.dirname(destination), { recursive: true });
-  fs.writeFileSync(destination, bytes);
+  return bytes;
+}
+
+function sameJson(a, b) {
+  return JSON.stringify(a) === JSON.stringify(b);
 }
 
 const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf8'));
 const index = JSON.parse(fs.readFileSync(INDEX, 'utf8'));
 const changedCounties = new Set();
+let changedMediaFiles = 0;
 
 for (const item of manifest.items || []) {
   const destination = path.join(ROOT, item.controlledPath);
-  await download(item.sourceUrl, destination);
+  const bytes = await fetchBytes(item.sourceUrl);
+  const existingBytes = fs.existsSync(destination) ? fs.readFileSync(destination) : null;
+  if (!existingBytes || !existingBytes.equals(bytes)) {
+    fs.mkdirSync(path.dirname(destination), { recursive: true });
+    fs.writeFileSync(destination, bytes);
+    changedMediaFiles += 1;
+  }
 
   const packPath = path.join(ROOT, 'packs', packFileForCounty(item.county));
   if (!fs.existsSync(packPath)) throw new Error(`Pack not found for ${item.county}: ${packPath}`);
@@ -44,14 +54,19 @@ for (const item of manifest.items || []) {
     source: { uri: url },
     remoteUri: url,
     sourceNote: item.sourceNote,
+    ...(item.credit ? { credit: item.credit } : {}),
   };
 
   const existing = Array.isArray(site.displayImages) ? site.displayImages : [];
   const withoutSame = existing.filter((img) => img?.id !== item.imageId);
-  site.displayImages = [image, ...withoutSame];
-  delete site.mediaNotice;
-  fs.writeFileSync(packPath, JSON.stringify(pack, null, 2) + '\n');
-  changedCounties.add(item.county);
+  const nextImages = [image, ...withoutSame];
+  const siteChanged = !sameJson(existing, nextImages) || site.mediaNotice != null;
+  if (siteChanged) {
+    site.displayImages = nextImages;
+    delete site.mediaNotice;
+    fs.writeFileSync(packPath, JSON.stringify(pack, null, 2) + '\n');
+    changedCounties.add(item.county);
+  }
 }
 
 for (const county of changedCounties) {
@@ -60,13 +75,14 @@ for (const county of changedCounties) {
   entry.version = Number(entry.version || 0) + 1;
   entry.packId = String(entry.packId || '').replace(/-v\d+$/i, '') + `-v${entry.version}`;
 }
-index.updatedAt = new Date().toISOString();
-fs.writeFileSync(INDEX, JSON.stringify(index, null, 2) + '\n');
+if (changedCounties.size) {
+  index.updatedAt = new Date().toISOString();
+  fs.writeFileSync(INDEX, JSON.stringify(index, null, 2) + '\n');
+}
 
-// Global invariant for approved app media: no external live dependency.
 for (const item of manifest.items || []) {
   const expected = controlledUrl(item.controlledPath);
   if (!expected.includes('/remnant-content/main/media/')) throw new Error(`Controlled media URL invariant failed: ${expected}`);
 }
 
-console.log(`CONTROLLED MEDIA PROMOTION COMPLETE — ${manifest.items?.length || 0} images; ${changedCounties.size} county pack(s) bumped.`);
+console.log(`CONTROLLED MEDIA PROMOTION COMPLETE — ${manifest.items?.length || 0} manifest images; ${changedMediaFiles} media file(s) changed; ${changedCounties.size} county pack(s) bumped.`);
