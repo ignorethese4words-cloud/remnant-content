@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "packId": "co-saguache-v4",
+  "county": "Saguache County",
+  "state": "Colorado",
+  "version": 4,
+  "mode": "replace",
+  "updatedAt": "2026-08-27T03:24:11.256623Z",
+  "exploreSites": [],
+  "identificationSites": [
+    {
+      "id": "CO-SAGUACHE-SAGUACHE-FLOUR-MILL",
+      "name": "Saguache Flour Mill",
+      "location": "Saguache, Saguache County, Colorado",
+      "county": "Saguache County",
+      "category": "Flour Mill / Water-Powered Processing",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Saguache Flour Mill is a documented 1873 water-powered grist mill. National Register and History Colorado records support the surviving mill and water-power features as a stable basic Scan identity."
+      ]
+    },
+    {
+      "id": "CO-SAGUACHE-BONANZA-DISTRICT",
+      "name": "Bonanza / Bonanza City Mining District & Townsite",
+      "location": "Bonanza and Kerber Creek area, Saguache County, Colorado",
+      "county": "Saguache County",
+      "category": "Ghost Town / Mining District / Mining Complex",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Bonanza City and the Kerber Creek mining district form a documented historic mining townsite and industrial landscape. Federal and Colorado geologic sources support the district-scale identity as a basic Scan record."
+      ]
+    },
+    {
+      "id": "CO-SAGUACHE-MARSHALL-PASS-RR",
+      "name": "Marshall Pass D&RG / D&RGW Railroad & Toll Road Summit Complex",
+      "location": "Marshall Pass, Saguache County, Colorado",
+      "county": "Saguache County",
+      "category": "Railroad / Transportation Corridor / Summit Complex",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "Marshall Pass is a documented historic transportation summit associated with the Denver & Rio Grande railroad and an earlier toll-road corridor. Existing research supports the surviving grade and summit landscape as a basic Scan identity."
+      ]
+    },
+    {
+      "id": "CO-SAGUACHE-ORIENT-IRON-MINE",
+      "name": "Orient Iron Mine & Orient Company Town Complex",
+      "location": "Orient area, Saguache County, Colorado",
+      "county": "Saguache County",
+      "category": "Mine / Company Town / Industrial Complex",
+      "componentType": "Town / Camp",
+      "overview": [
+        "The Orient iron mine and its upper and lower company-town areas form a documented historic mining and settlement complex. Existing research supports the mine-and-town landscape as a basic Scan identity."
+      ]
+    },
+    {
+      "id": "CO-SAGUACHE-SARGENTS-RR-COMPLEX",
+      "name": "Sargents D&RG / D&RGW Railroad Station & Water Tank Complex",
+      "location": "Saguache County, Colorado",
+      "county": "Saguache County",
+      "category": "Railroad / Station Complex / Industrial Infrastructure",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B462=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B462&\"\" \"\"&$C462),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&\"&\"$C462),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B462&\"\" \"\"&$C462),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C462<>\"\"\"\",$C462,\"\"Historic Site\"\")))\"),\"Railroad Water Tank\")",
+      "overview": [
+        "Sargents D&RG / D&RGW Railroad Station & Water Tank Complex is a verified historic railroad / station complex / industrial infrastructure site in Saguache County."
+      ]
+    }
+  ],
+  "generatedAt": "2026-08-27T03:24:11.256623Z"
+}

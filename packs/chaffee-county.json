@@ -1,0 +1,516 @@
+{
+  "schemaVersion": 1,
+  "packId": "co-chaffee-v9",
+  "county": "Chaffee County",
+  "state": "Colorado",
+  "version": 9,
+  "mode": "remote",
+  "updatedAt": "2026-08-28T15:02:16.671Z",
+  "exploreSites": [
+    {
+      "id": "CO-CHAFFEE-ALPINE-TUNNEL",
+      "name": "Alpine Tunnel East Portal & Railroad Grade",
+      "location": "Above Hancock",
+      "county": "Chaffee County",
+      "category": "Railroad",
+      "componentType": "Tunnel Portal / Grade",
+      "overview": [
+        "The Alpine Tunnel East Portal and approach grade are components of the larger Alpine Tunnel Historic District, a nationally significant narrow-gauge railroad engineering landscape.",
+        "The east portal, grade, Alpine Station, water facilities, Palisades, west portal, and other features are historically related but geographically distinct."
+      ],
+      "timeline": [
+        {
+          "year": "1879–1881",
+          "text": "The Denver, South Park & Pacific excavated the 1,772-foot Alpine Tunnel beneath the Continental Divide."
+        },
+        {
+          "year": "1880–1910",
+          "text": "The National Register district’s period of significance covers construction and operation of the high-elevation railroad corridor."
+        },
+        {
+          "year": "1910",
+          "text": "The railroad line through the tunnel was abandoned."
+        },
+        {
+          "year": "Today",
+          "text": "The east-portal landscape survives within the roughly 13-mile Alpine Tunnel Historic District corridor from Hancock to Quartz."
+        }
+      ],
+      "moreHistory": [
+        "National Park Service documentation identifies the corridor’s engineering and transportation significance.",
+        "History Colorado independently preserves the district identity and its former Denver, South Park & Pacific railbed.",
+        "The east portal is interpreted as one component of the broader corridor rather than as a stand-alone history for every associated feature."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "legacyIds": [
+        "alpine-tunnel"
+      ]
+    },
+    {
+      "id": "CO-CHAFFEE-MARY-MURPHY",
+      "name": "Mary Murphy Mine & Tramway",
+      "location": "Pomeroy Gulch / Romley",
+      "county": "Chaffee County",
+      "category": "Mine / Tramway",
+      "componentType": "Mine & Tramway",
+      "overview": [
+        "The Mary Murphy was a major Chaffee County mine whose industrial system included underground workings, surface buildings, ore handling, and an aerial tramway linked to the lower terminal near Romley.",
+        "The surviving landscape shows how extraction, processing, transportation, and support structures functioned as one mining system."
+      ],
+      "timeline": [
+        {
+          "year": "1877",
+          "text": "Colorado Geological Survey records preserve contemporary assay evidence for the developing Mary Murphy property."
+        },
+        {
+          "year": "1879",
+          "text": "Mineral Survey No. 330 formally documented the property; the exact original claim-location date remains uncertain."
+        },
+        {
+          "year": "Late 1870s–1925",
+          "text": "The mine operated nearly continuously through its principal production period."
+        },
+        {
+          "year": "1932–1954",
+          "text": "Intermittent later activity continued after the main operating era."
+        }
+      ],
+      "moreHistory": [
+        "Colorado Geological Survey OF-01-13 documents the mine’s operating history and the Mary Murphy Gold Mining Company during its most productive years.",
+        "History Colorado records the Romley tramway terminal and the broader Chalk Creek discovery tradition.",
+        "The often-repeated 1873 date is retained only as a discovery tradition, not presented as an exact legally documented claim date."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "legacyIds": [
+        "mary-murphy"
+      ]
+    },
+    {
+      "id": "CO-CHAFFEE-ST-ELMO",
+      "name": "St. Elmo Mining Town",
+      "location": "St. Elmo / Chalk Creek",
+      "county": "Chaffee County",
+      "category": "Mining Town",
+      "componentType": "Town",
+      "overview": [
+        "St. Elmo is one of Colorado’s best-preserved late-nineteenth-century mining towns. It grew with the Chalk Creek mining district and the railroad network serving the Alpine Tunnel corridor.",
+        "Numerous surviving buildings preserve the community landscape that supported nearby mines, transportation, commerce, and daily life."
+      ],
+      "timeline": [
+        {
+          "year": "1880",
+          "text": "The town was planned and founded under the initial name Forest City; a Post Office request led to the name St. Elmo."
+        },
+        {
+          "year": "1880s",
+          "text": "Settlement expanded rapidly with mining and railroad development in the Chalk Creek district."
+        },
+        {
+          "year": "Later mining era",
+          "text": "The Mary Murphy mine and related railroad and tramway systems remained central to the local economy."
+        },
+        {
+          "year": "Today",
+          "text": "The historic district retains an unusually intact concentration of mining-town buildings."
+        }
+      ],
+      "moreHistory": [
+        "Library of Congress HABS documentation preserves the founding, renaming, town development, and mining context.",
+        "The National Register district treats St. Elmo as a community landscape rather than a single isolated structure.",
+        "Nearby mines, tram terminals, and railroad features remain distinct components even when interpreted through the town’s history."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "legacyIds": [
+        "st-elmo"
+      ]
+    },
+    {
+      "id": "CO-CHAFFEE-CLEORA-CEMETERY",
+      "name": "Cleora Cemetery / Cleora Railroad-War Settlement Landscape",
+      "location": "Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Cemetery / Railroad Settlement",
+      "componentType": "Cemetery",
+      "overview": [
+        "Cleora Cemetery is a documented historic cemetery associated with the early settlement of the southern Arkansas River Valley and the Cleora community.",
+        "Its history is tied to the railroad rivalry that reshaped settlement in the valley and contributed to the rise of nearby Salida."
+      ],
+      "timeline": [
+        {
+          "year": "ca. 1880",
+          "text": "Cleora Cemetery was established during the early settlement period of the southern Arkansas River Valley."
+        }
+      ],
+      "moreHistory": [
+        "The cemetery is treated as a distinct historic landscape rather than as a substitute for the broader Cleora settlement."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-CHAFFEE-CRESCENT",
+      "name": "Crescent Moly Mine No. 100 & Mining Camp",
+      "location": "Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Mine / Mining Camp",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Crescent Moly Mine No. 100 and its mining camp are a documented Chaffee County resource associated with Colorado's twentieth-century molybdenum industry.",
+        "The site reflects the 1930s molybdenum boom and the wider influence of the Climax mining phenomenon on Colorado mining."
+      ],
+      "timeline": [
+        {
+          "year": "1930s",
+          "text": "The Crescent Moly Mine No. 100 and mining camp developed as part of the period's molybdenum boom."
+        }
+      ],
+      "moreHistory": [
+        "The mine and camp should be interpreted together while preserving individual surviving structures or workings as components of the larger site."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-CHAFFEE-GARFIELD-MONARCH",
+      "name": "Garfield / Monarch Mining District",
+      "location": "Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Mining District",
+      "componentType": "Historic District",
+      "overview": [
+        "The Garfield and Monarch settlements form the community core of the Monarch mining district on the east side of the Sawatch Range.",
+        "The district developed around silver-, lead-, and zinc-bearing ores and became one of southwestern Chaffee County's important hard-rock mining landscapes."
+      ],
+      "timeline": [
+        {
+          "year": "1878",
+          "text": "Ore discoveries helped launch the mining boom that produced the Garfield and Monarch settlements."
+        },
+        {
+          "year": "1910",
+          "text": "Colorado Geological Survey work documented the district's geology, mines, and two principal villages."
+        }
+      ],
+      "moreHistory": [
+        "Named mines, mills, and town components remain separate records within the broader district context."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-CHAFFEE-IRON-CITY",
+      "name": "Iron City Mining Camp",
+      "location": "Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Mining Camp",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Iron City is a documented Chaffee County mining camp and industrial landscape with mine and mill resources recorded in federal historic-resource documentation.",
+        "The site is best understood as a mining-and-processing settlement rather than a single isolated mine feature."
+      ],
+      "timeline": [],
+      "moreHistory": [
+        "Federal HAER documentation supports the identity of the surviving mining and milling resources; individual components should remain distinct when they can be reliably identified."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-CHAFFEE-LITTLEJOHN",
+      "name": "Littlejohn Mine Complex",
+      "location": "Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Mine / Mining Camp",
+      "componentType": "Town / Camp",
+      "overview": [
+        "The Littlejohn Mine Complex is a documented Chaffee County mining property whose surviving buildings preserve an unusually clear picture of a small hard-rock mining operation.",
+        "Principal surviving resources include hand-hewn log buildings identified as the main cabin, burro shed or bunkhouse, and forge."
+      ],
+      "timeline": [
+        {
+          "year": "1978",
+          "text": "The Littlejohn Mine Complex was listed in the National Register of Historic Places."
+        }
+      ],
+      "moreHistory": [
+        "The surviving log structures and mine landscape are interpreted as one complex while keeping individual buildings identifiable as components."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-CHAFFEE-MAYSVILLE",
+      "name": "Maysville Mining Community",
+      "location": "Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Mining Community",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Maysville was a mining community in the Monarch-area landscape of Chaffee County and is documented in a detailed nineteenth-century panoramic view.",
+        "The surviving town and mining setting should be interpreted as a community-level record rather than as a single mine."
+      ],
+      "timeline": [
+        {
+          "year": "1882",
+          "text": "A bird's-eye view of Maysville documented the developed mining community and its built landscape."
+        }
+      ],
+      "moreHistory": [
+        "The Library of Congress panoramic-map record provides a strong historic visual reference for the community."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-CHAFFEE-OHIO-COLORADO-SMELTER",
+      "name": "Ohio-Colorado Smelting & Refining Co. Smokestack / Smeltertown",
+      "location": "Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Smelter / Industrial Mining Infrastructure",
+      "componentType": "Smelter",
+      "overview": [
+        "The Ohio-Colorado Smelting & Refining Company smokestack is the dominant surviving landmark of the former Salida-area smelter and worker settlement known as Smeltertown or Kortz.",
+        "The brick-and-tile stack preserves the industrial scale of an operation that processed ore from the surrounding mining region."
+      ],
+      "timeline": [
+        {
+          "year": "1902",
+          "text": "The Ohio-Colorado smelter began operating near Salida."
+        },
+        {
+          "year": "1917",
+          "text": "The surviving smokestack was completed at a height of 365 feet."
+        },
+        {
+          "year": "1920",
+          "text": "Smelting operations at the site ended."
+        }
+      ],
+      "moreHistory": [
+        "Most of the wider smelter complex disappeared, making the smokestack the clearest surviving identification feature."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-CHAFFEE-VICKSBURG",
+      "name": "Vicksburg Mining Camp",
+      "location": "Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Mining Camp",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Vicksburg is a historic mining camp in Chaffee County's Clear Creek Canyon and retains a recognizable concentration of mining-era town fabric.",
+        "The camp is significant as a surviving example of the communities that supported mining along the upper Clear Creek corridor."
+      ],
+      "timeline": [
+        {
+          "year": "1977",
+          "text": "Vicksburg Mining Camp was listed in the National Register of Historic Places."
+        }
+      ],
+      "moreHistory": [
+        "Vicksburg should remain distinct from nearby Winfield and from individual mines in the Clear Creek mining landscape."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-CHAFFEE-WINFIELD",
+      "name": "Winfield Mining Town",
+      "location": "Clear Creek Canyon, Chaffee County",
+      "county": "Chaffee County",
+      "category": "Mining Town",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Winfield was a formally laid-out mining camp in Chaffee County’s Clear Creek Canyon, established to support nearby hard-rock mining.",
+        "The surviving townsite and buildings preserve the community landscape of an important late-nineteenth-century mining settlement."
+      ],
+      "timeline": [
+        {
+          "year": "1881",
+          "text": "A 120-acre townsite was laid out for the Winfield mining camp."
+        },
+        {
+          "year": "Circa 1890",
+          "text": "The National Register nomination records the camp’s heyday and an estimated population of about 1,500."
+        },
+        {
+          "year": "1893",
+          "text": "The silver-market collapse sharply reduced mining activity and settlement."
+        },
+        {
+          "year": "Early 1900s",
+          "text": "Mining activity resumed for a time after the initial decline."
+        },
+        {
+          "year": "1918",
+          "text": "The nomination records the last ore haul from the district’s operating era."
+        },
+        {
+          "year": "1980",
+          "text": "Winfield Mining Camp was listed in the National Register of Historic Places."
+        }
+      ],
+      "moreHistory": [
+        "The National Park Service identifies mining as Winfield’s primary area of historical significance.",
+        "NARA independently catalogs Winfield Mining Camp as National Register property 80000883.",
+        "Winfield remains distinct from nearby Vicksburg and from individual mines in the Clear Creek Canyon landscape."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-CHAFFEE-HANCOCK",
+      "name": "Hancock Ghost Town",
+      "location": "Hancock, Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Ghost Town",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Hancock was a mining, railroad, and logging boom town at the eastern end of the Alpine Tunnel corridor.",
+        "Its townsite and transportation remnants help explain how the Denver, South Park & Pacific supported high-country mining and tunnel operations."
+      ],
+      "timeline": [
+        {
+          "year": "Railroad boom era",
+          "text": "Hancock developed as the eastern terminal community for the Alpine Tunnel railroad corridor, supporting mining, logging, and railroad activity."
+        },
+        {
+          "year": "1910",
+          "text": "Abandonment of the Alpine Tunnel line ended Hancock’s through-route role."
+        },
+        {
+          "year": "After 1910",
+          "text": "The town continued for a time as an end-of-line settlement before declining."
+        },
+        {
+          "year": "Today",
+          "text": "Townsite remnants and the former railroad landscape survive within the Alpine Tunnel Historic District context."
+        }
+      ],
+      "moreHistory": [
+        "National Park Service documentation identifies Hancock as the district’s eastern terminus and records surviving town and railroad features.",
+        "History Colorado links Hancock to the roughly 13-mile former railroad corridor between Hancock and Quartz.",
+        "Chaffee County survey work documents depot, section-house, and water-tank facilities; exact peak population and a complete business roster remain uncertain."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-CHAFFEE-ROMLEY",
+      "name": "Romley Mining Camp & Tram Terminal",
+      "location": "Romley / Chalk Creek mining district",
+      "county": "Chaffee County",
+      "category": "Mining Camp / Tramway",
+      "componentType": "Tramway",
+      "overview": [
+        "Romley was a mining camp and transportation-transfer point in the Chalk Creek district, closely tied to the Mary Murphy Mine’s aerial tramway and the railroad system serving the district.",
+        "The tram terminal, camp remains, and former railroad facilities form related but distinct parts of the Romley industrial landscape."
+      ],
+      "timeline": [
+        {
+          "year": "1873",
+          "text": "The Mary Murphy discovery began the mining history that later supported the Romley tram and transport system."
+        },
+        {
+          "year": "Late 19th century",
+          "text": "Romley developed as a mining camp and transfer point for ore and supplies moving through the Chalk Creek district."
+        },
+        {
+          "year": "Operating era",
+          "text": "The Mary Murphy aerial tram delivered ore into the Romley terminal system for onward railroad transport."
+        },
+        {
+          "year": "Later period",
+          "text": "Mining and transportation activity declined, leaving terminal, camp, and railroad features as historic remnants."
+        },
+        {
+          "year": "Today",
+          "text": "The surviving terminal landscape is recognized and has received preservation attention."
+        }
+      ],
+      "moreHistory": [
+        "Romley’s importance came from its position between a high-elevation mine and the district’s railroad network. The terminal converted aerial-tram movement into ground transportation.",
+        "Historical documentation associates Romley with a depot and turntable as well as the Mary Murphy tram terminal, showing that the site functioned as a multi-part transfer landscape.",
+        "The Romley camp and terminal should be interpreted together without treating every surviving ruin as the same structure or assigning unsupported production totals."
+      ],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "romley-tram-terminal",
+          "name": "Mary Murphy Tramway Romley Terminal",
+          "type": "Tramway Terminal",
+          "confidence": "Confirmed",
+          "note": "The terminal handled ore arriving from the Mary Murphy Mine aerial tramway."
+        },
+        {
+          "id": "romley-rail-transfer",
+          "name": "Railroad Transfer Area",
+          "type": "Railroad Infrastructure",
+          "confidence": "Confirmed",
+          "note": "Historic surveys document Romley’s depot and turntable relationship to the tram system."
+        },
+        {
+          "id": "romley-camp",
+          "name": "Romley Mining Camp Remains",
+          "type": "Town / Camp",
+          "confidence": "Confirmed",
+          "note": "Camp remains represent the workforce and service component of the industrial site."
+        }
+      ],
+      "mediaNotice": "Historic image not available"
+    }
+  ],
+  "identificationSites": [
+    {
+      "id": "CO-CHAFFEE-BANKER",
+      "name": "Banker Mine",
+      "location": "Winfield area, Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "Banker Mine is a documented named mine in the Winfield area. Federal mineral and mapped-feature records support the basic identity, while conflicting commodity descriptions are reserved for further historical interpretation."
+      ]
+    },
+    {
+      "id": "CO-CHAFFEE-FORTUNE",
+      "name": "Fortune Mine",
+      "location": "Winfield area, Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "Fortune Mine is a documented named mine in the Winfield quadrangle. The basic Scan record uses the supported mine identity without retaining an unverified tramway association."
+      ]
+    },
+    {
+      "id": "CO-CHAFFEE-SWISS-BOY",
+      "name": "Swiss Boy Mine",
+      "location": "Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "Swiss Boy Mine is a documented Chaffee County mine with federal mineral records supporting its identity and lead-zinc and uranium-related context. Richer historical interpretation remains separate from this basic Scan record."
+      ]
+    },
+    {
+      "id": "CO-CHAFFEE-TASMANIA",
+      "name": "Tasmania Mine",
+      "location": "Winfield area, Chaffee County, Colorado",
+      "county": "Chaffee County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "Tasmania Mine is a documented Winfield-area mining property associated with a proposed gravity tram and matte-smelting plans at the turn of the twentieth century. Conflicting contemporary smelter-capacity reports are preserved rather than combined into false precision."
+      ]
+    }
+  ],
+  "generatedAt": "2026-08-28T15:02:16.671Z"
+}
+

@@ -1,0 +1,1328 @@
+{
+  "schemaVersion": 1,
+  "packId": "co-eagle-v6",
+  "county": "Eagle County",
+  "state": "Colorado",
+  "version": 6,
+  "mode": "replace",
+  "updatedAt": "2026-08-30T10:00:00.000Z",
+  "exploreSites": [
+    {
+      "id": "CO-EAGLE-CAMP-HALE",
+      "name": "Camp Hale",
+      "location": "Eagle River Valley",
+      "county": "Eagle County",
+      "category": "Military Site",
+      "componentType": "Training Camp / Historic District",
+      "overview": [
+        "Camp Hale was a purpose-built high-altitude U.S. Army training center created during World War II in the Pando Valley. It became the principal Colorado training ground for soldiers learning mountain and winter warfare.",
+        "The site is most closely associated with the 10th Mountain Division. Soldiers trained in skiing, climbing, cold-weather survival, rough-terrain movement, weapons handling, and specialized equipment for mountain operations.",
+        "The wartime installation spread across a large developed valley floor with barracks, mess halls, warehouses, medical and recreation facilities, roads, rail support, ranges, stables, and other military infrastructure."
+      ],
+      "timeline": [
+        {
+          "year": "1942",
+          "text": "Army construction began in the Pando Valley and the Mountain Training Center moved to the new camp."
+        },
+        {
+          "year": "1943–1944",
+          "text": "Mountain troops trained intensively at Camp Hale. National Archives holdings include more than 1,000 photographs of 10th Mountain Division training activities at the camp."
+        },
+        {
+          "year": "1943–1944",
+          "text": "Training included skiing, climbing, cold-weather survival, movement over rough terrain, weapons deployment, and testing of specialized mountain equipment."
+        },
+        {
+          "year": "1945",
+          "text": "The 10th Mountain Division fought in Italy after training in Colorado mountain conditions."
+        },
+        {
+          "year": "Postwar",
+          "text": "Veterans of the division became influential in the growth of American skiing and outdoor recreation."
+        },
+        {
+          "year": "1959–1965",
+          "text": "The Camp Hale area was later used for classified training of Tibetan resistance fighters."
+        },
+        {
+          "year": "1960s",
+          "text": "The military installation was deactivated and much of the land returned to Forest Service management."
+        },
+        {
+          "year": "2022",
+          "text": "Camp Hale became part of the Camp Hale–Continental Divide National Monument."
+        }
+      ],
+      "moreHistory": [
+        "The high valley provided both room for a large military installation and immediate access to steep terrain, heavy snow, severe cold, and high elevations. Those conditions made the surrounding landscape part of the training system rather than merely a backdrop.",
+        "The camp included barracks, mess halls, warehouses, administrative buildings, theaters, chapels, hospital facilities, stables and corrals, motor-pool areas, rail facilities, ranges, ski areas, roads, and bridges.",
+        "The Mountain and Winter Warfare Board tested tactics and equipment for operating in snow and mountains, including skis, sleds, snow vehicles, cold-weather clothing, and systems for moving weapons and supplies.",
+        "Camp Hale is important both as a military landscape and for its later influence on American skiing. The relationship between wartime training, mountain recreation, and postwar ski-industry development is a major part of the site’s historical significance.",
+        "The later Cold War use of the area adds another historical layer. Between 1959 and 1965, the CIA used Camp Hale for secret training connected with Tibetan resistance operations.",
+        "Many original buildings are gone, but foundations, road patterns, rail traces, ranges, and the surrounding training terrain still help explain how the wartime installation functioned."
+      ],
+      "displayImages": [
+        {
+          "id": "hale-timberline",
+          "title": "Mountain troops near timberline at Camp Hale — 1943",
+          "label": "",
+          "source": {
+            "uri": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2023/01/111-SC-189485-1024x823.jpg?resize=685%2C551&ssl=1"
+          },
+          "sourceNote": "National Archives, 111-SC-189485. Original Signal Corps caption identifies Camp Hale, Colorado, May 8, 1943."
+        },
+        {
+          "id": "hale-rough-terrain",
+          "title": "Moving weapons and supplies over rough terrain at Camp Hale",
+          "label": "",
+          "source": {
+            "uri": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2023/01/337-TNG-1-2-scaled.jpg?resize=685%2C547&ssl=1"
+          },
+          "sourceNote": "National Archives, 337-TNG-1-2. The National Archives states the Camp Hale photographs used in this collection have no known copyright restrictions."
+        },
+        {
+          "id": "hale-ski-sled",
+          "title": "Mountain Troopers pulling a ski cargo sled",
+          "label": "",
+          "source": {
+            "uri": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2023/01/337-TNG-199-2-scaled.jpg?resize=685%2C538&ssl=1"
+          },
+          "sourceNote": "National Archives, 337-TNG-199-2. Camp Hale / 10th Mountain Division training collection."
+        }
+      ],
+      "features": [
+        {
+          "id": "hale-core",
+          "name": "Camp Core and Foundations",
+          "type": "Military Camp",
+          "confidence": "Confirmed",
+          "note": "The developed valley floor preserves foundations, roads, and other traces of the wartime installation."
+        },
+        {
+          "id": "hale-logistics",
+          "name": "Rail and Logistics Areas",
+          "type": "Transportation / Logistics",
+          "confidence": "Confirmed",
+          "note": "Transportation infrastructure supported construction, supply, and troop movement."
+        },
+        {
+          "id": "hale-training",
+          "name": "Mountain and Winter Training Landscape",
+          "type": "Training Area",
+          "confidence": "Confirmed",
+          "note": "The surrounding mountains were integral to skiing, climbing, cold-weather, and field training."
+        },
+        {
+          "id": "hale-ranges",
+          "name": "Ranges and Field Training Areas",
+          "type": "Training Area",
+          "confidence": "Confirmed",
+          "note": "Weapons, obstacle, and field-training areas formed part of the broader military landscape."
+        }
+      ],
+      "coordinates": {
+        "latitude": 39.4368,
+        "longitude": -106.3156
+      },
+      "legacyIds": [
+        "camp-hale"
+      ]
+    },
+    {
+      "id": "CO-EAGLE-BELDEN",
+      "name": "Belden Mining & Railroad Complex",
+      "location": "Belden Canyon / Battle Mountain",
+      "county": "Eagle County",
+      "category": "Ghost Town / Railroad / Mining & Mill Complex",
+      "componentType": "Mining Camp, Railroad Station & Industrial Complex",
+      "overview": [
+        "Belden developed in the narrow Eagle River canyon below Battle Mountain as a railroad, mining, and ore-handling center serving the mines above Gilman.",
+        "The Denver & Rio Grande station, mining settlement, mills, load-out facilities, waste-rock structures, and railroad corridor created a dense industrial landscape linking the mountain mines with regional transportation."
+      ],
+      "timeline": [
+        {
+          "year": "1879",
+          "text": "Historic mapping identified Belden in the canyon and recorded it as a Denver & Rio Grande railroad station."
+        },
+        {
+          "year": "1890s",
+          "text": "Mining expanded around Belden, with period reports describing substantial underground work, ore shipments, and a large workforce."
+        },
+        {
+          "year": "20th century",
+          "text": "Belden became an important canyon-floor component of the consolidated Eagle Mine system, including mill and load-out infrastructure."
+        },
+        {
+          "year": "Late 20th–21st centuries",
+          "text": "The area became part of the Eagle Mine Superfund cleanup, including stabilization of historic waste-rock cribbings and other mine-affected features."
+        }
+      ],
+      "features": [
+        {
+          "id": "belden-town",
+          "name": "Belden Townsite & Station Area",
+          "type": "Railroad / Settlement",
+          "confidence": "Confirmed",
+          "note": "The historic settlement and railroad station occupied the narrow canyon floor."
+        },
+        {
+          "id": "belden-industrial",
+          "name": "Mill & Load-Out Area",
+          "type": "Mining Infrastructure",
+          "confidence": "Confirmed",
+          "note": "Ore-processing and loading facilities connected Battle Mountain mining with the railroad."
+        },
+        {
+          "id": "belden-cribbings",
+          "name": "Waste-Rock Cribbings",
+          "type": "Mining Infrastructure",
+          "confidence": "Confirmed",
+          "note": "Large timber and later stabilization structures retain extensive historic mine waste along the canyon."
+        }
+      ],
+      "moreHistory": [
+        "Belden's position at river and railroad level made it a natural transfer point for mines located high on Battle Mountain. Ore, supplies, workers, and equipment moved through the canyon while the railroad connected the district to smelters and markets.",
+        "By the early 1890s period accounts described intensive operation at the Belden Mine, including multiple work shifts and substantial ore shipments. Those figures are best understood as contemporary reports rather than audited lifetime production totals.",
+        "During the twentieth century the canyon became increasingly integrated with the Eagle Mine system. Mill, load-out, railroad, and waste-rock features combined to form one of the district's most important industrial corridors.",
+        "The surviving canyon landscape remains heavily shaped by mining and later environmental stabilization, making the relationship between railroad engineering, ore handling, mine waste, and steep terrain especially visible."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.5255,
+        "longitude": -106.3861
+      },
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-EAGLE-FULFORD-CAMP",
+      "name": "Fulford / Nolan's Creek Mining Camp",
+      "location": "Upper Brush Creek",
+      "county": "Eagle County",
+      "category": "Ghost Town / Mining Camp / Mining District",
+      "componentType": "Gold-Mining Camp & District",
+      "overview": [
+        "Fulford grew in the high country of upper Brush Creek during the late-nineteenth-century gold rush to the Nolan Creek and New York Mountain area.",
+        "The camp supported prospectors, miners, businesses, transportation, and hundreds of claims, becoming the principal settlement for a rugged mountain mining district."
+      ],
+      "timeline": [
+        {
+          "year": "1887",
+          "text": "Gold discoveries and mining activity intensified around New York Mountain, and historic mapping identified Camp Fulford."
+        },
+        {
+          "year": "1889–1891",
+          "text": "The settlement expanded as promoters and miners developed roads, claims, and mine-support services."
+        },
+        {
+          "year": "1891",
+          "text": "Arthur H. Fulford, a major promoter of the district, died in an avalanche."
+        },
+        {
+          "year": "1890s",
+          "text": "Gold mining sustained the camp through the decade, although regional financial disruptions affected investment."
+        },
+        {
+          "year": "Early 1900s",
+          "text": "Mining continued intermittently as activity shifted among the district's stronger properties."
+        }
+      ],
+      "features": [
+        {
+          "id": "fulford-townsite",
+          "name": "Fulford Townsite",
+          "type": "Mining Camp",
+          "confidence": "Confirmed",
+          "note": "The historic camp occupied the upper Brush Creek mining district and supported nearby gold mines."
+        },
+        {
+          "id": "fulford-remnants",
+          "name": "Cabin & Camp Remnants",
+          "type": "Historic Structures",
+          "confidence": "Confirmed",
+          "note": "Surviving and collapsed building remains mark portions of the former settlement."
+        },
+        {
+          "id": "fulford-mining-landscape",
+          "name": "Mining District Landscape",
+          "type": "Mining Landscape",
+          "confidence": "Confirmed",
+          "note": "Mine workings, roads, dumps, and related features surround the camp."
+        }
+      ],
+      "moreHistory": [
+        "Fulford was one of several names associated with mining settlement in the district, including Nolan Camp and Camp Fulford. Development accelerated as gold discoveries drew miners and capital into the upper Brush Creek country.",
+        "Arthur H. Fulford played an important role in promoting the district and improving access before his death in 1891. His name became closely associated with the camp that survived him.",
+        "The surrounding district contained numerous claims and mines, with the Polar Star becoming one of the better-known producers. The settlement functioned as the service center for this wider mining landscape.",
+        "Today the camp is best understood as a whole landscape of townsite remains, mining features, and mountain terrain rather than as a collection of isolated buildings."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.514985,
+        "longitude": -106.656423
+      },
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-EAGLE-GILMAN-EAGLE-MINE",
+      "name": "Gilman / Eagle Mine & Company Town Complex",
+      "location": "Battle Mountain",
+      "county": "Eagle County",
+      "category": "Ghost Town / Company Town / Mine / Mining Complex",
+      "componentType": "Company Town & Integrated Underground Mine-Mill Complex",
+      "overview": [
+        "Gilman and the Eagle Mine formed one of Colorado's most important integrated base-metal mining complexes. The company town stood high on Battle Mountain above the Eagle River, while extensive underground workings and industrial facilities connected the mountain to the canyon below.",
+        "The district became especially important for zinc, while also producing silver, copper, lead, and gold during a long period of operation."
+      ],
+      "timeline": [
+        {
+          "year": "1879–1880s",
+          "text": "Mining developed on Battle Mountain as prospectors opened early silver and base-metal workings."
+        },
+        {
+          "year": "1912",
+          "text": "Empire Zinc began consolidating properties that would become part of the modern Eagle Mine system."
+        },
+        {
+          "year": "1918 onward",
+          "text": "Most of the district's productive replacement deposits were increasingly worked through the Eagle Mine."
+        },
+        {
+          "year": "1929",
+          "text": "An underground mill was constructed as the integrated mine system expanded."
+        },
+        {
+          "year": "1930s–1970s",
+          "text": "The operation became a major Colorado zinc producer while continuing to recover other metals."
+        },
+        {
+          "year": "1977–1984",
+          "text": "Most zinc operations ended in 1977; remaining mining ceased by 1984 and the mine flooded."
+        },
+        {
+          "year": "1986 onward",
+          "text": "The Eagle Mine entered the federal Superfund program, followed by extensive cleanup and remediation."
+        }
+      ],
+      "features": [
+        {
+          "id": "gilman-town",
+          "name": "Gilman Company Town",
+          "type": "Company Town",
+          "confidence": "Confirmed",
+          "note": "The former company town remains a highly visible concentration of historic buildings on Battle Mountain."
+        },
+        {
+          "id": "eagle-workings",
+          "name": "Eagle Mine Workings",
+          "type": "Underground Mine",
+          "confidence": "Confirmed",
+          "note": "The mine system ultimately included many miles of interconnected underground workings."
+        },
+        {
+          "id": "gilman-industrial",
+          "name": "Mine, Mill & Ore-Handling Landscape",
+          "type": "Mining Infrastructure",
+          "confidence": "Confirmed",
+          "note": "Surface and underground facilities connected the mine with canyon-level processing and transportation."
+        },
+        {
+          "id": "gilman-remediation",
+          "name": "Remediated Mining Landscape",
+          "type": "Environmental History",
+          "confidence": "Confirmed",
+          "note": "Tailings, waste-rock areas, and treatment systems document the site's later environmental history."
+        }
+      ],
+      "moreHistory": [
+        "Mining on Battle Mountain evolved from numerous earlier claims into a consolidated industrial system. Empire Zinc and later operators connected older workings through the Eagle Mine, transforming the district into a large-scale underground operation.",
+        "USGS studies describe the Gilman district as Colorado's leading historic zinc source. Through 1972, reported production of zinc, silver, copper, lead, and gold was valued at about $328 million in period dollars, with most of that value produced after 1930.",
+        "The company town developed alongside the mine and contained housing and community facilities for workers and their families. Its position above the Eagle River created one of Colorado's most dramatic mining-town settings.",
+        "Closure in the 1980s was followed by extensive environmental work. The modern landscape therefore reflects both a century of mining and decades of water-quality, waste-rock, and tailings remediation."
+      ],
+      "displayImages": [],
+      "production": {
+        "summary": "Gilman became one of Colorado's most important zinc-producing districts while also producing silver, copper, lead, and gold.",
+        "commodities": [
+          {
+            "name": "Zinc"
+          },
+          {
+            "name": "Silver"
+          },
+          {
+            "name": "Copper"
+          },
+          {
+            "name": "Lead"
+          },
+          {
+            "name": "Gold"
+          }
+        ]
+      },
+      "coordinates": {
+        "latitude": 39.532764,
+        "longitude": -106.393918
+      },
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-EAGLE-GOLD-PARK",
+      "name": "Gold Park Mining Camp & Mill Complex",
+      "location": "Holy Cross Mining District",
+      "county": "Eagle County",
+      "category": "Ghost Town / Mining Camp / Mill Complex",
+      "componentType": "Mining Camp & Ore-Processing Complex",
+      "overview": [
+        "Gold Park was one of the two principal camps of the Holy Cross Mining District during the short-lived gold boom of the early 1880s.",
+        "The settlement supported mining and milling activity along the Homestake Creek area and was connected with Holy Cross City through an ambitious ore-transport system."
+      ],
+      "timeline": [
+        {
+          "year": "1880",
+          "text": "Historic mapping identified Gold Park as mining activity accelerated in the Holy Cross district."
+        },
+        {
+          "year": "1881",
+          "text": "A post office was established and the Gold Park Mining & Milling Company organized with extensive claim holdings."
+        },
+        {
+          "year": "1881–1882",
+          "text": "The camp expanded and two mills operated or were developed to serve surrounding mines."
+        },
+        {
+          "year": "1883",
+          "text": "Poor ore economics undermined the principal company venture and investment declined."
+        },
+        {
+          "year": "1884 onward",
+          "text": "The district rapidly contracted, leaving Gold Park as a short-lived mining camp and industrial landscape."
+        }
+      ],
+      "features": [
+        {
+          "id": "gold-park-town",
+          "name": "Gold Park Townsite",
+          "type": "Mining Camp",
+          "confidence": "Confirmed",
+          "note": "The former camp was a principal settlement of the Holy Cross Mining District."
+        },
+        {
+          "id": "gold-park-mills",
+          "name": "Mill Sites",
+          "type": "Ore Processing",
+          "confidence": "Confirmed",
+          "note": "Historic sources describe two mills associated with the camp."
+        },
+        {
+          "id": "gold-park-flume",
+          "name": "Ore-Flume Landscape",
+          "type": "Mining Infrastructure",
+          "confidence": "Confirmed",
+          "note": "An experimental transport system was developed between the Holy Cross City and Gold Park area."
+        }
+      ],
+      "moreHistory": [
+        "Gold Park briefly became larger than nearby Holy Cross City and served as a center for ambitious mining-company development in the district.",
+        "The Gold Park Mining & Milling Company controlled numerous claims on French Mountain and invested in ore-processing and transportation infrastructure.",
+        "One of the district's more unusual experiments was a long flume intended to move crushed ore between the Holy Cross City and Gold Park area. Grade and design problems limited its usefulness.",
+        "The collapse of the principal company effort after only a few years illustrates how quickly a high-country mining boom could rise and fall when ore failed to meet expectations."
+      ],
+      "mediaNotice": "Historic image not available",
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.40554,
+        "longitude": -106.43336
+      }
+    },
+    {
+      "id": "CO-EAGLE-HOLY-CROSS-CITY",
+      "name": "Holy Cross City Mining Camp & Mill Complex",
+      "location": "Holy Cross Mining District",
+      "county": "Eagle County",
+      "category": "Ghost Town / Mining Camp / Mill Complex",
+      "componentType": "High-Altitude Gold Camp & Mill Complex",
+      "overview": [
+        "Holy Cross City was a high-elevation gold-mining camp that developed rapidly after discoveries in the Holy Cross Mining District in 1880.",
+        "The settlement combined cabins, businesses, mine-support services, and ore-processing infrastructure in an alpine setting above 11,000 feet."
+      ],
+      "timeline": [
+        {
+          "year": "1880",
+          "text": "Gold-bearing quartz discoveries triggered organization of the Holy Cross Mining District and rapid development of Holy Cross City."
+        },
+        {
+          "year": "1881",
+          "text": "The camp expanded quickly, with dozens of buildings and active investment in mines and milling."
+        },
+        {
+          "year": "1882",
+          "text": "The population reached roughly 200 during the peak of the boom."
+        },
+        {
+          "year": "1883",
+          "text": "Weak ore economics undermined major company investment and accelerated the camp's decline."
+        },
+        {
+          "year": "1884",
+          "text": "Holy Cross City was already becoming a ghost town, although limited mining continued later."
+        }
+      ],
+      "features": [
+        {
+          "id": "holy-cross-town",
+          "name": "Holy Cross City Townsite",
+          "type": "Mining Camp",
+          "confidence": "Confirmed",
+          "note": "Cabin and building remains mark the high-elevation settlement."
+        },
+        {
+          "id": "holy-cross-mill",
+          "name": "Mill & Ore-Processing Area",
+          "type": "Ore Processing",
+          "confidence": "Confirmed",
+          "note": "Mill ruins and industrial features document local attempts to process district ore."
+        },
+        {
+          "id": "holy-cross-mining",
+          "name": "Surrounding Mine Workings",
+          "type": "Mining Landscape",
+          "confidence": "Confirmed",
+          "note": "Claims and workings around the camp formed the economic basis of the settlement."
+        }
+      ],
+      "moreHistory": [
+        "The camp grew with unusual speed after 1880. Contemporary descriptions and later county histories record a compact high-country community with stores, saloons, an assay office, blacksmith, boarding facilities, and rows of miners' cabins.",
+        "Gold was the principal attraction, although silver mineralization was also reported. The district supported numerous claims whose promise drew substantial outside investment.",
+        "An experimental ore-transport flume attempted to connect mining and processing activity between Holy Cross City and Gold Park, but engineering and ore-quality problems limited the venture.",
+        "The remaining cabins, mill ruins, roads, and mining features create one of Eagle County's strongest surviving high-alpine mining-camp landscapes."
+      ],
+      "mediaNotice": "Historic image not available",
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.414987,
+        "longitude": -106.478085
+      }
+    },
+    {
+      "id": "CO-EAGLE-RED-CLIFF",
+      "name": "Red Cliff Mining Town & Railroad Complex",
+      "location": "Eagle River Valley",
+      "county": "Eagle County",
+      "category": "Mining Town / Railroad / Mining District",
+      "componentType": "Mining Town & Railroad Gateway",
+      "overview": [
+        "Red Cliff developed in 1879 as a mining settlement at the base of Battle Mountain and became the principal early community serving the surrounding silver and gold mines.",
+        "Its role expanded when the Denver & Rio Grande railroad reached the town, connecting local mines with Leadville and regional ore markets."
+      ],
+      "timeline": [
+        {
+          "year": "1879",
+          "text": "Red Cliff was founded as mining expanded around Battle Mountain."
+        },
+        {
+          "year": "1883",
+          "text": "Red Cliff became the county seat when Eagle County was created, and the Denver & Rio Grande railroad reached the community."
+        },
+        {
+          "year": "1884",
+          "text": "A.H. Fulford's Ben Butler gold discovery helped renew interest in the surrounding district."
+        },
+        {
+          "year": "1880s–1890s",
+          "text": "Mining, railroad traffic, ore handling, and local businesses supported a busy canyon community."
+        },
+        {
+          "year": "20th century",
+          "text": "Red Cliff remained a transportation and service community as nearby mining increasingly centered on the Gilman/Eagle Mine system."
+        }
+      ],
+      "features": [
+        {
+          "id": "red-cliff-town",
+          "name": "Historic Town Core",
+          "type": "Mining Town",
+          "confidence": "Confirmed",
+          "note": "The town's historic street pattern and surviving buildings retain its mining-era setting."
+        },
+        {
+          "id": "red-cliff-rail",
+          "name": "Railroad Corridor & Station Landscape",
+          "type": "Railroad",
+          "confidence": "Confirmed",
+          "note": "The former D&RG corridor connected Red Cliff with Leadville, Minturn, and the Battle Mountain mines."
+        },
+        {
+          "id": "red-cliff-mining",
+          "name": "Battle Mountain Mining Landscape",
+          "type": "Mining District",
+          "confidence": "Confirmed",
+          "note": "Historic mines and industrial features rise above the town on Battle Mountain."
+        }
+      ],
+      "moreHistory": [
+        "Red Cliff's canyon location made it a natural gateway to Battle Mountain. Miners, merchants, rail workers, and ore traffic passed through the town as nearby properties developed.",
+        "The railroad transformed the settlement by providing dependable passenger, freight, telegraph, and ore-shipping connections. This helped integrate Battle Mountain production with Leadville and the wider Colorado mining economy.",
+        "Gold discoveries during the mid-1880s added another phase to a district that had begun with strong silver expectations. Period accounts describe substantial gold and total ore values during this revival.",
+        "Although mining later shifted toward the consolidated Gilman/Eagle Mine system, Red Cliff retained the physical character of an early railroad and mining town."
+      ],
+      "mediaNotice": "Historic image not available",
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.509,
+        "longitude": -106.37
+      }
+    },
+    {
+      "id": "CO-EAGLE-TENNESSEE-PASS-RAILROAD",
+      "name": "Tennessee Pass D&RG/D&RGW Railroad Tunnel & Summit Complex",
+      "location": "Tennessee Pass",
+      "county": "Eagle County",
+      "category": "Railroad / Tunnel / Mountain Pass Infrastructure",
+      "componentType": "Railroad Summit, Tunnel & Grade Complex",
+      "overview": [
+        "Tennessee Pass carried one of Colorado's most important mountain railroad routes across the Continental Divide. The Denver & Rio Grande first crossed the pass on a steep narrow-gauge line before later tunnels lowered and improved the route.",
+        "The summit complex linked Leadville with Camp Hale, Red Cliff, Minturn, and the Eagle River valley and became a demanding helper district for heavy freight trains."
+      ],
+      "timeline": [
+        {
+          "year": "1881",
+          "text": "The Denver & Rio Grande completed its narrow-gauge railroad over Tennessee Pass."
+        },
+        {
+          "year": "1890",
+          "text": "A tunnel beneath the pass lowered the summit crossing during the transition toward improved and standard-gauge operations."
+        },
+        {
+          "year": "1945",
+          "text": "A second tunnel was completed to replace the earlier bore and modernize the route."
+        },
+        {
+          "year": "Mid-20th century",
+          "text": "Heavy freight and helper-locomotive operations made Tennessee Pass a major operating challenge for the Denver & Rio Grande Western."
+        },
+        {
+          "year": "1964",
+          "text": "Regular passenger service over the route ended."
+        },
+        {
+          "year": "1997",
+          "text": "Regular through freight operations ceased after railroad consolidation shifted traffic to other routes."
+        }
+      ],
+      "features": [
+        {
+          "id": "tennessee-1945-tunnel",
+          "name": "1945 Tennessee Pass Tunnel",
+          "type": "Railroad Tunnel",
+          "confidence": "Confirmed",
+          "note": "The later tunnel became the principal bore beneath the summit."
+        },
+        {
+          "id": "tennessee-old-grade",
+          "name": "1881 Summit Grade",
+          "type": "Railroad Grade",
+          "confidence": "Confirmed",
+          "note": "The original narrow-gauge route crossed higher terrain before tunnel construction."
+        },
+        {
+          "id": "tennessee-station",
+          "name": "Tennessee Pass Summit Station Area",
+          "type": "Railroad Operations",
+          "confidence": "Confirmed",
+          "note": "The summit included operating facilities associated with controlling and supporting mountain railroad traffic."
+        },
+        {
+          "id": "tennessee-helper",
+          "name": "Helper District & Mountain Grade",
+          "type": "Railroad Operations",
+          "confidence": "Confirmed",
+          "note": "Steep grades required helper locomotives and specialized operating practices."
+        }
+      ],
+      "moreHistory": [
+        "The original narrow-gauge route climbed directly over Tennessee Pass, creating a difficult mountain crossing that demanded careful railroad operation.",
+        "The 1890 tunnel reduced the elevation of the crossing, while the 1945 bore reflected another major modernization of a route carrying increasingly heavy trains.",
+        "The west side toward Minturn became famous for steep grades and helper operations. Extra locomotives were used to move heavy freight over the pass, linking the summit closely with the Minturn railroad yard.",
+        "The dormant railroad, tunnel portal, old grades, and summit landscape preserve the engineering story of more than a century of attempts to move rail traffic efficiently across the Continental Divide."
+      ],
+      "mediaNotice": "Historic image not available",
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.35927,
+        "longitude": -106.31232
+      }
+    }
+  ],
+  "identificationSites": [
+    {
+      "id": "CO-EAGLE-CAMP-HALE",
+      "name": "Camp Hale",
+      "location": "Eagle River Valley",
+      "county": "Eagle County",
+      "category": "Military Site",
+      "componentType": "Training Camp / Historic District",
+      "overview": [
+        "Camp Hale was a purpose-built high-altitude U.S. Army training center created during World War II in the Pando Valley. It became the principal Colorado training ground for soldiers learning mountain and winter warfare.",
+        "The site is most closely associated with the 10th Mountain Division. Soldiers trained in skiing, climbing, cold-weather survival, rough-terrain movement, weapons handling, and specialized equipment for mountain operations.",
+        "The wartime installation spread across a large developed valley floor with barracks, mess halls, warehouses, medical and recreation facilities, roads, rail support, ranges, stables, and other military infrastructure."
+      ],
+      "timeline": [
+        {
+          "year": "1942",
+          "text": "Army construction began in the Pando Valley and the Mountain Training Center moved to the new camp."
+        },
+        {
+          "year": "1943–1944",
+          "text": "Mountain troops trained intensively at Camp Hale. National Archives holdings include more than 1,000 photographs of 10th Mountain Division training activities at the camp."
+        },
+        {
+          "year": "1943–1944",
+          "text": "Training included skiing, climbing, cold-weather survival, movement over rough terrain, weapons deployment, and testing of specialized mountain equipment."
+        },
+        {
+          "year": "1945",
+          "text": "The 10th Mountain Division fought in Italy after training in Colorado mountain conditions."
+        },
+        {
+          "year": "Postwar",
+          "text": "Veterans of the division became influential in the growth of American skiing and outdoor recreation."
+        },
+        {
+          "year": "1959–1965",
+          "text": "The Camp Hale area was later used for classified training of Tibetan resistance fighters."
+        },
+        {
+          "year": "1960s",
+          "text": "The military installation was deactivated and much of the land returned to Forest Service management."
+        },
+        {
+          "year": "2022",
+          "text": "Camp Hale became part of the Camp Hale–Continental Divide National Monument."
+        }
+      ],
+      "moreHistory": [
+        "The high valley provided both room for a large military installation and immediate access to steep terrain, heavy snow, severe cold, and high elevations. Those conditions made the surrounding landscape part of the training system rather than merely a backdrop.",
+        "The camp included barracks, mess halls, warehouses, administrative buildings, theaters, chapels, hospital facilities, stables and corrals, motor-pool areas, rail facilities, ranges, ski areas, roads, and bridges.",
+        "The Mountain and Winter Warfare Board tested tactics and equipment for operating in snow and mountains, including skis, sleds, snow vehicles, cold-weather clothing, and systems for moving weapons and supplies.",
+        "Camp Hale is important both as a military landscape and for its later influence on American skiing. The relationship between wartime training, mountain recreation, and postwar ski-industry development is a major part of the site’s historical significance.",
+        "The later Cold War use of the area adds another historical layer. Between 1959 and 1965, the CIA used Camp Hale for secret training connected with Tibetan resistance operations.",
+        "Many original buildings are gone, but foundations, road patterns, rail traces, ranges, and the surrounding training terrain still help explain how the wartime installation functioned."
+      ],
+      "displayImages": [
+        {
+          "id": "hale-timberline",
+          "title": "Mountain troops near timberline at Camp Hale — 1943",
+          "label": "",
+          "source": {
+            "uri": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2023/01/111-SC-189485-1024x823.jpg?resize=685%2C551&ssl=1"
+          },
+          "sourceNote": "National Archives, 111-SC-189485. Original Signal Corps caption identifies Camp Hale, Colorado, May 8, 1943."
+        },
+        {
+          "id": "hale-rough-terrain",
+          "title": "Moving weapons and supplies over rough terrain at Camp Hale",
+          "label": "",
+          "source": {
+            "uri": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2023/01/337-TNG-1-2-scaled.jpg?resize=685%2C547&ssl=1"
+          },
+          "sourceNote": "National Archives, 337-TNG-1-2. The National Archives states the Camp Hale photographs used in this collection have no known copyright restrictions."
+        },
+        {
+          "id": "hale-ski-sled",
+          "title": "Mountain Troopers pulling a ski cargo sled",
+          "label": "",
+          "source": {
+            "uri": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2023/01/337-TNG-199-2-scaled.jpg?resize=685%2C538&ssl=1"
+          },
+          "sourceNote": "National Archives, 337-TNG-199-2. Camp Hale / 10th Mountain Division training collection."
+        }
+      ],
+      "features": [
+        {
+          "id": "hale-core",
+          "name": "Camp Core and Foundations",
+          "type": "Military Camp",
+          "confidence": "Confirmed",
+          "note": "The developed valley floor preserves foundations, roads, and other traces of the wartime installation."
+        },
+        {
+          "id": "hale-logistics",
+          "name": "Rail and Logistics Areas",
+          "type": "Transportation / Logistics",
+          "confidence": "Confirmed",
+          "note": "Transportation infrastructure supported construction, supply, and troop movement."
+        },
+        {
+          "id": "hale-training",
+          "name": "Mountain and Winter Training Landscape",
+          "type": "Training Area",
+          "confidence": "Confirmed",
+          "note": "The surrounding mountains were integral to skiing, climbing, cold-weather, and field training."
+        },
+        {
+          "id": "hale-ranges",
+          "name": "Ranges and Field Training Areas",
+          "type": "Training Area",
+          "confidence": "Confirmed",
+          "note": "Weapons, obstacle, and field-training areas formed part of the broader military landscape."
+        }
+      ],
+      "coordinates": {
+        "latitude": 39.4368,
+        "longitude": -106.3156
+      },
+      "legacyIds": [
+        "camp-hale"
+      ]
+    },
+    {
+      "id": "CO-EAGLE-BELDEN",
+      "name": "Belden Mining & Railroad Complex",
+      "location": "Belden Canyon / Battle Mountain",
+      "county": "Eagle County",
+      "category": "Ghost Town / Railroad / Mining & Mill Complex",
+      "componentType": "Mining Camp, Railroad Station & Industrial Complex",
+      "overview": [
+        "Belden developed in the narrow Eagle River canyon below Battle Mountain as a railroad, mining, and ore-handling center serving the mines above Gilman.",
+        "The Denver & Rio Grande station, mining settlement, mills, load-out facilities, waste-rock structures, and railroad corridor created a dense industrial landscape linking the mountain mines with regional transportation."
+      ],
+      "timeline": [
+        {
+          "year": "1879",
+          "text": "Historic mapping identified Belden in the canyon and recorded it as a Denver & Rio Grande railroad station."
+        },
+        {
+          "year": "1890s",
+          "text": "Mining expanded around Belden, with period reports describing substantial underground work, ore shipments, and a large workforce."
+        },
+        {
+          "year": "20th century",
+          "text": "Belden became an important canyon-floor component of the consolidated Eagle Mine system, including mill and load-out infrastructure."
+        },
+        {
+          "year": "Late 20th–21st centuries",
+          "text": "The area became part of the Eagle Mine Superfund cleanup, including stabilization of historic waste-rock cribbings and other mine-affected features."
+        }
+      ],
+      "features": [
+        {
+          "id": "belden-town",
+          "name": "Belden Townsite & Station Area",
+          "type": "Railroad / Settlement",
+          "confidence": "Confirmed",
+          "note": "The historic settlement and railroad station occupied the narrow canyon floor."
+        },
+        {
+          "id": "belden-industrial",
+          "name": "Mill & Load-Out Area",
+          "type": "Mining Infrastructure",
+          "confidence": "Confirmed",
+          "note": "Ore-processing and loading facilities connected Battle Mountain mining with the railroad."
+        },
+        {
+          "id": "belden-cribbings",
+          "name": "Waste-Rock Cribbings",
+          "type": "Mining Infrastructure",
+          "confidence": "Confirmed",
+          "note": "Large timber and later stabilization structures retain extensive historic mine waste along the canyon."
+        }
+      ],
+      "moreHistory": [
+        "Belden's position at river and railroad level made it a natural transfer point for mines located high on Battle Mountain. Ore, supplies, workers, and equipment moved through the canyon while the railroad connected the district to smelters and markets.",
+        "By the early 1890s period accounts described intensive operation at the Belden Mine, including multiple work shifts and substantial ore shipments. Those figures are best understood as contemporary reports rather than audited lifetime production totals.",
+        "During the twentieth century the canyon became increasingly integrated with the Eagle Mine system. Mill, load-out, railroad, and waste-rock features combined to form one of the district's most important industrial corridors.",
+        "The surviving canyon landscape remains heavily shaped by mining and later environmental stabilization, making the relationship between railroad engineering, ore handling, mine waste, and steep terrain especially visible."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.5255,
+        "longitude": -106.3861
+      }
+    },
+    {
+      "id": "CO-EAGLE-FULFORD-CAMP",
+      "name": "Fulford / Nolan's Creek Mining Camp",
+      "location": "Upper Brush Creek",
+      "county": "Eagle County",
+      "category": "Ghost Town / Mining Camp / Mining District",
+      "componentType": "Gold-Mining Camp & District",
+      "overview": [
+        "Fulford grew in the high country of upper Brush Creek during the late-nineteenth-century gold rush to the Nolan Creek and New York Mountain area.",
+        "The camp supported prospectors, miners, businesses, transportation, and hundreds of claims, becoming the principal settlement for a rugged mountain mining district."
+      ],
+      "timeline": [
+        {
+          "year": "1887",
+          "text": "Gold discoveries and mining activity intensified around New York Mountain, and historic mapping identified Camp Fulford."
+        },
+        {
+          "year": "1889–1891",
+          "text": "The settlement expanded as promoters and miners developed roads, claims, and mine-support services."
+        },
+        {
+          "year": "1891",
+          "text": "Arthur H. Fulford, a major promoter of the district, died in an avalanche."
+        },
+        {
+          "year": "1890s",
+          "text": "Gold mining sustained the camp through the decade, although regional financial disruptions affected investment."
+        },
+        {
+          "year": "Early 1900s",
+          "text": "Mining continued intermittently as activity shifted among the district's stronger properties."
+        }
+      ],
+      "features": [
+        {
+          "id": "fulford-townsite",
+          "name": "Fulford Townsite",
+          "type": "Mining Camp",
+          "confidence": "Confirmed",
+          "note": "The historic camp occupied the upper Brush Creek mining district and supported nearby gold mines."
+        },
+        {
+          "id": "fulford-remnants",
+          "name": "Cabin & Camp Remnants",
+          "type": "Historic Structures",
+          "confidence": "Confirmed",
+          "note": "Surviving and collapsed building remains mark portions of the former settlement."
+        },
+        {
+          "id": "fulford-mining-landscape",
+          "name": "Mining District Landscape",
+          "type": "Mining Landscape",
+          "confidence": "Confirmed",
+          "note": "Mine workings, roads, dumps, and related features surround the camp."
+        }
+      ],
+      "moreHistory": [
+        "Fulford was one of several names associated with mining settlement in the district, including Nolan Camp and Camp Fulford. Development accelerated as gold discoveries drew miners and capital into the upper Brush Creek country.",
+        "Arthur H. Fulford played an important role in promoting the district and improving access before his death in 1891. His name became closely associated with the camp that survived him.",
+        "The surrounding district contained numerous claims and mines, with the Polar Star becoming one of the better-known producers. The settlement functioned as the service center for this wider mining landscape.",
+        "Today the camp is best understood as a whole landscape of townsite remains, mining features, and mountain terrain rather than as a collection of isolated buildings."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.514985,
+        "longitude": -106.656423
+      }
+    },
+    {
+      "id": "CO-EAGLE-GILMAN-EAGLE-MINE",
+      "name": "Gilman / Eagle Mine & Company Town Complex",
+      "location": "Battle Mountain",
+      "county": "Eagle County",
+      "category": "Ghost Town / Company Town / Mine / Mining Complex",
+      "componentType": "Company Town & Integrated Underground Mine-Mill Complex",
+      "overview": [
+        "Gilman and the Eagle Mine formed one of Colorado's most important integrated base-metal mining complexes. The company town stood high on Battle Mountain above the Eagle River, while extensive underground workings and industrial facilities connected the mountain to the canyon below.",
+        "The district became especially important for zinc, while also producing silver, copper, lead, and gold during a long period of operation."
+      ],
+      "timeline": [
+        {
+          "year": "1879–1880s",
+          "text": "Mining developed on Battle Mountain as prospectors opened early silver and base-metal workings."
+        },
+        {
+          "year": "1912",
+          "text": "Empire Zinc began consolidating properties that would become part of the modern Eagle Mine system."
+        },
+        {
+          "year": "1918 onward",
+          "text": "Most of the district's productive replacement deposits were increasingly worked through the Eagle Mine."
+        },
+        {
+          "year": "1929",
+          "text": "An underground mill was constructed as the integrated mine system expanded."
+        },
+        {
+          "year": "1930s–1970s",
+          "text": "The operation became a major Colorado zinc producer while continuing to recover other metals."
+        },
+        {
+          "year": "1977–1984",
+          "text": "Most zinc operations ended in 1977; remaining mining ceased by 1984 and the mine flooded."
+        },
+        {
+          "year": "1986 onward",
+          "text": "The Eagle Mine entered the federal Superfund program, followed by extensive cleanup and remediation."
+        }
+      ],
+      "features": [
+        {
+          "id": "gilman-town",
+          "name": "Gilman Company Town",
+          "type": "Company Town",
+          "confidence": "Confirmed",
+          "note": "The former company town remains a highly visible concentration of historic buildings on Battle Mountain."
+        },
+        {
+          "id": "eagle-workings",
+          "name": "Eagle Mine Workings",
+          "type": "Underground Mine",
+          "confidence": "Confirmed",
+          "note": "The mine system ultimately included many miles of interconnected underground workings."
+        },
+        {
+          "id": "gilman-industrial",
+          "name": "Mine, Mill & Ore-Handling Landscape",
+          "type": "Mining Infrastructure",
+          "confidence": "Confirmed",
+          "note": "Surface and underground facilities connected the mine with canyon-level processing and transportation."
+        },
+        {
+          "id": "gilman-remediation",
+          "name": "Remediated Mining Landscape",
+          "type": "Environmental History",
+          "confidence": "Confirmed",
+          "note": "Tailings, waste-rock areas, and treatment systems document the site's later environmental history."
+        }
+      ],
+      "moreHistory": [
+        "Mining on Battle Mountain evolved from numerous earlier claims into a consolidated industrial system. Empire Zinc and later operators connected older workings through the Eagle Mine, transforming the district into a large-scale underground operation.",
+        "USGS studies describe the Gilman district as Colorado's leading historic zinc source. Through 1972, reported production of zinc, silver, copper, lead, and gold was valued at about $328 million in period dollars, with most of that value produced after 1930.",
+        "The company town developed alongside the mine and contained housing and community facilities for workers and their families. Its position above the Eagle River created one of Colorado's most dramatic mining-town settings.",
+        "Closure in the 1980s was followed by extensive environmental work. The modern landscape therefore reflects both a century of mining and decades of water-quality, waste-rock, and tailings remediation."
+      ],
+      "displayImages": [],
+      "production": {
+        "summary": "Gilman became one of Colorado's most important zinc-producing districts while also producing silver, copper, lead, and gold.",
+        "commodities": [
+          {
+            "name": "Zinc"
+          },
+          {
+            "name": "Silver"
+          },
+          {
+            "name": "Copper"
+          },
+          {
+            "name": "Lead"
+          },
+          {
+            "name": "Gold"
+          }
+        ]
+      },
+      "coordinates": {
+        "latitude": 39.532764,
+        "longitude": -106.393918
+      }
+    },
+    {
+      "id": "CO-EAGLE-GOLD-PARK",
+      "name": "Gold Park Mining Camp & Mill Complex",
+      "location": "Holy Cross Mining District",
+      "county": "Eagle County",
+      "category": "Ghost Town / Mining Camp / Mill Complex",
+      "componentType": "Mining Camp & Ore-Processing Complex",
+      "overview": [
+        "Gold Park was one of the two principal camps of the Holy Cross Mining District during the short-lived gold boom of the early 1880s.",
+        "The settlement supported mining and milling activity along the Homestake Creek area and was connected with Holy Cross City through an ambitious ore-transport system."
+      ],
+      "timeline": [
+        {
+          "year": "1880",
+          "text": "Historic mapping identified Gold Park as mining activity accelerated in the Holy Cross district."
+        },
+        {
+          "year": "1881",
+          "text": "A post office was established and the Gold Park Mining & Milling Company organized with extensive claim holdings."
+        },
+        {
+          "year": "1881–1882",
+          "text": "The camp expanded and two mills operated or were developed to serve surrounding mines."
+        },
+        {
+          "year": "1883",
+          "text": "Poor ore economics undermined the principal company venture and investment declined."
+        },
+        {
+          "year": "1884 onward",
+          "text": "The district rapidly contracted, leaving Gold Park as a short-lived mining camp and industrial landscape."
+        }
+      ],
+      "features": [
+        {
+          "id": "gold-park-town",
+          "name": "Gold Park Townsite",
+          "type": "Mining Camp",
+          "confidence": "Confirmed",
+          "note": "The former camp was a principal settlement of the Holy Cross Mining District."
+        },
+        {
+          "id": "gold-park-mills",
+          "name": "Mill Sites",
+          "type": "Ore Processing",
+          "confidence": "Confirmed",
+          "note": "Historic sources describe two mills associated with the camp."
+        },
+        {
+          "id": "gold-park-flume",
+          "name": "Ore-Flume Landscape",
+          "type": "Mining Infrastructure",
+          "confidence": "Confirmed",
+          "note": "An experimental transport system was developed between the Holy Cross City and Gold Park area."
+        }
+      ],
+      "moreHistory": [
+        "Gold Park briefly became larger than nearby Holy Cross City and served as a center for ambitious mining-company development in the district.",
+        "The Gold Park Mining & Milling Company controlled numerous claims on French Mountain and invested in ore-processing and transportation infrastructure.",
+        "One of the district's more unusual experiments was a long flume intended to move crushed ore between the Holy Cross City and Gold Park area. Grade and design problems limited its usefulness.",
+        "The collapse of the principal company effort after only a few years illustrates how quickly a high-country mining boom could rise and fall when ore failed to meet expectations."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.40554,
+        "longitude": -106.43336
+      }
+    },
+    {
+      "id": "CO-EAGLE-HOLY-CROSS-CITY",
+      "name": "Holy Cross City Mining Camp & Mill Complex",
+      "location": "Holy Cross Mining District",
+      "county": "Eagle County",
+      "category": "Ghost Town / Mining Camp / Mill Complex",
+      "componentType": "High-Altitude Gold Camp & Mill Complex",
+      "overview": [
+        "Holy Cross City was a high-elevation gold-mining camp that developed rapidly after discoveries in the Holy Cross Mining District in 1880.",
+        "The settlement combined cabins, businesses, mine-support services, and ore-processing infrastructure in an alpine setting above 11,000 feet."
+      ],
+      "timeline": [
+        {
+          "year": "1880",
+          "text": "Gold-bearing quartz discoveries triggered organization of the Holy Cross Mining District and rapid development of Holy Cross City."
+        },
+        {
+          "year": "1881",
+          "text": "The camp expanded quickly, with dozens of buildings and active investment in mines and milling."
+        },
+        {
+          "year": "1882",
+          "text": "The population reached roughly 200 during the peak of the boom."
+        },
+        {
+          "year": "1883",
+          "text": "Weak ore economics undermined major company investment and accelerated the camp's decline."
+        },
+        {
+          "year": "1884",
+          "text": "Holy Cross City was already becoming a ghost town, although limited mining continued later."
+        }
+      ],
+      "features": [
+        {
+          "id": "holy-cross-town",
+          "name": "Holy Cross City Townsite",
+          "type": "Mining Camp",
+          "confidence": "Confirmed",
+          "note": "Cabin and building remains mark the high-elevation settlement."
+        },
+        {
+          "id": "holy-cross-mill",
+          "name": "Mill & Ore-Processing Area",
+          "type": "Ore Processing",
+          "confidence": "Confirmed",
+          "note": "Mill ruins and industrial features document local attempts to process district ore."
+        },
+        {
+          "id": "holy-cross-mining",
+          "name": "Surrounding Mine Workings",
+          "type": "Mining Landscape",
+          "confidence": "Confirmed",
+          "note": "Claims and workings around the camp formed the economic basis of the settlement."
+        }
+      ],
+      "moreHistory": [
+        "The camp grew with unusual speed after 1880. Contemporary descriptions and later county histories record a compact high-country community with stores, saloons, an assay office, blacksmith, boarding facilities, and rows of miners' cabins.",
+        "Gold was the principal attraction, although silver mineralization was also reported. The district supported numerous claims whose promise drew substantial outside investment.",
+        "An experimental ore-transport flume attempted to connect mining and processing activity between Holy Cross City and Gold Park, but engineering and ore-quality problems limited the venture.",
+        "The remaining cabins, mill ruins, roads, and mining features create one of Eagle County's strongest surviving high-alpine mining-camp landscapes."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.414987,
+        "longitude": -106.478085
+      }
+    },
+    {
+      "id": "CO-EAGLE-RED-CLIFF",
+      "name": "Red Cliff Mining Town & Railroad Complex",
+      "location": "Eagle River Valley",
+      "county": "Eagle County",
+      "category": "Mining Town / Railroad / Mining District",
+      "componentType": "Mining Town & Railroad Gateway",
+      "overview": [
+        "Red Cliff developed in 1879 as a mining settlement at the base of Battle Mountain and became the principal early community serving the surrounding silver and gold mines.",
+        "Its role expanded when the Denver & Rio Grande railroad reached the town, connecting local mines with Leadville and regional ore markets."
+      ],
+      "timeline": [
+        {
+          "year": "1879",
+          "text": "Red Cliff was founded as mining expanded around Battle Mountain."
+        },
+        {
+          "year": "1883",
+          "text": "Red Cliff became the county seat when Eagle County was created, and the Denver & Rio Grande railroad reached the community."
+        },
+        {
+          "year": "1884",
+          "text": "A.H. Fulford's Ben Butler gold discovery helped renew interest in the surrounding district."
+        },
+        {
+          "year": "1880s–1890s",
+          "text": "Mining, railroad traffic, ore handling, and local businesses supported a busy canyon community."
+        },
+        {
+          "year": "20th century",
+          "text": "Red Cliff remained a transportation and service community as nearby mining increasingly centered on the Gilman/Eagle Mine system."
+        }
+      ],
+      "features": [
+        {
+          "id": "red-cliff-town",
+          "name": "Historic Town Core",
+          "type": "Mining Town",
+          "confidence": "Confirmed",
+          "note": "The town's historic street pattern and surviving buildings retain its mining-era setting."
+        },
+        {
+          "id": "red-cliff-rail",
+          "name": "Railroad Corridor & Station Landscape",
+          "type": "Railroad",
+          "confidence": "Confirmed",
+          "note": "The former D&RG corridor connected Red Cliff with Leadville, Minturn, and the Battle Mountain mines."
+        },
+        {
+          "id": "red-cliff-mining",
+          "name": "Battle Mountain Mining Landscape",
+          "type": "Mining District",
+          "confidence": "Confirmed",
+          "note": "Historic mines and industrial features rise above the town on Battle Mountain."
+        }
+      ],
+      "moreHistory": [
+        "Red Cliff's canyon location made it a natural gateway to Battle Mountain. Miners, merchants, rail workers, and ore traffic passed through the town as nearby properties developed.",
+        "The railroad transformed the settlement by providing dependable passenger, freight, telegraph, and ore-shipping connections. This helped integrate Battle Mountain production with Leadville and the wider Colorado mining economy.",
+        "Gold discoveries during the mid-1880s added another phase to a district that had begun with strong silver expectations. Period accounts describe substantial gold and total ore values during this revival.",
+        "Although mining later shifted toward the consolidated Gilman/Eagle Mine system, Red Cliff retained the physical character of an early railroad and mining town."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.509,
+        "longitude": -106.37
+      }
+    },
+    {
+      "id": "CO-EAGLE-TENNESSEE-PASS-RAILROAD",
+      "name": "Tennessee Pass D&RG/D&RGW Railroad Tunnel & Summit Complex",
+      "location": "Tennessee Pass",
+      "county": "Eagle County",
+      "category": "Railroad / Tunnel / Mountain Pass Infrastructure",
+      "componentType": "Railroad Summit, Tunnel & Grade Complex",
+      "overview": [
+        "Tennessee Pass carried one of Colorado's most important mountain railroad routes across the Continental Divide. The Denver & Rio Grande first crossed the pass on a steep narrow-gauge line before later tunnels lowered and improved the route.",
+        "The summit complex linked Leadville with Camp Hale, Red Cliff, Minturn, and the Eagle River valley and became a demanding helper district for heavy freight trains."
+      ],
+      "timeline": [
+        {
+          "year": "1881",
+          "text": "The Denver & Rio Grande completed its narrow-gauge railroad over Tennessee Pass."
+        },
+        {
+          "year": "1890",
+          "text": "A tunnel beneath the pass lowered the summit crossing during the transition toward improved and standard-gauge operations."
+        },
+        {
+          "year": "1945",
+          "text": "A second tunnel was completed to replace the earlier bore and modernize the route."
+        },
+        {
+          "year": "Mid-20th century",
+          "text": "Heavy freight and helper-locomotive operations made Tennessee Pass a major operating challenge for the Denver & Rio Grande Western."
+        },
+        {
+          "year": "1964",
+          "text": "Regular passenger service over the route ended."
+        },
+        {
+          "year": "1997",
+          "text": "Regular through freight operations ceased after railroad consolidation shifted traffic to other routes."
+        }
+      ],
+      "features": [
+        {
+          "id": "tennessee-1945-tunnel",
+          "name": "1945 Tennessee Pass Tunnel",
+          "type": "Railroad Tunnel",
+          "confidence": "Confirmed",
+          "note": "The later tunnel became the principal bore beneath the summit."
+        },
+        {
+          "id": "tennessee-old-grade",
+          "name": "1881 Summit Grade",
+          "type": "Railroad Grade",
+          "confidence": "Confirmed",
+          "note": "The original narrow-gauge route crossed higher terrain before tunnel construction."
+        },
+        {
+          "id": "tennessee-station",
+          "name": "Tennessee Pass Summit Station Area",
+          "type": "Railroad Operations",
+          "confidence": "Confirmed",
+          "note": "The summit included operating facilities associated with controlling and supporting mountain railroad traffic."
+        },
+        {
+          "id": "tennessee-helper",
+          "name": "Helper District & Mountain Grade",
+          "type": "Railroad Operations",
+          "confidence": "Confirmed",
+          "note": "Steep grades required helper locomotives and specialized operating practices."
+        }
+      ],
+      "moreHistory": [
+        "The original narrow-gauge route climbed directly over Tennessee Pass, creating a difficult mountain crossing that demanded careful railroad operation.",
+        "The 1890 tunnel reduced the elevation of the crossing, while the 1945 bore reflected another major modernization of a route carrying increasingly heavy trains.",
+        "The west side toward Minturn became famous for steep grades and helper operations. Extra locomotives were used to move heavy freight over the pass, linking the summit closely with the Minturn railroad yard.",
+        "The dormant railroad, tunnel portal, old grades, and summit landscape preserve the engineering story of more than a century of attempts to move rail traffic efficiently across the Continental Divide."
+      ],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.35927,
+        "longitude": -106.31232
+      }
+    },
+    {
+      "id": "CO-EAGLE-MINTURN-RAILROAD",
+      "name": "Minturn D&RGW Railroad Division Point & Yard Complex",
+      "location": "Minturn",
+      "county": "Eagle County",
+      "category": "Railroad / Industrial Complex",
+      "componentType": "Division Point / Yard / Depot Complex",
+      "overview": [
+        "Historic Denver & Rio Grande Western railroad division point and helper yard at Minturn. This basic record is available for Scan identification while the Full Explore page is still being prepared."
+      ],
+      "coordinates": {
+        "latitude": 39.58637,
+        "longitude": -106.43086
+      }
+    },
+    {
+      "id": "CO-EAGLE-RED-CLIFF-BRIDGE",
+      "name": "Red Cliff Bridge",
+      "location": "Red Cliff / Eagle River canyon",
+      "county": "Eagle County",
+      "category": "Transportation / Historic Bridge",
+      "componentType": "Steel Deck-Arch Highway Bridge",
+      "overview": [
+        "Historic steel deck-arch highway bridge above the Eagle River canyon near Red Cliff. This basic record is available for Scan identification while the Full Explore page is still being prepared."
+      ],
+      "coordinates": {
+        "latitude": 39.509,
+        "longitude": -106.379
+      }
+    }
+  ]
+}

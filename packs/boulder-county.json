@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 1,
+  "packId": "co-boulder-v11",
+  "county": "Boulder County",
+  "state": "Colorado",
+  "version": 11,
+  "mode": "remote",
+  "generatedAt": "2026-08-30T22:46:33.004716Z",
+  "updatedAt": "2026-08-30T22:46:33.004716Z",
+  "exploreSites": [
+    {
+      "id": "CO-BOULDER-GOLD-HILL",
+      "name": "Gold Hill Mining Town",
+      "location": "Gold Hill, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mining Town",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Gold Hill is a documented 1859 mining settlement whose present historic district preserves the community that grew beside the surrounding gold-mining landscape.",
+        "The current town, the original Horsfal Hill settlement area, Gold Run, individual mines, and district-scale workings are historically linked but remain distinct Remnant components."
+      ],
+      "timeline": [
+        {
+          "year": "1859",
+          "text": "Gold discoveries prompted the organization and rapid growth of the Gold Hill mining camp."
+        },
+        {
+          "year": "1860",
+          "text": "A major fire largely destroyed the original settlement, after which the community developed at the present town location."
+        },
+        {
+          "year": "1872",
+          "text": "Discovery of telluride ore contributed to a renewed mining boom in the Gold Hill area."
+        },
+        {
+          "year": "Late 19th–20th centuries",
+          "text": "Gold mining continued intermittently as the town evolved from boom camp into a lasting mountain community."
+        },
+        {
+          "year": "Today",
+          "text": "The historic district and surrounding mining landscape preserve evidence of the town’s residential, commercial, and mining history."
+        }
+      ],
+      "moreHistory": [
+        "USGS work identifies gold-bearing fissure veins, including important gold-telluride veins, as defining features of the Gold Hill mining area.",
+        "Remnant treats the present Gold Hill Historic District as the town record. The earlier Horsfal Hill townsite, Gold Run discovery landscape, Horsfal Mine remains, and other individual mines should not be collapsed into a single Scan target.",
+        "Exact first-discovery wording, peak population, and production from individual mines remain uncertain and are not presented as settled totals.",
+        "This entry is informational only. Historic buildings, mine openings, ruins, dumps, and private parcels should be observed only from lawful areas."
+      ],
+      "displayImages": [
+        {
+          "id": "gold-hill-main-street",
+          "title": "Gold Hill Historic District",
+          "label": "",
+          "source": {
+            "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gold_Hill_Historic_District_Gold_Hill_CO.jpg"
+          },
+          "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gold_Hill_Historic_District_Gold_Hill_CO.jpg",
+          "sourceNote": "Hustvedt, Wikimedia Commons. CC BY-SA 3.0.",
+          "credit": "Hustvedt / Wikimedia Commons. CC BY-SA 3.0."
+        }
+      ],
+      "features": [
+        {
+          "id": "gold-hill-town",
+          "name": "Gold Hill Historic District",
+          "type": "Mining Town",
+          "confidence": "Confirmed",
+          "note": "The surviving town and historic district form the principal identification target."
+        },
+        {
+          "id": "gold-hill-mining",
+          "name": "Gold Hill Mining Landscape",
+          "type": "Mining District",
+          "confidence": "Confirmed",
+          "note": "Surrounding mines, dumps, workings, and discovery areas are related to the town but remain separate components."
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-CARIBOU",
+      "name": "Caribou Ghost Town",
+      "location": "Caribou, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Ghost Town",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Caribou developed as a silver-mining settlement in the high country west of Boulder after major ore discoveries in the late 1860s.",
+        "The townsite, nearby Caribou Mine workings, historic mill locations, and later Caribou Ranch are historically related but are distinct Remnant components and should not be treated as one Scan target."
+      ],
+      "timeline": [
+        {
+          "year": "1869",
+          "text": "Silver discoveries established the Caribou mining district and led to development of the settlement."
+        },
+        {
+          "year": "1870s",
+          "text": "Caribou grew as mines, mills, businesses, and residences served the surrounding silver-mining district."
+        },
+        {
+          "year": "1878–1879",
+          "text": "Period photographs document the developed mining settlement and its mountain setting."
+        },
+        {
+          "year": "Late 19th century",
+          "text": "Fires, disease, changing ore economics, and declining mining activity contributed to the town’s contraction."
+        },
+        {
+          "year": "20th century",
+          "text": "Mining and exploration continued intermittently in the wider Caribou district, including later uranium exploration at the Caribou Mine."
+        }
+      ],
+      "moreHistory": [
+        "USGS records document Caribou as an established silver district by 1869 and map the surrounding mining landscape.",
+        "The Caribou Mine developed several named veins and remained a distinct mining component associated with, but separate from, the townsite.",
+        "Exact peak population, a complete business roster, and a single definitive abandonment date remain uncertain and are not presented as settled facts.",
+        "This entry is informational only and does not imply permission to enter historic structures, mine workings, or private property."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "features": [
+        {
+          "id": "caribou-townsite",
+          "name": "Caribou Townsite",
+          "type": "Ghost Town",
+          "confidence": "Confirmed",
+          "note": "The historic settlement area is the principal identification target for this entry."
+        },
+        {
+          "id": "caribou-mining-landscape",
+          "name": "Caribou Mining Landscape",
+          "type": "Mining District",
+          "confidence": "Confirmed",
+          "note": "Nearby mines, mill sites, dumps, and workings are historically related but remain distinct components."
+        }
+      ]
+    }
+  ],
+  "identificationSites": [
+    {
+      "id": "CO-BOULDER-ARAPAHOE-LODES",
+      "name": "Arapahoe Lodes Mine & Mill Complex",
+      "location": "Puzzler vicinity, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mine / Mill Complex",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "A restored bunkhouse and surviving mine-and-mill buildings identify this early-twentieth-century gold operation near Puzzler."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-BLUE-BIRD-MINE",
+      "name": "Blue Bird Mine & Caribou Ranch Mining Complex",
+      "location": "Caribou Ranch, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mine / Mill Complex",
+      "componentType": "Shaft / Mine",
+      "overview": [
+        "A surviving silver-mine complex with residences, a mill foundation, shafts, and ore-cart track, later served by the Eldora Line."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-CARDINAL-MILL",
+      "name": "Cardinal Mill & Mining Camp Complex",
+      "location": "Cardinal vicinity, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mill / Mining Camp",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "The rare surviving 1901 concentration mill at Cardinal was built for gold and silver ore and later became central to Boulder County's tungsten boom."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-CRISMAN-LOGAN",
+      "name": "Crisman–Logan Mine, Mill & Railroad Complex",
+      "location": "Crisman and Sunbeam Gulch, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mining Camp / Mine / Railroad Complex",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Crisman's canyon settlement grew around a concentrator, the Logan and Yellow Pine workings, and a narrow-gauge rail stop; floods erased much, but mine and railroad traces still define the landscape."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-SUPERIOR-INDUSTRIAL",
+      "name": "Superior Industrial Mine & Company Camp Complex",
+      "location": "Superior, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Coal Mine / Company Camp / Industrial Complex",
+      "componentType": "Shaft / Mine",
+      "overview": [
+        "Concrete foundations and large coal dumps mark Superior's Industrial Mine, once surrounded by a complete company camp of houses, shops, and loading works."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-WALL-STREET-COMPLEX",
+      "name": "Wall Street Gold Extraction Mine, Mill & Assay Complex",
+      "location": "Wall Street, Fourmile Canyon, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mining Camp / Mill Complex",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Wall Street's surviving 1901 assay office and massive stone mill ruins anchor a once-ambitious gold-processing camp tied to telluride mines and Fourmile Creek placers."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-BOULDER-CANYON-HYDRO",
+      "name": "Boulder Canyon Hydroelectric Project / Barker–Kossler System",
+      "location": "Boulder Canyon and Barker Reservoir, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Hydroelectric / Water / Industrial Complex",
+      "componentType": "Power / Industrial",
+      "overview": [
+        "Barker Dam anchors a 1910 gravity-fed hydroelectric system that carries water through Boulder Canyon to Kossler Reservoir and a steep penstock-powered plant."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-MAGNOLIA-MAMMOTH",
+      "name": "Magnolia Mining District & Rocky Mountain Mammoth Mine Complex",
+      "location": "Magnolia district, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mining District / Mine Complex",
+      "componentType": "Shaft / Mine",
+      "overview": [
+        "A restored wooden shaft house and surrounding workings mark one of the clearest surviving mines of Boulder County's Magnolia telluride-gold district."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-SALINA-SUMMERVILLE",
+      "name": "Salina–Summerville Mining Camps & Mill Landscape",
+      "location": "Salina and Gold Run, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mining Camp / Mine / Mill / Railroad Complex",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Salina and Summerville grew along Gold Run around telluride mines, ore mills, and a narrow-gauge rail connection; surviving camp fabric and industrial traces still mark the canyon."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-LAFAYETTE-COAL",
+      "name": "Lafayette Coal Mining Town & Simpson–Columbine Mine Landscape",
+      "location": "Lafayette, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Coal Mining Town / Mine / Industrial Landscape",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Lafayette grew around coal mines including Simpson and Columbine, leaving interpreted mine sites, buried workings, labor history, and former industrial corridors."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-LOUISVILLE-COAL",
+      "name": "Louisville Coal Mining Town & Hecla–Monarch Mine Landscape",
+      "location": "Louisville, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Coal Mining Town / Mine / Railroad Landscape",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Louisville grew around coal mines such as Hecla and Monarch, leaving a townscape shaped by shafts, rail loading, company housing, labor conflict, and immigrant mining families."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-MARSHALL-COAL-COMPLEX",
+      "name": "Marshall / Langford–Gorham Coal Camp & Mine Complex",
+      "location": "Marshall Mesa, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Coal Mining Camp / Mine / Railroad Complex",
+      "componentType": "Tramway",
+      "overview": [
+        "Marshall—once called Langford and Gorham—was an early Boulder coal camp with mines, loading works, and rail facilities; the reclaimed mesa still reflects more than a century of underground mining and mine-fire history."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-ELDORA-CAMP",
+      "name": "Eldora / Happy Valley–Eldorado Mining Camp & Historic District",
+      "location": "Eldora, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mining Camp / Historic District",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Eldora, also known historically as Happy Valley and Eldorado, is a surviving Boulder County mining camp and district with documented mine, mill, and railroad-era features."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-JAMESTOWN-DISTRICT",
+      "name": "Jamestown / Central Mining & Fluorspar District",
+      "location": "Jamestown, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mining Town / Mining District",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Jamestown anchors the historic Central mining district, where gold mining was followed by major fluorspar production and surviving mine and mill remnants."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-SUNSHINE-DISTRICT",
+      "name": "Sunshine Mining Camp & Inter-Ocean–White Crow Mine Landscape",
+      "location": "Sunshine, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mining Camp / Mining District",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Sunshine is a historic Boulder County mining camp associated with the Inter-Ocean and White Crow mine group and a surviving mining landscape."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-ROLLINS-PASS-MOFFAT-ROAD",
+      "name": "Rollins Pass / Moffat Road Hill Route Railroad Complex",
+      "location": "Rollins Pass, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Railroad / Historic Transportation",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "The Rollins Pass hill route preserves the former Moffat Road railroad complex, including historic grades, tunnels, trestle sites, and the Corona summit area."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-TUNGSTEN-DISTRICT",
+      "name": "Boulder County Tungsten District & Tungsten Ghost Town",
+      "location": "Tungsten and the Boulder County tungsten belt, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mining District / Ghost Town",
+      "componentType": "Mining District",
+      "overview": [
+        "The Boulder County tungsten district includes the historic Tungsten camp and the ferberite belt west of Boulder, where Colorado's first documented tungsten production began in 1900."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-SWITZERLAND-TRAIL",
+      "name": "Denver, Boulder & Western Railway / Switzerland Trail of America",
+      "location": "Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Railroad / Historic Transportation",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "The Switzerland Trail preserves the narrow-gauge grade of the Denver, Boulder & Western Railway, which served Boulder County mining districts and later carried excursion passengers."
+      ]
+    },
+    {
+      "id": "CO-BOULDER-WARD-DISTRICT",
+      "name": "Ward Mining Town & Columbia–Niwot–White Raven District",
+      "location": "Ward, Boulder County, Colorado",
+      "county": "Boulder County",
+      "category": "Mining Town / Mining District",
+      "componentType": "Mining District",
+      "overview": [
+        "Ward is a historic Boulder County mining town within a documented mineral district that includes the Columbia, Niwot, and White Raven mining landscape."
+      ]
+    }
+  ]
+}

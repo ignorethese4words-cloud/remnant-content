@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "packId": "co-dolores-v3",
+  "county": "Dolores County",
+  "state": "Colorado",
+  "version": 3,
+  "mode": "replace",
+  "updatedAt": "2026-08-26T13:00:00-06:00",
+  "exploreSites": [],
+  "identificationSites": [
+    {
+      "id": "CO-DOLORES-ATLANTIC-CABLE-MINE",
+      "name": "Atlantic Cable Mine & Headframe Complex",
+      "location": "Rico mining district, Dolores County, Colorado",
+      "county": "Dolores County",
+      "category": "Mine / Industrial Remnant",
+      "componentType": "Headframe",
+      "overview": [
+        "The Atlantic Cable Mine is documented as one of Rico's early profitable mines. Existing research supports the surviving headframe and associated mine landscape as a stable basic Scan identity."
+      ]
+    },
+    {
+      "id": "CO-DOLORES-DUNTON-MINING-CAMP",
+      "name": "Dunton Mining Camp & Townsite",
+      "location": "Dunton area, Dolores County, Colorado",
+      "county": "Dolores County",
+      "category": "Ghost Town / Mining Camp Complex",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Dunton is a documented historic mining camp with a substantially intact townscape. Existing research supports the historic camp and surviving buildings as a basic Scan identity; present ownership is background information and does not define access."
+      ]
+    },
+    {
+      "id": "CO-DOLORES-ENTERPRISE-NEWMAN-HILL",
+      "name": "Enterprise Mine & Newman Hill Silver Complex",
+      "location": "Rico mining district, Dolores County, Colorado",
+      "county": "Dolores County",
+      "category": "Mine / Mining Landscape",
+      "componentType": "Mine",
+      "overview": [
+        "The Enterprise Mine and Newman Hill workings form a documented major silver-mining complex in the Rico district and contributed prominently to the district's 1893 production peak. Existing research supports the complex as a basic Scan identity."
+      ]
+    },
+    {
+      "id": "CO-DOLORES-RICO-MINING-DISTRICT",
+      "name": "Rico / Pioneer Mining District & Historic Townsite",
+      "location": "Rico and the Pioneer mining district, Dolores County, Colorado",
+      "county": "Dolores County",
+      "category": "Mining District / Historic Mining Town",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Rico and the Pioneer mining district form a documented historic mining-town and industrial landscape. Federal geologic research supports the townsite and surrounding district as a basic Scan identity."
+      ]
+    },
+    {
+      "id": "CO-DOLORES-RICO-RGS-YARD",
+      "name": "Rico Rio Grande Southern Railroad Yard & Enginehouse Complex",
+      "location": "Rico, Dolores County, Colorado",
+      "county": "Dolores County",
+      "category": "Railroad / Industrial Archaeological Complex",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "The Rico Rio Grande Southern yard and enginehouse complex served mining traffic through the Rico district. Existing research supports the surviving archaeological railroad landscape as a basic Scan identity."
+      ]
+    },
+    {
+      "id": "CO-DOLORES-RICO-ARGENTINE-ST-LOUIS",
+      "name": "Rico-Argentine Mine & St. Louis Tunnel Complex",
+      "location": "Rico mining district, Dolores County, Colorado",
+      "county": "Dolores County",
+      "category": "Mine / Tunnel / Industrial Remediation Complex",
+      "componentType": "Adit / Portal",
+      "overview": [
+        "The Rico-Argentine Mine and St. Louis Tunnel form a documented interconnected mining and tunnel complex in the Rico district. Existing research supports the visible industrial and remediation landscape as a basic Scan identity."
+      ]
+    }
+  ]
+}
+

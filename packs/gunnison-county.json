@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "packId": "co-gunnison-v6",
+  "county": "Gunnison County",
+  "state": "Colorado",
+  "version": 6,
+  "mode": "replace",
+  "updatedAt": "2026-09-03T02:50:00Z",
+  "exploreSites": [],
+  "identificationSites": [
+    {
+      "id": "CO-GUNNISON-ANTHRACITE-SMITH-HILL",
+      "name": "Anthracite / Smith Hill / Cloud City Coal Camp & Mine Complex",
+      "location": "Anthracite / Smith Hill area",
+      "county": "Gunnison County",
+      "category": "Ghost Town / Coal Mine / Railroad",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Historic anthracite mine and Cloud City landscape; mine, rail load-out and camp are linked components."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-BALDWIN-COAL-CAMP",
+      "name": "Baldwin / Mount Carbon Coal-Mining Town & Mine Complex",
+      "location": "Ohio Creek / Baldwin",
+      "county": "Gunnison County",
+      "category": "Ghost Town / Coal Mine / Railroad",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "Historic Baldwin coal-mining settlement and railroad landscape; old and later Baldwin phases remain distinct."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-COLORADO-YULE-MARBLE",
+      "name": "Colorado-Yule Marble Quarry, Mill & Electric Railroad Complex",
+      "location": "Marble / Yule Creek",
+      "county": "Gunnison County",
+      "category": "Quarry / Mill / Industrial Railroad",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Parent identification for the Yule Marble quarry, Marble mill and electric railroad components."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-CRESTED-BUTTE-HISTORIC-DISTRICT",
+      "name": "Crested Butte Historic District / Mining & Coal Town",
+      "location": "Crested Butte",
+      "county": "Gunnison County",
+      "category": "Mining Town / Industrial / Railroad",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Historic coal-mining town and district; individual mines and rail features remain linked components."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-CRYSTAL-TOWNSITE",
+      "name": "Crystal Mining Townsite / Crystal City",
+      "location": "Crystal townsite",
+      "county": "Gunnison County",
+      "category": "Ghost Town / Mining Camp",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Historic Crystal townsite with surviving building fabric; Crystal Mill remains a linked distinct component."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-DOCTOR-SPRING-CREEK",
+      "name": "Doctor Mine & Spring Creek / Bogan’s Camp Complex",
+      "location": "Spring Creek district",
+      "county": "Gunnison County",
+      "category": "Mine / Mining Camp",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Doctor Mine and its linked worker-camp landscape form the parent Scan target."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-OHIO-CITY-MINING-TOWN",
+      "name": "Ohio City / Eagle City Mining Town",
+      "location": "Ohio City",
+      "county": "Gunnison County",
+      "category": "Historic Mining Town / Railroad",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "Historic Ohio City mining town; Eagle City is preserved as the predecessor settlement."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-PIEPLANT-MILL-CAMP",
+      "name": "Pieplant / Pie Plant Mill & Mining Camp",
+      "location": "Pieplant Creek / Taylor Park",
+      "county": "Gunnison County",
+      "category": "Mining Camp / Mill / Mine",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Historic mine-mill-camp complex in the Pieplant area."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-SCHOFIELD-CAMP",
+      "name": "Schofield Mining Camp / Townsite",
+      "location": "Schofield townsite",
+      "county": "Gunnison County",
+      "category": "Ghost Town / Mining Camp",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Historic Schofield mining camp and townsite; exact remnant count remains a research detail."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-STANDARD-MINE",
+      "name": "Standard Mine / Standard Metals Mine",
+      "location": "Ruby Mining District / Crested Butte area",
+      "county": "Gunnison County",
+      "category": "Mine / Mining Complex",
+      "componentType": "Historic District",
+      "overview": [
+        "Historic Standard/Standard Metals mine complex with extensive workings and surface remnants."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-STAR-MINE",
+      "name": "Star Mine Complex",
+      "location": "Tin Cup Mining District",
+      "county": "Gunnison County",
+      "category": "Mine / Mining Complex",
+      "componentType": "Shaft / Mine",
+      "overview": [
+        "Historic Star Mine complex with surviving shaft house, bunkhouse, sawmill and mining equipment."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-B24E-CRASH",
+      "name": "Taylor Park B-24E Bomber Crash Site",
+      "location": "Taylor Park",
+      "county": "Gunnison County",
+      "category": "Military / Aviation Crash Site",
+      "componentType": "Military / Aviation Crash Site",
+      "overview": [
+        "Sensitive WWII aviation crash and funerary site; identification only, with no disturbance or approach guidance."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-ABERDEEN-QUARRY",
+      "name": "Aberdeen Quarry & Quarry Camp / D&RG Spur Complex",
+      "location": "Aberdeen Quarry area southwest of Gunnison, Gunnison County, Colorado",
+      "county": "Gunnison County",
+      "category": "Quarry / Industrial Camp / Railroad",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "Aberdeen is a documented late-nineteenth-century granite quarry, worker camp, and Denver & Rio Grande spur complex. Quarry remains, the former townsite, and surviving camp material support the property as a basic Scan identity."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-FLORESTA-RUBY",
+      "name": "Floresta / Ruby Coal Mine & Mining Camp Complex",
+      "location": "Floresta / Ruby area, Gunnison County, Colorado",
+      "county": "Gunnison County",
+      "category": "Ghost Town / Coal Mine / Railroad",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "Floresta and Ruby form a documented coal-mine and company-camp landscape associated with Colorado Fuel & Iron operations. Mine, camp, and railroad remnants support the parent complex as a basic Scan identity."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-GOTHIC-TOWNSITE",
+      "name": "Gothic Mining Townsite",
+      "location": "Gothic, Gunnison County, Colorado",
+      "county": "Gunnison County",
+      "category": "Ghost Town / Mining Camp",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Gothic is a documented 1879 silver-mining townsite with surviving historic buildings and a stable modern identity through the Rocky Mountain Biological Laboratory. The townsite remains distinct from individual mines and buildings within the broader landscape."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-IRWIN-RUBY-CAMP",
+      "name": "Irwin / Ruby Camp Mining Town",
+      "location": "Irwin / Ruby Camp area, Gunnison County, Colorado",
+      "county": "Gunnison County",
+      "category": "Ghost Town / Mining Camp",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Irwin, historically known as Ruby Camp, is a documented mining-town landscape in the Ruby District. The parent identity includes the camp and its relationship to nearby workings such as the Forest Queen while keeping individual mine components distinct."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-OHIO-CREEK-EXTENSION",
+      "name": "Ohio Creek Extension Railroad Grade & Rock Culvert Complex",
+      "location": "Ohio Creek area, Gunnison County, Colorado",
+      "county": "Gunnison County",
+      "category": "Railroad / Industrial Ruins",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "The Ohio Creek Extension is a documented unfinished railroad-engineering landscape with an intact grade and three surviving stone culverts. These linked features support identification as one basic Scan complex."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-PITKIN-MINING-TOWN",
+      "name": "Pitkin / Quartzville Mining Town",
+      "location": "Pitkin, Gunnison County, Colorado",
+      "county": "Gunnison County",
+      "category": "Historic Mining Town / Railroad",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "Pitkin, originally known as Quartzville, is a documented historic mining town with strong railroad and surrounding-mine relationships. The town serves as the parent identity while related transportation and mining features remain distinct components."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-WHITEPINE-TOMICHI",
+      "name": "White Pine / Whitepine Mining Camp & Tomichi District Complex",
+      "location": "Gunnison County, Colorado",
+      "county": "Gunnison County",
+      "category": "Ghost Town / Mining Camp / Mining District",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B296=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B296&\"\" \"\"&$C296),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&\"&\"$C296),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B296&\"\" \"\"&$C296),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C296<>\"\"\"\",$C296,\"\"Historic Site\"\")))\"),\"Town / Camp\")",
+      "overview": [
+        "White Pine / Whitepine Mining Camp & Tomichi District Complex is a verified historic ghost town / mining camp / mining district site in Gunnison County."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-Tincup-MINING-TOWN",
+      "name": "Tin Cup / Tincup / Virginia City Mining Town",
+      "location": "Tin Cup / Tincup",
+      "county": "Gunnison County",
+      "category": "Historic Mining Town / Mining District",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Historic Tin Cup mining town, also known as Tincup and historically Virginia City; established around the nineteenth-century precious-metals district."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-CRYSTAL-MILL",
+      "name": "Crystal Mill / Sheep Mountain Power House",
+      "location": "Crystal area",
+      "county": "Gunnison County",
+      "category": "Mining Powerhouse / Industrial Landmark",
+      "componentType": "Power / Industrial",
+      "overview": [
+        "The 1892 Sheep Mountain powerhouse, commonly called Crystal Mill, used water power to support compressed-air mining equipment for nearby Crystal-area mines."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-ALPINE-TUNNEL-WEST",
+      "name": "Alpine Tunnel West Portal & Alpine Tunnel Station Complex",
+      "location": "Alpine Tunnel / Pitkin area",
+      "county": "Gunnison County",
+      "category": "Railroad / Historic Engineering",
+      "componentType": "Tunnel / Railroad Feature",
+      "overview": [
+        "Gunnison-side west portal and station complex of the historic Alpine Tunnel railroad district, including surviving railroad-engineering remnants."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-BON-TON-HOTEL",
+      "name": "Bon Ton Hotel / Pitkin Mining-Era Hotel",
+      "location": "Pitkin",
+      "county": "Gunnison County",
+      "category": "Historic Hotel / Mining Town Support",
+      "componentType": "Historic Building",
+      "overview": [
+        "Surviving Pitkin hotel rebuilt in 1904 after a 1903 fire, associated with the mining town and Alpine Tunnel-era rail traffic."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-FAIRVIEW-PEAK-LOOKOUT",
+      "name": "Fairview Peak Fire Lookout",
+      "location": "Fairview Peak / Pitkin area",
+      "county": "Gunnison County",
+      "category": "Forest Service / Fire Lookout / Historic Infrastructure",
+      "componentType": "Lookout / Historic Structure",
+      "overview": [
+        "Historic 1912 Forest Service fire lookout on Fairview Peak, later stabilized and restored as an important high-elevation lookout structure."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-CRESTED-BUTTE-DRG-DEPOT",
+      "name": "Crested Butte D&RG Railroad Depot",
+      "location": "Crested Butte",
+      "county": "Gunnison County",
+      "category": "Railroad / Mining Transportation",
+      "componentType": "Railroad Depot",
+      "overview": [
+        "Surviving Denver & Rio Grande depot dating to the early 1880s, serving freight and passengers in the Crested Butte mining and coal district."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-DORCHESTER-GUARD-STATION",
+      "name": "Dorchester Guard Station / Dorchester Townsite Remnant",
+      "location": "Taylor Park / Dorchester townsite",
+      "county": "Gunnison County",
+      "category": "Historic Forest Service / Ghost Town Remnant",
+      "componentType": "Guard Station / Historic Structure",
+      "overview": [
+        "1905 log structure surviving from the former Dorchester townsite; historically served community and later Forest Service functions."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-SPENCER-SCHOOL",
+      "name": "Spencer School / Spencer Ghost Town Schoolhouse",
+      "location": "Spencer area",
+      "county": "Gunnison County",
+      "category": "Mining Town / Rural School / Ghost Town Remnant",
+      "componentType": "Historic Schoolhouse",
+      "overview": [
+        "1902 one-room school complex surviving from the Spencer mining community and ghost-town landscape."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-GUNNISON-RIVER-BRIDGE-I",
+      "name": "Gunnison River Bridge I",
+      "location": "Gunnison / US 50 service road",
+      "county": "Gunnison County",
+      "category": "Historic Highway / Engineering",
+      "componentType": "Pratt Through-Truss Bridge",
+      "overview": [
+        "Historic 1920s rigid-connected Pratt through-truss bridge associated with early Colorado state-highway development."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-GUNNISON-RIVER-BRIDGE-II",
+      "name": "Gunnison River Bridge II",
+      "location": "Gunnison / US 50 service road",
+      "county": "Gunnison County",
+      "category": "Historic Highway / Engineering",
+      "componentType": "Pratt Through-Truss Bridge",
+      "overview": [
+        "Historic 1920s rigid-connected Pratt through-truss bridge, paired with Gunnison River Bridge I as a surviving early highway-engineering resource."
+      ]
+    },
+    {
+      "id": "CO-GUNNISON-FAIRVIEW-SCHOOLHOUSE",
+      "name": "Fairview Schoolhouse / Ohio Creek School District No. 10",
+      "location": "Ohio Creek area",
+      "county": "Gunnison County",
+      "category": "Historic Rural School / Mining-Area Community",
+      "componentType": "Historic Schoolhouse",
+      "overview": [
+        "Surviving 1906 Fairview Schoolhouse associated with Ohio Creek School District No. 10 and the surrounding historic rural and mining-area community."
+      ]
+    }
+  ],
+  "generatedAt": "2026-09-03T02:50:00Z"
+}

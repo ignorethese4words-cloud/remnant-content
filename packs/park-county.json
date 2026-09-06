@@ -1,0 +1,836 @@
+{
+  "schemaVersion": 1,
+  "packId": "co-park-v10",
+  "county": "Park County",
+  "state": "Colorado",
+  "version": 10,
+  "mode": "replace",
+  "updatedAt": "2026-08-28T13:50:00.000Z",
+  "exploreSites": [
+    {
+      "id": "CO-PARK-DOLLY-VARDEN",
+      "name": "Dolly Varden Mine",
+      "location": "Mount Bross / Alma area",
+      "county": "Park County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "The Dolly Varden is a documented mine within the Alma district and Mount Bross mining landscape.",
+        "Federal mapping and mineral-interest records preserve it as a distinct named property rather than a generic label for nearby workings."
+      ],
+      "timeline": [
+        {
+          "year": "1912",
+          "text": "Colorado Geological Survey Bulletin 3 treated the Dolly Varden within its study of the Alma district’s geology and ore deposits."
+        },
+        {
+          "year": "1965",
+          "text": "Federal mineral-interest records retained a Dolly Varden claims docket for silver and gold exploration."
+        },
+        {
+          "year": "Modern mapping",
+          "text": "USGS mapping continues to identify the Dolly Varden Mine on the Alma quadrangle."
+        }
+      ],
+      "moreHistory": [
+        "Colorado Geological Survey and USGS records independently preserve the mine’s identity and district context.",
+        "The federal exploration docket covers multiple claims and is not treated as proof that every associated working belonged to one historic operation.",
+        "Exact early operator sequence and lifetime production totals remain uncertain and are not estimated here."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "production": {
+        "summary": "Historical records identify silver and gold interest at the property, but no definitive lifetime production total is asserted here.",
+        "commodities": [
+          {
+            "name": "Silver",
+            "period": "Documented in district and federal mineral-interest records"
+          },
+          {
+            "name": "Gold",
+            "period": "Recorded in later federal exploration documentation"
+          }
+        ]
+      },
+      "legacyIds": [
+        "dolly-varden"
+      ]
+    },
+    {
+      "id": "CO-PARK-ALMA-JUNCTION",
+      "name": "Alma Junction Depot",
+      "location": "About one mile south of Alma",
+      "county": "Park County",
+      "category": "Railroad",
+      "componentType": "Depot",
+      "overview": [
+        "Alma Junction was the depot and junction south of Alma where the Fairplay–Alma branch terminated and a separate branch continued toward the North London Mill.",
+        "Historical references also use London Junction, London, and Alma Station; these aliases describe the same junction rather than separate sites."
+      ],
+      "timeline": [
+        {
+          "year": "1900–1915",
+          "text": "A Park County archival photograph documents the depot and junction during its operating era."
+        },
+        {
+          "year": "Railroad era",
+          "text": "The junction connected Alma-area passenger and freight service with the separate branch serving the North London Mill corridor."
+        },
+        {
+          "year": "1924",
+          "text": "Park County archival documentation records the depot’s closure."
+        }
+      ],
+      "moreHistory": [
+        "Park County Local History Archive item ph001787 identifies the depot about a mile south of Alma and documents the branch relationship.",
+        "USGS Bulletin 911 supplies authoritative geologic and mining context for the London fault district served by the junction.",
+        "The exact surviving footprint and later branch-abandonment chronology remain uncertain and are not inferred here."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "features": [
+        {
+          "id": "alma-depot",
+          "name": "Depot / Station Component",
+          "type": "Railroad",
+          "confidence": "Confirmed",
+          "note": "The depot served the junction south of Alma."
+        },
+        {
+          "id": "alma-branch",
+          "name": "North London Mill Branch Relationship",
+          "type": "Railroad",
+          "confidence": "Confirmed",
+          "note": "A separate branch continued from the junction toward the North London Mill."
+        }
+      ],
+      "legacyIds": [
+        "alma-junction"
+      ]
+    },
+    {
+      "id": "CO-PARK-COMO-DEPOT",
+      "name": "Como Railroad Depot",
+      "location": "Como",
+      "county": "Park County",
+      "category": "Railroad",
+      "componentType": "Depot",
+      "overview": [
+        "The Como Railroad Depot is a distinct component of the National Register-listed Como Roundhouse, Railroad Depot & Hotel Complex.",
+        "The depot, roundhouse, hotel, rail yard, and other Como features were related parts of the same railroad community, but each served a separate physical function."
+      ],
+      "timeline": [
+        {
+          "year": "Circa 1880",
+          "text": "The one-story frame depot and six-stall stone roundhouse date to Como’s early development as a Denver, South Park & Pacific operating point."
+        },
+        {
+          "year": "1897",
+          "text": "The later railroad hotel added another major component to the complex."
+        },
+        {
+          "year": "1938",
+          "text": "Rail operations at Como ended."
+        },
+        {
+          "year": "1983",
+          "text": "The Como Roundhouse, Railroad Depot & Hotel Complex was listed on the National Register of Historic Places."
+        }
+      ],
+      "moreHistory": [
+        "History Colorado and Park County records establish the complex and distinguish its principal components.",
+        "Como remained a busy division point after the Boreas Pass high line opened.",
+        "This record covers the depot component and does not merge it with the roundhouse or hotel."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "features": [
+        {
+          "id": "como-depot-feature",
+          "name": "Como Depot",
+          "type": "Railroad Station",
+          "confidence": "Confirmed",
+          "note": "The one-story frame depot is the subject of this record."
+        },
+        {
+          "id": "como-roundhouse-relation",
+          "name": "Roundhouse Relationship",
+          "type": "Railroad Complex",
+          "confidence": "Confirmed",
+          "note": "The nearby roundhouse is historically related but remains a separate component."
+        },
+        {
+          "id": "como-hotel-relation",
+          "name": "Railroad Hotel Relationship",
+          "type": "Railroad Complex",
+          "confidence": "Confirmed",
+          "note": "The later hotel is another separate component of the National Register complex."
+        }
+      ],
+      "legacyIds": [
+        "como-depot"
+      ]
+    },
+    {
+      "id": "CO-PARK-BUCKSKIN-JOE",
+      "name": "Buckskin Joe / Laurette / Buckskin",
+      "location": "Buckskin Gulch / west of Alma",
+      "county": "Park County",
+      "category": "Ghost Town / Mining Camp",
+      "componentType": "Historic Gold-Mining Townsite",
+      "overview": [
+        "Buckskin Joe, originally called Laurette, was one of Park County's earliest gold-rush settlements and briefly served as the county seat.",
+        "The camp grew around placer and lode gold mining, then declined rapidly as the richest early deposits were exhausted."
+      ],
+      "timeline": [
+        {
+          "year": "1860",
+          "text": "The settlement was organized as Laurette during the early South Park gold rush."
+        },
+        {
+          "year": "1861",
+          "text": "A post office opened and the mining community expanded."
+        },
+        {
+          "year": "1862",
+          "text": "The county seat moved to Buckskin Joe."
+        },
+        {
+          "year": "1867",
+          "text": "The county seat moved to Fairplay as Buckskin Joe declined."
+        }
+      ],
+      "moreHistory": [
+        "The original townsite should not be confused with the later tourist attraction that reused the Buckskin Joe name."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-PARK-DAUNTLESS",
+      "name": "Dauntless Mine / Tunnel",
+      "location": "Park County, Colorado",
+      "county": "Park County",
+      "category": "Mine / Tunnel",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B417=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B417&\"\" \"\"&$C417),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&\"&\"$C417),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B417&\"\" \"\"&$C417),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C417<>\"\"\"\",$C417,\"\"Historic Site\"\")))\"),\"Adit / Portal\")",
+      "overview": [
+        "Core research closed after targeted search.",
+        "USGS MRDS identifies Dauntless Mine/Dauntless Tunnel as a Park County underground past producer (silver primary; lead and zinc secondary) and provides a main-entrance anchor."
+      ],
+      "timeline": [
+        {
+          "year": "1952",
+          "text": "1952) confirms DMEA-aided exploration at the Dauntless tunnel through porphyry."
+        },
+        {
+          "year": "1957",
+          "text": "Kuhn, “Dauntless Tunnel and Lateral, Park County, Colorado,” 1957, Truman H."
+        }
+      ],
+      "moreHistory": [
+        "1952) confirms DMEA-aided exploration at the Dauntless tunnel through porphyry.",
+        "Corrected archive citation: Truman H.",
+        "Kuhn, “Dauntless Tunnel and Lateral, Park County, Colorado,” 1957, Truman H.",
+        "Kuhn papers, Collection 00799, Series VIII, Box 7 Folder 10, American Heritage Center, University of Wyoming.",
+        "Report contents are not online; early discovery/ownership, detailed workings, and defensible production totals remain explicit non-blocking unknowns."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-PARK-MAGNOLIA-MILL",
+      "name": "Magnolia Mine & Mill / Magnolia Mill",
+      "location": "Park County, Colorado",
+      "county": "Park County",
+      "category": "Mine / Mill / Mining Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B453=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B453&\"\" \"\"&$C453),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&\"&\"$C453),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B453&\"\" \"\"&$C453),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C453<>\"\"\"\",$C453,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+      "overview": [
+        "The Magnolia Mine and Mill complex is one of Park County's most recognizable surviving mining-industrial sites.",
+        "The standing mill represents the later phase of a property whose mine history reaches back to the 1880s and whose ore-processing system changed repeatedly as operators tried new technology."
+      ],
+      "timeline": [
+        {
+          "year": "1880s",
+          "text": "The Magnolia Mine began operating during Park County's hard-rock mining era."
+        },
+        {
+          "year": "1939",
+          "text": "Fire destroyed the earlier mill."
+        },
+        {
+          "year": "1940",
+          "text": "A replacement mill was completed and resumed ore treatment."
+        },
+        {
+          "year": "1942",
+          "text": "Mining and milling ceased during wartime shortages."
+        }
+      ],
+      "moreHistory": [
+        "The mine, aerial tram alignment, ore bins, mill, and surrounding Montgomery-area landscape are related but distinct components."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-PARK-MONTGOMERY",
+      "name": "Montgomery / Montgomery City Mining Townsite",
+      "location": "Park County, Colorado",
+      "county": "Park County",
+      "category": "Ghost Town / Mining Camp / Submerged Townsite",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B455=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B455&\"\" \"\"&$C455),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&\"&\"$C455),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B455&\"\" \"\"&$C455),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C455<>\"\"\"\",$C455,\"\"Historic Site\"\")))\"),\"Town / Camp\")",
+      "overview": [
+        "Montgomery was an early Park County mining town established after placer-gold discoveries near the base of Mount Lincoln.",
+        "The settlement supported numerous nearby mines and developed hotels, taverns, and other businesses before the mining boom faded."
+      ],
+      "timeline": [
+        {
+          "year": "1861",
+          "text": "Montgomery was established during the early South Park gold rush."
+        },
+        {
+          "year": "1862",
+          "text": "A Montgomery post office was established as the town expanded."
+        }
+      ],
+      "moreHistory": [
+        "The historic townsite and nearby mine landscapes should be treated separately from later reservoir development."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available"
+    },
+    {
+      "id": "CO-PARK-ORPHAN-BOY",
+      "name": "Orphan Boy Mine",
+      "location": "Mosquito Gulch near Alma",
+      "county": "Park County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "The Orphan Boy was a gold-and-silver mine in Mosquito Gulch near Alma, at the east foot of Loveland Mountain.",
+        "Colorado Geological Survey records place it within the Buckskin subdistrict of the greater Alma mining district and describe vein-and-manto mineralization in the Sawatch Quartzite."
+      ],
+      "timeline": [
+        {
+          "year": "1861",
+          "text": "EPA records identify the Orphan Boy as a gold-and-silver discovery from the opening years of the Alma district."
+        },
+        {
+          "year": "By 1912",
+          "text": "The Colorado Geological Survey compilation reports that more than 11,000 tons had been produced, while the exact lifetime total remains uncertain."
+        },
+        {
+          "year": "2024",
+          "text": "EPA carried out a removal action addressing mine-related environmental hazards."
+        },
+        {
+          "year": "January 14, 2025",
+          "text": "EPA recorded completion of the removal action."
+        }
+      ],
+      "moreHistory": [
+        "Colorado Geological Survey RS-40 and its Patton, Hoskin & Butler source trail document the mine’s geology and district setting.",
+        "EPA independently preserves the mine’s identity, commodity history, approximate elevation, and modern cleanup record.",
+        "Historic production figures are presented only as reported by the geological compilation; no modern reserve or grade estimate is inferred."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "production": {
+        "summary": "Historical sources document gold, silver, and associated base-metal ores; no definitive lifetime production total is asserted.",
+        "commodities": [
+          {
+            "name": "Gold",
+            "period": "Historic production documented"
+          },
+          {
+            "name": "Silver",
+            "period": "Historic production documented"
+          },
+          {
+            "name": "Base-metal ores",
+            "period": "Associated mineralization documented by the Colorado Geological Survey"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CO-PARK-PARIS",
+      "name": "Paris Mill & Paris Mine",
+      "location": "Buckskin Gulch near Alma",
+      "county": "Park County",
+      "category": "Mine / Mill",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "The Paris Mill processed gold-, silver-, and lead-bearing ore from the Paris Mine and nearby Buckskin Gulch workings.",
+        "Its surviving machinery and engineered systems make it one of Colorado’s comparatively intact examples of a late-nineteenth-century ore-processing mill."
+      ],
+      "timeline": [
+        {
+          "year": "1878",
+          "text": "South Park National Heritage Area records the discovery of the Paris Mine."
+        },
+        {
+          "year": "1894–1895",
+          "text": "Preservation sources describe construction beginning in 1894, while state and county records support completion in 1895."
+        },
+        {
+          "year": "1932",
+          "text": "The mill was adapted with flotation equipment as processing methods changed."
+        },
+        {
+          "year": "1937",
+          "text": "Major operations permanently closed."
+        },
+        {
+          "year": "2013",
+          "text": "The Paris Mill was listed in the National Register of Historic Places for its mining-industry significance."
+        }
+      ],
+      "moreHistory": [
+        "An aerial tram linked the mine and mill, reducing ore-transport costs in Buckskin Gulch.",
+        "History Colorado and Park County records document successive changes to the mill’s processing systems.",
+        "The construction sequence is retained as 1894–1895 rather than forced to a single year because preservation sources differ on start and completion."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "features": [
+        {
+          "id": "paris-mill",
+          "name": "Paris Mill",
+          "type": "Mill / Processing",
+          "confidence": "Confirmed",
+          "note": "The preserved mill and machinery are the principal interpretation focus."
+        },
+        {
+          "id": "paris-mine",
+          "name": "Paris Mine Relationship",
+          "type": "Mine",
+          "confidence": "Confirmed",
+          "note": "The mine supplied ore to the mill through an aerial-tram relationship."
+        }
+      ]
+    }
+  ],
+  "identificationSites": [
+    {
+      "id": "CO-PARK-DOLLY-VARDEN",
+      "name": "Dolly Varden Mine",
+      "location": "Mount Bross / Alma area",
+      "county": "Park County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "The Dolly Varden is a documented mine within the Alma district and Mount Bross mining landscape.",
+        "Federal mapping and mineral-interest records preserve it as a distinct named property rather than a generic label for nearby workings."
+      ],
+      "timeline": [
+        {
+          "year": "1912",
+          "text": "Colorado Geological Survey Bulletin 3 treated the Dolly Varden within its study of the Alma district’s geology and ore deposits."
+        },
+        {
+          "year": "1965",
+          "text": "Federal mineral-interest records retained a Dolly Varden claims docket for silver and gold exploration."
+        },
+        {
+          "year": "Modern mapping",
+          "text": "USGS mapping continues to identify the Dolly Varden Mine on the Alma quadrangle."
+        }
+      ],
+      "moreHistory": [
+        "Colorado Geological Survey and USGS records independently preserve the mine’s identity and district context.",
+        "The federal exploration docket covers multiple claims and is not treated as proof that every associated working belonged to one historic operation.",
+        "Exact early operator sequence and lifetime production totals remain uncertain and are not estimated here."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "production": {
+        "summary": "Historical records identify silver and gold interest at the property, but no definitive lifetime production total is asserted here.",
+        "commodities": [
+          {
+            "name": "Silver",
+            "period": "Documented in district and federal mineral-interest records"
+          },
+          {
+            "name": "Gold",
+            "period": "Recorded in later federal exploration documentation"
+          }
+        ]
+      },
+      "legacyIds": [
+        "dolly-varden"
+      ]
+    },
+    {
+      "id": "CO-PARK-ALMA-JUNCTION",
+      "name": "Alma Junction Depot",
+      "location": "About one mile south of Alma",
+      "county": "Park County",
+      "category": "Railroad",
+      "componentType": "Depot",
+      "overview": [
+        "Alma Junction was the depot and junction south of Alma where the Fairplay–Alma branch terminated and a separate branch continued toward the North London Mill.",
+        "Historical references also use London Junction, London, and Alma Station; these aliases describe the same junction rather than separate sites."
+      ],
+      "timeline": [
+        {
+          "year": "1900–1915",
+          "text": "A Park County archival photograph documents the depot and junction during its operating era."
+        },
+        {
+          "year": "Railroad era",
+          "text": "The junction connected Alma-area passenger and freight service with the separate branch serving the North London Mill corridor."
+        },
+        {
+          "year": "1924",
+          "text": "Park County archival documentation records the depot’s closure."
+        }
+      ],
+      "moreHistory": [
+        "Park County Local History Archive item ph001787 identifies the depot about a mile south of Alma and documents the branch relationship.",
+        "USGS Bulletin 911 supplies authoritative geologic and mining context for the London fault district served by the junction.",
+        "The exact surviving footprint and later branch-abandonment chronology remain uncertain and are not inferred here."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "features": [
+        {
+          "id": "alma-depot",
+          "name": "Depot / Station Component",
+          "type": "Railroad",
+          "confidence": "Confirmed",
+          "note": "The depot served the junction south of Alma."
+        },
+        {
+          "id": "alma-branch",
+          "name": "North London Mill Branch Relationship",
+          "type": "Railroad",
+          "confidence": "Confirmed",
+          "note": "A separate branch continued from the junction toward the North London Mill."
+        }
+      ],
+      "legacyIds": [
+        "alma-junction"
+      ]
+    },
+    {
+      "id": "CO-PARK-COMO-DEPOT",
+      "name": "Como Railroad Depot",
+      "location": "Como",
+      "county": "Park County",
+      "category": "Railroad",
+      "componentType": "Depot",
+      "overview": [
+        "The Como Railroad Depot is a distinct component of the National Register-listed Como Roundhouse, Railroad Depot & Hotel Complex.",
+        "The depot, roundhouse, hotel, rail yard, and other Como features were related parts of the same railroad community, but each served a separate physical function."
+      ],
+      "timeline": [
+        {
+          "year": "Circa 1880",
+          "text": "The one-story frame depot and six-stall stone roundhouse date to Como’s early development as a Denver, South Park & Pacific operating point."
+        },
+        {
+          "year": "1897",
+          "text": "The later railroad hotel added another major component to the complex."
+        },
+        {
+          "year": "1938",
+          "text": "Rail operations at Como ended."
+        },
+        {
+          "year": "1983",
+          "text": "The Como Roundhouse, Railroad Depot & Hotel Complex was listed on the National Register of Historic Places."
+        }
+      ],
+      "moreHistory": [
+        "History Colorado and Park County records establish the complex and distinguish its principal components.",
+        "Como remained a busy division point after the Boreas Pass high line opened.",
+        "This record covers the depot component and does not merge it with the roundhouse or hotel."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "features": [
+        {
+          "id": "como-depot-feature",
+          "name": "Como Depot",
+          "type": "Railroad Station",
+          "confidence": "Confirmed",
+          "note": "The one-story frame depot is the subject of this record."
+        },
+        {
+          "id": "como-roundhouse-relation",
+          "name": "Roundhouse Relationship",
+          "type": "Railroad Complex",
+          "confidence": "Confirmed",
+          "note": "The nearby roundhouse is historically related but remains a separate component."
+        },
+        {
+          "id": "como-hotel-relation",
+          "name": "Railroad Hotel Relationship",
+          "type": "Railroad Complex",
+          "confidence": "Confirmed",
+          "note": "The later hotel is another separate component of the National Register complex."
+        }
+      ],
+      "legacyIds": [
+        "como-depot"
+      ]
+    },
+    {
+      "id": "CO-PARK-LONDON-MINE-MILL",
+      "name": "London Mine & North London Mill Complex",
+      "location": "London Mine / North London Mill landscape",
+      "county": "Park County",
+      "category": "Mine / Mill / Tramway Complex",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Park County officially documents the North London Mill and its linked London Mine, tramway and associated mining complex."
+      ]
+    },
+    {
+      "id": "CO-PARK-SWEET-HOME",
+      "name": "Sweet Home Mine / Detroit City Rhodochrosite Mine",
+      "location": "Buckskin Gulch / Alma district",
+      "county": "Park County",
+      "category": "Mine / Mineral Specimen Mining Complex",
+      "componentType": "Mine",
+      "overview": [
+        "Historic Sweet Home workings and later Detroit City specimen-mining phase are linked but distinct components."
+      ]
+    },
+    {
+      "id": "CO-PARK-SNOWSTORM-DREDGE",
+      "name": "Snowstorm Dredge & Placer Mining Complex",
+      "location": "Fairplay mining district",
+      "county": "Park County",
+      "category": "Gold Dredge / Placer Mining Complex",
+      "componentType": "Dredge",
+      "overview": [
+        "Surviving Snowstorm Dredge and associated placer landscape form a discrete Scan target."
+      ]
+    },
+    {
+      "id": "CO-PARK-BOREAS-PASS-RR",
+      "name": "Boreas Pass Railroad Station & Summit Complex",
+      "location": "Boreas Pass",
+      "county": "Park County",
+      "category": "Railroad / Mountain Pass Complex",
+      "componentType": "Railroad Depot",
+      "overview": [
+        "Historic station/section-house and surviving railroad-grade landscape form the Scan parent."
+      ]
+    },
+    {
+      "id": "CO-PARK-COMO-ROUNDHOUSE-COMPLEX",
+      "name": "Como Roundhouse & Railroad Service Complex",
+      "location": "Como",
+      "county": "Park County",
+      "category": "Railroad / Maintenance / Industrial Complex",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "Surviving roundhouse/service-yard complex is the parent Scan target; the existing Como Depot remains a linked component."
+      ]
+    },
+    {
+      "id": "CO-PARK-BOSTON-COLORADO",
+      "name": "Boston & Colorado Smelter",
+      "location": "90 N. Main St., Alma, Park County, Colorado",
+      "county": "Park County",
+      "category": "Smelter",
+      "componentType": "Smelter",
+      "overview": [
+        "The Alma branch of the Boston and Colorado Smelting Company was completed in 1873 to treat ore from mines on Mounts Lincoln and Bross. Park County landmark records support its identity, surviving location, and importance to Alma's early mining economy."
+      ]
+    },
+    {
+      "id": "CO-PARK-HILLTOP",
+      "name": "Hilltop Mine",
+      "location": "Upper eastern slope of the Mosquito Range, Park County, Colorado",
+      "county": "Park County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "Hilltop was the most productive documented mine in the Horseshoe district and was linked by a long aerial tram to the Leavick mill. USGS and Colorado School of Mines sources support the identity and location while preserving uncertainty over the reported discovery date."
+      ]
+    },
+    {
+      "id": "CO-PARK-LEAVICK",
+      "name": "Leavick Mining Town & Hilltop Mill",
+      "location": "Fourmile Creek / Horseshoe Gulch, Park County, Colorado",
+      "county": "Park County",
+      "category": "Mining Town / Mill",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Leavick was a mining settlement and mill center on Fourmile Creek closely tied to the Hilltop operation, its aerial tram, and short-lived railroad service. Archival and architectural-history sources support the identity and location; conflicting mill-construction dates remain intentionally unresolved."
+      ]
+    },
+    {
+      "id": "CO-PARK-MOSQUITO",
+      "name": "Mosquito Pass Mining Corridor",
+      "location": "Mosquito Pass corridor, Park County",
+      "county": "Park County",
+      "category": "Mining Corridor",
+      "componentType": "Historic Route",
+      "overview": [
+        "Mosquito Pass is a historic mining and transportation corridor linking South Park with the Leadville side of the Mosquito Range.",
+        "This record covers the corridor itself; named mines, mills, and camps along it remain separate components."
+      ]
+    },
+    {
+      "id": "CO-PARK-ORPHAN-BOY",
+      "name": "Orphan Boy Mine",
+      "location": "Mosquito Gulch near Alma",
+      "county": "Park County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "The Orphan Boy was a gold-and-silver mine in Mosquito Gulch near Alma, at the east foot of Loveland Mountain.",
+        "Colorado Geological Survey records place it within the Buckskin subdistrict of the greater Alma mining district and describe vein-and-manto mineralization in the Sawatch Quartzite."
+      ],
+      "timeline": [
+        {
+          "year": "1861",
+          "text": "EPA records identify the Orphan Boy as a gold-and-silver discovery from the opening years of the Alma district."
+        },
+        {
+          "year": "By 1912",
+          "text": "The Colorado Geological Survey compilation reports that more than 11,000 tons had been produced, while the exact lifetime total remains uncertain."
+        },
+        {
+          "year": "2024",
+          "text": "EPA carried out a removal action addressing mine-related environmental hazards."
+        },
+        {
+          "year": "January 14, 2025",
+          "text": "EPA recorded completion of the removal action."
+        }
+      ],
+      "moreHistory": [
+        "Colorado Geological Survey RS-40 and its Patton, Hoskin & Butler source trail document the mine’s geology and district setting.",
+        "EPA independently preserves the mine’s identity, commodity history, approximate elevation, and modern cleanup record.",
+        "Historic production figures are presented only as reported by the geological compilation; no modern reserve or grade estimate is inferred."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "production": {
+        "summary": "Historical sources document gold, silver, and associated base-metal ores; no definitive lifetime production total is asserted.",
+        "commodities": [
+          {
+            "name": "Gold",
+            "period": "Historic production documented"
+          },
+          {
+            "name": "Silver",
+            "period": "Historic production documented"
+          },
+          {
+            "name": "Base-metal ores",
+            "period": "Associated mineralization documented by the Colorado Geological Survey"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CO-PARK-PARIS",
+      "name": "Paris Mill & Paris Mine",
+      "location": "Buckskin Gulch near Alma",
+      "county": "Park County",
+      "category": "Mine / Mill",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "The Paris Mill processed gold-, silver-, and lead-bearing ore from the Paris Mine and nearby Buckskin Gulch workings.",
+        "Its surviving machinery and engineered systems make it one of Colorado’s comparatively intact examples of a late-nineteenth-century ore-processing mill."
+      ],
+      "timeline": [
+        {
+          "year": "1878",
+          "text": "South Park National Heritage Area records the discovery of the Paris Mine."
+        },
+        {
+          "year": "1894–1895",
+          "text": "Preservation sources describe construction beginning in 1894, while state and county records support completion in 1895."
+        },
+        {
+          "year": "1932",
+          "text": "The mill was adapted with flotation equipment as processing methods changed."
+        },
+        {
+          "year": "1937",
+          "text": "Major operations permanently closed."
+        },
+        {
+          "year": "2013",
+          "text": "The Paris Mill was listed in the National Register of Historic Places for its mining-industry significance."
+        }
+      ],
+      "moreHistory": [
+        "An aerial tram linked the mine and mill, reducing ore-transport costs in Buckskin Gulch.",
+        "History Colorado and Park County records document successive changes to the mill’s processing systems.",
+        "The construction sequence is retained as 1894–1895 rather than forced to a single year because preservation sources differ on start and completion."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "features": [
+        {
+          "id": "paris-mill",
+          "name": "Paris Mill",
+          "type": "Mill / Processing",
+          "confidence": "Confirmed",
+          "note": "The preserved mill and machinery are the principal interpretation focus."
+        },
+        {
+          "id": "paris-mine",
+          "name": "Paris Mine Relationship",
+          "type": "Mine",
+          "confidence": "Confirmed",
+          "note": "The mine supplied ore to the mill through an aerial-tram relationship."
+        }
+      ]
+    },
+    {
+      "id": "CO-REGIONAL-ALPINE-LOOP",
+      "name": "Alpine Loop Back Country Byway",
+      "location": "San Juan Mountains, Colorado",
+      "county": "Park County",
+      "category": "Historic Mining Route",
+      "componentType": "Historic Route",
+      "overview": [
+        "The Alpine Loop is a documented historic mining-route system linking major San Juan mining communities and landscapes."
+      ]
+    },
+    {
+      "id": "CO-PARK-COLORADO-SALT-WORKS",
+      "name": "Colorado Salt Works Industrial Site",
+      "location": "Hartsel area, Park County, Colorado",
+      "county": "Park County",
+      "category": "Early Industrial / Mineral Processing",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Colorado Salt Works preserves rare nineteenth-century salt-production remains associated with mineral processing and regional industry."
+      ]
+    },
+    {
+      "id": "CO-PARK-ESTABROOK-RR-DISTRICT",
+      "name": "Estabrook DSP&P Railroad & Resort Historic District",
+      "location": "Estabrook / Bailey area, Park County, Colorado",
+      "county": "Park County",
+      "category": "Railroad / Resort / Historic District",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "Estabrook preserves a Denver, South Park & Pacific railroad and resort landscape with depot, roadbed, bridge, and related historic structures."
+      ]
+    },
+    {
+      "id": "CO-PARK-SOUTH-PARK-CITY",
+      "name": "South Park City Mining Museum",
+      "location": "Fairplay, Park County, Colorado",
+      "county": "Park County",
+      "category": "Museum / Historic Site",
+      "componentType": "Museum / Historic Site",
+      "overview": [
+        "South Park City is a historic outdoor museum and recreation of a frontier mining community using relocated authentic Park County buildings."
+      ]
+    }
+  ],
+  "generatedAt": "2026-08-28T13:50:00.000Z"
+}
