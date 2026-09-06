@@ -22,10 +22,10 @@
       "county": "Clear Creek County",
       "exploreSiteCount": 72,
       "idOnlySiteCount": 211,
-      "packId": "co-clear-creek-v84",
+      "packId": "co-clear-creek-v85",
       "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/clear-creek-county.json",
       "state": "Colorado",
-      "version": 84
+      "version": 85
     },
     {
       "county": "Dolores County",
@@ -173,7 +173,7 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T16:04:07.720Z",
+  "updatedAt": "2026-09-06T01:47:10.951Z",
   "delivery": "github",
   "githubHostedCounties": [
     "Boulder County",

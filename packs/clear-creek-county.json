@@ -42,7 +42,7 @@
       ],
       "name": "Argo Tunnel & Mill",
       "overview": [
-        "The Argo complex centers on a major mining tunnel developed to drain and serve mines in the Central City\u2013Idaho Springs region, together with the later milling and ore-handling facilities at its Idaho Springs portal.",
+        "The Argo complex centers on a major mining tunnel developed to drain and serve mines in the Central City–Idaho Springs region, together with the later milling and ore-handling facilities at its Idaho Springs portal.",
         "The tunnel portal, ore bins and dump, mill, and later preservation features are related but distinct parts of the larger industrial site."
       ],
       "timeline": [
@@ -125,7 +125,7 @@
       ],
       "timeline": [
         {
-          "text": "Silver discoveries and mine development drove the growth of Silver Plume as one of Colorado\u2019s important early silver camps.",
+          "text": "Silver discoveries and mine development drove the growth of Silver Plume as one of Colorado’s important early silver camps.",
           "year": "19th century"
         },
         {
@@ -141,7 +141,7 @@
           "year": "1941"
         },
         {
-          "text": "The town and railroad landscape remain central components of the Georgetown\u2013Silver Plume historic district.",
+          "text": "The town and railroad landscape remain central components of the Georgetown–Silver Plume historic district.",
           "year": "Today"
         }
       ]
@@ -178,14 +178,14 @@
       "location": "Idaho Springs",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
-        "Idaho Springs began as a gold-rush settlement after one of Colorado\u2019s foundational placer discoveries. As nearby mining shifted from placer gravels to hard-rock veins, the town developed into a durable center for supplies, finance, transportation, processing, lodging, and labor.",
+        "Idaho Springs began as a gold-rush settlement after one of Colorado’s foundational placer discoveries. As nearby mining shifted from placer gravels to hard-rock veins, the town developed into a durable center for supplies, finance, transportation, processing, lodging, and labor.",
         "The Miner Street commercial district contains mostly one- and two-story brick buildings with a smaller number of surviving frame structures. Their form reflects late Victorian and early twentieth-century commercial architecture rather than the rough false-front character of the earliest camp.",
         "The district is a broad historic landscape containing many individual sites. Major features such as the Argo Tunnel & Mill, hose houses, Miner Street Bridge, and other structures remain historically connected to the larger Idaho Springs story.",
-        "The historic bird\u2019s-eye image used here is especially useful for understanding the scale, street pattern, surrounding terrain, and relationship between the town and mining landscape."
+        "The historic bird’s-eye image used here is especially useful for understanding the scale, street pattern, surrounding terrain, and relationship between the town and mining landscape."
       ],
       "name": "Idaho Springs Downtown Commercial District / Historic Idaho Springs Core",
       "overview": [
-        "The historic commercial core of Idaho Springs grew from the 1859 gold rush into the principal supply and service center for the surrounding Clear Creek mining districts. Miner Street and adjoining blocks preserve the brick commercial buildings, storefronts, civic structures, and street pattern that replaced the community\u2019s earliest tent and wood-frame settlement.",
+        "The historic commercial core of Idaho Springs grew from the 1859 gold rush into the principal supply and service center for the surrounding Clear Creek mining districts. Miner Street and adjoining blocks preserve the brick commercial buildings, storefronts, civic structures, and street pattern that replaced the community’s earliest tent and wood-frame settlement.",
         "The district shows the town side of the mining landscape: hardware stores, banks, offices, saloons, markets, lodging, transportation, and services that supported mines throughout the surrounding mountains."
       ],
       "timeline": [
@@ -194,7 +194,7 @@
           "year": "1859"
         },
         {
-          "text": "The settlement was known by several early names, including Jackson\u2019s Diggings, Sacramento City, and Idaho/Idaho City, before the Idaho Springs name became established.",
+          "text": "The settlement was known by several early names, including Jackson’s Diggings, Sacramento City, and Idaho/Idaho City, before the Idaho Springs name became established.",
           "year": "1859"
         },
         {
@@ -203,11 +203,11 @@
         },
         {
           "text": "Many of the brick commercial buildings that define the present historic core were constructed during this period, replacing earlier frame buildings.",
-          "year": "1877\u20131920"
+          "year": "1877–1920"
         },
         {
           "text": "The downtown commercial core received formal historic-district recognition and preservation protections.",
-          "year": "1983\u20131984"
+          "year": "1983–1984"
         }
       ]
     },
@@ -215,7 +215,18 @@
       "category": "Ghost Town / Mining Camp / Mining Infrastructure",
       "componentType": "Historic Mining-Mill Settlement / Townsite",
       "county": "Clear Creek County",
-      "displayImages": [],
+      "displayImages": [
+        {
+          "id": "bakerville-1868-stiffler",
+          "title": "Bakerville, Colorado — 1868",
+          "label": "HISTORIC • PUBLIC DOMAIN",
+          "source": {
+            "uri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/clear-creek/bakerville-1868-stiffler.png"
+          },
+          "remoteUri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/clear-creek/bakerville-1868-stiffler.png",
+          "sourceNote": "George W. Stiffler, 1868. Public domain. Source retained for provenance; app delivery uses Remnant-controlled media copy."
+        }
+      ],
       "features": [
         {
           "id": "townsite",
@@ -230,13 +241,12 @@
       ],
       "id": "CO-CLEAR-CREEK-BAKERVILLE",
       "location": "Bakerville historic settlement, Clear Creek County",
-      "mediaNotice": "Historic image not available",
       "moreHistory": [
         "The surviving landscape is best understood as a mining-support settlement surrounded by separate mines, mills, and transportation features."
       ],
       "name": "Bakerville Mining Camp / Bakerville",
       "overview": [
-        "Bakerville developed as an early mining settlement in the Clear Creek high country during the 1860s. It supported mining and milling activity near the base of Kelso Mountain and the Grays\u2013Torreys area.",
+        "Bakerville developed as an early mining settlement in the Clear Creek high country during the 1860s. It supported mining and milling activity near the base of Kelso Mountain and the Grays–Torreys area.",
         "The historic settlement was distinct from the Baker Mining Company mill and nearby individual mine workings, even though all were part of the same mining landscape."
       ],
       "state": "Colorado",
@@ -276,7 +286,7 @@
       "location": "Georgetown Loop, Clear Creek County",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
-        "The high bridge is best understood as one part of the Georgetown Loop\u2019s larger elevation-gaining railroad system. Its importance comes from the way the bridge and looping grade worked together to move trains through the steep Clear Creek canyon.",
+        "The high bridge is best understood as one part of the Georgetown Loop’s larger elevation-gaining railroad system. Its importance comes from the way the bridge and looping grade worked together to move trains through the steep Clear Creek canyon.",
         "Because the structure standing today is a reconstruction, Remnant distinguishes the surviving modern bridge from the original 1884 operating-era structure."
       ],
       "name": "Devil's Gate High Bridge / Georgetown Loop High Bridge",
@@ -308,7 +318,18 @@
         "longitude": -105.713344
       },
       "county": "Clear Creek County",
-      "displayImages": [],
+      "displayImages": [
+        {
+          "id": "lebanon-entrance-2012-magicpiano",
+          "title": "Lebanon Mine Tunnel Entrance",
+          "label": "MODERN DOCUMENTARY • CC BY-SA",
+          "source": {
+            "uri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/clear-creek/lebanon-entrance-2012-magicpiano.jpg"
+          },
+          "remoteUri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/clear-creek/lebanon-entrance-2012-magicpiano.jpg",
+          "sourceNote": "Magicpiano, 2012. CC BY-SA. Source retained for provenance; app delivery uses Remnant-controlled media copy."
+        }
+      ],
       "features": [
         {
           "id": "lebanon",
@@ -322,15 +343,14 @@
         }
       ],
       "id": "CO-CLEAR-CREEK-LEBANON-EVERETT",
-      "location": "Georgetown\u2013Silver Plume mining district",
-      "mediaNotice": "Historic image not available",
+      "location": "Georgetown–Silver Plume mining district",
       "moreHistory": [
-        "The Lebanon and Everett workings belong to the mining history of the Georgetown\u2013Silver Plume district even though they are often encountered in the same landscape as the Georgetown Loop railroad.",
+        "The Lebanon and Everett workings belong to the mining history of the Georgetown–Silver Plume district even though they are often encountered in the same landscape as the Georgetown Loop railroad.",
         "Keeping the mine tunnels separate from nearby railroad features helps identify the surviving portal as mining infrastructure rather than transportation infrastructure."
       ],
       "name": "Lebanon & Everett Mine Tunnels / Lebanon Silver Mine",
       "overview": [
-        "The Lebanon and Everett tunnels are historic silver-mine workings associated with the Georgetown\u2013Silver Plume mining district. The tunnel complex is a mine feature, not part of the railroad itself.",
+        "The Lebanon and Everett tunnels are historic silver-mine workings associated with the Georgetown–Silver Plume mining district. The tunnel complex is a mine feature, not part of the railroad itself.",
         "The Lebanon and Everett workings were distinct from the Georgetown Loop railroad but were historically connected within the same mining landscape."
       ],
       "state": "Colorado",
@@ -456,7 +476,7 @@
       "location": "Kelso Mountain / Argentine district, Clear Creek County",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
-        "The Baker property\u2019s historical importance comes from both its early silver discovery and its close relationship with the settlement that became Bakerville.",
+        "The Baker property’s historical importance comes from both its early silver discovery and its close relationship with the settlement that became Bakerville.",
         "Period descriptions of tunnels, connected workings, ore, and milling activity show that Baker was more than a single opening; it was part of a developed mine-and-mill operation within the Argentine district."
       ],
       "name": "Baker Mine / Baker Lode / Baker Silver Mine",
@@ -467,7 +487,7 @@
       "state": "Colorado",
       "timeline": [
         {
-          "text": "John Baker, William Fletcher Kelso, and Richard \u201cDick\u201d Irwin are credited in historical district sources with the discovery.",
+          "text": "John Baker, William Fletcher Kelso, and Richard “Dick” Irwin are credited in historical district sources with the discovery.",
           "year": "1865"
         },
         {
@@ -505,7 +525,7 @@
       "location": "Brown Gulch west of Silver Plume, Clear Creek County",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
-        "Brown\u2019s early identity predates its later inclusion in the Terrible Consolidation. Treating Brown as its own record preserves that earlier phase of the Silver Plume mining story.",
+        "Brown’s early identity predates its later inclusion in the Terrible Consolidation. Treating Brown as its own record preserves that earlier phase of the Silver Plume mining story.",
         "The later consolidation illustrates a common pattern in mature mining districts, where formerly separate claims and workings became part of larger operating systems."
       ],
       "name": "Brown Mine / Brown Lode",
@@ -517,7 +537,7 @@
       "timeline": [
         {
           "text": "Historical references document active work and ore from the Brown Mine during the early Silver Plume boom.",
-          "year": "1868\u20131870"
+          "year": "1868–1870"
         },
         {
           "text": "Contemporary historical indexing described the Brown as a well-known mine in the district.",
@@ -552,7 +572,7 @@
         }
       ],
       "id": "CO-CLEAR-CREEK-CONQUEROR",
-      "location": "North Empire Creek / Upper Union\u2013Empire district, Clear Creek County",
+      "location": "North Empire Creek / Upper Union–Empire district, Clear Creek County",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
         "The Conqueror landscape included both underground workings and a surface support complex, including a mill and boardinghouse during its operating years.",
@@ -601,7 +621,7 @@
       "mediaNotice": "Historic image not available",
       "moreHistory": [
         "The Empire district is a parent historical landscape rather than one mine. It provides context for numerous separate Remnant records, including North Empire and major mine properties in the surrounding area.",
-        "Its history also shows the district\u2019s transition from early oxidized and placer material to deeper lode mining, followed by later periods of renewed activity."
+        "Its history also shows the district’s transition from early oxidized and placer material to deeper lode mining, followed by later periods of renewed activity."
       ],
       "name": "Empire Mining District / Upper Union Mining District",
       "overview": [
@@ -612,11 +632,11 @@
       "timeline": [
         {
           "text": "Gold-bearing oxidized material was discovered and early miners worked decomposed surface material and placers.",
-          "year": "1860\u20131862"
+          "year": "1860–1862"
         },
         {
           "text": "Lode mining expanded across the district as deeper sulfide ore bodies were developed.",
-          "year": "1860s\u20131870s"
+          "year": "1860s–1870s"
         },
         {
           "text": "District activity declined from its first boom but continued intermittently.",
@@ -624,7 +644,7 @@
         },
         {
           "text": "The district revived strongly with development of the Minnesota Mine before wartime gold-mine restrictions curtailed activity.",
-          "year": "1930s\u20131940s"
+          "year": "1930s–1940s"
         }
       ]
     },
@@ -650,12 +670,12 @@
       "mediaNotice": "Historic image not available",
       "moreHistory": [
         "Coach No. 70 survives as a piece of the passenger equipment used on Colorado narrow-gauge railroads rather than as a stationary building or mine feature.",
-        "Its preservation with Engine No. 60 in Idaho Springs provides a tangible link to the railroad network that served Clear Creek County\u2019s mining communities."
+        "Its preservation with Engine No. 60 in Idaho Springs provides a tangible link to the railroad network that served Clear Creek County’s mining communities."
       ],
       "name": "Colorado & Southern Coach No. 70 / C&S Passenger Coach 70",
       "overview": [
         "Colorado & Southern Coach No. 70 is a preserved narrow-gauge passenger coach displayed in Idaho Springs with locomotive No. 60.",
-        "Rolling-stock research traces the coach to an 1896 first-class car that later became C&S No. 70. Its preservation in Idaho Springs connects the surviving artifact directly to the railroad system that served Clear Creek County\u2019s mining communities."
+        "Rolling-stock research traces the coach to an 1896 first-class car that later became C&S No. 70. Its preservation in Idaho Springs connects the surviving artifact directly to the railroad system that served Clear Creek County’s mining communities."
       ],
       "state": "Colorado",
       "timeline": [
@@ -714,7 +734,7 @@
         },
         {
           "text": "Engine No. 60 and Coach No. 70 have remained a public railroad-history display in Idaho Springs.",
-          "year": "Later 20th century\u2013present"
+          "year": "Later 20th century–present"
         }
       ]
     },
@@ -738,12 +758,12 @@
       ],
       "name": "American Sisters Mine / Two American Sisters Mine",
       "overview": [
-        "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic names/aliases: American Sisters Mine",
+        "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic names/aliases: American Sisters Mine",
         "Secondary Georgetown histories describe the operation as a consolidation of the Two Sisters and Native American mines on Columbia Mountain"
       ],
       "timeline": [
         {
-          "text": "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic names/aliases: American Sisters Mine",
+          "text": "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic names/aliases: American Sisters Mine",
           "year": "2026-08"
         },
         {
@@ -751,8 +771,8 @@
           "year": "1885"
         },
         {
-          "text": "Bowman and Lavinia built the Bowman-White House in 1891\u201392.",
-          "year": "1891\u201392"
+          "text": "Bowman and Lavinia built the Bowman-White House in 1891–92.",
+          "year": "1891–92"
         },
         {
           "text": "Library of Congress HABS documentation for the Bowman-White House independently records John Henry Bowman as superintendent of the American Sisters Mine after his 1885 move to Georgetown.",
@@ -818,7 +838,7 @@
           "year": "1883"
         },
         {
-          "text": "Archival sources/maps: USGS Historic Trail Map of the Leadville 1\u00b0\u00d72\u00b0 Quadrangle (Scott, 2004), Clear Creek County HDPLC Trail Maps / Argentine and Snake River Wagon Road information.",
+          "text": "Archival sources/maps: USGS Historic Trail Map of the Leadville 1°×2° Quadrangle (Scott, 2004), Clear Creek County HDPLC Trail Maps / Argentine and Snake River Wagon Road information.",
           "year": "2004"
         },
         {
@@ -841,7 +861,7 @@
       "mediaNotice": "Historic image not available",
       "moreHistory": [
         "G1 closed 2026-08-19 after direct wrong-site reconciliation.",
-        "an independent geologic study sampled the Bald Eagle at approximately 39\u00b045'49\"N, 105\u00b032'05\"W, corroborating the eastern locality.",
+        "an independent geologic study sampled the Bald Eagle at approximately 39°45'49\"N, 105°32'05\"W, corroborating the eastern locality.",
         "A separate USGS/GNIS Bald Eagle feature around 39.72277,-105.62111 is a different same-name locality and must not be merged into this record.",
         "Use the eastern Bald Eagle/Two Brothers site at approximately 39.7636,-105.5353 for site-level Scan/Identify."
       ],
@@ -995,7 +1015,7 @@
       "location": "Idaho Springs area, Clear Creek County, Colorado",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
-        "Exact mine-company identity, discovery/construction date, ownership/operator chain, commodities/production, underground extent, and whether \u201cBlue Ribbon Tunnel\u201d is the original operating name or later interpretive name remain unresolved.",
+        "Exact mine-company identity, discovery/construction date, ownership/operator chain, commodities/production, underground extent, and whether “Blue Ribbon Tunnel” is the original operating name or later interpretive name remain unresolved.",
         "G3 stays incomplete until the portal is reconciled to historic USGS mine maps/GIS rather than only a modern relative-location description.",
         "Parent relationship: Idaho Springs mining/industrial corridor",
         "near Charlie Tayler Water Wheel and west/east-side mine infrastructure, but do not infer operational connection without evidence."
@@ -1048,7 +1068,7 @@
       "moreHistory": [
         "Public Service Company of Colorado received the original federal license in 1964",
         "construction followed in 1964-66 and commercial operation began in 1967.",
-        "Original plant used two 150-MW reversible pump-turbine/generator units (about 300 MW total) and was among the world\u2019s highest-altitude pumped-storage projects when built.",
+        "Original plant used two 150-MW reversible pump-turbine/generator units (about 300 MW total) and was among the world’s highest-altitude pumped-storage projects when built.",
         "ASCE engineering documentation describes an upper rockfill dam about 210 ft high, a lower earth/rockfill dam about 95 ft high, and roughly 1,226 ft maximum head differential."
       ],
       "name": "Cabin Creek Pumped Storage Hydroelectric Project",
@@ -1139,7 +1159,7 @@
         },
         {
           "text": "The tunnel was extended in stages and eventually reached workings associated with several neighboring mines.",
-          "year": "1870s\u2013c. 1900"
+          "year": "1870s–c. 1900"
         },
         {
           "text": "The Nashotah Mill was built at the foot of the tunnel site.",
@@ -1320,7 +1340,7 @@
           "year": "2026-08"
         },
         {
-          "text": "FLAGSHIP GAP \u2014 targeted location reconciliation completed 2026-08-19.",
+          "text": "FLAGSHIP GAP — targeted location reconciliation completed 2026-08-19.",
           "year": "2026-08"
         },
         {
@@ -1418,12 +1438,12 @@
       ],
       "name": "Georgetown-Silver Plume Historic District",
       "overview": [
-        "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic identity: Georgetown-Silver Plume Historic District",
+        "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic identity: Georgetown-Silver Plume Historic District",
         "National Historic Landmark and National Register district, NRIS 66000243."
       ],
       "timeline": [
         {
-          "text": "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic identity: Georgetown-Silver Plume Historic District",
+          "text": "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic identity: Georgetown-Silver Plume Historic District",
           "year": "2026-08"
         },
         {
@@ -1457,10 +1477,10 @@
       "location": "Georgetown area, Clear Creek County, Colorado",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
-        "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic names/aliases: Griffith Lode",
+        "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic names/aliases: Griffith Lode",
         "parent relationship to Griffith Mining District and Georgetown historic mining town.",
         "Historical significance/timeline: Near-contemporary 1880 History of Clear Creek and Boulder Valleys says George and David Griffith discovered the Griffith Lode in fall 1859 on the eastern slope of Griffith Mountain and calls it probably the first lode known in Clear Creek County",
-        "another section says the founders\u2019 first lode ran into the future Georgetown townsite and was initially worked for gold before its silver-bearing character was understood."
+        "another section says the founders’ first lode ran into the future Georgetown townsite and was initially worked for gold before its silver-bearing character was understood."
       ],
       "name": "Griffith Lode / Griffith Mine",
       "overview": [
@@ -1469,7 +1489,7 @@
       ],
       "timeline": [
         {
-          "text": "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic names/aliases: Griffith Lode",
+          "text": "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic names/aliases: Griffith Lode",
           "year": "2026-08"
         },
         {
@@ -1578,12 +1598,12 @@
       ],
       "name": "Indian Hot Springs / Ocean Bath House / Hot Springs Hotel",
       "overview": [
-        "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic names/aliases: Indian Hot Springs",
+        "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic names/aliases: Indian Hot Springs",
         "Category: historic mineral-springs resort / health & recreation / Idaho Springs heritage site."
       ],
       "timeline": [
         {
-          "text": "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic names/aliases: Indian Hot Springs",
+          "text": "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic names/aliases: Indian Hot Springs",
           "year": "2026-08"
         },
         {
@@ -1619,17 +1639,17 @@
       "moreHistory": [
         "retain as a spelling variant only, not a separate site.",
         "Category/site type: Major silver mine / tunnel mine / Leavenworth Mountain mining complex.",
-        "Parent: Georgetown\u2013Silver Plume/Argentine mining landscape",
+        "Parent: Georgetown–Silver Plume/Argentine mining landscape",
         "closely related to Silver Dale, Colorado Central/Marshall Tunnel and other Leavenworth Mountain mines but a distinct physical operation."
       ],
       "name": "Kirtley Mine / Kirtley Tunnel Lode",
       "overview": [
-        "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic names/aliases: Kirtley Mine",
+        "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic names/aliases: Kirtley Mine",
         "Modern district summaries sometimes render the vein as Curtly"
       ],
       "timeline": [
         {
-          "text": "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic names/aliases: Kirtley Mine",
+          "text": "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic names/aliases: Kirtley Mine",
           "year": "2026-08"
         },
         {
@@ -1637,7 +1657,7 @@
           "year": "1880"
         },
         {
-          "text": "By 1880 it was described as one of the district\u2019s most prominent mines and had been worked steadily and profitably since the strike.",
+          "text": "By 1880 it was described as one of the district’s most prominent mines and had been worked steadily and profitably since the strike.",
           "year": "1880"
         },
         {
@@ -1661,7 +1681,7 @@
       "moreHistory": [],
       "name": "Lawson / Free America / Six-Mile House",
       "overview": [
-        "Lawson\u2019s exact Explore record is absent from current Clear Creek v4",
+        "Lawson’s exact Explore record is absent from current Clear Creek v4",
         "Remnant treats this location as a distinct railroad feature record rather than merging it with nearby workings or related sites unless the retained research supports that relationship."
       ],
       "timeline": [
@@ -1756,12 +1776,12 @@
       ],
       "name": "Minnesota Mine & Mill / Crown Prince-Atlantic Group",
       "overview": [
-        "Minnesota Mine is the major 1930s\u2013WWII gold producer of the Empire/Upper Union district and incorporated the Crown Prince/Atlantic/Comet group of earlier workings.",
+        "Minnesota Mine is the major 1930s–WWII gold producer of the Empire/Upper Union district and incorporated the Crown Prince/Atlantic/Comet group of earlier workings.",
         "USGS PP223 and later watershed studies place the mine east of Lion Creek north of Empire."
       ],
       "timeline": [
         {
-          "text": "Minnesota Mine is the major 1930s\u2013WWII gold producer of the Empire/Upper Union district and incorporated the Crown Prince/Atlantic/Comet group of earlier workings.",
+          "text": "Minnesota Mine is the major 1930s–WWII gold producer of the Empire/Upper Union district and incorporated the Crown Prince/Atlantic/Comet group of earlier workings.",
           "year": "1930s"
         },
         {
@@ -1769,8 +1789,8 @@
           "year": "1932"
         },
         {
-          "text": "minimum district total ~165,000 oz, roughly half from Minnesota Mine during 1934\u20131943.",
-          "year": "1934\u20131943"
+          "text": "minimum district total ~165,000 oz, roughly half from Minnesota Mine during 1934–1943.",
+          "year": "1934–1943"
         },
         {
           "text": "A USGS-derived locality record separately reports 1934 1,661.18 oz Au, 1935 4,578.80 oz, and 1936 11,571.11 oz",
@@ -1866,12 +1886,12 @@
       ],
       "name": "Peabody Mine",
       "overview": [
-        "Peabody Mine is anchored by an authentic 1880s albumen photograph titled \u201cView at Peabody Mine near Hamilton, Colorado,\u201d Amon Carter Museum accession P1976.11.24",
+        "Peabody Mine is anchored by an authentic 1880s albumen photograph titled “View at Peabody Mine near Hamilton, Colorado,” Amon Carter Museum accession P1976.11.24",
         "USGS Data Series 1004 independently records DMEA docket 3747 for the Peabody Mine in Clear Creek County during the 1950s uranium-exploration program, establishing later federal exploration continuity."
       ],
       "timeline": [
         {
-          "text": "Peabody Mine is anchored by an authentic 1880s albumen photograph titled \u201cView at Peabody Mine near Hamilton, Colorado,\u201d Amon Carter Museum accession P1976.11.24",
+          "text": "Peabody Mine is anchored by an authentic 1880s albumen photograph titled “View at Peabody Mine near Hamilton, Colorado,” Amon Carter Museum accession P1976.11.24",
           "year": "1880s"
         },
         {
@@ -1946,7 +1966,7 @@
       "location": "Clear Creek County, Colorado",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
-        "Public label required: Historical reconstruction \u2014 may not be fully accurate."
+        "Public label required: Historical reconstruction — may not be fully accurate."
       ],
       "name": "Santiago Mine & Mill",
       "overview": [
@@ -2070,9 +2090,9 @@
       "mediaNotice": "Historic image not available",
       "moreHistory": [
         "Type: 1859 placer-mining settlement and early mining district west/upstream of Idaho Springs.",
-        "Jackson\u2019s Clear Creek gold discovery in January 1859 triggered the rush.",
-        "Clear Creek County\u2019s historical overview states that by April 1859 the first settlement above Idahoe was established about two miles upstream and called Spanish Bar.",
-        "Mining-district references describe Spanish Bar as one of Clear Creek County\u2019s original districts organized by about summer 1860, with lode claims recorded by 1861."
+        "Jackson’s Clear Creek gold discovery in January 1859 triggered the rush.",
+        "Clear Creek County’s historical overview states that by April 1859 the first settlement above Idahoe was established about two miles upstream and called Spanish Bar.",
+        "Mining-district references describe Spanish Bar as one of Clear Creek County’s original districts organized by about summer 1860, with lode claims recorded by 1861."
       ],
       "name": "Spanish Bar Mining Camp / Spanish Bar Mining District",
       "overview": [
@@ -2089,15 +2109,15 @@
           "year": "1859"
         },
         {
-          "text": "Jackson\u2019s Clear Creek gold discovery in January 1859 triggered the rush.",
+          "text": "Jackson’s Clear Creek gold discovery in January 1859 triggered the rush.",
           "year": "1859"
         },
         {
-          "text": "Clear Creek County\u2019s historical overview states that by April 1859 the first settlement above Idahoe was established about two miles upstream and called Spanish Bar.",
+          "text": "Clear Creek County’s historical overview states that by April 1859 the first settlement above Idahoe was established about two miles upstream and called Spanish Bar.",
           "year": "1859"
         },
         {
-          "text": "Mining-district references describe Spanish Bar as one of Clear Creek County\u2019s original districts organized by about summer 1860, with lode claims recorded by 1861.",
+          "text": "Mining-district references describe Spanish Bar as one of Clear Creek County’s original districts organized by about summer 1860, with lode claims recorded by 1861.",
           "year": "1860"
         }
       ]
@@ -2116,7 +2136,7 @@
       "mediaNotice": "Historic image not available",
       "moreHistory": [
         "names are related in the broader mining landscape but are not to be merged without claim-map proof.",
-        "Significance: Mining History Association identifies Specie Payment among the district\u2019s early \u201cmillion dollar\u201d mines",
+        "Significance: Mining History Association identifies Specie Payment among the district’s early “million dollar” mines",
         "record this only as a historical period-value significance statement, not an exact lifetime production total.",
         "1880 Clear Creek history describes the Specie Payment in Virginia Canyon as opened to several hundred feet, mainly auriferous with a small silver component, and carrying stamp-mill ore even in its lowest levels."
       ],
@@ -2180,26 +2200,26 @@
       "mediaNotice": "Historic image not available",
       "moreHistory": [
         "treat that as a period-value significance statement, not an exact audited lifetime production total.",
-        "USGS OFR 66-87 and Bulletin 1208 establish the mine within the Idaho Springs district, whose 1860\u20131959 production was about $65 million overall.",
+        "USGS OFR 66-87 and Bulletin 1208 establish the mine within the Idaho Springs district, whose 1860–1959 production was about $65 million overall.",
         "Functions/commodities: principally gold-silver ore with copper/lead/zinc-bearing sulfides documented in district/mineral records",
         "low-grade sulphide ore from Sun & Moon later went through the Argo system."
       ],
       "name": "Sun & Moon Mine / Sun and Moon Mine",
       "overview": [
         "Identity/aliases: Sun & Moon / Sun and Moon Mine, Idaho Springs Mining District (Virginia Mining District), Clear Creek County.",
-        "Significance: Mining History Association identifies Sun and Moon among the district\u2019s early \u201cmillion dollar\u201d mines"
+        "Significance: Mining History Association identifies Sun and Moon among the district’s early “million dollar” mines"
       ],
       "timeline": [
         {
-          "text": "USGS OFR 66-87 and Bulletin 1208 establish the mine within the Idaho Springs district, whose 1860\u20131959 production was about $65 million overall.",
-          "year": "1860\u20131959"
+          "text": "USGS OFR 66-87 and Bulletin 1208 establish the mine within the Idaho Springs district, whose 1860–1959 production was about $65 million overall.",
+          "year": "1860–1959"
         },
         {
           "text": "directly serviced by the Argo Tunnel from the early 1900s through the Argo era.",
           "year": "early 1900s"
         },
         {
-          "text": "The mine was a focal site in the 1903 Idaho Springs miners\u2019 strike: its transformer/power building was dynamited in July 1903, followed by arrests, trials and deportation of union men",
+          "text": "The mine was a focal site in the 1903 Idaho Springs miners’ strike: its transformer/power building was dynamited in July 1903, followed by arrests, trials and deportation of union men",
           "year": "1903"
         },
         {
@@ -2241,12 +2261,12 @@
       "mediaNotice": "Historic image not available",
       "moreHistory": [
         "The plant documents the adoption of hydroelectric power in a mountain mining community where reliable electricity supported both industrial activity and town development.",
-        "Ownership and operation passed through several utility organizations over time, but the surviving plant retains its relationship to Georgetown\u2019s reservoir and penstock system.",
+        "Ownership and operation passed through several utility organizations over time, but the surviving plant retains its relationship to Georgetown’s reservoir and penstock system.",
         "Published sources give different modern capacity figures, so this page avoids presenting one disputed figure as definitive."
       ],
       "name": "Georgetown Hydroelectric Plant / Georgetown Energy Museum",
       "overview": [
-        "The Georgetown Hydroelectric Plant is a surviving operating power station associated with Georgetown\u2019s mining-era electrical development. The present 6th Street plant was built in 1900 and is interpreted through the Georgetown Energy Museum.",
+        "The Georgetown Hydroelectric Plant is a surviving operating power station associated with Georgetown’s mining-era electrical development. The present 6th Street plant was built in 1900 and is interpreted through the Georgetown Energy Museum.",
         "The generating station, water-supply penstock, and Pelton water-wheel generator sets form related but distinct parts of the historic hydroelectric system."
       ],
       "timeline": [
@@ -2268,7 +2288,7 @@
         },
         {
           "text": "Pelton equipment was upgraded in successive phases.",
-          "year": "1906\u20131908"
+          "year": "1906–1908"
         },
         {
           "text": "The plant remains an operating generating station and is interpreted as the Georgetown Energy Museum.",
@@ -2333,9 +2353,9 @@
       "moreHistory": [
         "USGS mapping places the Phoenix portal on the northwest side of Trail Creek road and describes a drift-adit extending roughly 350 feet with a winze connecting lower workings.",
         "Federal records document 30,623 tons shipped across recorded operating years. Modern promotional production totals are kept separate from that federal figure.",
-        "USGS ore analyses from the Phoenix document quartz with pyrite and copper-bearing sulfides, supporting the mine\u2019s gold-silver-copper mineralization history.",
+        "USGS ore analyses from the Phoenix document quartz with pyrite and copper-bearing sulfides, supporting the mine’s gold-silver-copper mineralization history.",
         "Clear Creek County records independently place the modern Phoenix operation on the Snyder Lode near the Trail Creek/Stanley Road area.",
-        "The Mosch family\u2019s official history reports acquisition in 1968 and public tours beginning in 1988; operator-reported early opening and lifetime-production figures are retained as claims rather than treated as independently verified federal totals."
+        "The Mosch family’s official history reports acquisition in 1968 and public tours beginning in 1988; operator-reported early opening and lifetime-production figures are retained as claims rather than treated as independently verified federal totals."
       ],
       "name": "Phoenix Gold Mine",
       "overview": [
@@ -2353,10 +2373,10 @@
         },
         {
           "text": "USGS records additional shipments during this operating period, with gold accompanied by silver, copper, lead and zinc.",
-          "year": "1934\u20131942"
+          "year": "1934–1942"
         },
         {
-          "text": "The Mosch family acquired the property according to the mine\u2019s official history.",
+          "text": "The Mosch family acquired the property according to the mine’s official history.",
           "year": "1968"
         },
         {
@@ -2393,7 +2413,7 @@
           "confidence": "Confirmed",
           "id": "summit-lake-road",
           "name": "Mount Evans Drive Relationship",
-          "note": "The park\u2019s development is historically tied to the automobile road and Denver Mountain Parks system.",
+          "note": "The park’s development is historically tied to the automobile road and Denver Mountain Parks system.",
           "type": "Historic Transportation Context"
         }
       ],
@@ -2403,7 +2423,7 @@
       "moreHistory": [
         "The National Register documentation identifies significance in recreation, planning and conservation, architecture, and landscape architecture.",
         "The shelter house is one component of a larger designed setting whose historic meaning also depends on Summit Lake, the road approach, and the broader mountain landscape.",
-        "The property\u2019s association with the Denver Mountain Parks system helps explain why a remote alpine setting received permanent visitor facilities."
+        "The property’s association with the Denver Mountain Parks system helps explain why a remote alpine setting received permanent visitor facilities."
       ],
       "name": "Summit Lake Park / Summit Lake Shelter House",
       "overview": [
@@ -2463,7 +2483,7 @@
       "moreHistory": [
         "Edward J. Wilcox and the Waldorf Mining & Milling Company promoted the railway as transportation infrastructure for the Argentine district.",
         "Its Silver Plume connection linked the high mountain mining system to the broader Colorado & Southern network.",
-        "Freight and excursion functions should both be preserved in interpretation: tourism supplemented, but did not replace, the railway\u2019s mining purpose."
+        "Freight and excursion functions should both be preserved in interpretation: tourism supplemented, but did not replace, the railway’s mining purpose."
       ],
       "name": "Argentine Central Railway / Argentine & Gray's Peak Railway",
       "overview": [
@@ -2488,7 +2508,7 @@
           "year": "Later 20th century"
         },
         {
-          "text": "Remaining grade and route relationships document the railway\u2019s role in connecting high-elevation mines with the Clear Creek transportation network.",
+          "text": "Remaining grade and route relationships document the railway’s role in connecting high-elevation mines with the Clear Creek transportation network.",
           "year": "Today"
         }
       ]
@@ -2503,20 +2523,20 @@
           "confidence": "Confirmed",
           "id": "georgetown-historic-core",
           "name": "Georgetown Historic Town Core",
-          "note": "The surviving street plan and buildings represent the district\u2019s civic and commercial center.",
+          "note": "The surviving street plan and buildings represent the district’s civic and commercial center.",
           "type": "Historic Town"
         },
         {
           "confidence": "Confirmed",
           "id": "georgetown-mining-context",
           "name": "Mining-District Landscape",
-          "note": "Georgetown\u2019s history depends on its relationship to surrounding mines and processing systems.",
+          "note": "Georgetown’s history depends on its relationship to surrounding mines and processing systems.",
           "type": "Historic District Context"
         },
         {
           "confidence": "Confirmed",
           "id": "georgetown-silver-plume-link",
-          "name": "Georgetown\u2013Silver Plume District Relationship",
+          "name": "Georgetown–Silver Plume District Relationship",
           "note": "The two communities are distinct components of one nationally recognized mining district.",
           "type": "Linked Historic Towns"
         }
@@ -2525,22 +2545,22 @@
       "location": "Georgetown",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
-        "Georgetown\u2019s importance came from more than nearby mines. The town organized finance, trade, government, transportation, and community life for the surrounding district.",
-        "History Colorado describes Georgetown\u2013Silver Plume as Colorado\u2019s most important silver camp before the 1878 Leadville strike.",
+        "Georgetown’s importance came from more than nearby mines. The town organized finance, trade, government, transportation, and community life for the surrounding district.",
+        "History Colorado describes Georgetown–Silver Plume as Colorado’s most important silver camp before the 1878 Leadville strike.",
         "Interpretation should keep Georgetown distinct from Silver Plume while showing how the two towns and their mines formed one connected historic district."
       ],
       "name": "Georgetown Historic Mining Town / Silver Queen of the Rockies",
       "overview": [
-        "Georgetown developed from an 1859 gold discovery into the leading settlement of the Georgetown\u2013Silver Plume mining district. A major silver discovery in 1864 transformed the town into a regional mining and commercial center.",
-        "The surviving town is a principal component of the Georgetown\u2013Silver Plume National Historic Landmark district and preserves the relationship between mining, commerce, transportation, civic life, and mountain-town architecture."
+        "Georgetown developed from an 1859 gold discovery into the leading settlement of the Georgetown–Silver Plume mining district. A major silver discovery in 1864 transformed the town into a regional mining and commercial center.",
+        "The surviving town is a principal component of the Georgetown–Silver Plume National Historic Landmark district and preserves the relationship between mining, commerce, transportation, civic life, and mountain-town architecture."
       ],
       "timeline": [
         {
-          "text": "George and David Griffith\u2019s gold discovery launched Georgetown\u2019s first mining boom.",
+          "text": "George and David Griffith’s gold discovery launched Georgetown’s first mining boom.",
           "year": "1859"
         },
         {
-          "text": "A rich silver discovery triggered rapid growth and shifted the district\u2019s economic focus.",
+          "text": "A rich silver discovery triggered rapid growth and shifted the district’s economic focus.",
           "year": "1864"
         },
         {
@@ -2548,15 +2568,15 @@
           "year": "1868"
         },
         {
-          "text": "The town served as the commercial and civic center of one of Colorado\u2019s leading silver districts.",
-          "year": "1870s\u20131880s"
+          "text": "The town served as the commercial and civic center of one of Colorado’s leading silver districts.",
+          "year": "1870s–1880s"
         },
         {
           "text": "The collapse of silver prices ended the major boom period.",
           "year": "1890s"
         },
         {
-          "text": "Georgetown survives as a major component of the Georgetown\u2013Silver Plume National Historic Landmark district.",
+          "text": "Georgetown survives as a major component of the Georgetown–Silver Plume National Historic Landmark district.",
           "year": "Today"
         }
       ]
@@ -2590,11 +2610,11 @@
         }
       ],
       "id": "CO-CLEAR-CREEK-HENDERSON",
-      "location": "Red Mountain / Empire\u2013Urad area",
+      "location": "Red Mountain / Empire–Urad area",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
         "Henderson and Urad occupy the same broader Red Mountain mineral system but are separate mine identities with different development histories.",
-        "The mine\u2019s scale is best understood as a connected industrial system: underground workings, crushing and material handling, ore conveyance, and the Grand County mill.",
+        "The mine’s scale is best understood as a connected industrial system: underground workings, crushing and material handling, ore conveyance, and the Grand County mill.",
         "This page avoids undated production totals and present-day superlatives because those figures change and require year-specific sourcing."
       ],
       "name": "Henderson Mine / Henderson Molybdenum Mine",
@@ -2616,7 +2636,7 @@
           "year": "Operating era"
         },
         {
-          "text": "Federal and state studies documented Henderson\u2019s geology, industrial system, and relationship to the earlier Urad mine.",
+          "text": "Federal and state studies documented Henderson’s geology, industrial system, and relationship to the earlier Urad mine.",
           "year": "Modern period"
         }
       ]
@@ -2650,7 +2670,7 @@
         }
       ],
       "id": "CO-CLEAR-CREEK-LAMARTINE",
-      "location": "Freeland\u2013Lamartine district",
+      "location": "Freeland–Lamartine district",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
         "The documented workings include the main shaft, Lamartine tunnel, Old Stag tunnel, and several named openings including Falcon, Ben Harrison, Silver Queen, Money Musk, and Oneida.",
@@ -2659,7 +2679,7 @@
       ],
       "name": "Lamartine Mine",
       "overview": [
-        "The Lamartine Mine was one of the principal lode-mining operations in the Freeland\u2013Lamartine district, developed through a large network of shafts, tunnels, and associated ore-processing infrastructure.",
+        "The Lamartine Mine was one of the principal lode-mining operations in the Freeland–Lamartine district, developed through a large network of shafts, tunnels, and associated ore-processing infrastructure.",
         "Federal documentation describes more than twelve miles of workings and identifies a concentrating mill near the Lamartine tunnel portal."
       ],
       "timeline": [
@@ -2669,7 +2689,7 @@
         },
         {
           "text": "The mine produced regularly during a major operating period.",
-          "year": "1898\u20131905"
+          "year": "1898–1905"
         },
         {
           "text": "Lessees continued work after the principal early operating phase.",
@@ -2695,7 +2715,7 @@
           "confidence": "Confirmed",
           "id": "miner-street-truss",
           "name": "Five-Panel Pratt Pony Truss",
-          "note": "The pin-connected steel truss is the bridge\u2019s defining engineering feature.",
+          "note": "The pin-connected steel truss is the bridge’s defining engineering feature.",
           "type": "Bridge Structure"
         },
         {
@@ -2709,7 +2729,7 @@
           "confidence": "Confirmed",
           "id": "miner-street-crossing",
           "name": "Clear Creek Crossing",
-          "note": "The bridge\u2019s skewed form reflects its Miner Street crossing of Clear Creek.",
+          "note": "The bridge’s skewed form reflects its Miner Street crossing of Clear Creek.",
           "type": "Transportation Setting"
         }
       ],
@@ -2774,22 +2794,22 @@
         }
       ],
       "id": "CO-CLEAR-CREEK-JO-REYNOLDS",
-      "location": "Lawson\u2013Dumont district",
+      "location": "Lawson–Dumont district",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
-        "USGS described Jo Reynolds as one of the Lawson\u2013Dumont district\u2019s most valuable properties, with more than $1.5 million in recorded silver-lead-zinc production and only small quantities of pitchblende.",
+        "USGS described Jo Reynolds as one of the Lawson–Dumont district’s most valuable properties, with more than $1.5 million in recorded silver-lead-zinc production and only small quantities of pitchblende.",
         "The uranium report is retained as a qualified historical claim because the federal investigators could not completely authenticate the reported shipment.",
         "Jo Reynolds and American Sisters are neighboring claim groups and should not be merged into one mine identity."
       ],
       "name": "Jo Reynolds Mine / Joe Reynolds Mine",
       "overview": [
-        "The Jo Reynolds Mine was a major lead-zinc-silver property in the Lawson\u2013Dumont district, developed south of Lawson and historically distinct from the neighboring American Sisters claim group.",
+        "The Jo Reynolds Mine was a major lead-zinc-silver property in the Lawson–Dumont district, developed south of Lawson and historically distinct from the neighboring American Sisters claim group.",
         "USGS records document extensive work from 1877 through 1907, intermittent later activity, and a large network associated with the Jo Reynolds No. 2 vein."
       ],
       "timeline": [
         {
           "text": "The Jo Reynolds property underwent its principal documented period of extensive lead-zinc-silver mining.",
-          "year": "1877\u20131907"
+          "year": "1877–1907"
         },
         {
           "text": "A shipment of eight tons of high-grade pitchblende was historically reported; USGS considered the account plausible but not fully authenticated.",
@@ -2841,14 +2861,14 @@
       "location": "Above Silver Plume",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
-        "Heneage M. Griffin is documented as an operator of the Seven-Thirty Mine during the district\u2019s early development.",
+        "Heneage M. Griffin is documented as an operator of the Seven-Thirty Mine during the district’s early development.",
         "The 1875 consolidation linked several mining interests organizationally, but their individual names and physical workings should remain distinguishable in interpretation.",
-        "Archival images provide strong visual evidence for the mine\u2019s location and ore-handling role without requiring unsupported production totals."
+        "Archival images provide strong visual evidence for the mine’s location and ore-handling role without requiring unsupported production totals."
       ],
       "name": "Seven-Thirty Mine / 7:30 Mine",
       "overview": [
         "The Seven-Thirty Mine was an important Silver Plume mining operation associated with Heneage M. Griffin and the later Hercules & Seven-Thirty Consolidated Silver Mining Company.",
-        "Historic photographs document ore hauling and the mine\u2019s elevated position above Silver Plume, while transportation and district records place it within the community\u2019s larger silver-mining system."
+        "Historic photographs document ore hauling and the mine’s elevated position above Silver Plume, while transportation and district records place it within the community’s larger silver-mining system."
       ],
       "timeline": [
         {
@@ -2864,7 +2884,7 @@
           "year": "Operating era"
         },
         {
-          "text": "A panorama made from the Seven-Thirty Mine documented the mine\u2019s relationship to Silver Plume and the surrounding landscape.",
+          "text": "A panorama made from the Seven-Thirty Mine documented the mine’s relationship to Silver Plume and the surrounding landscape.",
           "year": "1911"
         },
         {
@@ -2905,9 +2925,9 @@
       "location": "West of Silver Plume",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
-        "The mine\u2019s location and Hollingsworth-company association distinguish this Smuggler from similarly named Colorado properties.",
+        "The mine’s location and Hollingsworth-company association distinguish this Smuggler from similarly named Colorado properties.",
         "Its surviving headframe represents both timber and steel construction and remains central to recognizing the site.",
-        "The mine should be interpreted as one component of Silver Plume\u2019s larger mining landscape while preserving its separate operating identity."
+        "The mine should be interpreted as one component of Silver Plume’s larger mining landscape while preserving its separate operating identity."
       ],
       "name": "Smuggler Mine / Silver Plume Smuggler Mine",
       "overview": [
@@ -2921,11 +2941,11 @@
         },
         {
           "text": "Colorado mining records identified the Hollingsworth Mining Company property west of Silver Plume as the Smuggler Mine.",
-          "year": "1917\u20131918"
+          "year": "1917–1918"
         },
         {
           "text": "Mining continued across multiple phases, producing gold, silver, lead, and zinc.",
-          "year": "1890s\u20131950s"
+          "year": "1890s–1950s"
         },
         {
           "text": "Operations ended while substantial surface infrastructure, including the headframe, survived.",
@@ -2954,13 +2974,13 @@
           "confidence": "Confirmed",
           "id": "urad-wartime-mill",
           "name": "Wartime Concentration Mill",
-          "note": "A 200-ton-per-day mill supported the 1944\u20131946 operating phase.",
+          "note": "A 200-ton-per-day mill supported the 1944–1946 operating phase.",
           "type": "Mill / Processing"
         },
         {
           "confidence": "Confirmed",
           "id": "urad-henderson-relationship",
-          "name": "Urad\u2013Henderson Deposit Relationship",
+          "name": "Urad–Henderson Deposit Relationship",
           "note": "State geological reporting places the Urad deposit above the later Henderson operation while preserving their separate operating identities.",
           "type": "Mining District Relationship"
         }
@@ -2970,7 +2990,7 @@
       "mediaNotice": "Historic image not available",
       "moreHistory": [
         "The Urad was an earlier molybdenum operation in the same mountain setting later associated with the Henderson Mine, but the two should remain separate site identities.",
-        "Federal reporting documents the wartime lease, Defense Plant Corporation development, mill construction, and the mine\u2019s extensive underground development.",
+        "Federal reporting documents the wartime lease, Defense Plant Corporation development, mill construction, and the mine’s extensive underground development.",
         "Clear Creek County later described the closed Urad facilities as reclaimed; this historical status does not imply public access."
       ],
       "name": "Urad Mine / URAD Molybdenum Mine",
@@ -2985,7 +3005,7 @@
         },
         {
           "text": "The first documented operating phase developed the deposit.",
-          "year": "1914\u20131919"
+          "year": "1914–1919"
         },
         {
           "text": "Molybdenum Corporation of America leased the mine and began wartime development under the Defense Plant Corporation.",
@@ -2993,7 +3013,7 @@
         },
         {
           "text": "Mining and milling operated with a 200-ton-per-day concentration mill.",
-          "year": "1944\u20131946"
+          "year": "1944–1946"
         },
         {
           "text": "USGS reported roughly 20,000 feet of underground development together with extensive drilling.",
@@ -3015,7 +3035,7 @@
           "confidence": "Confirmed",
           "id": "waldorf-concentration-mill",
           "name": "Waldorf Concentration Mill Site",
-          "note": "CDOT\u2019s historic context documents construction of a concentration mill at the tunnel in 1905.",
+          "note": "CDOT’s historic context documents construction of a concentration mill at the tunnel in 1905.",
           "type": "Mill / Processing"
         },
         {
@@ -3036,7 +3056,7 @@
           "confidence": "Confirmed",
           "id": "waldorf-railroad-connection",
           "name": "Argentine District Railroad Connection",
-          "note": "The railroad was a central part of Waldorf\u2019s industrial and community landscape.",
+          "note": "The railroad was a central part of Waldorf’s industrial and community landscape.",
           "type": "Railroad Feature"
         }
       ],
@@ -3044,13 +3064,13 @@
       "location": "Waldorf, Argentine mining district",
       "mediaNotice": "Historic image not available",
       "moreHistory": [
-        "Edward J. Wilcox\u2019s Waldorf Company linked mine development, milling, railroad service, and the Santiago aerial tramway in one industrial landscape.",
-        "The settlement\u2019s growth reflected both mining and visitor traffic, making Waldorf more than an isolated mine site.",
+        "Edward J. Wilcox’s Waldorf Company linked mine development, milling, railroad service, and the Santiago aerial tramway in one industrial landscape.",
+        "The settlement’s growth reflected both mining and visitor traffic, making Waldorf more than an isolated mine site.",
         "Waldorf and the nearby Santiago Mine and Mill are related district resources but should remain separate site identities."
       ],
       "name": "Waldorf Mining Camp / Waldorf Mine & Mill Complex",
       "overview": [
-        "Waldorf was an Argentine district mining camp organized around Edward J. Wilcox\u2019s tunnel and concentration mill, with railroad service and an aerial tramway tying the site to nearby ore sources.",
+        "Waldorf was an Argentine district mining camp organized around Edward J. Wilcox’s tunnel and concentration mill, with railroad service and an aerial tramway tying the site to nearby ore sources.",
         "A mill erected in 1905 and a post office granted in 1906 mark the rapid development of a small industrial community supported by mining, transportation, and tourist traffic."
       ],
       "timeline": [
@@ -3087,12 +3107,12 @@
       "mediaNotice": "Historic image not available",
       "overview": [
         "Grizzly Mine was a long-lived high-country operation in the historic Argentine Mining District, working intermittently from the early 1870s into the late 1950s for silver, lead, zinc, and earlier gold-bearing prospects.",
-        "The site\u2019s later history is also significant: scientific investigation of mine waste led to a reclamation project completed in 2023, changing portions of the visible mining landscape while addressing water, waste, stream, road, and unstable-structure concerns."
+        "The site’s later history is also significant: scientific investigation of mine waste led to a reclamation project completed in 2023, changing portions of the visible mining landscape while addressing water, waste, stream, road, and unstable-structure concerns."
       ],
       "timeline": [
         {
           "year": "Early 1870s",
-          "text": "Mining activity began in Grizzly Gulch during the district\u2019s early gold and silver development."
+          "text": "Mining activity began in Grizzly Gulch during the district’s early gold and silver development."
         },
         {
           "year": "Later operating era",
@@ -3107,11 +3127,11 @@
           "text": "Documented mining activity ended."
         },
         {
-          "year": "1977\u20131978",
+          "year": "1977–1978",
           "text": "A reevaluation concluded that remaining ore was not economic to develop."
         },
         {
-          "year": "2019\u20132020",
+          "year": "2019–2020",
           "text": "The site was sampled and assessed as part of a mine-waste and watershed investigation."
         },
         {
@@ -3143,8 +3163,8 @@
         }
       ],
       "moreHistory": [
-        "Grizzly Mine\u2019s story spans both nineteenth-century mineral development and twenty-first-century watershed restoration. Historic accounts describe intermittent work and changing commodity emphasis rather than a single continuous operating period.",
-        "The 1956 fire and the uneconomic 1977\u201378 reevaluation help explain why renewed large-scale mining did not follow the earlier operating era.",
+        "Grizzly Mine’s story spans both nineteenth-century mineral development and twenty-first-century watershed restoration. Historic accounts describe intermittent work and changing commodity emphasis rather than a single continuous operating period.",
+        "The 1956 fire and the uneconomic 1977–78 reevaluation help explain why renewed large-scale mining did not follow the earlier operating era.",
         "Modern reclamation consolidated mine waste, diverted water, repaired stream and floodplain areas, rehabilitated roads, and treated unstable surface structures. Those changes mean the present landscape does not necessarily preserve every feature described in older mining records."
       ]
     }
@@ -3191,7 +3211,7 @@
       ],
       "name": "Argo Tunnel & Mill",
       "overview": [
-        "The Argo complex centers on a major mining tunnel developed to drain and serve mines in the Central City\u2013Idaho Springs region, together with the later milling and ore-handling facilities at its Idaho Springs portal.",
+        "The Argo complex centers on a major mining tunnel developed to drain and serve mines in the Central City–Idaho Springs region, together with the later milling and ore-handling facilities at its Idaho Springs portal.",
         "The tunnel portal, ore bins and dump, mill, and later preservation features are related but distinct parts of the larger industrial site."
       ],
       "timeline": [
@@ -3229,7 +3249,7 @@
             "uri": "https://cdn.loc.gov/service/pnp/fsa/8c15000/8c15900/8c15967v.jpg"
           },
           "sourceNote": "Library of Congress FSA/OWI photograph by Marion Post Wolcott. Public domain / no known restrictions.",
-          "title": "Silver Plume, Colorado \u2014 1941"
+          "title": "Silver Plume, Colorado — 1941"
         }
       ],
       "features": [
@@ -3272,7 +3292,7 @@
       ],
       "timeline": [
         {
-          "text": "Silver discoveries and mine development drove the growth of Silver Plume as one of Colorado\u2019s important early silver camps.",
+          "text": "Silver discoveries and mine development drove the growth of Silver Plume as one of Colorado’s important early silver camps.",
           "year": "19th century"
         },
         {
@@ -3288,7 +3308,7 @@
           "year": "1941"
         },
         {
-          "text": "The town and railroad landscape remain central components of the Georgetown\u2013Silver Plume historic district.",
+          "text": "The town and railroad landscape remain central components of the Georgetown–Silver Plume historic district.",
           "year": "Today"
         }
       ]
@@ -3308,8 +3328,8 @@
           "source": {
             "uri": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bird%27s_eye_view_of_Idaho_Springs_Colorado_-_DPLA_-_0a7eeaaa1b1b23cb89ce45f1f95fb917.jpg"
           },
-          "sourceNote": "J. J. Stoner bird\u2019s-eye view, Denver Public Library / Plains to Peaks Collective via DPLA and Wikimedia Commons. Rights statement: No Copyright \u2013 United States / public domain in the United States.",
-          "title": "Bird\u2019s-eye view of Idaho Springs"
+          "sourceNote": "J. J. Stoner bird’s-eye view, Denver Public Library / Plains to Peaks Collective via DPLA and Wikimedia Commons. Rights statement: No Copyright – United States / public domain in the United States.",
+          "title": "Bird’s-eye view of Idaho Springs"
         }
       ],
       "features": [
@@ -3334,14 +3354,14 @@
       ],
       "location": "Idaho Springs",
       "moreHistory": [
-        "Idaho Springs began as a gold-rush settlement after one of Colorado\u2019s foundational placer discoveries. As nearby mining shifted from placer gravels to hard-rock veins, the town developed into a durable center for supplies, finance, transportation, processing, lodging, and labor.",
+        "Idaho Springs began as a gold-rush settlement after one of Colorado’s foundational placer discoveries. As nearby mining shifted from placer gravels to hard-rock veins, the town developed into a durable center for supplies, finance, transportation, processing, lodging, and labor.",
         "The Miner Street commercial district contains mostly one- and two-story brick buildings with a smaller number of surviving frame structures. Their form reflects late Victorian and early twentieth-century commercial architecture rather than the rough false-front character of the earliest camp.",
         "The district is a broad historic landscape containing many individual sites. Major features such as the Argo Tunnel & Mill, hose houses, Miner Street Bridge, and other structures remain historically connected to the larger Idaho Springs story.",
-        "The historic bird\u2019s-eye image used here is especially useful for understanding the scale, street pattern, surrounding terrain, and relationship between the town and mining landscape."
+        "The historic bird’s-eye image used here is especially useful for understanding the scale, street pattern, surrounding terrain, and relationship between the town and mining landscape."
       ],
       "name": "Idaho Springs Downtown Commercial District / Historic Idaho Springs Core",
       "overview": [
-        "The historic commercial core of Idaho Springs grew from the 1859 gold rush into the principal supply and service center for the surrounding Clear Creek mining districts. Miner Street and adjoining blocks preserve the brick commercial buildings, storefronts, civic structures, and street pattern that replaced the community\u2019s earliest tent and wood-frame settlement.",
+        "The historic commercial core of Idaho Springs grew from the 1859 gold rush into the principal supply and service center for the surrounding Clear Creek mining districts. Miner Street and adjoining blocks preserve the brick commercial buildings, storefronts, civic structures, and street pattern that replaced the community’s earliest tent and wood-frame settlement.",
         "The district shows the town side of the mining landscape: hardware stores, banks, offices, saloons, markets, lodging, transportation, and services that supported mines throughout the surrounding mountains."
       ],
       "timeline": [
@@ -3350,7 +3370,7 @@
           "year": "1859"
         },
         {
-          "text": "The settlement was known by several early names, including Jackson\u2019s Diggings, Sacramento City, and Idaho/Idaho City, before the Idaho Springs name became established.",
+          "text": "The settlement was known by several early names, including Jackson’s Diggings, Sacramento City, and Idaho/Idaho City, before the Idaho Springs name became established.",
           "year": "1859"
         },
         {
@@ -3359,11 +3379,11 @@
         },
         {
           "text": "Many of the brick commercial buildings that define the present historic core were constructed during this period, replacing earlier frame buildings.",
-          "year": "1877\u20131920"
+          "year": "1877–1920"
         },
         {
           "text": "The downtown commercial core received formal historic-district recognition and preservation protections.",
-          "year": "1983\u20131984"
+          "year": "1983–1984"
         }
       ]
     },
@@ -3392,7 +3412,7 @@
       ],
       "name": "Bakerville Mining Camp / Bakerville",
       "overview": [
-        "Bakerville developed as an early mining settlement in the Clear Creek high country during the 1860s. It supported mining and milling activity near the base of Kelso Mountain and the Grays\u2013Torreys area.",
+        "Bakerville developed as an early mining settlement in the Clear Creek high country during the 1860s. It supported mining and milling activity near the base of Kelso Mountain and the Grays–Torreys area.",
         "The historic settlement was distinct from the Baker Mining Company mill and nearby individual mine workings, even though all were part of the same mining landscape."
       ],
       "state": "Colorado",
@@ -3418,7 +3438,7 @@
       "displayImages": [
         {
           "credit": "William Henry Jackson / Library of Congress, circa 1899. Public domain.",
-          "label": "OPERATING ERA \u2022 PUBLIC DOMAIN",
+          "label": "OPERATING ERA • PUBLIC DOMAIN",
           "source": {
             "uri": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Georgetown_loop_1899.jpg"
           },
@@ -3471,7 +3491,7 @@
       "displayImages": [
         {
           "credit": "Magicpiano, 2012. CC BY-SA 4.0.",
-          "label": "MODERN DOCUMENTARY \u2022 CC BY-SA",
+          "label": "MODERN DOCUMENTARY • CC BY-SA",
           "source": {
             "uri": "https://upload.wikimedia.org/wikipedia/commons/b/ba/GeorgetownCO_LebanonMineEntrance.jpg"
           },
@@ -3491,10 +3511,10 @@
         }
       ],
       "id": "CO-CLEAR-CREEK-LEBANON-EVERETT",
-      "location": "Georgetown\u2013Silver Plume mining district",
+      "location": "Georgetown–Silver Plume mining district",
       "name": "Lebanon & Everett Mine Tunnels / Lebanon Silver Mine",
       "overview": [
-        "The Lebanon and Everett tunnels are historic silver-mine workings associated with the Georgetown\u2013Silver Plume mining district. The tunnel complex is a mine feature, not part of the railroad itself.",
+        "The Lebanon and Everett tunnels are historic silver-mine workings associated with the Georgetown–Silver Plume mining district. The tunnel complex is a mine feature, not part of the railroad itself.",
         "The Lebanon and Everett workings were distinct from the Georgetown Loop railroad but were historically connected within the same mining landscape."
       ],
       "state": "Colorado",
@@ -3633,7 +3653,7 @@
       "state": "Colorado",
       "timeline": [
         {
-          "text": "John Baker, William Fletcher Kelso, and Richard \u201cDick\u201d Irwin are credited in historical district sources with the discovery.",
+          "text": "John Baker, William Fletcher Kelso, and Richard “Dick” Irwin are credited in historical district sources with the discovery.",
           "year": "1865"
         },
         {
@@ -3679,7 +3699,7 @@
       "timeline": [
         {
           "text": "Historical references document active work and ore from the Brown Mine during the early Silver Plume boom.",
-          "year": "1868\u20131870"
+          "year": "1868–1870"
         },
         {
           "text": "Contemporary historical indexing described the Brown as a well-known mine in the district.",
@@ -3714,7 +3734,7 @@
         }
       ],
       "id": "CO-CLEAR-CREEK-CONQUEROR",
-      "location": "North Empire Creek / Upper Union\u2013Empire district, Clear Creek County",
+      "location": "North Empire Creek / Upper Union–Empire district, Clear Creek County",
       "mediaNotice": "Historic image not available",
       "name": "Conqueror Mine & Mill / Conqueror Mines",
       "overview": [
@@ -3766,11 +3786,11 @@
       "timeline": [
         {
           "text": "Gold-bearing oxidized material was discovered and early miners worked decomposed surface material and placers.",
-          "year": "1860\u20131862"
+          "year": "1860–1862"
         },
         {
           "text": "Lode mining expanded across the district as deeper sulfide ore bodies were developed.",
-          "year": "1860s\u20131870s"
+          "year": "1860s–1870s"
         },
         {
           "text": "District activity declined from its first boom but continued intermittently.",
@@ -3778,7 +3798,7 @@
         },
         {
           "text": "The district revived strongly with development of the Minnesota Mine before wartime gold-mine restrictions curtailed activity.",
-          "year": "1930s\u20131940s"
+          "year": "1930s–1940s"
         }
       ]
     },
@@ -3805,7 +3825,7 @@
       "name": "Colorado & Southern Coach No. 70 / C&S Passenger Coach 70",
       "overview": [
         "Colorado & Southern Coach No. 70 is a preserved narrow-gauge passenger coach displayed in Idaho Springs with locomotive No. 60.",
-        "Rolling-stock research traces the coach to an 1896 first-class car that later became C&S No. 70. Its preservation in Idaho Springs connects the surviving artifact directly to the railroad system that served Clear Creek County\u2019s mining communities."
+        "Rolling-stock research traces the coach to an 1896 first-class car that later became C&S No. 70. Its preservation in Idaho Springs connects the surviving artifact directly to the railroad system that served Clear Creek County’s mining communities."
       ],
       "state": "Colorado",
       "timeline": [
@@ -3860,7 +3880,7 @@
         },
         {
           "text": "Engine No. 60 and Coach No. 70 have remained a public railroad-history display in Idaho Springs.",
-          "year": "Later 20th century\u2013present"
+          "year": "Later 20th century–present"
         }
       ]
     },
@@ -3949,7 +3969,7 @@
       "location": "Upper Clear Creek near Jones Pass, Clear Creek County, Colorado",
       "name": "Doctor Mine & Mill (Jones Pass)",
       "overview": [
-        "The Doctor is a documented silver-gold mine and associated mill locality in the Dailey\u2013Jones Pass district at the headwaters of upper Clear Creek."
+        "The Doctor is a documented silver-gold mine and associated mill locality in the Dailey–Jones Pass district at the headwaters of upper Clear Creek."
       ]
     },
     {
@@ -4389,7 +4409,7 @@
       "location": "York and Phillips Gulch area, Clear Creek County, Colorado",
       "name": "Nabob Shaft Mine",
       "overview": [
-        "A mapped historic gold-mine shaft in the York and Phillips Gulch area, distinct from the separate Nabob Mine in the Lawson\u2013Montana district."
+        "A mapped historic gold-mine shaft in the York and Phillips Gulch area, distinct from the separate Nabob Mine in the Lawson–Montana district."
       ]
     },
     {
@@ -4397,10 +4417,10 @@
       "componentType": "Shaft / Mine",
       "county": "Clear Creek County",
       "id": "CO-CLEAR-CREEK-SOUND-SHAFT",
-      "location": "Dumont\u2013Downieville area, Clear Creek County, Colorado",
+      "location": "Dumont–Downieville area, Clear Creek County, Colorado",
       "name": "Sound Shaft Mine",
       "overview": [
-        "A documented mine shaft in the Lawson\u2013Dumont\u2013Fall River mining area, supported by USGS mine inventory and topographic records."
+        "A documented mine shaft in the Lawson–Dumont–Fall River mining area, supported by USGS mine inventory and topographic records."
       ]
     },
     {
@@ -4419,10 +4439,10 @@
       "componentType": "Adit / Portal",
       "county": "Clear Creek County",
       "id": "CO-CLEAR-CREEK-TREMBATH-TUNNEL",
-      "location": "Freeland\u2013Lamartine mining district, Clear Creek County, Colorado",
+      "location": "Freeland–Lamartine mining district, Clear Creek County, Colorado",
       "name": "Trembath Tunnel Mine",
       "overview": [
-        "A documented tunnel and inclined-shaft mine in the Freeland\u2013Lamartine district, where USGS field evidence identified pyrite, galena, chalcopyrite, and sphalerite."
+        "A documented tunnel and inclined-shaft mine in the Freeland–Lamartine district, where USGS field evidence identified pyrite, galena, chalcopyrite, and sphalerite."
       ]
     },
     {
@@ -4573,10 +4593,10 @@
       "componentType": "Adit / Portal",
       "county": "Clear Creek County",
       "id": "CO-CLEAR-CREEK-FAIRFIELD-TUNNEL",
-      "location": "Dumont\u2013Lawson mining area, Clear Creek County, Colorado",
+      "location": "Dumont–Lawson mining area, Clear Creek County, Colorado",
       "name": "Fairfield Tunnel Mine",
       "overview": [
-        "A federally mapped gold-mine tunnel in the Dumont\u2013Lawson area; a nearby early-1900s Fairfield shaft report is not treated as the same component without stronger evidence."
+        "A federally mapped gold-mine tunnel in the Dumont–Lawson area; a nearby early-1900s Fairfield shaft report is not treated as the same component without stronger evidence."
       ]
     },
     {
@@ -4595,10 +4615,10 @@
       "componentType": "Adit / Portal",
       "county": "Clear Creek County",
       "id": "CO-CLEAR-CREEK-BOURBON-TUNNEL",
-      "location": "York\u2013Phillips Gulch area, Clear Creek County, Colorado",
+      "location": "York–Phillips Gulch area, Clear Creek County, Colorado",
       "name": "Bourbon Tunnel Mine",
       "overview": [
-        "A federally mapped inactive gold-mine tunnel in the York\u2013Phillips Gulch area; the histories of adjacent Helen and other workings are kept separate."
+        "A federally mapped inactive gold-mine tunnel in the York–Phillips Gulch area; the histories of adjacent Helen and other workings are kept separate."
       ]
     },
     {
@@ -4639,7 +4659,7 @@
       "componentType": "Adit / Portal",
       "county": "Clear Creek County",
       "id": "CO-CLEAR-CREEK-BOSTON-TUNNEL",
-      "location": "Idaho Springs\u2013Virginia mining district, Clear Creek County, Colorado",
+      "location": "Idaho Springs–Virginia mining district, Clear Creek County, Colorado",
       "name": "Boston Tunnel Mine",
       "overview": [
         "A mapped inactive gold-mine tunnel whose coincident Boston Run Tunnel locality supports the alternate Boston Run name, without adding unsupported operating history."
@@ -4686,7 +4706,7 @@
       "location": "Idaho Springs vicinity, Clear Creek County, Colorado",
       "name": "Golden Treasure Tunnel Mine",
       "overview": [
-        "A mapped tunnel and named claim near Idaho Springs; its exact operational relationship to the broader Tom Boy\u2013Treasure Vault mining complex remains unresolved."
+        "A mapped tunnel and named claim near Idaho Springs; its exact operational relationship to the broader Tom Boy–Treasure Vault mining complex remains unresolved."
       ]
     },
     {
@@ -4708,7 +4728,7 @@
       "location": "Near Idaho Springs, Clear Creek County, Colorado",
       "name": "Edna Fannie Tunnel Mine",
       "overview": [
-        "A federally documented gold-silver adit near Idaho Springs; association with the Tom Boy\u2013Treasure Vault group is contextual and does not prove individual production."
+        "A federally documented gold-silver adit near Idaho Springs; association with the Tom Boy–Treasure Vault group is contextual and does not prove individual production."
       ]
     },
     {
@@ -4837,10 +4857,10 @@
       "componentType": "Mill / Processing",
       "county": "Clear Creek County",
       "id": "CO-CLEAR-CREEK-ALICE-MINE",
-      "location": "Alice\u2013Yankee Hill district, Clear Creek County, Colorado",
+      "location": "Alice–Yankee Hill district, Clear Creek County, Colorado",
       "name": "Alice Mine & Mill / Alice Mine-Glory Hole / Commercial Union",
       "overview": [
-        "The Alice Mine was a major producer in the Alice\u2013Yankee Hill district, with open-pit and underground workings and a history of gold mining and ore treatment."
+        "The Alice Mine was a major producer in the Alice–Yankee Hill district, with open-pit and underground workings and a history of gold mining and ore treatment."
       ]
     },
     {
@@ -4881,10 +4901,10 @@
       "componentType": "Mill / Processing",
       "county": "Clear Creek County",
       "id": "CO-CLEAR-CREEK-FREELAND-MINE",
-      "location": "Freeland\u2013Lamartine district, Clear Creek County, Colorado",
+      "location": "Freeland–Lamartine district, Clear Creek County, Colorado",
       "name": "Freeland Mine & Concentrating Mill / Freeland Group of Mines",
       "overview": [
-        "The Freeland group was one of the principal mining operations of the Freeland\u2013Lamartine district, with extensive underground workings and concentrating infrastructure."
+        "The Freeland group was one of the principal mining operations of the Freeland–Lamartine district, with extensive underground workings and concentrating infrastructure."
       ]
     },
     {
@@ -4914,7 +4934,7 @@
       "componentType": "Mine",
       "county": "Clear Creek County",
       "id": "CO-CLEAR-CREEK-HENDERSON",
-      "location": "Empire\u2013Urad area, Clear Creek County, Colorado",
+      "location": "Empire–Urad area, Clear Creek County, Colorado",
       "name": "Henderson Mine / Henderson Molybdenum Mine",
       "overview": [
         "Henderson is a major Clear Creek County molybdenum mine and industrial mining complex, historically distinct from the nearby Urad Mine."
@@ -4943,7 +4963,7 @@
       "location": "Georgetown area, Clear Creek County, Colorado",
       "name": "American Sisters Mine / Two American Sisters Mine",
       "overview": [
-        "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic names/aliases: American Sisters Mine"
+        "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic names/aliases: American Sisters Mine"
       ]
     },
     {
@@ -5105,7 +5125,7 @@
       "location": "Clear Creek County, Colorado",
       "name": "Echo Lake Park / Echo Lake Lodge",
       "overview": [
-        "Research/content and the documented 1926\u201327 lodge nuance remain preserved."
+        "Research/content and the documented 1926–27 lodge nuance remain preserved."
       ]
     },
     {
@@ -5175,7 +5195,7 @@
       "location": "Silver Plume area, Clear Creek County, Colorado",
       "name": "Georgetown-Silver Plume Historic District",
       "overview": [
-        "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic identity: Georgetown-Silver Plume Historic District"
+        "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic identity: Georgetown-Silver Plume Historic District"
       ]
     },
     {
@@ -5227,7 +5247,7 @@
       "location": "Idaho Springs area, Clear Creek County, Colorado",
       "name": "Indian Hot Springs / Ocean Bath House / Hot Springs Hotel",
       "overview": [
-        "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic names/aliases: Indian Hot Springs"
+        "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic names/aliases: Indian Hot Springs"
       ]
     },
     {
@@ -5242,7 +5262,7 @@
       "location": "Silver Plume area, Clear Creek County, Colorado",
       "name": "Kirtley Mine / Kirtley Tunnel Lode",
       "overview": [
-        "DEEP FIRST-PASS RESEARCH \u2014 2026-08-18 Official/historic names/aliases: Kirtley Mine"
+        "DEEP FIRST-PASS RESEARCH — 2026-08-18 Official/historic names/aliases: Kirtley Mine"
       ]
     },
     {
@@ -5253,7 +5273,7 @@
       "location": "Lawson area, Clear Creek County, Colorado",
       "name": "Lawson / Free America / Six-Mile House",
       "overview": [
-        "Lawson\u2019s exact Explore record is absent from current Clear Creek v4"
+        "Lawson’s exact Explore record is absent from current Clear Creek v4"
       ]
     },
     {
@@ -5290,7 +5310,7 @@
       "location": "Empire area, Clear Creek County, Colorado",
       "name": "Minnesota Mine & Mill / Crown Prince-Atlantic Group",
       "overview": [
-        "Minnesota Mine is the major 1930s\u2013WWII gold producer of the Empire/Upper Union district and incorporated the Crown Prince/Atlantic/Comet group of earlier workings."
+        "Minnesota Mine is the major 1930s–WWII gold producer of the Empire/Upper Union district and incorporated the Crown Prince/Atlantic/Comet group of earlier workings."
       ]
     },
     {
@@ -5334,7 +5354,7 @@
       "location": "Clear Creek County, Colorado",
       "name": "Peabody Mine",
       "overview": [
-        "Peabody Mine is anchored by an authentic 1880s albumen photograph titled \u201cView at Peabody Mine near Hamilton, Colorado,\u201d Amon Carter Museum accession P1976.11.24"
+        "Peabody Mine is anchored by an authentic 1880s albumen photograph titled “View at Peabody Mine near Hamilton, Colorado,” Amon Carter Museum accession P1976.11.24"
       ]
     },
     {
@@ -5508,7 +5528,7 @@
       "componentType": "Town / Camp",
       "county": "Clear Creek County",
       "id": "CO-CLEAR-CREEK-FREELAND-CAMP",
-      "location": "Freeland\u2013Lamartine district, Clear Creek County, Colorado",
+      "location": "Freeland–Lamartine district, Clear Creek County, Colorado",
       "name": "Freeland Mining Camp / Freeland Townsite",
       "overview": [
         "USGS Bulletin 1032-B and Clear Creek County archival newsletter support Freeland townsite and mining context."
@@ -5522,7 +5542,7 @@
       "location": "Idaho Springs area, Clear Creek County, Colorado",
       "name": "Gem Hydroelectric Power Plant / Gem Power Plant",
       "overview": [
-        "Historical Society of Idaho Springs, \u201cIdaho Springs History,\u201d confirms the Gem Companies were the first locally to operate hydro and coal-fired steam generating plants in addition to a gold mine, and identifies surviving remnants of the hydro plant near the present Veterans Memorial Tunnel."
+        "Historical Society of Idaho Springs, “Idaho Springs History,” confirms the Gem Companies were the first locally to operate hydro and coal-fired steam generating plants in addition to a gold mine, and identifies surviving remnants of the hydro plant near the present Veterans Memorial Tunnel."
       ]
     },
     {
@@ -5533,7 +5553,7 @@
       "location": "Silver Plume area, Clear Creek County, Colorado",
       "name": "Georgetown Historic Mining Town / Silver Queen of the Rockies",
       "overview": [
-        "Retained source trail: National Park Service, National Register/NHL nomination \u201cGeorgetown-Silver Plume Historic District,\u201d NRIS 66000243, Asset ID 6002ace7-d14c-4a56-8fff-ada3d1986f0a,"
+        "Retained source trail: National Park Service, National Register/NHL nomination “Georgetown-Silver Plume Historic District,” NRIS 66000243, Asset ID 6002ace7-d14c-4a56-8fff-ada3d1986f0a,"
       ]
     },
     {
@@ -5563,7 +5583,7 @@
       "componentType": "Mine",
       "county": "Clear Creek County",
       "id": "CO-CLEAR-CREEK-LAMARTINE",
-      "location": "Freeland\u2013Lamartine district, Clear Creek County, Colorado",
+      "location": "Freeland–Lamartine district, Clear Creek County, Colorado",
       "name": "Lamartine Mine",
       "overview": [
         "Traceable authoritative USGS citations are retained in Notes for the approved Lamartine Mine identity/history claims."
@@ -5636,7 +5656,7 @@
       "location": "Silver Plume area, Clear Creek County, Colorado",
       "name": "Smuggler Mine / Silver Plume Smuggler Mine",
       "overview": [
-        "National Trust for Historic Preservation, \u201cHow a Colorado Town Purchased and Preserved a Historic Mining Landscape,\u201d identifies the Smuggler Mine in the Silver Plume mining landscape, states it operated from the 1890s to the 1950s producing gold, silver, lead, and zinc, and documents its largely intact timber-and-steel headframe and preservation status."
+        "National Trust for Historic Preservation, “How a Colorado Town Purchased and Preserved a Historic Mining Landscape,” identifies the Smuggler Mine in the Silver Plume mining landscape, states it operated from the 1890s to the 1950s producing gold, silver, lead, and zinc, and documents its largely intact timber-and-steel headframe and preservation status."
       ]
     },
     {
@@ -5658,7 +5678,7 @@
       "location": "Silver Plume area, Clear Creek County, Colorado",
       "name": "Sunrise Peak Aerial Tramway / Sunrise Aerial Railway",
       "overview": [
-        "Source re-verification 2026-08-27: Clear Creek County documents the Sunrise Peak Aerial Railway/Tramway at Silver Plume as a passenger sightseeing aerial tram built in 1906\u20131907 by the Colorado Mines and Aerial Tramway Company."
+        "Source re-verification 2026-08-27: Clear Creek County documents the Sunrise Peak Aerial Railway/Tramway at Silver Plume as a passenger sightseeing aerial tram built in 1906–1907 by the Colorado Mines and Aerial Tramway Company."
       ]
     },
     {
@@ -5680,7 +5700,7 @@
       "location": "Clear Creek County, Colorado",
       "name": "Urad Mine / URAD Molybdenum Mine",
       "overview": [
-        "Geological Survey Bulletin 1182-E, section \u201cUrad mine\u201d by D."
+        "Geological Survey Bulletin 1182-E, section “Urad mine” by D."
       ]
     },
     {
@@ -5691,7 +5711,7 @@
       "location": "Argentine district, Clear Creek County, Colorado",
       "name": "Waldorf Mining Camp / Waldorf Mine & Mill Complex",
       "overview": [
-        "Wilcox\u2019s Waldorf Company operations: a concentration mill erected at the tunnel in 1905, ore supplied in part from the Santiago by aerial tramway, growth of the camp around the railroad/mill/tourist trade, and a post office granted under the name Waldorf in 1906."
+        "Wilcox’s Waldorf Company operations: a concentration mill erected at the tunnel in 1905, ore supplied in part from the Santiago by aerial tramway, growth of the camp around the railroad/mill/tourist trade, and a post office granted under the name Waldorf in 1906."
       ]
     },
     {
@@ -5702,7 +5722,7 @@
       "location": "Yankee Hill area, Clear Creek County, Colorado",
       "name": "Yankee Hill Mining Camp / Yankee (historical)",
       "overview": [
-        "Source re-verification 2026-08-27: USGS Professional Paper 223 places the Alice\u2013Yankee Hill district in north-central Clear Creek County and southwest Gilpin County, roughly seven miles west-northwest of Central City, at about 10,000\u201311,500 ft"
+        "Source re-verification 2026-08-27: USGS Professional Paper 223 places the Alice–Yankee Hill district in north-central Clear Creek County and southwest Gilpin County, roughly seven miles west-northwest of Central City, at about 10,000–11,500 ft"
       ]
     },
     {
@@ -5779,7 +5799,7 @@
       "category": "Mine",
       "componentType": "Mine",
       "overview": [
-        "The Calvin Mine is a federally documented historic gold mine in the Idaho Springs district, with recorded production in 1919 and again during 1934\u20131935. Operator history and the present condition of surface remnants remain unverified, so the record is intentionally limited to Basic Scan identification."
+        "The Calvin Mine is a federally documented historic gold mine in the Idaho Springs district, with recorded production in 1919 and again during 1934–1935. Operator history and the present condition of surface remnants remain unverified, so the record is intentionally limited to Basic Scan identification."
       ]
     },
     {
@@ -5790,7 +5810,7 @@
       "category": "Mine",
       "componentType": "Mine",
       "overview": [
-        "The Foxhall Mine is a federally documented historic gold mine in the Idaho Springs district, with recorded production from 1901 through 1922. Available sources support the mine\u2019s identity and production history but not a reliable modern remnant inventory, so the record remains a Basic Scan identification."
+        "The Foxhall Mine is a federally documented historic gold mine in the Idaho Springs district, with recorded production from 1901 through 1922. Available sources support the mine’s identity and production history but not a reliable modern remnant inventory, so the record remains a Basic Scan identification."
       ]
     },
     {
@@ -5801,7 +5821,7 @@
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
       "overview": [
-        "The Baby Eddie Tunnel is a federally documented historic gold-silver tunnel-mine feature in Clear Creek County. Available records support the named tunnel\u2019s identity and general location but not a dependable operating chronology or verified modern portal condition, so the record remains intentionally limited to Basic Scan identification."
+        "The Baby Eddie Tunnel is a federally documented historic gold-silver tunnel-mine feature in Clear Creek County. Available records support the named tunnel’s identity and general location but not a dependable operating chronology or verified modern portal condition, so the record remains intentionally limited to Basic Scan identification."
       ]
     },
     {
@@ -5845,7 +5865,7 @@
       "category": "Mine",
       "componentType": "Mine",
       "overview": [
-        "The Providence Mine is a federally documented underground gold mine in the Idaho Springs district. Available records support the mine\u2019s distinct identity and mapped location but do not provide a dependable operator or production chronology, and no present surface remnants are claimed; the entry therefore remains Basic Scan only."
+        "The Providence Mine is a federally documented underground gold mine in the Idaho Springs district. Available records support the mine’s distinct identity and mapped location but do not provide a dependable operator or production chronology, and no present surface remnants are claimed; the entry therefore remains Basic Scan only."
       ]
     },
     {
@@ -5878,7 +5898,7 @@
       "category": "Shaft / Mine",
       "componentType": "Shaft / Mine",
       "overview": [
-        "The Allen Shaft is a federally documented underground gold-silver mine in the Central City district. The mine\u2019s identity and mapped shaft anchor are retained, but dependable operator, production, workings, and present-remnant details are unavailable; the entry is therefore intentionally limited to Basic Scan identification."
+        "The Allen Shaft is a federally documented underground gold-silver mine in the Central City district. The mine’s identity and mapped shaft anchor are retained, but dependable operator, production, workings, and present-remnant details are unavailable; the entry is therefore intentionally limited to Basic Scan identification."
       ]
     },
     {
@@ -5889,7 +5909,7 @@
       "category": "Mine / Shaft",
       "componentType": "Shaft / Mine",
       "overview": [
-        "The Black Earth Shaft Mine is a federally mapped historic shaft near Dumont. Available records support the named shaft\u2019s distinct identity and general location but not a dependable operator or production chronology, and present survival has not been field-verified; the entry remains Basic Scan only."
+        "The Black Earth Shaft Mine is a federally mapped historic shaft near Dumont. Available records support the named shaft’s distinct identity and general location but not a dependable operator or production chronology, and present survival has not been field-verified; the entry remains Basic Scan only."
       ]
     },
     {
@@ -5900,7 +5920,7 @@
       "category": "Shaft / Mine",
       "componentType": "Shaft / Mine",
       "overview": [
-        "The Santa Fe Shaft is a federally documented underground gold mine in the Central City district, with silver, copper, zinc, and lead also recorded and bounded production periods in 1887\u20131892 and 1906\u20131941. Available records do not establish a dependable owner sequence, shaft depth, or verified present surface condition, so the entry remains Basic Scan only."
+        "The Santa Fe Shaft is a federally documented underground gold mine in the Central City district, with silver, copper, zinc, and lead also recorded and bounded production periods in 1887–1892 and 1906–1941. Available records do not establish a dependable owner sequence, shaft depth, or verified present surface condition, so the entry remains Basic Scan only."
       ]
     },
     {
@@ -5911,7 +5931,7 @@
       "category": "Shaft / Mine",
       "componentType": "Shaft / Mine",
       "overview": [
-        "The Champion Shaft is a federally documented underground silver-gold mine in the Central City district, with bounded production periods in 1888\u20131889 and 1908\u20131937. Available records do not establish dependable ownership, workings dimensions, mining method, or present surface remnants, so the entry remains Basic Scan only."
+        "The Champion Shaft is a federally documented underground silver-gold mine in the Central City district, with bounded production periods in 1888–1889 and 1908–1937. Available records do not establish dependable ownership, workings dimensions, mining method, or present surface remnants, so the entry remains Basic Scan only."
       ]
     },
     {
@@ -5922,7 +5942,7 @@
       "category": "Shaft / Mine",
       "componentType": "Shaft / Mine",
       "overview": [
-        "Doves Nest Shaft-West is a federally documented underground gold-silver mine and leach-plant record in the Central City district, with production recorded in 1887 and 1890\u20131892. The record does not establish quantified output, shaft depth, or verified survival of the collar, plant, foundations, or dumps, so the entry remains Basic Scan only."
+        "Doves Nest Shaft-West is a federally documented underground gold-silver mine and leach-plant record in the Central City district, with production recorded in 1887 and 1890–1892. The record does not establish quantified output, shaft depth, or verified survival of the collar, plant, foundations, or dumps, so the entry remains Basic Scan only."
       ]
     },
     {
@@ -6093,7 +6113,7 @@
     {
       "id": "CO-CLEAR-CREEK-BRAZIL-TUNNEL",
       "name": "Brazil Tunnel Mine",
-      "location": "Lawson\u2013Lamartine mining area, Clear Creek County, Colorado",
+      "location": "Lawson–Lamartine mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6148,7 +6168,7 @@
     {
       "id": "CO-CLEAR-CREEK-EMPEROR-TUNNEL",
       "name": "Emperor Tunnel Mine",
-      "location": "Mount Edwards\u2013Grays Peak area, Clear Creek County, Colorado",
+      "location": "Mount Edwards–Grays Peak area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6159,7 +6179,7 @@
     {
       "id": "CO-CLEAR-CREEK-ENTERPRISE-SHAFT-MINE",
       "name": "Enterprise Shaft Mine",
-      "location": "Russell Gulch\u2013Central City mining district, Clear Creek County, Colorado",
+      "location": "Russell Gulch–Central City mining district, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Shaft / Mine",
       "componentType": "Shaft / Mine",
@@ -6181,7 +6201,7 @@
     {
       "id": "CO-CLEAR-CREEK-G-TUNNEL-MINE",
       "name": "G Tunnel Mine",
-      "location": "Georgetown\u2013Silver Plume high country, Clear Creek County, Colorado",
+      "location": "Georgetown–Silver Plume high country, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6280,7 +6300,7 @@
     {
       "id": "CO-CLEAR-CREEK-LA-PLATA-TUNNEL",
       "name": "La Plata Tunnel Mine",
-      "location": "Georgetown\u2013Democrat Mountain area, Clear Creek County, Colorado",
+      "location": "Georgetown–Democrat Mountain area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6291,7 +6311,7 @@
     {
       "id": "CO-CLEAR-CREEK-LAKE-SUPERIOR-SHAFT",
       "name": "Lake Superior Shaft Mine",
-      "location": "Georgetown\u2013Silver Plume mining district, Clear Creek County, Colorado",
+      "location": "Georgetown–Silver Plume mining district, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Shaft",
       "componentType": "Shaft / Mine",
@@ -6302,7 +6322,7 @@
     {
       "id": "CO-CLEAR-CREEK-LATHROP-LEVEL",
       "name": "Lathrop Level Mine",
-      "location": "Georgetown\u2013Democrat Mountain area, Clear Creek County, Colorado",
+      "location": "Georgetown–Democrat Mountain area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6313,7 +6333,7 @@
     {
       "id": "CO-CLEAR-CREEK-LITTLE-ALBERT-TUNNEL-5",
       "name": "Little Albert Tunnel No. 5",
-      "location": "Lawson\u2013Idaho Springs mining district, Clear Creek County, Colorado",
+      "location": "Lawson–Idaho Springs mining district, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6324,7 +6344,7 @@
     {
       "id": "CO-CLEAR-CREEK-LONE-TREE-SHAFT",
       "name": "Lone Tree Shaft",
-      "location": "Freeland\u2013Lamartine / Central City mining area, Clear Creek County, Colorado",
+      "location": "Freeland–Lamartine / Central City mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Shaft",
       "componentType": "Shaft / Mine",
@@ -6335,7 +6355,7 @@
     {
       "id": "CO-CLEAR-CREEK-MACKAY-TUNNEL",
       "name": "MacKay Tunnel Mine",
-      "location": "Spring Gulch\u2013Central City mining area, Clear Creek County, Colorado",
+      "location": "Spring Gulch–Central City mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6346,7 +6366,7 @@
     {
       "id": "CO-CLEAR-CREEK-MARY-ANN-SHAFT-MINE",
       "name": "Mary Ann Shaft Mine",
-      "location": "Dumont\u2013Idaho Springs mining area, Clear Creek County, Colorado",
+      "location": "Dumont–Idaho Springs mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Shaft",
       "componentType": "Shaft / Mine",
@@ -6357,7 +6377,7 @@
     {
       "id": "CO-CLEAR-CREEK-MATTHEWS-TUNNEL",
       "name": "Matthews Tunnel Mine",
-      "location": "Georgetown\u2013Democrat Mountain area, Clear Creek County, Colorado",
+      "location": "Georgetown–Democrat Mountain area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6368,7 +6388,7 @@
     {
       "id": "CO-CLEAR-CREEK-MINT-SHAFT-MINE",
       "name": "Mint Shaft Mine",
-      "location": "Dumont\u2013Idaho Springs mining area, Clear Creek County, Colorado",
+      "location": "Dumont–Idaho Springs mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Shaft",
       "componentType": "Shaft / Mine",
@@ -6379,7 +6399,7 @@
     {
       "id": "CO-CLEAR-CREEK-NEW-TUNNEL",
       "name": "New Tunnel Mine",
-      "location": "Dumont\u2013Central City mining area, Clear Creek County, Colorado",
+      "location": "Dumont–Central City mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6390,7 +6410,7 @@
     {
       "id": "CO-CLEAR-CREEK-NIQUIET-MINE",
       "name": "Niquiet Mine",
-      "location": "Silver Plume\u2013Georgetown mining area, Clear Creek County, Colorado",
+      "location": "Silver Plume–Georgetown mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine",
       "componentType": "Mine",
@@ -6401,18 +6421,18 @@
     {
       "id": "CO-CLEAR-CREEK-MOLINE-TUNNEL",
       "name": "Moline Tunnel",
-      "location": "Georgetown\u2013Democrat Mountain area, Clear Creek County, Colorado",
+      "location": "Georgetown–Democrat Mountain area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
       "overview": [
-        "Moline Tunnel is a documented historic working on Democrat Mountain near Georgetown. Contemporary reports trace active development in 1882\u20131883, including the cutting and working of the New Boston lode, while a later transportation-history context records a 1902 connection into the Mineral Chief workings. Its identity and development history are well supported, while a verified modern portal and remnant inventory remains unavailable; the entry therefore remains Basic Scan only."
+        "Moline Tunnel is a documented historic working on Democrat Mountain near Georgetown. Contemporary reports trace active development in 1882–1883, including the cutting and working of the New Boston lode, while a later transportation-history context records a 1902 connection into the Mineral Chief workings. Its identity and development history are well supported, while a verified modern portal and remnant inventory remains unavailable; the entry therefore remains Basic Scan only."
       ]
     },
     {
       "id": "CO-CLEAR-CREEK-NORMAN-SHAFT",
       "name": "Norman Shaft Mine",
-      "location": "Silver Plume\u2013Georgetown mining area, Clear Creek County, Colorado",
+      "location": "Silver Plume–Georgetown mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Shaft",
       "componentType": "Shaft / Mine",
@@ -6423,7 +6443,7 @@
     {
       "id": "CO-CLEAR-CREEK-NYANZA-TUNNEL",
       "name": "Nyanza Tunnel Mine",
-      "location": "Georgetown\u2013Democrat Mountain area, Clear Creek County, Colorado",
+      "location": "Georgetown–Democrat Mountain area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6434,23 +6454,23 @@
     {
       "id": "CO-CLEAR-CREEK-OLDBURY-SHAFT-MINE",
       "name": "Oldbury Shaft Mine",
-      "location": "Freeland\u2013Lamartine / Idaho Springs mining area, Clear Creek County, Colorado",
+      "location": "Freeland–Lamartine / Idaho Springs mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Shaft",
       "componentType": "Shaft / Mine",
       "overview": [
-        "Oldbury Shaft Mine is a distinct named historic shaft feature mapped on the U.S. Geological Survey Idaho Springs quadrangle. Federal geological work on the Freeland\u2013Lamartine district also documents the Oldbury vein and its place in the surrounding mining landscape. The mapped identity and district context are supported, while a complete operating chronology, specific operator history, and verified surviving shaft infrastructure remain unavailable; the entry therefore remains Basic Scan only."
+        "Oldbury Shaft Mine is a distinct named historic shaft feature mapped on the U.S. Geological Survey Idaho Springs quadrangle. Federal geological work on the Freeland–Lamartine district also documents the Oldbury vein and its place in the surrounding mining landscape. The mapped identity and district context are supported, while a complete operating chronology, specific operator history, and verified surviving shaft infrastructure remain unavailable; the entry therefore remains Basic Scan only."
       ]
     },
     {
       "id": "CO-CLEAR-CREEK-OREGON-SHAFT",
       "name": "Oregon Shaft",
-      "location": "Central City\u2013Idaho Springs mining district, Clear Creek County, Colorado",
+      "location": "Central City–Idaho Springs mining district, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Shaft",
       "componentType": "Shaft / Mine",
       "overview": [
-        "Oregon Shaft is a federally documented past-producing underground gold site in the Central City\u2013Idaho Springs mining district. Mineral-resource records support its identity and location and distinguish it from the separate Oregon Tunnel Mine near Georgetown. Dependable operator history, production dates and totals, workings dimensions, and verified surviving shaft infrastructure remain unavailable; the entry therefore remains Basic Scan only."
+        "Oregon Shaft is a federally documented past-producing underground gold site in the Central City–Idaho Springs mining district. Mineral-resource records support its identity and location and distinguish it from the separate Oregon Tunnel Mine near Georgetown. Dependable operator history, production dates and totals, workings dimensions, and verified surviving shaft infrastructure remain unavailable; the entry therefore remains Basic Scan only."
       ]
     },
     {
@@ -6478,29 +6498,29 @@
     {
       "id": "CO-CLEAR-CREEK-ORO-FINO-TUNNEL",
       "name": "Oro Fino Tunnel",
-      "location": "Central City\u2013Idaho Springs mining district, Clear Creek County, Colorado",
+      "location": "Central City–Idaho Springs mining district, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
       "overview": [
-        "Oro Fino Tunnel is a federally documented underground gold mine and past producer in the Central City\u2013Idaho Springs mining district. Mineral-resource and topographic records support its identity and mapped location, and locality records also document pyrite. A dependable operator, production chronology or totals, tunnel dimensions, and verified present portal condition remain unavailable; the entry therefore remains Basic Scan only."
+        "Oro Fino Tunnel is a federally documented underground gold mine and past producer in the Central City–Idaho Springs mining district. Mineral-resource and topographic records support its identity and mapped location, and locality records also document pyrite. A dependable operator, production chronology or totals, tunnel dimensions, and verified present portal condition remain unavailable; the entry therefore remains Basic Scan only."
       ]
     },
     {
       "id": "CO-CLEAR-CREEK-PT-SHAFT",
       "name": "P T Shaft",
-      "location": "Central City\u2013Idaho Springs mining district, Clear Creek County, Colorado",
+      "location": "Central City–Idaho Springs mining district, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Shaft",
       "componentType": "Shaft / Mine",
       "overview": [
-        "P T Shaft, also recorded as P.T. Shaft, is a federally documented underground polymetallic-vein mine in the Central City district. Mineral-resource records list silver as the primary commodity, copper, lead, and zinc as secondary commodities, and gold as a trace commodity; reported production data span 1908\u20131941 and total 8,673.75 metric tons of ore. Operator history, shaft depth, headframe history, and verified present surface condition remain unavailable; the entry therefore remains Basic Scan only."
+        "P T Shaft, also recorded as P.T. Shaft, is a federally documented underground polymetallic-vein mine in the Central City district. Mineral-resource records list silver as the primary commodity, copper, lead, and zinc as secondary commodities, and gold as a trace commodity; reported production data span 1908–1941 and total 8,673.75 metric tons of ore. Operator history, shaft depth, headframe history, and verified present surface condition remain unavailable; the entry therefore remains Basic Scan only."
       ]
     },
     {
       "id": "CO-CLEAR-CREEK-PERU-TUNNEL",
       "name": "Peru Tunnel",
-      "location": "Georgetown\u2013Silver Plume mining area, Clear Creek County, Colorado",
+      "location": "Georgetown–Silver Plume mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6533,18 +6553,18 @@
     {
       "id": "CO-CLEAR-CREEK-PRUDENTIAL-TUNNEL",
       "name": "Prudential Tunnel Mine",
-      "location": "Republican Mountain\u2013Georgetown mining area, Clear Creek County, Colorado",
+      "location": "Republican Mountain–Georgetown mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
       "overview": [
-        "Prudential Tunnel Mine is a documented historic tunnel project on Republican Mountain at Georgetown. Contemporary reports trace active development from 1903 through 1908 and describe its intended role as a deep lateral driven toward Silver Plume to intersect established veins. Those reports support the tunnel\u2019s identity, purpose, and active-development period, while its final length, completed vein intersections, production, later ownership, and verified present portal condition remain unavailable; the entry therefore remains Basic Scan only."
+        "Prudential Tunnel Mine is a documented historic tunnel project on Republican Mountain at Georgetown. Contemporary reports trace active development from 1903 through 1908 and describe its intended role as a deep lateral driven toward Silver Plume to intersect established veins. Those reports support the tunnel’s identity, purpose, and active-development period, while its final length, completed vein intersections, production, later ownership, and verified present portal condition remain unavailable; the entry therefore remains Basic Scan only."
       ]
     },
     {
       "id": "CO-CLEAR-CREEK-QUEEN-CITY-TUNNEL",
       "name": "Queen City Tunnel",
-      "location": "Democrat Mountain\u2013Georgetown mining area, Clear Creek County, Colorado",
+      "location": "Democrat Mountain–Georgetown mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6555,7 +6575,7 @@
     {
       "id": "CO-CLEAR-CREEK-QUEEN-OF-THE-WEST-TUNNEL",
       "name": "Queen of the West Tunnel",
-      "location": "Democrat Mountain\u2013Georgetown mining area, Clear Creek County, Colorado",
+      "location": "Democrat Mountain–Georgetown mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6566,12 +6586,12 @@
     {
       "id": "CO-CLEAR-CREEK-RAMSHORN-TUNNEL",
       "name": "Ramshorn Tunnel Mine",
-      "location": "Democrat Mountain\u2013Georgetown mining area, Clear Creek County, Colorado",
+      "location": "Democrat Mountain–Georgetown mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
       "overview": [
-        "Ramshorn Tunnel Mine is a distinct named historic tunnel feature preserved on U.S. Geological Survey Georgetown quadrangle mapping on Democrat Mountain. Mineral-resource locality evidence identifies silver as the principal commodity, with lead and zinc also reported, and its mapped position distinguishes it from the nearby Silver Glance, White Pine, La Plata, Bonanza, and Matthews\u2013Rogers workings. Dependable operator dates, workings dimensions, production, and verified present portal condition remain unavailable; the entry therefore remains Basic Scan only."
+        "Ramshorn Tunnel Mine is a distinct named historic tunnel feature preserved on U.S. Geological Survey Georgetown quadrangle mapping on Democrat Mountain. Mineral-resource locality evidence identifies silver as the principal commodity, with lead and zinc also reported, and its mapped position distinguishes it from the nearby Silver Glance, White Pine, La Plata, Bonanza, and Matthews–Rogers workings. Dependable operator dates, workings dimensions, production, and verified present portal condition remain unavailable; the entry therefore remains Basic Scan only."
       ]
     },
     {
@@ -6599,7 +6619,7 @@
     {
       "id": "CO-CLEAR-CREEK-ROGERS-SHAFT",
       "name": "Rogers Shaft",
-      "location": "Democrat Mountain\u2013Georgetown mining area, Clear Creek County, Colorado",
+      "location": "Democrat Mountain–Georgetown mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Shaft",
       "componentType": "Shaft / Mine",
@@ -6621,7 +6641,7 @@
     {
       "id": "CO-CLEAR-CREEK-SAN-JUAN-TUNNEL",
       "name": "San Juan Tunnel",
-      "location": "Grizzly Gulch\u2013Silver Plume mining area, Clear Creek County, Colorado",
+      "location": "Grizzly Gulch–Silver Plume mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6632,7 +6652,7 @@
     {
       "id": "CO-CLEAR-CREEK-SHERMAN-SHAFT-MINE",
       "name": "Sherman Shaft Mine",
-      "location": "Dumont\u2013Idaho Springs mining area, Clear Creek County, Colorado",
+      "location": "Dumont–Idaho Springs mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Shaft",
       "componentType": "Shaft / Mine",
@@ -6643,7 +6663,7 @@
     {
       "id": "CO-CLEAR-CREEK-SILVER-GLANCE-TUNNEL",
       "name": "Silver Glance Tunnel Mine",
-      "location": "Democrat Mountain\u2013Georgetown mining area, Clear Creek County, Colorado",
+      "location": "Democrat Mountain–Georgetown mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6653,13 +6673,13 @@
     },
     {
       "id": "CO-CLEAR-CREEK-SUNBURST-SCEPTRE",
-      "name": "Sunburst\u2013Sceptre Mine Group",
-      "location": "Silver Plume\u2013Georgetown mining district, Clear Creek County, Colorado",
+      "name": "Sunburst–Sceptre Mine Group",
+      "location": "Silver Plume–Georgetown mining district, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Claim Group",
       "componentType": "Mine",
       "overview": [
-        "The Sunburst\u2013Sceptre Mine Group is a federally documented producer in the Silver Plume\u2013Georgetown mining district. U.S. Geological Survey mineral-resource records identify lead, zinc, and copper as primary commodities, record galena, sphalerite, siderite, and quartz, and classify the deposit as polymetallic veins; a separate federal docket also records lead-zinc exploration for the claim group. The original federal coordinate, quadrangle, and land-section record provide the Scan anchor, while a conflicting secondary locality point is retained only as an alternate database placement. Verified present surface remnants and site-specific imagery remain unavailable; the entry therefore remains Basic Scan only."
+        "The Sunburst–Sceptre Mine Group is a federally documented producer in the Silver Plume–Georgetown mining district. U.S. Geological Survey mineral-resource records identify lead, zinc, and copper as primary commodities, record galena, sphalerite, siderite, and quartz, and classify the deposit as polymetallic veins; a separate federal docket also records lead-zinc exploration for the claim group. The original federal coordinate, quadrangle, and land-section record provide the Scan anchor, while a conflicting secondary locality point is retained only as an alternate database placement. Verified present surface remnants and site-specific imagery remain unavailable; the entry therefore remains Basic Scan only."
       ]
     },
     {
@@ -6676,7 +6696,7 @@
     {
       "id": "CO-CLEAR-CREEK-TORREY-TWO-TUNNEL",
       "name": "Torrey Two Tunnel Mine",
-      "location": "Spring Gulch\u2013Central City mining area, Clear Creek County, Colorado",
+      "location": "Spring Gulch–Central City mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6687,7 +6707,7 @@
     {
       "id": "CO-CLEAR-CREEK-WHITE-PINE-TUNNEL",
       "name": "White Pine Tunnel Mine",
-      "location": "Democrat Mountain\u2013Georgetown mining area, Clear Creek County, Colorado",
+      "location": "Democrat Mountain–Georgetown mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6720,7 +6740,7 @@
     {
       "id": "CO-CLEAR-CREEK-BIG-INDIAN-SHAFT",
       "name": "Big Indian Shaft",
-      "location": "Leavenworth Mountain\u2013Georgetown mining area, Clear Creek County, Colorado",
+      "location": "Leavenworth Mountain–Georgetown mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Shaft",
       "componentType": "Shaft / Headframe",
@@ -6742,7 +6762,7 @@
     {
       "id": "CO-CLEAR-CREEK-CAPTAIN-WELLS-MINE",
       "name": "Captain Wells Mine",
-      "location": "Sherman Mountain\u2013Silver Plume mining area, Clear Creek County, Colorado",
+      "location": "Sherman Mountain–Silver Plume mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine",
       "componentType": "Mine",
@@ -6753,18 +6773,18 @@
     {
       "id": "CO-CLEAR-CREEK-MAUDE-MONROE-MINE",
       "name": "Maude Monroe Mine",
-      "location": "Idaho Springs\u2013Virginia mining district, Clear Creek County, Colorado",
+      "location": "Idaho Springs–Virginia mining district, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine",
       "componentType": "Mine",
       "overview": [
-        "Maude Monroe Mine is a federally documented past-producing polymetallic gold property. Mineral-resource records report production during 1907\u20131937 and identify Lucky Kid Mining Company as operator in 1932; contemporary reporting documents later equipment and hoisting work connected with operations through the Maude Monroe shaft. A modern technical assessment also documents the orphaned mine site and its waste piles. Precise workings chronology remains partly unresolved, so this installation is limited to Basic Scan."
+        "Maude Monroe Mine is a federally documented past-producing polymetallic gold property. Mineral-resource records report production during 1907–1937 and identify Lucky Kid Mining Company as operator in 1932; contemporary reporting documents later equipment and hoisting work connected with operations through the Maude Monroe shaft. A modern technical assessment also documents the orphaned mine site and its waste piles. Precise workings chronology remains partly unresolved, so this installation is limited to Basic Scan."
       ]
     },
     {
       "id": "CO-CLEAR-CREEK-MAXWELL-MINE",
       "name": "Maxwell Mine",
-      "location": "Sherman Mountain\u2013Silver Plume mining area, Clear Creek County, Colorado",
+      "location": "Sherman Mountain–Silver Plume mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine",
       "componentType": "Mine",
@@ -6775,7 +6795,7 @@
     {
       "id": "CO-CLEAR-CREEK-MILLER-TUNNEL",
       "name": "Miller Tunnel Mine",
-      "location": "Dumont\u2013Idaho Springs mining area, Clear Creek County, Colorado",
+      "location": "Dumont–Idaho Springs mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6791,7 +6811,7 @@
       "category": "Shaft / Mine",
       "componentType": "Shaft / Mine",
       "overview": [
-        "Windsor Castle Shaft is a federally documented underground past-producing gold mine with associated silver, copper, lead, and zinc. Mineral-resource records report a production period spanning 1897\u20131909 and identify the site within Clear Creek County's Central City mining landscape. Detailed ownership, shaft configuration, workings, and verified surviving surface-remnant information remain incomplete; the entry therefore remains Basic Scan only."
+        "Windsor Castle Shaft is a federally documented underground past-producing gold mine with associated silver, copper, lead, and zinc. Mineral-resource records report a production period spanning 1897–1909 and identify the site within Clear Creek County's Central City mining landscape. Detailed ownership, shaft configuration, workings, and verified surviving surface-remnant information remain incomplete; the entry therefore remains Basic Scan only."
       ]
     },
     {
@@ -6808,7 +6828,7 @@
     {
       "id": "CO-CLEAR-CREEK-WOLVERINE-TUNNEL",
       "name": "Wolverine Tunnel Mine",
-      "location": "Bellevue Mountain\u2013Central City mining area, Clear Creek County, Colorado",
+      "location": "Bellevue Mountain–Central City mining area, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
@@ -6819,12 +6839,12 @@
     {
       "id": "CO-CLEAR-CREEK-GOMER-MINE",
       "name": "Gomer Mine",
-      "location": "Freeland\u2013Lamartine mining district, Clear Creek County, Colorado",
+      "location": "Freeland–Lamartine mining district, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine",
       "componentType": "Mine",
       "overview": [
-        "Gomer Mine is a federally documented underground past-producing mine in the Freeland\u2013Lamartine district. U.S. Geological Survey mineral records identify gold as the primary commodity, with silver and lead also recorded, and preserve production entries for 1903, 1906, and 1910. Detailed present-day surface-remnant information remains unverified; the entry therefore remains Basic Scan only."
+        "Gomer Mine is a federally documented underground past-producing mine in the Freeland–Lamartine district. U.S. Geological Survey mineral records identify gold as the primary commodity, with silver and lead also recorded, and preserve production entries for 1903, 1906, and 1910. Detailed present-day surface-remnant information remains unverified; the entry therefore remains Basic Scan only."
       ]
     },
     {
@@ -6852,12 +6872,12 @@
     {
       "id": "CO-CLEAR-CREEK-NINETY-FOUR-TUNNEL",
       "name": "Ninety-Four Tunnel",
-      "location": "Alice\u2013Yankee Hill mining district, Clear Creek County, Colorado",
+      "location": "Alice–Yankee Hill mining district, Clear Creek County, Colorado",
       "county": "Clear Creek County",
       "category": "Mine / Tunnel",
       "componentType": "Adit / Portal",
       "overview": [
-        "Ninety-Four Tunnel is a documented gold tunnel in the Alice\u2013Yankee Hill district of Clear Creek County. U.S. Geological Survey sources document the tunnel and its gold-bearing mineral character, and a June 30, 1900 Rocky Mountain News report records the tunnel advancing while a concentrating plant was nearing operation. Later operating chronology and verified surviving infrastructure remain incomplete; this entry therefore remains Basic Scan only."
+        "Ninety-Four Tunnel is a documented gold tunnel in the Alice–Yankee Hill district of Clear Creek County. U.S. Geological Survey sources document the tunnel and its gold-bearing mineral character, and a June 30, 1900 Rocky Mountain News report records the tunnel advancing while a concentrating plant was nearing operation. Later operating chronology and verified surviving infrastructure remain incomplete; this entry therefore remains Basic Scan only."
       ]
     }
   ],
