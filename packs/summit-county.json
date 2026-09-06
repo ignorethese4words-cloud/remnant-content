@@ -46,7 +46,7 @@
           "text": "The earlier gravity mill ceased operation."
         },
         {
-          "year": "1930s–1970s",
+          "year": "1930s\u20131970s",
           "text": "Mining activity continued intermittently after the main historic production period."
         },
         {
@@ -58,7 +58,7 @@
         "EPA historical studies describe the Wellington-Oro as the largest lode-mining operation in French Gulch, with more than 12 miles of underground workings.",
         "The successive milling systems illustrate how operators adapted to changing ore types and metallurgical technology.",
         "The Wellington and Oro began as separate mines. Their later combination is historically important, but the original identities should not be erased.",
-        "Modern remediation is part of the site’s continuing history and has altered portions of the industrial landscape."
+        "Modern remediation is part of the site\u2019s continuing history and has altered portions of the industrial landscape."
       ],
       "displayImages": [],
       "features": [
@@ -67,11 +67,11 @@
           "name": "Wellington Underground Workings",
           "type": "Mine Workings",
           "confidence": "Confirmed",
-          "note": "The extensive underground system is a core Wellington component and remains distinct from the neighboring Oro property’s original workings."
+          "note": "The extensive underground system is a core Wellington component and remains distinct from the neighboring Oro property\u2019s original workings."
         },
         {
           "id": "wellington-oro-relationship",
-          "name": "Wellington–Oro Combined Operation",
+          "name": "Wellington\u2013Oro Combined Operation",
           "type": "Linked Mine Properties",
           "confidence": "Confirmed",
           "note": "Wellington and Oro began as separate mines and were combined operationally in 1907; Remnant preserves both the relationship and the original identities."
@@ -105,7 +105,7 @@
         },
         {
           "year": "1890s",
-          "text": "The property became an important producer during the district’s major mining period."
+          "text": "The property became an important producer during the district\u2019s major mining period."
         },
         {
           "year": "20th century",
@@ -120,7 +120,7 @@
         "The Pennsylvania was part of the Peru Creek mining landscape near Montezuma. Development began in the late nineteenth century and expanded into a multi-level mine-and-mill complex rather than a single isolated portal.",
         "USGS and EPA documentation describes a mine developed on multiple levels. The surviving landscape forms a connected industrial system of upper mine openings and dumps, surface structures and machinery, and the lower mill and processing area.",
         "Field documentation confirms that the most visible remains occur at different elevations. Multiple portals or adits, waste-rock piles, structural remains, and the lower mill area help show how ore moved from underground workings into the surface processing system.",
-        "Mining continued intermittently into the twentieth century. Later environmental investigation and cleanup work added another layer to the site’s history, but the surviving mine geometry still preserves evidence of the earlier operation.",
+        "Mining continued intermittently into the twentieth century. Later environmental investigation and cleanup work added another layer to the site\u2019s history, but the surviving mine geometry still preserves evidence of the earlier operation.",
         "The Pennsylvania Mine survives as one historic complex with several distinct internal components, including individual portals, the upper timber structure, and the lower mill."
       ],
       "displayImages": [
@@ -213,7 +213,7 @@
         }
       ],
       "moreHistory": [
-        "The Quail Mine is a compact high-elevation mining site in the Montezuma–Peru Creek area. Its importance is best understood through the relationship between underground openings and the surviving surface evidence rather than through a single standing building.",
+        "The Quail Mine is a compact high-elevation mining site in the Montezuma\u2013Peru Creek area. Its importance is best understood through the relationship between underground openings and the surviving surface evidence rather than through a single standing building.",
         "Documented remains include mine openings, rails, machinery, waste-rock workings, and collapsed timber structural material. Together these features show where extraction, handling, and surface support activity occurred.",
         "Independent modern documentation of the site records collapsed shaft-house material and an International Harvester stationary engine believed to date from roughly the 1940s, adding useful evidence for interpreting later phases of activity at the mine.",
         "The surrounding waste rock, rails, machinery, and timber remains are important identification clues because the original operating structures have deteriorated substantially. These features help distinguish the Quail Mine from nearby Montezuma and other Peru Creek mining sites.",
@@ -299,11 +299,11 @@
           "text": "Federal mineral-exploration assistance records documented the Saints John lead-zinc property."
         },
         {
-          "year": "2004–2006",
+          "year": "2004\u20132006",
           "text": "U.S. Geological Survey studies examined Saints John mine waste and tailings as part of broader Montezuma-district water-quality and mineral-weathering research."
         },
         {
-          "year": "2024–2025",
+          "year": "2024\u20132025",
           "text": "EPA carried out removal work addressing adit discharge, stormwater and erosion at the abandoned mine; this modern environmental phase is kept distinct from the historic interpretation."
         }
       ],
@@ -412,7 +412,7 @@
       ],
       "timeline": [
         {
-          "year": "1908–1909",
+          "year": "1908\u20131909",
           "text": "The dredge was built for the French Gulch Dredging Company and began working French Gulch during the region's mechanized placer-mining boom."
         },
         {
@@ -420,7 +420,7 @@
           "text": "Early cleanups produced substantial gold returns, demonstrating the productivity of the French Gulch gravels."
         },
         {
-          "year": "1909–1922",
+          "year": "1909\u20131922",
           "text": "The dredge repeatedly worked through French Gulch, processing gravel on an industrial scale and leaving characteristic tailing piles."
         },
         {
@@ -428,7 +428,7 @@
           "text": "The dredge partially sank in the pond where its remains still rest and was abandoned."
         },
         {
-          "year": "2010s–2020s",
+          "year": "2010s\u20132020s",
           "text": "Preservation work stabilized major portions of the surviving dredge and recognized it as an important industrial mining resource."
         }
       ],
@@ -488,7 +488,7 @@
           "text": "John A. Traylor began consolidating nearby properties into what became the Royal Tiger mining enterprise."
         },
         {
-          "year": "1917–1930s",
+          "year": "1917\u20131930s",
           "text": "Royal Tiger expanded underground workings, milling capacity, surface shops, housing, and other support infrastructure."
         },
         {
@@ -496,7 +496,7 @@
           "text": "State mining reports described the Tiger mine and mill as the heaviest-producing operation in Summit County, with the mill running at full capacity."
         },
         {
-          "year": "1930s–1940",
+          "year": "1930s\u20131940",
           "text": "Financial difficulties ended Royal Tiger ownership; B&B Mines later acquired the property."
         }
       ],
@@ -549,7 +549,7 @@
       "timeline": [
         {
           "year": "1880",
-          "text": "J. H. Johnston discovered the Sallie Barber lode during the development of the Bald Mountain–French Gulch mining area."
+          "text": "J. H. Johnston discovered the Sallie Barber lode during the development of the Bald Mountain\u2013French Gulch mining area."
         },
         {
           "year": "Early 1900s",
@@ -560,7 +560,7 @@
           "text": "USGS documentation described active zinc-ore production and recorded the mine's underground workings and ore characteristics."
         },
         {
-          "year": "20th–21st centuries",
+          "year": "20th\u201321st centuries",
           "text": "The surviving headframe, tipple/ore-handling remains, and related artifacts became important historic interpretation features and received preservation work."
         }
       ],
@@ -630,11 +630,11 @@
           "text": "The Wild Irishman vein was discovered and the property was rapidly developed."
         },
         {
-          "year": "1883–1886",
+          "year": "1883\u20131886",
           "text": "USGS records describe the mine as a steady ore shipper during these years."
         },
         {
-          "year": "1901–1902",
+          "year": "1901\u20131902",
           "text": "Mining resumed with additional carload shipments after a long gap in recorded production."
         },
         {
@@ -758,7 +758,7 @@
           "text": "The surviving wooden stamp mill was built."
         },
         {
-          "year": "Late 1880s–early 1900s",
+          "year": "Late 1880s\u2013early 1900s",
           "text": "The Jessie experienced its strongest operating period."
         },
         {
@@ -766,7 +766,7 @@
           "text": "Mining activity at the Jessie continued into the decade."
         },
         {
-          "year": "2012–2015",
+          "year": "2012\u20132015",
           "text": "Preservation work stabilized the leaning mill and added interpretation."
         }
       ],
@@ -930,7 +930,7 @@
           "text": "The earlier gravity mill ceased operation."
         },
         {
-          "year": "1930s–1970s",
+          "year": "1930s\u20131970s",
           "text": "Mining activity continued intermittently after the main historic production period."
         },
         {
@@ -942,7 +942,7 @@
         "EPA historical studies describe the Wellington-Oro as the largest lode-mining operation in French Gulch, with more than 12 miles of underground workings.",
         "The successive milling systems illustrate how operators adapted to changing ore types and metallurgical technology.",
         "The Wellington and Oro began as separate mines. Their later combination is historically important, but the original identities should not be erased.",
-        "Modern remediation is part of the site’s continuing history and has altered portions of the industrial landscape."
+        "Modern remediation is part of the site\u2019s continuing history and has altered portions of the industrial landscape."
       ],
       "displayImages": [],
       "features": [
@@ -951,11 +951,11 @@
           "name": "Wellington Underground Workings",
           "type": "Mine Workings",
           "confidence": "Confirmed",
-          "note": "The extensive underground system is a core Wellington component and remains distinct from the neighboring Oro property’s original workings."
+          "note": "The extensive underground system is a core Wellington component and remains distinct from the neighboring Oro property\u2019s original workings."
         },
         {
           "id": "wellington-oro-relationship",
-          "name": "Wellington–Oro Combined Operation",
+          "name": "Wellington\u2013Oro Combined Operation",
           "type": "Linked Mine Properties",
           "confidence": "Confirmed",
           "note": "Wellington and Oro began as separate mines and were combined operationally in 1907; Remnant preserves both the relationship and the original identities."
@@ -988,7 +988,7 @@
         },
         {
           "year": "1890s",
-          "text": "The property became an important producer during the district’s major mining period."
+          "text": "The property became an important producer during the district\u2019s major mining period."
         },
         {
           "year": "20th century",
@@ -1003,7 +1003,7 @@
         "The Pennsylvania was part of the Peru Creek mining landscape near Montezuma. Development began in the late nineteenth century and expanded into a multi-level mine-and-mill complex rather than a single isolated portal.",
         "USGS and EPA documentation describes a mine developed on multiple levels. The surviving landscape forms a connected industrial system of upper mine openings and dumps, surface structures and machinery, and the lower mill and processing area.",
         "Field documentation confirms that the most visible remains occur at different elevations. Multiple portals or adits, waste-rock piles, structural remains, and the lower mill area help show how ore moved from underground workings into the surface processing system.",
-        "Mining continued intermittently into the twentieth century. Later environmental investigation and cleanup work added another layer to the site’s history, but the surviving mine geometry still preserves evidence of the earlier operation.",
+        "Mining continued intermittently into the twentieth century. Later environmental investigation and cleanup work added another layer to the site\u2019s history, but the surviving mine geometry still preserves evidence of the earlier operation.",
         "The Pennsylvania Mine survives as one historic complex with several distinct internal components, including individual portals, the upper timber structure, and the lower mill."
       ],
       "displayImages": [],
@@ -1058,7 +1058,7 @@
         }
       ],
       "moreHistory": [
-        "The Quail Mine is a compact high-elevation mining site in the Montezuma–Peru Creek area. Its importance is best understood through the relationship between underground openings and the surviving surface evidence rather than through a single standing building.",
+        "The Quail Mine is a compact high-elevation mining site in the Montezuma\u2013Peru Creek area. Its importance is best understood through the relationship between underground openings and the surviving surface evidence rather than through a single standing building.",
         "Documented remains include mine openings, rails, machinery, waste-rock workings, and collapsed timber structural material. Together these features show where extraction, handling, and surface support activity occurred.",
         "Independent modern documentation of the site records collapsed shaft-house material and an International Harvester stationary engine believed to date from roughly the 1940s, adding useful evidence for interpreting later phases of activity at the mine.",
         "The surrounding waste rock, rails, machinery, and timber remains are important identification clues because the original operating structures have deteriorated substantially. These features help distinguish the Quail Mine from nearby Montezuma and other Peru Creek mining sites.",
@@ -1116,11 +1116,11 @@
           "text": "Federal mineral-exploration assistance records documented the Saints John lead-zinc property."
         },
         {
-          "year": "2004–2006",
+          "year": "2004\u20132006",
           "text": "U.S. Geological Survey studies examined Saints John mine waste and tailings as part of broader Montezuma-district water-quality and mineral-weathering research."
         },
         {
-          "year": "2024–2025",
+          "year": "2024\u20132025",
           "text": "EPA carried out removal work addressing adit discharge, stormwater and erosion at the abandoned mine; this modern environmental phase is kept distinct from the historic interpretation."
         }
       ],
@@ -1227,7 +1227,7 @@
       ],
       "timeline": [
         {
-          "year": "1908–1909",
+          "year": "1908\u20131909",
           "text": "The dredge was built for the French Gulch Dredging Company and began working French Gulch during the region's mechanized placer-mining boom."
         },
         {
@@ -1235,7 +1235,7 @@
           "text": "Early cleanups produced substantial gold returns, demonstrating the productivity of the French Gulch gravels."
         },
         {
-          "year": "1909–1922",
+          "year": "1909\u20131922",
           "text": "The dredge repeatedly worked through French Gulch, processing gravel on an industrial scale and leaving characteristic tailing piles."
         },
         {
@@ -1243,7 +1243,7 @@
           "text": "The dredge partially sank in the pond where its remains still rest and was abandoned."
         },
         {
-          "year": "2010s–2020s",
+          "year": "2010s\u20132020s",
           "text": "Preservation work stabilized major portions of the surviving dredge and recognized it as an important industrial mining resource."
         }
       ],
@@ -1302,7 +1302,7 @@
           "text": "John A. Traylor began consolidating nearby properties into what became the Royal Tiger mining enterprise."
         },
         {
-          "year": "1917–1930s",
+          "year": "1917\u20131930s",
           "text": "Royal Tiger expanded underground workings, milling capacity, surface shops, housing, and other support infrastructure."
         },
         {
@@ -1310,7 +1310,7 @@
           "text": "State mining reports described the Tiger mine and mill as the heaviest-producing operation in Summit County, with the mill running at full capacity."
         },
         {
-          "year": "1930s–1940",
+          "year": "1930s\u20131940",
           "text": "Financial difficulties ended Royal Tiger ownership; B&B Mines later acquired the property."
         }
       ],
@@ -1362,7 +1362,7 @@
       "timeline": [
         {
           "year": "1880",
-          "text": "J. H. Johnston discovered the Sallie Barber lode during the development of the Bald Mountain–French Gulch mining area."
+          "text": "J. H. Johnston discovered the Sallie Barber lode during the development of the Bald Mountain\u2013French Gulch mining area."
         },
         {
           "year": "Early 1900s",
@@ -1373,7 +1373,7 @@
           "text": "USGS documentation described active zinc-ore production and recorded the mine's underground workings and ore characteristics."
         },
         {
-          "year": "20th–21st centuries",
+          "year": "20th\u201321st centuries",
           "text": "The surviving headframe, tipple/ore-handling remains, and related artifacts became important historic interpretation features and received preservation work."
         }
       ],
@@ -1442,11 +1442,11 @@
           "text": "The Wild Irishman vein was discovered and the property was rapidly developed."
         },
         {
-          "year": "1883–1886",
+          "year": "1883\u20131886",
           "text": "USGS records describe the mine as a steady ore shipper during these years."
         },
         {
-          "year": "1901–1902",
+          "year": "1901\u20131902",
           "text": "Mining resumed with additional carload shipments after a long gap in recorded production."
         },
         {
@@ -1911,13 +1911,13 @@
     },
     {
       "id": "CO-SUMMIT-PUZZLE-OURAY-ORE-HANDLING",
-      "name": "Puzzle–Ouray Ore Bins & Boiler Remains",
+      "name": "Puzzle\u2013Ouray Ore Bins & Boiler Remains",
       "location": "Summit County, Colorado",
       "county": "Summit County",
       "category": "Mine / Ore Handling Infrastructure",
       "componentType": "Mill / Processing",
       "overview": [
-        "Puzzle–Ouray ore-handling remains preserve ore bins and boiler-related infrastructure associated with the historic mining operation."
+        "Puzzle\u2013Ouray ore-handling remains preserve ore bins and boiler-related infrastructure associated with the historic mining operation."
       ]
     },
     {

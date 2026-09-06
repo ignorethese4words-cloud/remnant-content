@@ -21,13 +21,13 @@
     },
     {
       "id": "CO-MINERAL-BACHELOR-COMMODORE-COMPLEX",
-      "name": "Bachelor–Commodore Mine Complex",
+      "name": "Bachelor\u2013Commodore Mine Complex",
       "location": "Mineral County, Colorado",
       "county": "Mineral County",
       "category": "Mine / Mining District / Industrial Complex",
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B328=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B328&\"\" \"\"&$C328),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&\"&\"$C328),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C328<>\"\"\"\",$C328,\"\"Historic Site\"\")))\"),\"Historic District\")",
       "overview": [
-        "Bachelor–Commodore Mine Complex is a verified historic mine / mining district / industrial complex site in Mineral County."
+        "Bachelor\u2013Commodore Mine Complex is a verified historic mine / mining district / industrial complex site in Mineral County."
       ]
     },
     {

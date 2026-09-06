@@ -47,7 +47,7 @@
         },
         {
           "text": "A post office operated at Highland Mary, confirming the development of a distinct mining settlement.",
-          "year": "1878–1885"
+          "year": "1878\u20131885"
         },
         {
           "text": "New owners acquired the mine and renewed development.",
@@ -82,11 +82,11 @@
         },
         {
           "text": "The mill operated for several decades, treating polymetallic ores.",
-          "year": "1928–1969"
+          "year": "1928\u20131969"
         },
         {
           "text": "Major tailings-removal work changed parts of the industrial landscape.",
-          "year": "2000–2001"
+          "year": "2000\u20132001"
         }
       ]
     },
@@ -121,7 +121,7 @@
         },
         {
           "text": "Modern stabilization and remediation work altered portions of the waste-rock and drainage landscape.",
-          "year": "2020–2022"
+          "year": "2020\u20132022"
         }
       ]
     },
@@ -152,7 +152,7 @@
         },
         {
           "text": "Standard Metals extended the American Tunnel to connect with the Sunnyside system.",
-          "year": "1959–1961"
+          "year": "1959\u20131961"
         },
         {
           "text": "The Lake Emma water inflow temporarily shut the Sunnyside operation.",
@@ -195,7 +195,7 @@
       "county": "San Juan County",
       "id": "CO-SAN-JUAN-BUFFALO-BOY-VERTEX",
       "location": "San Juan high country",
-      "name": "Buffalo Boy–Vertex Mine, Mill & Aerial Tramway Complex",
+      "name": "Buffalo Boy\u2013Vertex Mine, Mill & Aerial Tramway Complex",
       "overview": [
         "Buffalo Boy/Vertex mine, mill and tramway landscape."
       ]
@@ -205,8 +205,8 @@
       "componentType": "Railroad Feature",
       "county": "San Juan County",
       "id": "CO-SAN-JUAN-DSNG",
-      "location": "Durango–Silverton corridor",
-      "name": "Durango–Silverton Mining Railroad Corridor",
+      "location": "Durango\u2013Silverton corridor",
+      "name": "Durango\u2013Silverton Mining Railroad Corridor",
       "overview": [
         "Historic narrow-gauge mining railroad corridor between Durango and Silverton."
       ]
@@ -250,7 +250,7 @@
       "county": "San Juan County",
       "id": "CO-SAN-JUAN-MAGGIE-HAMLET-INTERSECTION",
       "location": "Maggie Gulch",
-      "name": "Maggie Gulch / Middleton–Hamlet–Intersection Mining Landscape",
+      "name": "Maggie Gulch / Middleton\u2013Hamlet\u2013Intersection Mining Landscape",
       "overview": [
         "Gulch-scale parent for the linked Middleton, Hamlet and Intersection mining landscape."
       ]
@@ -283,7 +283,7 @@
       "county": "San Juan County",
       "id": "CO-SAN-JUAN-MOGUL-GRAND-MOGUL",
       "location": "Cement Creek / Ross Basin",
-      "name": "Mogul–Grand Mogul Mine Complex",
+      "name": "Mogul\u2013Grand Mogul Mine Complex",
       "overview": [
         "Related Mogul and Grand Mogul mine sites retained as linked but distinct components."
       ]
@@ -348,7 +348,7 @@
       "componentType": "Railroad Feature",
       "county": "San Juan County",
       "id": "CO-SAN-JUAN-SILVERTON-NORTHERN",
-      "location": "Silverton–Animas Forks corridor, San Juan County, Colorado",
+      "location": "Silverton\u2013Animas Forks corridor, San Juan County, Colorado",
       "name": "Silverton Northern Railroad / Animas Forks Line",
       "overview": [
         "The Silverton Northern linked Silverton with Howardsville, Eureka, and Animas Forks; surviving engine-house and grade remnants identify this mining-transportation corridor."
@@ -384,4 +384,3 @@
   "updatedAt": "2026-08-28T16:06:21.570Z",
   "version": 6
 }
-

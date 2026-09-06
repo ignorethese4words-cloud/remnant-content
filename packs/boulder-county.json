@@ -33,12 +33,12 @@
           "text": "Discovery of telluride ore contributed to a renewed mining boom in the Gold Hill area."
         },
         {
-          "year": "Late 19th–20th centuries",
+          "year": "Late 19th\u201320th centuries",
           "text": "Gold mining continued intermittently as the town evolved from boom camp into a lasting mountain community."
         },
         {
           "year": "Today",
-          "text": "The historic district and surrounding mining landscape preserve evidence of the town’s residential, commercial, and mining history."
+          "text": "The historic district and surrounding mining landscape preserve evidence of the town\u2019s residential, commercial, and mining history."
         }
       ],
       "moreHistory": [
@@ -98,12 +98,12 @@
           "text": "Caribou grew as mines, mills, businesses, and residences served the surrounding silver-mining district."
         },
         {
-          "year": "1878–1879",
+          "year": "1878\u20131879",
           "text": "Period photographs document the developed mining settlement and its mountain setting."
         },
         {
           "year": "Late 19th century",
-          "text": "Fires, disease, changing ore economics, and declining mining activity contributed to the town’s contraction."
+          "text": "Fires, disease, changing ore economics, and declining mining activity contributed to the town\u2019s contraction."
         },
         {
           "year": "20th century",
@@ -172,7 +172,7 @@
     },
     {
       "id": "CO-BOULDER-CRISMAN-LOGAN",
-      "name": "Crisman–Logan Mine, Mill & Railroad Complex",
+      "name": "Crisman\u2013Logan Mine, Mill & Railroad Complex",
       "location": "Crisman and Sunbeam Gulch, Boulder County, Colorado",
       "county": "Boulder County",
       "category": "Mining Camp / Mine / Railroad Complex",
@@ -205,7 +205,7 @@
     },
     {
       "id": "CO-BOULDER-BOULDER-CANYON-HYDRO",
-      "name": "Boulder Canyon Hydroelectric Project / Barker–Kossler System",
+      "name": "Boulder Canyon Hydroelectric Project / Barker\u2013Kossler System",
       "location": "Boulder Canyon and Barker Reservoir, Boulder County, Colorado",
       "county": "Boulder County",
       "category": "Hydroelectric / Water / Industrial Complex",
@@ -227,7 +227,7 @@
     },
     {
       "id": "CO-BOULDER-SALINA-SUMMERVILLE",
-      "name": "Salina–Summerville Mining Camps & Mill Landscape",
+      "name": "Salina\u2013Summerville Mining Camps & Mill Landscape",
       "location": "Salina and Gold Run, Boulder County, Colorado",
       "county": "Boulder County",
       "category": "Mining Camp / Mine / Mill / Railroad Complex",
@@ -238,7 +238,7 @@
     },
     {
       "id": "CO-BOULDER-LAFAYETTE-COAL",
-      "name": "Lafayette Coal Mining Town & Simpson–Columbine Mine Landscape",
+      "name": "Lafayette Coal Mining Town & Simpson\u2013Columbine Mine Landscape",
       "location": "Lafayette, Boulder County, Colorado",
       "county": "Boulder County",
       "category": "Coal Mining Town / Mine / Industrial Landscape",
@@ -249,7 +249,7 @@
     },
     {
       "id": "CO-BOULDER-LOUISVILLE-COAL",
-      "name": "Louisville Coal Mining Town & Hecla–Monarch Mine Landscape",
+      "name": "Louisville Coal Mining Town & Hecla\u2013Monarch Mine Landscape",
       "location": "Louisville, Boulder County, Colorado",
       "county": "Boulder County",
       "category": "Coal Mining Town / Mine / Railroad Landscape",
@@ -260,18 +260,18 @@
     },
     {
       "id": "CO-BOULDER-MARSHALL-COAL-COMPLEX",
-      "name": "Marshall / Langford–Gorham Coal Camp & Mine Complex",
+      "name": "Marshall / Langford\u2013Gorham Coal Camp & Mine Complex",
       "location": "Marshall Mesa, Boulder County, Colorado",
       "county": "Boulder County",
       "category": "Coal Mining Camp / Mine / Railroad Complex",
       "componentType": "Tramway",
       "overview": [
-        "Marshall—once called Langford and Gorham—was an early Boulder coal camp with mines, loading works, and rail facilities; the reclaimed mesa still reflects more than a century of underground mining and mine-fire history."
+        "Marshall\u2014once called Langford and Gorham\u2014was an early Boulder coal camp with mines, loading works, and rail facilities; the reclaimed mesa still reflects more than a century of underground mining and mine-fire history."
       ]
     },
     {
       "id": "CO-BOULDER-ELDORA-CAMP",
-      "name": "Eldora / Happy Valley–Eldorado Mining Camp & Historic District",
+      "name": "Eldora / Happy Valley\u2013Eldorado Mining Camp & Historic District",
       "location": "Eldora, Boulder County, Colorado",
       "county": "Boulder County",
       "category": "Mining Camp / Historic District",
@@ -293,7 +293,7 @@
     },
     {
       "id": "CO-BOULDER-SUNSHINE-DISTRICT",
-      "name": "Sunshine Mining Camp & Inter-Ocean–White Crow Mine Landscape",
+      "name": "Sunshine Mining Camp & Inter-Ocean\u2013White Crow Mine Landscape",
       "location": "Sunshine, Boulder County, Colorado",
       "county": "Boulder County",
       "category": "Mining Camp / Mining District",
@@ -337,7 +337,7 @@
     },
     {
       "id": "CO-BOULDER-WARD-DISTRICT",
-      "name": "Ward Mining Town & Columbia–Niwot–White Raven District",
+      "name": "Ward Mining Town & Columbia\u2013Niwot\u2013White Raven District",
       "location": "Ward, Boulder County, Colorado",
       "county": "Boulder County",
       "category": "Mining Town / Mining District",

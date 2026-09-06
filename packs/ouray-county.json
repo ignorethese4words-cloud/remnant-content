@@ -15,17 +15,17 @@
       "category": "Mine / Mining Complex",
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B323=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B323&\"\" \"\"&$C323),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&\"&\"$C323),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C323<>\"\"\"\",$C323,\"\"Historic Site\"\")))\"),\"Mine\")",
       "overview": [
-        "The American Nettie Mine was one of the defining gold operations of the Ouray–Uncompahgre district.",
-        "USGS district history places the exceptionally rich discovery in 1889 and identifies the American Nettie and adjoining properties as the source of most of the district’s gold, helping sustain Ouray after the 1893 collapse of silver mining."
+        "The American Nettie Mine was one of the defining gold operations of the Ouray\u2013Uncompahgre district.",
+        "USGS district history places the exceptionally rich discovery in 1889 and identifies the American Nettie and adjoining properties as the source of most of the district\u2019s gold, helping sustain Ouray after the 1893 collapse of silver mining."
       ],
       "timeline": [
         {
           "year": "1889",
-          "text": "USGS district history places the exceptionally rich discovery in 1889 and identifies the American Nettie and adjoining properties as the source of most of the district’s gold, helping sustain Ouray after the 1893 collapse of silver mining."
+          "text": "USGS district history places the exceptionally rich discovery in 1889 and identifies the American Nettie and adjoining properties as the source of most of the district\u2019s gold, helping sustain Ouray after the 1893 collapse of silver mining."
         },
         {
           "year": "1893",
-          "text": "USGS district history places the exceptionally rich discovery in 1889 and identifies the American Nettie and adjoining properties as the source of most of the district’s gold, helping sustain Ouray after the 1893 collapse of silver mining."
+          "text": "USGS district history places the exceptionally rich discovery in 1889 and identifies the American Nettie and adjoining properties as the source of most of the district\u2019s gold, helping sustain Ouray after the 1893 collapse of silver mining."
         },
         {
           "year": "1900",
@@ -33,11 +33,11 @@
         },
         {
           "year": "1898",
-          "text": "American-Nettie mine, Ouray,” 1898–1905, LC-DIG-ppmsca-17858; rights advisory states no known restrictions on publication."
+          "text": "American-Nettie mine, Ouray,\u201d 1898\u20131905, LC-DIG-ppmsca-17858; rights advisory states no known restrictions on publication."
         },
         {
           "year": "1905",
-          "text": "American-Nettie mine, Ouray,” 1898–1905, LC-DIG-ppmsca-17858; rights advisory states no known restrictions on publication."
+          "text": "American-Nettie mine, Ouray,\u201d 1898\u20131905, LC-DIG-ppmsca-17858; rights advisory states no known restrictions on publication."
         }
       ],
       "moreHistory": [
@@ -59,7 +59,7 @@
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B326=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B326&\"\" \"\"&$C326),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&\"&\"$C326),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B326&\"\" \"\"&$C326),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C326<>\"\"\"\",$C326,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
       "overview": [
         "The Atlas Mine began operating in 1876 and developed into a substantial silver-and-gold property above Sneffels Creek.",
-        "Its associated stamp mill formed the operation’s most visible processing component, converting ore from the mine into concentrated material for shipment."
+        "Its associated stamp mill formed the operation\u2019s most visible processing component, converting ore from the mine into concentrated material for shipment."
       ],
       "timeline": [
         {
@@ -105,7 +105,7 @@
     },
     {
       "id": "CO-OURAY-BACHELOR-SYRACUSE",
-      "name": "Bachelor–Syracuse Mine Tour",
+      "name": "Bachelor\u2013Syracuse Mine Tour",
       "location": "Ouray County, Colorado",
       "county": "Ouray County",
       "category": "Mine",
@@ -129,7 +129,7 @@
         }
       ],
       "moreHistory": [
-        "The operator’s documented history identifies Charlie Armstrong, George Hurlburt, and J.",
+        "The operator\u2019s documented history identifies Charlie Armstrong, George Hurlburt, and J.",
         "Frank Sanders as early owners; ore moved down Red Canyon to Bachelor Switch, while the associated Ash camp of about 200 included a mill, school, post office, and band.",
         "In the 1920s Syracuse, New York investors financed the lower Syracuse Level, which became a major producing working and is the tunnel used by the modern mine tour.",
         "Component safeguard: keep the original upper Bachelor main workings/portal, Ash camp and mill, Bachelor Switch, lower Syracuse Tunnel/current tour entrance, and later surface visitor facilities as separate linked components.",
@@ -193,7 +193,7 @@
       "category": "Mine / Mining Complex",
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B346=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B346&\"\" \"\"&$C346),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&\"&\"$C346),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C346<>\"\"\"\",$C346,\"\"Historic Site\"\")))\"),\"Mine\")",
       "overview": [
-        "The Dunmore Mine developed a complex polymetallic lode in the Ouray–Uncompahgre mining district.",
+        "The Dunmore Mine developed a complex polymetallic lode in the Ouray\u2013Uncompahgre mining district.",
         "A 1946 USGS-backed study by V."
       ],
       "timeline": [
@@ -204,7 +204,7 @@
       ],
       "moreHistory": [
         "Kelley and Caswell Silver describes a persistent fissure zone more than two miles long, averaging nearly 100 feet wide along the Dunmore claim.",
-        "Its productive mineralization included a hematite chimney enclosing a copper shoot, a tungsten chimney, and compound base-metal fissure veins—an unusual combination that helped geologists connect the chimney-style and vein-style deposits of the San Juan Mountains.",
+        "Its productive mineralization included a hematite chimney enclosing a copper shoot, a tungsten chimney, and compound base-metal fissure veins\u2014an unusual combination that helped geologists connect the chimney-style and vein-style deposits of the San Juan Mountains.",
         "Federal exploration records document renewed interest in the Dunmore and related Yankee Lad claims during the 1950s, including tungsten investigation.",
         "Modern locality records document aerial-tram-station and cable remnants below the mine, but the exact present condition of every structure has not been independently field-verified.",
         "Component safeguard: keep the Dunmore workings, the Yankee Lad claim, tramway and terminal remnants, and nearby Red Mountain or Idarado properties as separate linked elements unless claim mapping proves a tighter identity."
@@ -214,13 +214,13 @@
     },
     {
       "id": "CO-OURAY-GENESEE-VANDERBILT",
-      "name": "Genesee–Vanderbilt Mine",
+      "name": "Genesee\u2013Vanderbilt Mine",
       "location": "Ouray County, Colorado",
       "county": "Ouray County",
       "category": "Mine / Mining Complex",
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B352=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B352&\"\" \"\"&$C352),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&\"&\"$C352),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C352<>\"\"\"\",$C352,\"\"Historic Site\"\")))\"),\"Mine\")",
       "overview": [
-        "The Genesee–Vanderbilt was a combined Red Mountain mine complex between the Yankee Girl and National Belle properties.",
+        "The Genesee\u2013Vanderbilt was a combined Red Mountain mine complex between the Yankee Girl and National Belle properties.",
         "Local district chronology records the Genesee as located in summer 1882 and the neighboring Vanderbilt in 1883; the Genesee interests acquired the Vanderbilt in 1888, and the workings were combined by early 1889 after the two mines were recognized as developing the same ore body."
       ],
       "timeline": [
@@ -246,11 +246,11 @@
         }
       ],
       "moreHistory": [
-        "USGS Bulletin 182 provides the contemporary technical and mapping anchor for the Silverton–Red Mountain mining landscape.",
+        "USGS Bulletin 182 provides the contemporary technical and mapping anchor for the Silverton\u2013Red Mountain mining landscape.",
         "Historic ore was principally silver-bearing galena, while later locality records also associate the complex with copper, zinc, lead, gold, and silver.",
         "District sources record renewed activity after the late-1890s revival, but the exact shutdown sequence and lifetime production remain uncertain and no aggregate total is adopted.",
         "Surviving identification features include large dumps, ore-loading or tram-related remnants, deteriorated buildings, and the disturbed high-alpine mine landscape; uncertain structure functions should remain qualified.",
-        "Component safeguard: keep the original Genesee and Vanderbilt workings, their later combined system, the Joker Tunnel/Idarado connection, Guston townsite, Yankee Girl, and Guston–Robinson as separate linked elements."
+        "Component safeguard: keep the original Genesee and Vanderbilt workings, their later combined system, the Joker Tunnel/Idarado connection, Guston townsite, Yankee Girl, and Guston\u2013Robinson as separate linked elements."
       ],
       "displayImages": [],
       "mediaNotice": "Historic image not available"
@@ -263,17 +263,17 @@
       "category": "Military / Labor Conflict",
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B418=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B418&\"\" \"\"&$C418),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&\"&\"$C418),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C418<>\"\"\"\",$C418,\"\"Historic Site\"\")))\"),\"Military Site\")",
       "overview": [
-        "Fort Peabody is a rare surviving Colorado National Guard redoubt associated with the state’s hard-rock labor conflict of 1903–1904.",
-        "History Colorado records that a local Guard unit constructed the position in early 1904 at more than 13,000 feet near the Ouray–San Miguel county line."
+        "Fort Peabody is a rare surviving Colorado National Guard redoubt associated with the state\u2019s hard-rock labor conflict of 1903\u20131904.",
+        "History Colorado records that a local Guard unit constructed the position in early 1904 at more than 13,000 feet near the Ouray\u2013San Miguel county line."
       ],
       "timeline": [
         {
           "year": "1903",
-          "text": "Fort Peabody is a rare surviving Colorado National Guard redoubt associated with the state’s hard-rock labor conflict of 1903–1904."
+          "text": "Fort Peabody is a rare surviving Colorado National Guard redoubt associated with the state\u2019s hard-rock labor conflict of 1903\u20131904."
         },
         {
           "year": "1904",
-          "text": "Fort Peabody is a rare surviving Colorado National Guard redoubt associated with the state’s hard-rock labor conflict of 1903–1904."
+          "text": "Fort Peabody is a rare surviving Colorado National Guard redoubt associated with the state\u2019s hard-rock labor conflict of 1903\u20131904."
         },
         {
           "year": "2005",
@@ -316,19 +316,19 @@
         },
         {
           "year": "1896",
-          "text": "A major 1896–1900 development campaign improved the mine road, added a boarding house, and extended several tunnels by hundreds of feet, illustrating the transportation and infrastructure challenges of this steep canyon setting."
+          "text": "A major 1896\u20131900 development campaign improved the mine road, added a boarding house, and extended several tunnels by hundreds of feet, illustrating the transportation and infrastructure challenges of this steep canyon setting."
         },
         {
           "year": "1900",
-          "text": "A major 1896–1900 development campaign improved the mine road, added a boarding house, and extended several tunnels by hundreds of feet, illustrating the transportation and infrastructure challenges of this steep canyon setting."
+          "text": "A major 1896\u20131900 development campaign improved the mine road, added a boarding house, and extended several tunnels by hundreds of feet, illustrating the transportation and infrastructure challenges of this steep canyon setting."
         },
         {
           "year": "1995",
-          "text": "Sources: New Mexico Bureau of Geology and Mineral Resources, Barbara Muntyan, “The history and minerals of the Grizzly Bear mine, Ouray, Colorado” (1995); USGS/MRDS locality record; Ouray Trails current-site description."
+          "text": "Sources: New Mexico Bureau of Geology and Mineral Resources, Barbara Muntyan, \u201cThe history and minerals of the Grizzly Bear mine, Ouray, Colorado\u201d (1995); USGS/MRDS locality record; Ouray Trails current-site description."
         }
       ],
       "moreHistory": [
-        "A major 1896–1900 development campaign improved the mine road, added a boarding house, and extended several tunnels by hundreds of feet, illustrating the transportation and infrastructure challenges of this steep canyon setting.",
+        "A major 1896\u20131900 development campaign improved the mine road, added a boarding house, and extended several tunnels by hundreds of feet, illustrating the transportation and infrastructure challenges of this steep canyon setting.",
         "Surviving identification features include scattered mine machinery, collapsed structural remains, dumps, and the disturbed mine landscape; do not reconstruct intact buildings from these remnants.",
         "Keep the historic mine workings, the related Bear Creek transportation corridor, and any later haulage-tunnel development as separate linked components.",
         "The reported dollar figure is a historical period value, not a modern valuation.",
@@ -351,15 +351,15 @@
       "timeline": [
         {
           "year": "1881",
-          "text": "Timeline: ore discoveries around the Guston area date to 1881–1882; secondary syntheses place settlement growth from 1883 and rapid development in the later 1880s."
+          "text": "Timeline: ore discoveries around the Guston area date to 1881\u20131882; secondary syntheses place settlement growth from 1883 and rapid development in the later 1880s."
         },
         {
           "year": "1882",
-          "text": "Timeline: ore discoveries around the Guston area date to 1881–1882; secondary syntheses place settlement growth from 1883 and rapid development in the later 1880s."
+          "text": "Timeline: ore discoveries around the Guston area date to 1881\u20131882; secondary syntheses place settlement growth from 1883 and rapid development in the later 1880s."
         },
         {
           "year": "1883",
-          "text": "Timeline: ore discoveries around the Guston area date to 1881–1882; secondary syntheses place settlement growth from 1883 and rapid development in the later 1880s."
+          "text": "Timeline: ore discoveries around the Guston area date to 1881\u20131882; secondary syntheses place settlement growth from 1883 and rapid development in the later 1880s."
         },
         {
           "year": "1889",
@@ -367,7 +367,7 @@
         },
         {
           "year": "1892",
-          "text": "Postal records summarized by secondary mining-history sources place a Guston post office at 1892–1898; the camp peaked around the early 1890s and sharply declined after the 1893 silver crisis and mine shutdowns by the late 1890s."
+          "text": "Postal records summarized by secondary mining-history sources place a Guston post office at 1892\u20131898; the camp peaked around the early 1890s and sharply declined after the 1893 silver crisis and mine shutdowns by the late 1890s."
         }
       ],
       "moreHistory": [
@@ -379,13 +379,13 @@
     },
     {
       "id": "CO-OURAY-GUSTON-ROBINSON",
-      "name": "Guston–Robinson Mine Complex",
+      "name": "Guston\u2013Robinson Mine Complex",
       "location": "Ouray County, Colorado",
       "county": "Ouray County",
       "category": "Mine / Mining Complex",
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B422=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B422&\"\" \"\"&$C422),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&\"&\"$C422),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C422<>\"\"\"\",$C422,\"\"Historic Site\"\")))\"),\"Mine\")",
       "overview": [
-        "The Guston–Robinson entry represents adjoining major mine workings in the Red Mountain district, not proof that every Guston and Robinson claim or opening was always one legal property.",
+        "The Guston\u2013Robinson entry represents adjoining major mine workings in the Red Mountain district, not proof that every Guston and Robinson claim or opening was always one legal property.",
         "Development accelerated during the 1882 Red Mountain boom associated with John Robinson and his partners, and the mines helped support the nearby Guston camp."
       ],
       "timeline": [
@@ -422,7 +422,7 @@
     },
     {
       "id": "CO-OURAY-IDARADO",
-      "name": "Idarado Mine / Treasury Tunnel–Pandora Complex",
+      "name": "Idarado Mine / Treasury Tunnel\u2013Pandora Complex",
       "location": "Ouray County, Colorado",
       "county": "Ouray County",
       "category": "Mine / Mill / Tunnel / Mining Complex",
@@ -438,15 +438,15 @@
         },
         {
           "year": "1943",
-          "text": "Wartime development extended the Treasury Tunnel toward the Black Bear vein in 1943–1944, and a 250-ton-per-day mill began treating development ore on the Red Mountain side in 1945."
+          "text": "Wartime development extended the Treasury Tunnel toward the Black Bear vein in 1943\u20131944, and a 250-ton-per-day mill began treating development ore on the Red Mountain side in 1945."
         },
         {
           "year": "1944",
-          "text": "Wartime development extended the Treasury Tunnel toward the Black Bear vein in 1943–1944, and a 250-ton-per-day mill began treating development ore on the Red Mountain side in 1945."
+          "text": "Wartime development extended the Treasury Tunnel toward the Black Bear vein in 1943\u20131944, and a 250-ton-per-day mill began treating development ore on the Red Mountain side in 1945."
         },
         {
           "year": "1945",
-          "text": "Wartime development extended the Treasury Tunnel toward the Black Bear vein in 1943–1944, and a 250-ton-per-day mill began treating development ore on the Red Mountain side in 1945."
+          "text": "Wartime development extended the Treasury Tunnel toward the Black Bear vein in 1943\u20131944, and a 250-ton-per-day mill began treating development ore on the Red Mountain side in 1945."
         },
         {
           "year": "1953",
@@ -454,11 +454,11 @@
         }
       ],
       "moreHistory": [
-        "Wartime development extended the Treasury Tunnel toward the Black Bear vein in 1943–1944, and a 250-ton-per-day mill began treating development ore on the Red Mountain side in 1945.",
+        "Wartime development extended the Treasury Tunnel toward the Black Bear vein in 1943\u20131944, and a 250-ton-per-day mill began treating development ore on the Red Mountain side in 1945.",
         "After Idarado acquired Telluride Mines in 1953, it rebuilt and expanded the Pandora plant; by 1956 ore moved through the connected underground haulage system for processing at Pandora.",
         "The mine produced zinc, lead, copper, silver, and gold and ceased operation in 1978.",
         "Later court-supervised remediation reshaped tailings, drainage, and portions of the industrial landscape, so present ground forms should not be interpreted as unchanged mining-era features.",
-        "Component safeguard: treat Red Mountain’s Treasury portal/yard and former millsite, the high-country underground network, and Telluride’s Mill Level and Meldrum portals, Pandora millsite, support buildings, and tailings as linked parts of one parent complex."
+        "Component safeguard: treat Red Mountain\u2019s Treasury portal/yard and former millsite, the high-country underground network, and Telluride\u2019s Mill Level and Meldrum portals, Pandora millsite, support buildings, and tailings as linked parts of one parent complex."
       ],
       "displayImages": [],
       "mediaNotice": "Historic image not available"
@@ -472,20 +472,20 @@
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B424=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B424&\"\" \"\"&$C424),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&\"&\"$C424),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C424<>\"\"\"\",$C424,\"\"Historic Site\"\")))\"),\"Town / Camp\")",
       "overview": [
         "Core research complete.",
-        "Ouray County Historical Society documentation establishes Ironton’s March 1883 founding, more than 100 buildings constructed in 1883, seasonal mid-1880s population of roughly 200 in winter to nearly 1,000 in summer, and its role as the Red Mountain Mining District’s supply and transportation center."
+        "Ouray County Historical Society documentation establishes Ironton\u2019s March 1883 founding, more than 100 buildings constructed in 1883, seasonal mid-1880s population of roughly 200 in winter to nearly 1,000 in summer, and its role as the Red Mountain Mining District\u2019s supply and transportation center."
       ],
       "timeline": [
         {
           "year": "1883",
-          "text": "Ouray County Historical Society documentation establishes Ironton’s March 1883 founding, more than 100 buildings constructed in 1883, seasonal mid-1880s population of roughly 200 in winter to nearly 1,000 in summer, and its role as the Red Mountain Mining District’s supply and transportation center."
+          "text": "Ouray County Historical Society documentation establishes Ironton\u2019s March 1883 founding, more than 100 buildings constructed in 1883, seasonal mid-1880s population of roughly 200 in winter to nearly 1,000 in summer, and its role as the Red Mountain Mining District\u2019s supply and transportation center."
         },
         {
           "year": "1889",
-          "text": "Otto Mears’ Silverton Railroad reached the Ironton Valley in 1889; by 1890 the town had a permanent population of about 350, utilities, graded streets, plank walks, school, churches, saloons, and other businesses."
+          "text": "Otto Mears\u2019 Silverton Railroad reached the Ironton Valley in 1889; by 1890 the town had a permanent population of about 350, utilities, graded streets, plank walks, school, churches, saloons, and other businesses."
         },
         {
           "year": "1890",
-          "text": "Otto Mears’ Silverton Railroad reached the Ironton Valley in 1889; by 1890 the town had a permanent population of about 350, utilities, graded streets, plank walks, school, churches, saloons, and other businesses."
+          "text": "Otto Mears\u2019 Silverton Railroad reached the Ironton Valley in 1889; by 1890 the town had a permanent population of about 350, utilities, graded streets, plank walks, school, churches, saloons, and other businesses."
         },
         {
           "year": "1900",
@@ -497,7 +497,7 @@
         }
       ],
       "moreHistory": [
-        "Otto Mears’ Silverton Railroad reached the Ironton Valley in 1889; by 1890 the town had a permanent population of about 350, utilities, graded streets, plank walks, school, churches, saloons, and other businesses.",
+        "Otto Mears\u2019 Silverton Railroad reached the Ironton Valley in 1889; by 1890 the town had a permanent population of about 350, utilities, graded streets, plank walks, school, churches, saloons, and other businesses.",
         "Silver decline reduced population to 71 in 1900 and 26 in 1910; later district activity revived for base metals and was consolidated under Idarado before closure in 1978.",
         "Ouray County records identify several surviving town houses and formal townsite abandonment action in 1975.",
         "Scan/component safeguard: keep the Ironton residential townsite and vanished northern business district separate from Guston, Red Mountain Town, the Silverton Railroad corridor, Larson Brothers Mine, Idarado workings, and other individual mines.",
@@ -574,17 +574,17 @@
       "category": "Mine / Mining Complex",
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B427=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B427&\"\" \"\"&$C427),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&\"&\"$C427),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C427<>\"\"\"\",$C427,\"\"Historic Site\"\")))\"),\"Mine\")",
       "overview": [
-        "The National Belle—also documented as the National Bell—was one of the defining mines of the Red Mountain district and a major anchor for Red Mountain Town.",
-        "Society of Economic Geologists research records that the mine became famous in 1883 when miners encountered the first of several ore-lined caverns or “great pockets.” The mineralized pockets included silver- and copper-bearing sulfides and sulfosalts with lead-zinc minerals and quartz-barite gangue, helping drive investment and settlement around the mine."
+        "The National Belle\u2014also documented as the National Bell\u2014was one of the defining mines of the Red Mountain district and a major anchor for Red Mountain Town.",
+        "Society of Economic Geologists research records that the mine became famous in 1883 when miners encountered the first of several ore-lined caverns or \u201cgreat pockets.\u201d The mineralized pockets included silver- and copper-bearing sulfides and sulfosalts with lead-zinc minerals and quartz-barite gangue, helping drive investment and settlement around the mine."
       ],
       "timeline": [
         {
           "year": "1988",
-          "text": "Sources: Society of Economic Geologists Guidebook 3, “Great Pockets: the National Belle mine” (1988); Fort Lewis College Red Mountain Project."
+          "text": "Sources: Society of Economic Geologists Guidebook 3, \u201cGreat Pockets: the National Belle mine\u201d (1988); Fort Lewis College Red Mountain Project."
         }
       ],
       "moreHistory": [
-        "Fort Lewis College’s Red Mountain Project confirms that the developing town shifted toward the National Belle as the toll-road and Silverton Railroad corridor took shape.",
+        "Fort Lewis College\u2019s Red Mountain Project confirms that the developing town shifted toward the National Belle as the toll-road and Silverton Railroad corridor took shape.",
         "Surviving identification features include the shaft/headframe area, dumps, structural remnants, and the adjoining but distinct Red Mountain townsite and railroad landscape.",
         "Component safeguard: keep the National Belle mine/shaft, Red Mountain Town, Silverton Railroad facilities, nearby Yankee Girl/Guston/Genesee workings, and later district consolidation as separate linked records.",
         "Published production totals vary widely and are not adopted; exact discovery attribution and shutdown/reopening chronology remain non-blocking uncertainties.",
@@ -595,19 +595,19 @@
     },
     {
       "id": "CO-OURAY-RED-MOUNTAIN-TOLL-ROAD",
-      "name": "Ouray–Red Mountain Toll Road / Otto Mears Toll Road",
+      "name": "Ouray\u2013Red Mountain Toll Road / Otto Mears Toll Road",
       "location": "Ouray County, Colorado",
       "county": "Ouray County",
       "category": "Historic Transportation / Mining Infrastructure",
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B430=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B430&\"\" \"\"&$C430),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&\"&\"$C430),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C430<>\"\"\"\",$C430,\"\"Historic Site\"\")))\"),\"Historic Route\")",
       "overview": [
-        "The Ouray–Red Mountain Toll Road was a major wagon-road and stage corridor built through the San Juan mining country under the transportation network associated with Otto Mears.",
-        "Construction proceeded in stages during the early 1880s; Fort Lewis College’s Red Mountain Project records completion of the wagon-road connection serving Ouray, the Red Mountain district, and Silverton in 1885."
+        "The Ouray\u2013Red Mountain Toll Road was a major wagon-road and stage corridor built through the San Juan mining country under the transportation network associated with Otto Mears.",
+        "Construction proceeded in stages during the early 1880s; Fort Lewis College\u2019s Red Mountain Project records completion of the wagon-road connection serving Ouray, the Red Mountain district, and Silverton in 1885."
       ],
       "timeline": [
         {
           "year": "1885",
-          "text": "Construction proceeded in stages during the early 1880s; Fort Lewis College’s Red Mountain Project records completion of the wagon-road connection serving Ouray, the Red Mountain district, and Silverton in 1885."
+          "text": "Construction proceeded in stages during the early 1880s; Fort Lewis College\u2019s Red Mountain Project records completion of the wagon-road connection serving Ouray, the Red Mountain district, and Silverton in 1885."
         },
         {
           "year": "1896",
@@ -619,11 +619,11 @@
         },
         {
           "year": "1883",
-          "text": "The exact 1883–1885 construction sequence remains a recorded non-blocking uncertainty."
+          "text": "The exact 1883\u20131885 construction sequence remains a recorded non-blocking uncertainty."
         }
       ],
       "moreHistory": [
-        "The road carried passengers, supplies, machinery, and ore between Ouray, Ironton, Red Mountain, and regional markets before and alongside the district’s railroad development.",
+        "The road carried passengers, supplies, machinery, and ore between Ouray, Ironton, Red Mountain, and regional markets before and alongside the district\u2019s railroad development.",
         "The Library of Congress preserves a period photograph, dated between 1896 and 1910, showing the toll gate near Bear Creek Falls between Ouray and Red Mountain.",
         "Much of the corridor was later altered, overlaid, or replaced during state and federal highway development and is now closely associated with U.S.",
         "550 and the Million Dollar Highway.",
@@ -654,15 +654,15 @@
         },
         {
           "year": "1890",
-          "text": "Carpenter, 'Miners in the Red Mountain Mining District,' circa 1889–1890, History Colorado; public domain in the United States."
+          "text": "Carpenter, 'Miners in the Red Mountain Mining District,' circa 1889\u20131890, History Colorado; public domain in the United States."
         },
         {
           "year": "2026",
-          "text": "G3 closed 2026-08-21: use an interpretive parent-district envelope centered on Red Mountain Pass and the US 550 / Red Mountain Creek–Mineral Creek corridor, from northern Ironton Park south through the Red Mountains toward Chattanooga/Mineral Creek and Mount Abram, and west to the divide above Red Mountain Creek."
+          "text": "G3 closed 2026-08-21: use an interpretive parent-district envelope centered on Red Mountain Pass and the US 550 / Red Mountain Creek\u2013Mineral Creek corridor, from northern Ironton Park south through the Red Mountains toward Chattanooga/Mineral Creek and Mount Abram, and west to the divide above Red Mountain Creek."
         },
         {
           "year": "1882",
-          "text": "Timeline: intensive exploration/mining developed in the late 1870s–1880s; Red Mountain was one of the original Ouray County mining districts recognized in 1882."
+          "text": "Timeline: intensive exploration/mining developed in the late 1870s\u20131880s; Red Mountain was one of the original Ouray County mining districts recognized in 1882."
         }
       ],
       "moreHistory": [
@@ -677,13 +677,13 @@
     },
     {
       "id": "CO-OURAY-REVENUE-VIRGINIUS",
-      "name": "Revenue–Virginius Mine & Mill Complex",
+      "name": "Revenue\u2013Virginius Mine & Mill Complex",
       "location": "Ouray County, Colorado",
       "county": "Ouray County",
       "category": "Mine / Mill / Tunnel / Mining Complex",
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B434=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B434&\"\" \"\"&$C434),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&\"&\"$C434),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C434<>\"\"\"\",$C434,\"\"Historic Site\"\")))\"),\"Adit / Portal\")",
       "overview": [
-        "The Revenue–Virginius complex joined high-elevation silver-rich workings in Governor Basin to a lower haulage tunnel and mill near Sneffels.",
+        "The Revenue\u2013Virginius complex joined high-elevation silver-rich workings in Governor Basin to a lower haulage tunnel and mill near Sneffels.",
         "Mining began in the 1870s, and Albert Reynolds later developed the long Revenue Tunnel so ore from the Virginius system could move by gravity toward the mill rather than being hoisted entirely through the upper workings."
       ],
       "timeline": [
@@ -705,7 +705,7 @@
         },
         {
           "year": "1880",
-          "text": "Published production figures conflict in scope: the 14.5-million-ounce figure applies to the Virginius deposit for 1880–1912, while larger totals reported elsewhere appear to describe the broader Revenue–Virginius operation."
+          "text": "Published production figures conflict in scope: the 14.5-million-ounce figure applies to the Virginius deposit for 1880\u20131912, while larger totals reported elsewhere appear to describe the broader Revenue\u2013Virginius operation."
         }
       ],
       "moreHistory": [
@@ -713,7 +713,7 @@
         "The historic mill was destroyed around 1916, although some later accounts place the fire closer to 1920; the discrepancy remains explicit.",
         "Later owners repeatedly explored or rehabilitated the property, and modern reports document renewed underground development and milling infrastructure.",
         "Silver was the principal product, with gold, lead, zinc, and copper also present.",
-        "Published production figures conflict in scope: the 14.5-million-ounce figure applies to the Virginius deposit for 1880–1912, while larger totals reported elsewhere appear to describe the broader Revenue–Virginius operation."
+        "Published production figures conflict in scope: the 14.5-million-ounce figure applies to the Virginius deposit for 1880\u20131912, while larger totals reported elsewhere appear to describe the broader Revenue\u2013Virginius operation."
       ],
       "displayImages": [],
       "mediaNotice": "Historic image not available"
@@ -745,13 +745,13 @@
     },
     {
       "id": "CO-OURAY-SENORITA",
-      "name": "Señorita Mine / Senorita Mine",
+      "name": "Se\u00f1orita Mine / Senorita Mine",
       "location": "Ouray County, Colorado",
       "county": "Ouray County",
       "category": "Mine",
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B436=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B436&\"\" \"\"&$C436),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&\"&\"$C436),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C436<>\"\"\"\",$C436,\"\"Historic Site\"\")))\"),\"Mine\")",
       "overview": [
-        "The Señorita (Senorita) Mine is a distinct underground lead-silver replacement mine in the Paquin Mining District on Carbonate Hill.",
+        "The Se\u00f1orita (Senorita) Mine is a distinct underground lead-silver replacement mine in the Paquin Mining District on Carbonate Hill.",
         "USGS Professional Paper 1753 gives the mine its own plan and sectional mapping, confirming a developed underground system rather than a generic district prospect."
       ],
       "timeline": [
@@ -770,7 +770,7 @@
       ],
       "moreHistory": [
         "Its primary ore formed as galena- and tetrahedrite-bearing replacement bodies in sedimentary rocks beside steep mineralized veins, with quartz-barite gangue; oxidation later produced a varied suite of secondary copper, lead, zinc, and silver minerals.",
-        "Keep the Señorita separate from the nearby Black Girl and Slide workings and link it to the broader Paquin/Carbonate Hill district only as a parent relationship.",
+        "Keep the Se\u00f1orita separate from the nearby Black Girl and Slide workings and link it to the broader Paquin/Carbonate Hill district only as a parent relationship.",
         "Public interpretation should identify dumps and the disturbed mine landscape without inventing unverified surviving buildings, workings, production totals, or exact operating dates.",
         "Do not provide entry guidance or encourage approach to underground openings.",
         "Historic image not available."
@@ -786,7 +786,7 @@
       "category": "Ghost Town / Mining Camp / Mill Town",
       "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B437=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B437&\"\" \"\"&$C437),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&\"&\"$C437),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C437<>\"\"\"\",$C437,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
       "overview": [
-        "Sneffels—also known historically as Mount Sneffels and, in early accounts, Porters—was a high-elevation mining and milling settlement serving the Sneffels district southwest of Ouray.",
+        "Sneffels\u2014also known historically as Mount Sneffels and, in early accounts, Porters\u2014was a high-elevation mining and milling settlement serving the Sneffels district southwest of Ouray.",
         "The camp developed in the mid-1870s, received a post office under the name Mount Sneffels in 1879, and was renamed Sneffels in 1895."
       ],
       "timeline": [
@@ -811,8 +811,8 @@
         "Its importance increased when construction of the Revenue Tunnel and mill concentrated freight, workers, supplies, and ore processing in the valley.",
         "Historic photographs document a compact settlement of log and frame buildings, a store and post office, livery and freight activity, worker housing, and major mill structures nearby.",
         "Mining and milling contraction eventually removed most of that built environment.",
-        "Current identification should rely on the broader townsite landscape—foundations, scattered ruins, road and creek relationships, and the immediately adjacent mining-industrial setting—rather than implying that all photographed buildings survive.",
-        "Component safeguard: keep the Sneffels townsite distinct from the Revenue–Virginius and Atlas mine-and-mill complexes; treat individual commercial, residential, freight, and post-office structures as subordinate townsite components unless future expansion warrants separate records."
+        "Current identification should rely on the broader townsite landscape\u2014foundations, scattered ruins, road and creek relationships, and the immediately adjacent mining-industrial setting\u2014rather than implying that all photographed buildings survive.",
+        "Component safeguard: keep the Sneffels townsite distinct from the Revenue\u2013Virginius and Atlas mine-and-mill complexes; treat individual commercial, residential, freight, and post-office structures as subordinate townsite components unless future expansion warrants separate records."
       ],
       "displayImages": [],
       "mediaNotice": "Historic image not available"
@@ -898,7 +898,7 @@
     },
     {
       "id": "CO-OURAY-WANAKAH",
-      "name": "Wanakah Mine / Bright Diamond–Wanakah Mine",
+      "name": "Wanakah Mine / Bright Diamond\u2013Wanakah Mine",
       "location": "Ouray / Uncompahgre district",
       "county": "Ouray County",
       "category": "Mine / Mining Complex",

@@ -20,12 +20,12 @@
       ],
       "timeline": [
         {
-          "year": "1879–1881",
+          "year": "1879\u20131881",
           "text": "The Denver, South Park & Pacific excavated the 1,772-foot Alpine Tunnel beneath the Continental Divide."
         },
         {
-          "year": "1880–1910",
-          "text": "The National Register district’s period of significance covers construction and operation of the high-elevation railroad corridor."
+          "year": "1880\u20131910",
+          "text": "The National Register district\u2019s period of significance covers construction and operation of the high-elevation railroad corridor."
         },
         {
           "year": "1910",
@@ -37,7 +37,7 @@
         }
       ],
       "moreHistory": [
-        "National Park Service documentation identifies the corridor’s engineering and transportation significance.",
+        "National Park Service documentation identifies the corridor\u2019s engineering and transportation significance.",
         "History Colorado independently preserves the district identity and its former Denver, South Park & Pacific railbed.",
         "The east portal is interpreted as one component of the broader corridor rather than as a stand-alone history for every associated feature."
       ],
@@ -68,16 +68,16 @@
           "text": "Mineral Survey No. 330 formally documented the property; the exact original claim-location date remains uncertain."
         },
         {
-          "year": "Late 1870s–1925",
+          "year": "Late 1870s\u20131925",
           "text": "The mine operated nearly continuously through its principal production period."
         },
         {
-          "year": "1932–1954",
+          "year": "1932\u20131954",
           "text": "Intermittent later activity continued after the main operating era."
         }
       ],
       "moreHistory": [
-        "Colorado Geological Survey OF-01-13 documents the mine’s operating history and the Mary Murphy Gold Mining Company during its most productive years.",
+        "Colorado Geological Survey OF-01-13 documents the mine\u2019s operating history and the Mary Murphy Gold Mining Company during its most productive years.",
         "History Colorado records the Romley tramway terminal and the broader Chalk Creek discovery tradition.",
         "The often-repeated 1873 date is retained only as a discovery tradition, not presented as an exact legally documented claim date."
       ],
@@ -95,7 +95,7 @@
       "category": "Mining Town",
       "componentType": "Town",
       "overview": [
-        "St. Elmo is one of Colorado’s best-preserved late-nineteenth-century mining towns. It grew with the Chalk Creek mining district and the railroad network serving the Alpine Tunnel corridor.",
+        "St. Elmo is one of Colorado\u2019s best-preserved late-nineteenth-century mining towns. It grew with the Chalk Creek mining district and the railroad network serving the Alpine Tunnel corridor.",
         "Numerous surviving buildings preserve the community landscape that supported nearby mines, transportation, commerce, and daily life."
       ],
       "timeline": [
@@ -119,7 +119,7 @@
       "moreHistory": [
         "Library of Congress HABS documentation preserves the founding, renaming, town development, and mining context.",
         "The National Register district treats St. Elmo as a community landscape rather than a single isolated structure.",
-        "Nearby mines, tram terminals, and railroad features remain distinct components even when interpreted through the town’s history."
+        "Nearby mines, tram terminals, and railroad features remain distinct components even when interpreted through the town\u2019s history."
       ],
       "displayImages": [],
       "mediaNotice": "Historic image not available",
@@ -326,7 +326,7 @@
       "category": "Mining Town",
       "componentType": "Town / Camp",
       "overview": [
-        "Winfield was a formally laid-out mining camp in Chaffee County’s Clear Creek Canyon, established to support nearby hard-rock mining.",
+        "Winfield was a formally laid-out mining camp in Chaffee County\u2019s Clear Creek Canyon, established to support nearby hard-rock mining.",
         "The surviving townsite and buildings preserve the community landscape of an important late-nineteenth-century mining settlement."
       ],
       "timeline": [
@@ -336,7 +336,7 @@
         },
         {
           "year": "Circa 1890",
-          "text": "The National Register nomination records the camp’s heyday and an estimated population of about 1,500."
+          "text": "The National Register nomination records the camp\u2019s heyday and an estimated population of about 1,500."
         },
         {
           "year": "1893",
@@ -348,7 +348,7 @@
         },
         {
           "year": "1918",
-          "text": "The nomination records the last ore haul from the district’s operating era."
+          "text": "The nomination records the last ore haul from the district\u2019s operating era."
         },
         {
           "year": "1980",
@@ -356,7 +356,7 @@
         }
       ],
       "moreHistory": [
-        "The National Park Service identifies mining as Winfield’s primary area of historical significance.",
+        "The National Park Service identifies mining as Winfield\u2019s primary area of historical significance.",
         "NARA independently catalogs Winfield Mining Camp as National Register property 80000883.",
         "Winfield remains distinct from nearby Vicksburg and from individual mines in the Clear Creek Canyon landscape."
       ],
@@ -381,7 +381,7 @@
         },
         {
           "year": "1910",
-          "text": "Abandonment of the Alpine Tunnel line ended Hancock’s through-route role."
+          "text": "Abandonment of the Alpine Tunnel line ended Hancock\u2019s through-route role."
         },
         {
           "year": "After 1910",
@@ -393,7 +393,7 @@
         }
       ],
       "moreHistory": [
-        "National Park Service documentation identifies Hancock as the district’s eastern terminus and records surviving town and railroad features.",
+        "National Park Service documentation identifies Hancock as the district\u2019s eastern terminus and records surviving town and railroad features.",
         "History Colorado links Hancock to the roughly 13-mile former railroad corridor between Hancock and Quartz.",
         "Chaffee County survey work documents depot, section-house, and water-tank facilities; exact peak population and a complete business roster remain uncertain."
       ],
@@ -408,7 +408,7 @@
       "category": "Mining Camp / Tramway",
       "componentType": "Tramway",
       "overview": [
-        "Romley was a mining camp and transportation-transfer point in the Chalk Creek district, closely tied to the Mary Murphy Mine’s aerial tramway and the railroad system serving the district.",
+        "Romley was a mining camp and transportation-transfer point in the Chalk Creek district, closely tied to the Mary Murphy Mine\u2019s aerial tramway and the railroad system serving the district.",
         "The tram terminal, camp remains, and former railroad facilities form related but distinct parts of the Romley industrial landscape."
       ],
       "timeline": [
@@ -434,7 +434,7 @@
         }
       ],
       "moreHistory": [
-        "Romley’s importance came from its position between a high-elevation mine and the district’s railroad network. The terminal converted aerial-tram movement into ground transportation.",
+        "Romley\u2019s importance came from its position between a high-elevation mine and the district\u2019s railroad network. The terminal converted aerial-tram movement into ground transportation.",
         "Historical documentation associates Romley with a depot and turntable as well as the Mary Murphy tram terminal, showing that the site functioned as a multi-part transfer landscape.",
         "The Romley camp and terminal should be interpreted together without treating every surviving ruin as the same structure or assigning unsupported production totals."
       ],
@@ -452,7 +452,7 @@
           "name": "Railroad Transfer Area",
           "type": "Railroad Infrastructure",
           "confidence": "Confirmed",
-          "note": "Historic surveys document Romley’s depot and turntable relationship to the tram system."
+          "note": "Historic surveys document Romley\u2019s depot and turntable relationship to the tram system."
         },
         {
           "id": "romley-camp",
@@ -513,4 +513,3 @@
   ],
   "generatedAt": "2026-08-28T15:02:16.671Z"
 }
-

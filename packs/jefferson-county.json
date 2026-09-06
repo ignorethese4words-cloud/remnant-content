@@ -98,13 +98,13 @@
     },
     {
       "id": "CO-JEFFERSON-RED-ROCKS-CCC",
-      "name": "Red Rocks Park & Mount Morrison CCC–WPA Complex",
+      "name": "Red Rocks Park & Mount Morrison CCC\u2013WPA Complex",
       "location": "Red Rocks Park, Jefferson County, Colorado",
       "county": "Jefferson County",
       "category": "New Deal Park / CCC Camp / Amphitheatre Complex",
       "componentType": "Historic District",
       "overview": [
-        "Red Rocks Park is a nationally significant New Deal landscape whose amphitheatre, Civilian Conservation Corps camp resources, and park infrastructure identify the broader CCC–WPA complex."
+        "Red Rocks Park is a nationally significant New Deal landscape whose amphitheatre, Civilian Conservation Corps camp resources, and park infrastructure identify the broader CCC\u2013WPA complex."
       ]
     },
     {
@@ -131,4 +131,3 @@
     }
   ]
 }
-
