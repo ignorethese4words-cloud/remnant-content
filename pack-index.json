@@ -40,10 +40,10 @@
       "county": "Eagle County",
       "exploreSiteCount": 8,
       "idOnlySiteCount": 2,
-      "packId": "co-eagle-v6",
+      "packId": "co-eagle-v7",
       "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/eagle-county.json",
       "state": "Colorado",
-      "version": 6
+      "version": 7
     },
     {
       "county": "Gilpin County",
@@ -173,7 +173,7 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T01:47:10.951Z",
+  "updatedAt": "2026-09-06T02:48:09.409Z",
   "delivery": "github",
   "githubHostedCounties": [
     "Boulder County",
