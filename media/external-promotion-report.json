@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T02:51:34.162Z",
+  "promoted": [
+    {
+      "county": "Boulder County",
+      "siteId": "CO-BOULDER-GOLD-HILL",
+      "imageId": "gold-hill-main-street",
+      "from": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gold_Hill_Historic_District_Gold_Hill_CO.jpg",
+      "to": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/boulder/co-boulder-gold-hill/gold-hill-main-street.jpg",
+      "bytes": 1228327
+    },
+    {
+      "county": "Clear Creek County",
+      "siteId": "CO-CLEAR-CREEK-SILVER-PLUME",
+      "imageId": "silver-plume-station-1941",
+      "from": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Silver_Plume_Station_1941.jpg",
+      "to": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/clear-creek/co-clear-creek-silver-plume/silver-plume-station-1941.jpg",
+      "bytes": 62997
+    },
+    {
+      "county": "Lake County",
+      "siteId": "CO-LAKE-ORO-CITY",
+      "imageId": "california-gulch-hydraulic-1878",
+      "from": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c10000/3c10800/3c10833v.jpg",
+      "to": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/lake/co-lake-oro-city/california-gulch-hydraulic-1878.jpg",
+      "bytes": 150277
+    }
+  ],
+  "skipped": [
+    {
+      "county": "Clear Creek County",
+      "siteId": "CO-CLEAR-CREEK-PHOENIX",
+      "imageId": "phoenix-gold-mine-2022-1",
+      "uri": "https://upload.wikimedia.org/wikipedia/commons/5/59/Phoenix_Gold_Mine%2C_Idaho_Springs%2C_Colorado_%281%29.jpg",
+      "reason": "HTTP 429"
+    },
+    {
+      "county": "Clear Creek County",
+      "siteId": "CO-CLEAR-CREEK-PHOENIX",
+      "imageId": "phoenix-gold-mine-2022-2",
+      "uri": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Phoenix_Gold_Mine%2C_Idaho_Springs%2C_Colorado_%282%29.jpg",
+      "reason": "HTTP 429"
+    },
+    {
+      "county": "Lake County",
+      "siteId": "CO-LAKE-BLACK-CLOUD",
+      "imageId": "black-cloud-tailings-2008",
+      "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Black_Cloud_Mine_tailings_pond.jpg",
+      "reason": "HTTP 429"
+    },
+    {
+      "county": "Ouray County",
+      "siteId": "CO-OURAY-IRONTON",
+      "imageId": "ironton-town-2014",
+      "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ironton_Ghost_Town_COLO.jpg",
+      "reason": "HTTP 429"
+    },
+    {
+      "county": "Ouray County",
+      "siteId": "CO-OURAY-IRONTON",
+      "imageId": "ironton-town-2012",
+      "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ironton%2C_Colorado_%287575397600%29.jpg",
+      "reason": "HTTP 429"
+    },
+    {
+      "county": "Ouray County",
+      "siteId": "CO-OURAY-IRONTON",
+      "imageId": "ironton-building-2009",
+      "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ironton_Ghost_town_2_%283760576908%29.jpg",
+      "reason": "HTTP 429"
+    }
+  ]
+}

@@ -78,11 +78,12 @@
           "title": "Silver Plume Station, 1941",
           "label": "",
           "source": {
-            "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Silver_Plume_Station_1941.jpg"
+            "uri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/clear-creek/co-clear-creek-silver-plume/silver-plume-station-1941.jpg"
           },
-          "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Silver_Plume_Station_1941.jpg",
+          "remoteUri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/clear-creek/co-clear-creek-silver-plume/silver-plume-station-1941.jpg",
           "sourceNote": "Marion Post Wolcott, FSA/OWI, Library of Congress, 1941. Public domain.",
-          "credit": "Marion Post Wolcott / Library of Congress, 1941. Public domain."
+          "credit": "Marion Post Wolcott / Library of Congress, 1941. Public domain.",
+          "originalSourceUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Silver_Plume_Station_1941.jpg"
         }
       ],
       "features": [

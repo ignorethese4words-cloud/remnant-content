@@ -4,10 +4,10 @@
       "county": "Boulder County",
       "exploreSiteCount": 2,
       "idOnlySiteCount": 19,
-      "packId": "co-boulder-v11",
+      "packId": "co-boulder-v12",
       "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/boulder-county.json",
       "state": "Colorado",
-      "version": 11
+      "version": 12
     },
     {
       "county": "Chaffee County",
@@ -22,10 +22,10 @@
       "county": "Clear Creek County",
       "exploreSiteCount": 72,
       "idOnlySiteCount": 211,
-      "packId": "co-clear-creek-v85",
+      "packId": "co-clear-creek-v86",
       "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/clear-creek-county.json",
       "state": "Colorado",
-      "version": 85
+      "version": 86
     },
     {
       "county": "Dolores County",
@@ -85,10 +85,10 @@
       "county": "Lake County",
       "exploreSiteCount": 18,
       "idOnlySiteCount": 44,
-      "packId": "co-lake-v19",
+      "packId": "co-lake-v20",
       "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/lake-county.json",
       "state": "Colorado",
-      "version": 19
+      "version": 20
     },
     {
       "county": "Mineral County",
@@ -173,7 +173,7 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T02:48:09.409Z",
+  "updatedAt": "2026-09-06T02:51:36.226Z",
   "delivery": "github",
   "githubHostedCounties": [
     "Boulder County",
