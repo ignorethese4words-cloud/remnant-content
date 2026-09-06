@@ -92,14 +92,18 @@ jobs:
               identify = payload.get('identificationSites')
               assert isinstance(explore, list), f'Missing exploreSites for {county}'
               assert isinstance(identify, list), f'Missing identificationSites for {county}'
+
+              explore_ids = {str(site.get('id')) for site in explore if site.get('id')}
+              id_only = [site for site in identify if site.get('id') and str(site.get('id')) not in explore_ids]
+
               expected_explore = entry.get('exploreSiteCount')
               expected_id = entry.get('idOnlySiteCount')
               if expected_explore is not None:
                   assert len(explore) == int(expected_explore), f'Explore count mismatch for {county}: {len(explore)} != {expected_explore}'
               if expected_id is not None:
-                  assert len(identify) == int(expected_id), f'ID count mismatch for {county}: {len(identify)} != {expected_id}'
+                  assert len(id_only) == int(expected_id), f'ID-only count mismatch for {county}: {len(id_only)} != {expected_id}'
               assert entry['payloadUrl'].endswith('/packs/' + filename), f'GitHub URL mismatch for {county}'
-              print(county, len(explore), len(identify), 'OK')
+              print(county, 'Explore', len(explore), 'ID-only', len(id_only), 'OK')
           PY
 
       - name: Commit public delivery files
