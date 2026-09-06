@@ -17,35 +17,47 @@ jobs:
       - name: Checkout content repo
         uses: actions/checkout@v4
 
-      - name: Pull live index and selected county packs
+      - name: Pull live index and all county packs
         run: |
           python - <<'PY'
-          import json, os, urllib.request
+          import json, os, re, urllib.request
 
           INDEX_URL = 'https://drive.usercontent.google.com/download?id=1hH7crzHI2s-bJtRrMAdnNZXva-Pye5CM&export=download&confirm=t'
           RAW_BASE = 'https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/'
-          selected = {
-              'Summit County': 'summit-county.json',
-              'Lake County': 'lake-county.json',
-              'Clear Creek County': 'clear-creek-county.json',
-          }
+
+          def filename_for(county):
+              slug = county.lower().replace(' county', '')
+              slug = re.sub(r'[^a-z0-9]+', '-', slug).strip('-')
+              return f'{slug}-county.json'
 
           os.makedirs('packs', exist_ok=True)
           with urllib.request.urlopen(INDEX_URL, timeout=60) as r:
               index = json.load(r)
 
-          for entry in index.get('packs', []):
+          packs = index.get('packs', [])
+          if len(packs) < 19:
+              raise RuntimeError(f'Expected at least 19 live county packs, found {len(packs)}')
+
+          hosted = []
+          expected_files = set()
+          for entry in packs:
               county = entry.get('county')
-              if county not in selected:
-                  continue
-              filename = selected[county]
-              source = entry['payloadUrl']
-              print(f'Downloading {county} from live Drive payload')
+              source = entry.get('payloadUrl')
+              if not county or not source:
+                  raise RuntimeError(f'Invalid index entry: {entry}')
+              filename = filename_for(county)
+              expected_files.add(filename)
+              print(f'Downloading {county} from live payload')
               urllib.request.urlretrieve(source, os.path.join('packs', filename))
               entry['payloadUrl'] = RAW_BASE + filename
+              hosted.append(county)
 
-          index['delivery'] = 'staged-github-pilot'
-          index['githubHostedCounties'] = list(selected)
+          for existing in os.listdir('packs'):
+              if existing.endswith('.json') and existing not in expected_files:
+                  os.remove(os.path.join('packs', existing))
+
+          index['delivery'] = 'github'
+          index['githubHostedCounties'] = hosted
           with open('pack-index.json', 'w', encoding='utf-8') as f:
               json.dump(index, f, indent=2)
               f.write('\n')
@@ -54,22 +66,40 @@ jobs:
               f.write('# Remnant Content\n\nPublic phone-delivery payloads only. The Remnant application source, registry, research workflow, and internal data remain private.\n')
           PY
 
-      - name: Validate payloads
+      - name: Validate all payloads against live index counts
         run: |
           python - <<'PY'
-          import json, os
+          import json, os, re
+
+          def filename_for(county):
+              slug = county.lower().replace(' county', '')
+              slug = re.sub(r'[^a-z0-9]+', '-', slug).strip('-')
+              return f'{slug}-county.json'
+
           idx = json.load(open('pack-index.json', encoding='utf-8'))
-          assert len(idx.get('packs', [])) >= 19
-          for county, filename in {
-              'Summit County':'summit-county.json',
-              'Lake County':'lake-county.json',
-              'Clear Creek County':'clear-creek-county.json',
-          }.items():
-              p = json.load(open(os.path.join('packs', filename), encoding='utf-8'))
-              assert p.get('county') == county
-              assert isinstance(p.get('exploreSites'), list)
-              assert isinstance(p.get('identificationSites'), list)
-              print(county, len(p['exploreSites']), len(p['identificationSites']))
+          packs = idx.get('packs', [])
+          assert len(packs) >= 19
+          assert len(idx.get('githubHostedCounties', [])) == len(packs)
+
+          for entry in packs:
+              county = entry['county']
+              filename = filename_for(county)
+              path = os.path.join('packs', filename)
+              assert os.path.exists(path), f'Missing payload for {county}'
+              payload = json.load(open(path, encoding='utf-8'))
+              assert payload.get('county') == county, f'County mismatch for {county}'
+              explore = payload.get('exploreSites')
+              identify = payload.get('identificationSites')
+              assert isinstance(explore, list), f'Missing exploreSites for {county}'
+              assert isinstance(identify, list), f'Missing identificationSites for {county}'
+              expected_explore = entry.get('exploreSiteCount')
+              expected_id = entry.get('idOnlySiteCount')
+              if expected_explore is not None:
+                  assert len(explore) == int(expected_explore), f'Explore count mismatch for {county}: {len(explore)} != {expected_explore}'
+              if expected_id is not None:
+                  assert len(identify) == int(expected_id), f'ID count mismatch for {county}: {len(identify)} != {expected_id}'
+              assert entry['payloadUrl'].endswith('/packs/' + filename), f'GitHub URL mismatch for {county}'
+              print(county, len(explore), len(identify), 'OK')
           PY
 
       - name: Commit public delivery files
@@ -77,5 +107,5 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md pack-index.json packs
-          git commit -m 'Seed live Remnant phone content' || exit 0
+          git commit -m 'Publish all live Remnant county packs to GitHub' || exit 0
           git push
