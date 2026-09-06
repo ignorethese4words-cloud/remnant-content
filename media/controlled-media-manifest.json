@@ -20,6 +20,47 @@
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/GeorgetownCO_LebanonMineEntrance.jpg",
       "controlledPath": "media/clear-creek/lebanon-entrance-2012-magicpiano.jpg",
       "sourceNote": "Magicpiano, 2012. CC BY-SA. Source retained for provenance; app delivery uses Remnant-controlled media copy."
+    },
+    {
+      "county": "Boulder County",
+      "siteId": "CO-BOULDER-GOLD-HILL",
+      "imageId": "gold-hill-main-street",
+      "title": "Gold Hill Historic District",
+      "label": "MODERN DOCUMENTARY • CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gold_Hill_Historic_District_Gold_Hill_CO.jpg",
+      "controlledPath": "media/boulder/gold-hill-historic-district.jpg",
+      "sourceNote": "Hustvedt, Wikimedia Commons. CC BY-SA 3.0. Source retained for provenance; app delivery uses Remnant-controlled media copy.",
+      "credit": "Hustvedt / Wikimedia Commons. CC BY-SA 3.0."
+    },
+    {
+      "county": "Eagle County",
+      "siteId": "CO-EAGLE-CAMP-HALE",
+      "imageId": "hale-timberline",
+      "title": "Mountain troops near timberline at Camp Hale — 1943",
+      "label": "HISTORIC • NATIONAL ARCHIVES",
+      "sourceUrl": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2023/01/111-SC-189485-1024x823.jpg?resize=685%2C551&ssl=1",
+      "controlledPath": "media/eagle/camp-hale-timberline-1943.jpg",
+      "sourceNote": "National Archives, 111-SC-189485. Original Signal Corps caption identifies Camp Hale, Colorado, May 8, 1943. Source retained for provenance; app delivery uses Remnant-controlled media copy."
+    },
+    {
+      "county": "Eagle County",
+      "siteId": "CO-EAGLE-CAMP-HALE",
+      "imageId": "hale-rough-terrain",
+      "title": "Moving weapons and supplies over rough terrain at Camp Hale",
+      "label": "HISTORIC • NATIONAL ARCHIVES",
+      "sourceUrl": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2023/01/337-TNG-1-2-scaled.jpg?resize=685%2C547&ssl=1",
+      "controlledPath": "media/eagle/camp-hale-rough-terrain.jpg",
+      "sourceNote": "National Archives, 337-TNG-1-2. The National Archives states the Camp Hale photographs used in this collection have no known copyright restrictions. Source retained for provenance; app delivery uses Remnant-controlled media copy."
+    },
+    {
+      "county": "Eagle County",
+      "siteId": "CO-EAGLE-CAMP-HALE",
+      "imageId": "hale-ski-sled",
+      "title": "Mountain Troopers pulling a ski cargo sled",
+      "label": "HISTORIC • NATIONAL ARCHIVES",
+      "sourceUrl": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2023/01/337-TNG-199-2-scaled.jpg?resize=685%2C538&ssl=1",
+      "controlledPath": "media/eagle/camp-hale-ski-cargo-sled.jpg",
+      "sourceNote": "National Archives, 337-TNG-199-2. Camp Hale / 10th Mountain Division training collection. Source retained for provenance; app delivery uses Remnant-controlled media copy."
     }
   ]
 }
