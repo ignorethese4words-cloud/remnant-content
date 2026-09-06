@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "county": "Clear Creek County",
+      "siteId": "CO-CLEAR-CREEK-BAKERVILLE",
+      "imageId": "bakerville-1868-stiffler",
+      "title": "Bakerville, Colorado — 1868",
+      "label": "HISTORIC • PUBLIC DOMAIN",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bakerville%2C_Colorado_and_Kelso_Mountain_in_the_late_1860s.png",
+      "controlledPath": "media/clear-creek/bakerville-1868-stiffler.png",
+      "sourceNote": "George W. Stiffler, 1868. Public domain. Source retained for provenance; app delivery uses Remnant-controlled media copy."
+    },
+    {
+      "county": "Clear Creek County",
+      "siteId": "CO-CLEAR-CREEK-LEBANON-EVERETT",
+      "imageId": "lebanon-entrance-2012-magicpiano",
+      "title": "Lebanon Mine Tunnel Entrance",
+      "label": "MODERN DOCUMENTARY • CC BY-SA",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/GeorgetownCO_LebanonMineEntrance.jpg",
+      "controlledPath": "media/clear-creek/lebanon-entrance-2012-magicpiano.jpg",
+      "sourceNote": "Magicpiano, 2012. CC BY-SA. Source retained for provenance; app delivery uses Remnant-controlled media copy."
+    }
+  ]
+}
