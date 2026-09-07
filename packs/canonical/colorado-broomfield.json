@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-broomfield",
+  "county": "Broomfield County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.187Z",
+  "sites": [
+    {
+      "id": "CO-BROOMFIELD-BROOMFIELD-DI-CS-DEPOT",
+      "name": "Broomfield Denver & Interurban / Colorado & Southern Railway Depot",
+      "location": "2201 W. 10th Ave., Broomfield",
+      "county": "Broomfield County",
+      "category": "Railroad Depot",
+      "componentType": "Railroad Depot",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving depot that served both steam and electric interurban rail service in Broomfield."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.930319,
+        "longitude": -105.0944
+      }
+    }
+  ]
+}
