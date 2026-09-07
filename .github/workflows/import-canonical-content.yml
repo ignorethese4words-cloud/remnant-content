@@ -1,0 +1,172 @@
+name: Import canonical Remnant content
+
+on:
+  push:
+    paths:
+      - '.github/workflows/import-canonical-content.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Download repaired 33-county artifact
+        run: |
+          curl -fL 'https://sdmntprwestus.oaiusercontent.com/files/00000000-92a4-8230-b318-e5b53ccc58b7/raw?se=2026-09-07T20%3A38%3A33Z&sp=r&sv=2026-02-06&sr=b&scid=72a58642-07b6-52fd-9bf7-64fb10abf071&skoid=1a0ef048-201c-43e0-8950-52d58956a71a&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-07T20%3A22%3A52Z&ske=2026-09-08T20%3A22%3A52Z&sks=b&skv=2026-02-06&sig=b5MRYJ1j0RVZp5I1S3QWq/j9fVrOq8aZiCczWRZ1FmY%3D' -o /tmp/remnant-phone-content.zip
+          rm -rf /tmp/remnant-phone-content
+          mkdir -p /tmp/remnant-phone-content
+          unzip -q /tmp/remnant-phone-content.zip -d /tmp/remnant-phone-content
+      - name: Canonicalize hosted catalog
+        run: |
+          cat > /tmp/import-remnant-content.mjs <<'NODE'
+          import fs from 'node:fs';
+          import path from 'node:path';
+
+          const root = process.cwd();
+          const oldIndexPath = path.join(root, 'pack-index.json');
+          const canonicalDir = path.join(root, 'packs', 'canonical');
+          const artifactDir = '/tmp/remnant-phone-content';
+          fs.mkdirSync(canonicalDir, { recursive: true });
+
+          const safeText = (v) => (typeof v === 'string' || typeof v === 'number') ? String(v).trim() : '';
+          const slug = (v) => v.toLowerCase().replace(/\s+county$/i, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+          const stablePackId = (county, state='Colorado') => `${slug(state)}-${slug(county)}`;
+          const hasCoords = (s) => Number.isFinite(Number(s?.coordinates?.latitude)) && Number.isFinite(Number(s?.coordinates?.longitude));
+
+          function mergeMedia(base, overlay) {
+            const overlayImages = Array.isArray(overlay?.displayImages) ? overlay.displayImages.filter(i => i?.privateTestOnly !== true) : [];
+            const baseImages = Array.isArray(base?.displayImages) ? base.displayImages.filter(i => i?.privateTestOnly !== true) : [];
+            const merged = { ...(base || {}), ...(overlay || {}) };
+            if (!overlayImages.length && baseImages.length) merged.displayImages = baseImages;
+            else if (overlayImages.length) merged.displayImages = overlayImages;
+            if (merged.displayImages?.length) delete merged.mediaNotice;
+            return merged;
+          }
+
+          function normalizeLegacy(raw, descriptor) {
+            const county = safeText(raw?.county || descriptor?.county);
+            const state = safeText(raw?.state || descriptor?.state) || 'Colorado';
+            const version = safeText(raw?.version || descriptor?.version);
+            const id = stablePackId(county, state);
+            const merged = new Map();
+            for (const site of raw?.identificationSites ?? []) {
+              const siteId = safeText(site?.id);
+              if (!siteId) continue;
+              merged.set(siteId, { ...site, county: safeText(site?.county) || county, state: safeText(site?.state) || state, appReady: false, betaVisible: false });
+            }
+            for (const site of raw?.exploreSites ?? []) {
+              const siteId = safeText(site?.id);
+              if (!siteId) continue;
+              merged.set(siteId, { ...mergeMedia(merged.get(siteId), site), county: safeText(site?.county) || county, state: safeText(site?.state) || state, appReady: true, betaVisible: true });
+            }
+            if (Array.isArray(raw?.sites)) {
+              for (const site of raw.sites) {
+                const siteId = safeText(site?.id);
+                if (siteId) merged.set(siteId, site);
+              }
+            }
+            return {
+              schemaVersion: 1,
+              id,
+              county,
+              state,
+              version,
+              generatedAt: safeText(raw?.generatedAt) || new Date().toISOString(),
+              sites: [...merged.values()],
+              ...(Array.isArray(raw?.tombstones) ? { tombstones: raw.tombstones } : {}),
+              ...(Array.isArray(raw?.removedSiteIds) ? { tombstones: raw.removedSiteIds } : {}),
+            };
+          }
+
+          function summarize(pack) {
+            const exploreIds = new Set(pack.sites.filter(s => s?.appReady === true && s?.betaVisible === true).map(s => s.id));
+            const exploreSiteCount = exploreIds.size;
+            const idOnlySiteCount = pack.sites.filter(s => !exploreIds.has(s.id) && hasCoords(s)).length;
+            return { exploreSiteCount, idOnlySiteCount, siteCount: exploreSiteCount + idOnlySiteCount };
+          }
+
+          const oldIndex = JSON.parse(fs.readFileSync(oldIndexPath, 'utf8'));
+          const oldDescriptors = Array.isArray(oldIndex.packs) ? oldIndex.packs : [];
+
+          // Canonicalize every currently hosted legacy pack first.
+          for (const descriptor of oldDescriptors) {
+            const county = safeText(descriptor.county);
+            if (!county) continue;
+            const fileName = slug(county) + '-county.json';
+            const legacyPath = path.join(root, 'packs', fileName);
+            if (!fs.existsSync(legacyPath)) continue;
+            const raw = JSON.parse(fs.readFileSync(legacyPath, 'utf8'));
+            const pack = normalizeLegacy(raw, descriptor);
+            fs.writeFileSync(path.join(canonicalDir, `${pack.id}.json`), JSON.stringify(pack, null, 2) + '\n');
+          }
+
+          // Overlay the repaired 33-county build; these are authoritative for overlaps.
+          const artifactManifest = JSON.parse(fs.readFileSync(path.join(artifactDir, 'manifest.json'), 'utf8'));
+          for (const descriptor of artifactManifest.packs ?? []) {
+            const source = path.join(artifactDir, 'packs', `${descriptor.id}.json`);
+            if (!fs.existsSync(source)) throw new Error(`Missing artifact pack ${descriptor.id}`);
+            const raw = JSON.parse(fs.readFileSync(source, 'utf8'));
+            if (raw.id !== descriptor.id || safeText(raw.version) !== safeText(descriptor.version)) throw new Error(`Artifact identity/version mismatch for ${descriptor.id}`);
+            fs.copyFileSync(source, path.join(canonicalDir, `${descriptor.id}.json`));
+          }
+
+          const descriptors = [];
+          for (const file of fs.readdirSync(canonicalDir).filter(f => f.endsWith('.json')).sort()) {
+            const full = path.join(canonicalDir, file);
+            const pack = JSON.parse(fs.readFileSync(full, 'utf8'));
+            if (!pack.id || !pack.county || !pack.state || !pack.version || !Array.isArray(pack.sites)) throw new Error(`Invalid canonical pack ${file}`);
+            if (file !== `${pack.id}.json`) throw new Error(`Filename/id mismatch in ${file}`);
+            const counts = summarize(pack);
+            descriptors.push({
+              id: pack.id,
+              county: pack.county,
+              state: pack.state,
+              version: String(pack.version),
+              url: `https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/${pack.id}.json`,
+              ...counts,
+            });
+          }
+          descriptors.sort((a,b) => a.county.localeCompare(b.county));
+          const now = new Date().toISOString();
+          const manifest = {
+            schemaVersion: 1,
+            contentVersion: now,
+            generatedAt: now,
+            minimumAppContentSchema: 1,
+            delivery: 'github-raw',
+            packs: descriptors,
+          };
+          fs.writeFileSync(oldIndexPath, JSON.stringify(manifest, null, 2) + '\n');
+          console.log(`Published ${descriptors.length} canonical county packs.`);
+          console.log(`Usable sites: ${descriptors.reduce((n,p)=>n+p.siteCount,0)}; Explore: ${descriptors.reduce((n,p)=>n+p.exploreSiteCount,0)}; ID-only: ${descriptors.reduce((n,p)=>n+p.idOnlySiteCount,0)}`);
+          NODE
+          node /tmp/import-remnant-content.mjs
+      - name: Verify public-host payload identities locally
+        run: |
+          node - <<'NODE'
+          const fs = require('fs');
+          const manifest = JSON.parse(fs.readFileSync('pack-index.json','utf8'));
+          if (!Array.isArray(manifest.packs) || manifest.packs.length < 33) throw new Error('Canonical manifest unexpectedly small.');
+          const seen = new Set();
+          for (const d of manifest.packs) {
+            if (seen.has(d.id)) throw new Error(`Duplicate ${d.id}`);
+            seen.add(d.id);
+            const p = JSON.parse(fs.readFileSync(`packs/canonical/${d.id}.json`,'utf8'));
+            if (p.id !== d.id || p.county !== d.county || String(p.version) !== String(d.version)) throw new Error(`Manifest mismatch ${d.id}`);
+          }
+          console.log(`Verified ${manifest.packs.length} manifest-to-pack identities.`);
+          NODE
+      - name: Commit canonical hosted content
+        run: |
+          rm -f .github/workflows/import-canonical-content.yml
+          git config user.name 'Remnant Content Publisher'
+          git config user.email 'actions@users.noreply.github.com'
+          git add pack-index.json packs/canonical .github/workflows/import-canonical-content.yml
+          git commit -m 'Publish unified canonical county catalog'
+          git push
