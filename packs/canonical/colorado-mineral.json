@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-mineral",
+  "county": "Mineral County",
+  "state": "Colorado",
+  "version": "2",
+  "generatedAt": "2026-08-27T03:24:11.248418Z",
+  "sites": [
+    {
+      "id": "CO-MINERAL-BACHELOR-CITY-TOWNSITE",
+      "name": "Bachelor City / Teller Ghost Townsite",
+      "location": "Mineral County, Colorado",
+      "county": "Mineral County",
+      "category": "Ghost Town / Mining Camp / Cultural Landscape",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B327=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B327&\"\" \"\"&$C327),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&\"&\"$C327),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C327<>\"\"\"\",$C327,\"\"Historic Site\"\")))\"),\"Town / Camp\")",
+      "overview": [
+        "Bachelor City / Teller Ghost Townsite is a verified historic ghost town / mining camp / cultural landscape site in Mineral County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-MINERAL-BACHELOR-COMMODORE-COMPLEX",
+      "name": "Bachelor–Commodore Mine Complex",
+      "location": "Mineral County, Colorado",
+      "county": "Mineral County",
+      "category": "Mine / Mining District / Industrial Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B328=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B328&\"\" \"\"&$C328),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&\"&\"$C328),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B328&\"\" \"\"&$C328),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C328<>\"\"\"\",$C328,\"\"Historic Site\"\")))\"),\"Historic District\")",
+      "overview": [
+        "Bachelor–Commodore Mine Complex is a verified historic mine / mining district / industrial complex site in Mineral County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-MINERAL-BULLDOG-MINE-COMPLEX",
+      "name": "Bulldog Mine & Mill / Homestake Bulldog Mountain Complex",
+      "location": "Mineral County, Colorado",
+      "county": "Mineral County",
+      "category": "Mine / Mill / Modern Industrial Mining Landscape",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B332=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B332&\"\" \"\"&$C332),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&\"&\"$C332),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C332<>\"\"\"\",$C332,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+      "overview": [
+        "Bulldog Mine & Mill / Homestake Bulldog Mountain Complex is a verified historic mine / mill / modern industrial mining landscape site in Mineral County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-MINERAL-CREEDE-DRG-DEPOT-TERMINAL",
+      "name": "Creede Denver & Rio Grande Depot & Terminal Railroad Site",
+      "location": "Mineral County, Colorado",
+      "county": "Mineral County",
+      "category": "Railroad / Depot / Transportation Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B342=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B342&\"\" \"\"&$C342),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&\"&\"$C342),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C342<>\"\"\"\",$C342,\"\"Historic Site\"\")))\"),\"Railroad Depot\")",
+      "overview": [
+        "Creede Denver & Rio Grande Depot & Terminal Railroad Site is a verified historic railroad / depot / transportation complex site in Mineral County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-MINERAL-LAST-CHANCE-MINE",
+      "name": "Last Chance Mine",
+      "location": "Mineral County, Colorado",
+      "county": "Mineral County",
+      "category": "Mine / Historic Industrial Site / Visitor Mine",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B364=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B364&\"\" \"\"&$C364),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&\"&\"$C364),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C364<>\"\"\"\",$C364,\"\"Historic Site\"\")))\"),\"Mine\")",
+      "overview": [
+        "Last Chance Mine is a verified historic mine / historic industrial site / visitor mine site in Mineral County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-MINERAL-WAGON-WHEEL-GAP-FLUORSPAR",
+      "name": "Wagon Wheel Gap Fluorspar Mine & Mill",
+      "location": "Mineral County, Colorado",
+      "county": "Mineral County",
+      "category": "Mine / Mill / Industrial Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B397=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B397&\"\" \"\"&$C397),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&\"&\"$C397),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C397<>\"\"\"\",$C397,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+      "overview": [
+        "Wagon Wheel Gap Fluorspar Mine & Mill is a verified historic mine / mill / industrial complex site in Mineral County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-MINERAL-WAGON-WHEEL-GAP-RAILROAD-STATION",
+      "name": "Wagon Wheel Gap Railroad Station / D&RG Depot",
+      "location": "Mineral County, Colorado",
+      "county": "Mineral County",
+      "category": "Railroad / Depot / Transportation Site",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B398=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B398&\"\" \"\"&$C398),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&\"&\"$C398),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C398<>\"\"\"\",$C398,\"\"Historic Site\"\")))\"),\"Railroad Depot\")",
+      "overview": [
+        "Wagon Wheel Gap Railroad Station / D&RG Depot is a verified historic railroad / depot / transportation site site in Mineral County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    }
+  ]
+}

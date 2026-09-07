@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-huerfano",
+  "county": "Huerfano County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.190Z",
+  "sites": [
+    {
+      "id": "CO-HUERFANO-LA-VETA-PASS-DEPOT",
+      "name": "La Veta Pass Narrow Gauge Railroad Depot",
+      "location": "La Veta Pass",
+      "county": "Huerfano County",
+      "category": "Railroad Depot",
+      "componentType": "Railroad Depot",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving 1877 Denver & Rio Grande narrow-gauge depot at La Veta Pass."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 37.5931,
+        "longitude": -105.2033
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-san-miguel",
+  "county": "San Miguel County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:36:12.974Z",
+  "sites": [
+    {
+      "id": "CO-SAN-MIGUEL-ALTA",
+      "name": "Alta Ghost Town & Mining District",
+      "location": "Alta Lakes / Alta Basin, San Miguel County, Colorado",
+      "county": "San Miguel County",
+      "category": "Ghost Town / Mining District",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Alta is a documented historic mining townsite and district in the San Miguel mining region. Official geologic, county, and preservation records support the townsite and associated mining landscape as a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-SAN-MIGUEL-BRIDAL-VEIL",
+      "name": "Bridal Veil / Smuggler-Union Powerhouse",
+      "location": "Bridal Veil Basin near Telluride, San Miguel County, Colorado",
+      "county": "San Miguel County",
+      "category": "Mining Infrastructure",
+      "componentType": "Powerhouse",
+      "overview": [
+        "The Bridal Veil / Smuggler-Union Powerhouse is a documented historic hydroelectric mining facility associated with the Smuggler-Union Mining Company. Official historic-register records support the surviving powerhouse as a stable Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-SAN-MIGUEL-LEWIS-MILL",
+      "name": "Lewis Mill",
+      "location": "Bridal Veil Basin, San Miguel County, Colorado",
+      "county": "San Miguel County",
+      "category": "Mill",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Lewis Mill is a documented historic ore-concentration mill in Bridal Veil Basin. Official county and state historic records support the surviving mill complex as a stable Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-SAN-MIGUEL-MATTERHORN",
+      "name": "Matterhorn / Valley View Mill",
+      "location": "Matterhorn / Ophir area, San Miguel County, Colorado",
+      "county": "San Miguel County",
+      "category": "Mill",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Matterhorn Mill, also known as the Valley View Leasing & Mining Company Mill, is a documented historic flotation mill south of Ophir. Official historic records support the surviving mill as a stable Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-SAN-MIGUEL-OPHIR",
+      "name": "Ophir Mining Town",
+      "location": "Ophir, San Miguel County, Colorado",
+      "county": "San Miguel County",
+      "category": "Mining Town",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Ophir is a documented historic mining town in the San Miguel Mountains. Federal geologic records and Town of Ophir documentation support the surviving community and mining-town identity for Scan."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-SAN-MIGUEL-SMUGGLER",
+      "name": "Smuggler-Union Mine Complex",
+      "location": "Telluride area, San Miguel County, Colorado",
+      "county": "San Miguel County",
+      "category": "Mine",
+      "componentType": "Mine Complex",
+      "overview": [
+        "The Smuggler-Union is a documented major mine complex in the Telluride mining district. Federal, town, and state mining records support the multi-workings complex as a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-SAN-MIGUEL-TELLURIDE",
+      "name": "Telluride Historic Mining District",
+      "location": "Telluride, San Miguel County, Colorado",
+      "county": "San Miguel County",
+      "category": "Mining District",
+      "componentType": "Historic District",
+      "overview": [
+        "The Telluride Historic Mining District is a nationally recognized historic mining-town district. National Park Service and History Colorado documentation support the town and district core as a stable Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-SAN-MIGUEL-TOMBOY",
+      "name": "Tomboy Mine & Ghost Town",
+      "location": "Tomboy Basin above Telluride, San Miguel County, Colorado",
+      "county": "San Miguel County",
+      "category": "Mine / Ghost Town",
+      "componentType": "Mine / Town Complex",
+      "overview": [
+        "Tomboy is a documented historic mine and mining settlement in Tomboy Basin above Telluride. Federal mining records and county documentation support the basin, mine workings, and townsite as a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-SAN-MIGUEL-LIBERTY-BELL",
+      "name": "Liberty Bell Mine & Upper Camp",
+      "location": "Upper Telluride mining district, San Miguel County, Colorado",
+      "county": "San Miguel County",
+      "category": "Mine / Mining Complex",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Liberty Bell Mine and its upper camp are documented historic components of the Telluride mining district. Existing research supports the mine-and-camp identity as a basic Scan record."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-SAN-MIGUEL-OPHIR-LOOP",
+      "name": "Ophir Loop / Rio Grande Southern Railroad Loop Complex",
+      "location": "Ophir area, San Miguel County, Colorado",
+      "county": "San Miguel County",
+      "category": "Railroad / Historic Transportation",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "The Ophir Loop is a documented Rio Grande Southern railroad alignment and engineering complex near Ophir. Existing research supports the historic loop and surviving railroad landscape as a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-SAN-MIGUEL-TROUT-LAKE-WATER-TANK",
+      "name": "Rio Grande Southern Trout Lake Water Tank",
+      "location": "Trout Lake, San Miguel County, Colorado",
+      "county": "San Miguel County",
+      "category": "Railroad / Industrial Infrastructure",
+      "componentType": "Railroad Water Tank",
+      "overview": [
+        "The Trout Lake water tank is a documented surviving Rio Grande Southern railroad service structure. National Register and HAER documentation support the tank as a stable basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    }
+  ]
+}

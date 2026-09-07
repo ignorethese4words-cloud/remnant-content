@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-morgan",
+  "county": "Morgan County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.192Z",
+  "sites": [
+    {
+      "id": "CO-MORGAN-FORT-MORGAN-POWER-PLANT",
+      "name": "Fort Morgan Power Plant Building",
+      "location": "Fort Morgan",
+      "county": "Morgan County",
+      "category": "Municipal Power Plant",
+      "componentType": "Power / Industrial",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving 1923 municipal power plant building in Fort Morgan."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.265556,
+        "longitude": -103.800556
+      }
+    }
+  ]
+}

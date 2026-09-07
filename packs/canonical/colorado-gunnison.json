@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-gunnison",
+  "county": "Gunnison County",
+  "state": "Colorado",
+  "version": "8",
+  "generatedAt": "2026-09-07T20:24:27.189Z",
+  "sites": [
+    {
+      "id": "CO-GUNNISON-8TH-STREET-SCHOOL",
+      "name": "8th Street School / West Gunnison Schoolhouse",
+      "location": "Gunnison",
+      "county": "Gunnison County",
+      "category": "Historic School",
+      "componentType": "Building",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "The surviving West Gunnison schoolhouse is the city's oldest standing public building and provides a clear Basic Scan identification target."
+      ],
+      "timeline": [
+        {
+          "year": "1881",
+          "text": "The surviving brick schoolhouse dates to Gunnison's early public-school era."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.5459,
+        "longitude": -106.9289
+      }
+    },
+    {
+      "id": "CO-GUNNISON-AUGUSTA-MINE",
+      "name": "Augusta Mine",
+      "location": "Poverty Gulch",
+      "county": "Gunnison County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Augusta was the principal Poverty Gulch producer during the 1880s and is preserved as a named mine locality."
+      ],
+      "timeline": [
+        {
+          "year": "1880s",
+          "text": "Augusta operated as a major high-elevation silver-era mine in Poverty Gulch."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.96472,
+        "longitude": -107.09778
+      }
+    },
+    {
+      "id": "CO-GUNNISON-BLACK-QUEEN-MINE",
+      "name": "Black Queen Mine",
+      "location": "Crystal / Marble mining area",
+      "county": "Gunnison County",
+      "category": "Historic Mine",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Black Queen was a productive Crystal-area silver mine represented by a documented shaft and related workings."
+      ],
+      "timeline": [
+        {
+          "year": "Late 19th century",
+          "text": "Black Queen formed part of the productive mining landscape serving Crystal and Sheep Mountain."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.04972,
+        "longitude": -107.11694
+      }
+    },
+    {
+      "id": "CO-GUNNISON-CAMP-BIRD-MINE",
+      "name": "Camp Bird Mine (Box Canyon District)",
+      "location": "Box Canyon Mining District",
+      "county": "Gunnison County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Camp Bird is a distinct Gunnison County Box Canyon gold mine, separate from the famous Ouray County Camp Bird. Federal district reporting documents a two-compartment shaft, free-milling quartz ore, and wagon haulage to a 10-stamp mill below Bowerman."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS Bulletin 380 documents the Gunnison County Camp Bird mine in the Box Canyon district with shaft development and ore treatment associated with Bowerman."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.568889,
+        "longitude": -106.519444
+      }
+    },
+    {
+      "id": "CO-GUNNISON-CARTER-MINE",
+      "name": "Carter Mine",
+      "location": "Gold Brick district",
+      "county": "Gunnison County",
+      "category": "Historic Mine",
+      "componentType": "Adit / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "The Carter was a major Gold Brick district operation developed through a long tunnel system and linked underground workings."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Carter Mining Company developed extensive underground workings and later became one of Gunnison County's major operations."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.61194,
+        "longitude": -106.59531
+      }
+    },
+    {
+      "id": "CO-GUNNISON-ERIE-MINE",
+      "name": "Erie Mine",
+      "location": "Tomichi / Whitepine district",
+      "county": "Gunnison County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Erie was an important Tomichi/Whitepine replacement mine with documented lead-zinc-silver development."
+      ],
+      "timeline": [
+        {
+          "year": "20th century",
+          "text": "Erie was developed and later operated under Callahan Zinc-Lead Company ownership."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.54083,
+        "longitude": -106.3753
+      }
+    },
+    {
+      "id": "CO-GUNNISON-FOREST-HILL-MINE",
+      "name": "Forest Hill Mine",
+      "location": "Gunnison County",
+      "county": "Gunnison County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Forest Hill is a documented Gunnison County polymetallic mine with repeated federal exploration work in the 1960s."
+      ],
+      "timeline": [
+        {
+          "year": "1962-1967",
+          "text": "Federal exploration-assistance projects evaluated Forest Hill for precious and base-metal mineralization."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.92333,
+        "longitude": -106.64083
+      }
+    },
+    {
+      "id": "CO-GUNNISON-IDA-MAY-MINE",
+      "name": "Ida May Mine",
+      "location": "Quartz Creek district",
+      "county": "Gunnison County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Ida May is a named Quartz Creek district mine with documented tungsten-era exploration."
+      ],
+      "timeline": [
+        {
+          "year": "1955",
+          "text": "Federal exploration records document a DMEA tungsten investigation at Ida May."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.68822,
+        "longitude": -106.48711
+      }
+    },
+    {
+      "id": "CO-GUNNISON-INDEPENDENCE-MINE",
+      "name": "Independence Mine",
+      "location": "Box Canyon Mining District",
+      "county": "Gunnison County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Independence is a principal Box Canyon district gold mine. USGS reporting documents an approximately 80-foot shaft and two lower tunnels beneath the original ore lens, with later district records showing renewed 1930s production."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS Bulletin 380 and later Colorado district records document shaft-and-tunnel development and subsequent production at the Independence mine."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.576667,
+        "longitude": -106.506667
+      }
+    },
+    {
+      "id": "CO-GUNNISON-KEYSTONE-MINE",
+      "name": "Keystone Mine",
+      "location": "Crested Butte / Mount Emmons area",
+      "county": "Gunnison County",
+      "category": "Historic Mine",
+      "componentType": "Adit / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Keystone is a documented Gunnison County lead-zinc-copper mine with a mapped mine locality and mid-century federal exploration record."
+      ],
+      "timeline": [
+        {
+          "year": "1959-1967",
+          "text": "Federal exploration records document work at Keystone for lead, zinc, copper, and silver."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.8686,
+        "longitude": -107.03894
+      }
+    },
+    {
+      "id": "CO-GUNNISON-LUCKY-STRIKE-MINE-CHANCE",
+      "name": "Lucky Strike Mine (Chance Area)",
+      "location": "Green Mountain / Gold Basin-Iris area",
+      "county": "Gunnison County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Lucky Strike is a documented Gunnison County gold-led polymetallic producer with a traceable patented-claim group."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "The Lucky Strike property incorporated several documented patented claims in the Green Mountain mining area."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.43111,
+        "longitude": -106.85306
+      }
+    },
+    {
+      "id": "CO-GUNNISON-PITKIN-SCHOOLHOUSE",
+      "name": "Pitkin Schoolhouse",
+      "location": "800 Main Street, Pitkin",
+      "county": "Gunnison County",
+      "category": "Historic School",
+      "componentType": "Building",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "The Pitkin Schoolhouse is a surviving historic school building at 800 Main Street. State-register documentation identifies the wood-frame building as the only school serving Pitkin and the surrounding area from 1924 until 1962."
+      ],
+      "timeline": [
+        {
+          "year": "1924-1962",
+          "text": "The present Pitkin Schoolhouse served Pitkin and the surrounding area as the community school."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.611331,
+        "longitude": -106.513197
+      }
+    },
+    {
+      "id": "CO-GUNNISON-RAYMOND-MINE",
+      "name": "Raymond Mine",
+      "location": "Gold Brick district",
+      "county": "Gunnison County",
+      "category": "Historic Mine",
+      "componentType": "Adit / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Raymond was one of the larger Gold Brick district producers and was developed by a long adit cutting multiple veins."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Raymond developed an adit system extending roughly 3,000 feet through several mineralized veins."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.62056,
+        "longitude": -106.58306
+      }
+    },
+    {
+      "id": "CO-GUNNISON-SHEEP-MOUNTAIN-TUNNEL",
+      "name": "Sheep Mountain Tunnel",
+      "location": "Crystal / Marble mining area",
+      "county": "Gunnison County",
+      "category": "Historic Mine Tunnel",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Sheep Mountain Tunnel was a major Crystal-area mining venture directly tied to the powerhouse now known as Crystal Mill."
+      ],
+      "timeline": [
+        {
+          "year": "1890s",
+          "text": "The Sheep Mountain Tunnel and Mining Company developed the tunnel and used the nearby powerhouse to support underground drilling and ventilation."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.0603,
+        "longitude": -107.0992
+      }
+    },
+    {
+      "id": "CO-GUNNISON-SMITH-OPERA-HOUSE",
+      "name": "Smith Opera House / Grand Apartments",
+      "location": "114 N. Boulevard St., Gunnison",
+      "county": "Gunnison County",
+      "category": "Historic Opera House / Commercial Building",
+      "componentType": "Historic Building",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving 1882 building that briefly housed the Smith Opera House before long adaptive reuse."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.544943,
+        "longitude": -106.932979
+      }
+    }
+  ]
+}

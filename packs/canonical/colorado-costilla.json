@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-costilla",
+  "county": "Costilla County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.189Z",
+  "sites": [
+    {
+      "id": "CO-COSTILLA-FORT-GARLAND-MILITARY-POST",
+      "name": "Fort Garland Military Post & Museum Complex",
+      "location": "Fort Garland",
+      "county": "Costilla County",
+      "category": "Military Fort / Veterans Hospital Historic Complex",
+      "componentType": "Military Site",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Fort Garland is a surviving 19th-century U.S. Army post complex."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 37.4241,
+        "longitude": -105.43158
+      }
+    },
+    {
+      "id": "CO-COSTILLA-SLV-SOUTHERN-RATTLESNAKE-TRESTLE",
+      "name": "San Luis Valley Southern Rattlesnake Trestle",
+      "location": "Blanca vicinity",
+      "county": "Costilla County",
+      "category": "Railroad Trestle",
+      "componentType": "Bridge / Trestle",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving 1910 timber railroad trestle of the San Luis Valley Southern Railway."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 37.38667,
+        "longitude": -105.5475
+      }
+    }
+  ]
+}

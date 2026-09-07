@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-teller",
+  "county": "Teller County",
+  "state": "Colorado",
+  "version": "2",
+  "generatedAt": "2026-09-07T20:36:12.990Z",
+  "sites": [
+    {
+      "id": "CO-TELLER-AJAX-MINE",
+      "name": "Ajax Mine & Battle Mountain Surface Plant",
+      "location": "Battle Mountain, Teller County, Colorado",
+      "county": "Teller County",
+      "category": "Mine / Surface Plant Complex",
+      "componentType": "Mine",
+      "overview": [
+        "Ajax is a documented major underground mine and surface-plant complex on Battle Mountain. Historic mine identity and surviving surface features support a basic Scan record."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-TELLER-ANCHORIA-LELAND",
+      "name": "Anchoria–Leland Mine & Surface Plant",
+      "location": "Cripple Creek mining district, Teller County, Colorado",
+      "county": "Teller County",
+      "category": "Mine / Surface Plant Complex",
+      "componentType": "Mine",
+      "overview": [
+        "Anchoria–Leland is a documented independent producer in the Cripple Creek mining district. The mine identity, shaft anchor, and surviving surface-plant features support a basic Scan record."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-TELLER-CRESSON",
+      "name": "Cresson Underground Mine & Relocated Headframe / Open-Pit Landscape",
+      "location": "Cripple Creek mining district, Teller County, Colorado",
+      "county": "Teller County",
+      "category": "Mine / Industrial Landscape",
+      "componentType": "Mine",
+      "overview": [
+        "Cresson is a documented historic underground mine whose original landscape was later altered by open-pit mining. The historic mine identity and relocated headframe remain useful for basic Scan identification."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-TELLER-EL-PASO-GOLD-KING",
+      "name": "El Paso Gold King Mine, Poverty Gulch Discovery & Headframe Landscape",
+      "location": "Cripple Creek mining district, Teller County, Colorado",
+      "county": "Teller County",
+      "category": "Mine / Discovery Landscape",
+      "componentType": "Mine",
+      "overview": [
+        "El Paso Gold King is a documented mine and discovery landscape in the Cripple Creek district. The named mine identity and surviving district features support a basic Scan record."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-TELLER-GOLD-COIN",
+      "name": "Gold Coin Mine & Economic Mill Tunnel System",
+      "location": "Victor, Teller County, Colorado",
+      "county": "Teller County",
+      "category": "Mine / Mill / Tunnel Complex",
+      "componentType": "Mine",
+      "overview": [
+        "Gold Coin is a documented Woods enterprise mine complex in Victor, including the shaft and related tunnel-to-mill system. The historic identity and surviving surface remnants support a basic Scan record."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-TELLER-GOLDFIELD",
+      "name": "Goldfield Mining Town",
+      "location": "Goldfield, Teller County, Colorado",
+      "county": "Teller County",
+      "category": "Mining Town",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Goldfield is a documented historic mining town in the Cripple Creek district. State and county records support the surviving community and its mining-town identity for basic Scan identification."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-TELLER-INDEPENDENCE",
+      "name": "Independence Mine & Mill",
+      "location": "Battle Mountain, Teller County, Colorado",
+      "county": "Teller County",
+      "category": "Mine / Mill",
+      "componentType": "Mine",
+      "overview": [
+        "Independence Mine & Mill is a documented major Cripple Creek district property associated with Winfield Scott Stratton. Historic records and surviving mine resources support a basic Scan record."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-TELLER-MOLLIE-KATHLEEN",
+      "name": "Mollie Kathleen Gold Mine Complex",
+      "location": "Cripple Creek, Teller County, Colorado",
+      "county": "Teller County",
+      "category": "Mine / Tourist Mine Complex",
+      "componentType": "Mine",
+      "overview": [
+        "Mollie Kathleen is a documented historic gold mine complex in the Cripple Creek district. The named shaft and preserved mining complex support a stable basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-TELLER-PORTLAND-MINE",
+      "name": "Portland Mine Nos. 1–2 & Battle Mountain Complex",
+      "location": "Battle Mountain, Teller County, Colorado",
+      "county": "Teller County",
+      "category": "Mine / Surface Plant Complex",
+      "componentType": "Mine",
+      "overview": [
+        "The Portland Mine complex is a documented flagship producer on Battle Mountain. Portland Nos. 1–2 and surviving surface features support a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-TELLER-STRONG-MINE",
+      "name": "Strong Mine & Mill Surface Complex",
+      "location": "Cripple Creek mining district, Teller County, Colorado",
+      "county": "Teller County",
+      "category": "Mine / Mill Complex",
+      "componentType": "Mine / Mill Complex",
+      "overview": [
+        "Strong Mine is a documented historic mine and mill surface complex in the Cripple Creek district. The named property and identifiable surface remains support a basic Scan record."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-TELLER-VINDICATOR-VALLEY",
+      "name": "Vindicator Valley Mine & Railroad Complex",
+      "location": "Victor area, Teller County, Colorado",
+      "county": "Teller County",
+      "category": "Mine / Mining Camp / Railroad Landscape",
+      "componentType": "Mine / Railroad Complex",
+      "overview": [
+        "Vindicator Valley is a documented mining and railroad landscape centered on the Vindicator and Theresa workings. Surviving mine and railroad features support a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    }
+  ]
+}

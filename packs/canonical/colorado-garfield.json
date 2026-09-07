@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-garfield",
+  "county": "Garfield County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.189Z",
+  "sites": [
+    {
+      "id": "CO-GARFIELD-CARDIFF-COKE-OVENS",
+      "name": "Cardiff Coke Ovens",
+      "location": "South of Glenwood Springs",
+      "county": "Garfield County",
+      "category": "Historic Industrial Site",
+      "componentType": "Mill / Processing",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving battery of historic coke ovens south of Glenwood Springs."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.504722,
+        "longitude": -107.310556
+      }
+    },
+    {
+      "id": "CO-GARFIELD-GLENWOOD-HYDRO-PLANT",
+      "name": "Glenwood Springs Hydroelectric Plant",
+      "location": "601 6th St., Glenwood Springs",
+      "county": "Garfield County",
+      "category": "Hydroelectric Plant",
+      "componentType": "Power / Industrial",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving historic hydroelectric plant building in Glenwood Springs."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.550278,
+        "longitude": -107.320556
+      }
+    }
+  ]
+}

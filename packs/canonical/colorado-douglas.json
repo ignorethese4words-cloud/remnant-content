@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-douglas",
+  "county": "Douglas County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.189Z",
+  "sites": [
+    {
+      "id": "CO-DOUGLAS-SEDALIA-WATER-TANK",
+      "name": "Santa Fe Railway / Sedalia Water Tank",
+      "location": "Sedalia",
+      "county": "Douglas County",
+      "category": "Railroad Water Tank",
+      "componentType": "Railroad Feature",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving 1906 steel railroad water tank at Sedalia."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.43939,
+        "longitude": -104.9644
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-hinsdale",
+  "county": "Hinsdale County",
+  "state": "Colorado",
+  "version": "2",
+  "generatedAt": "2026-08-27T03:24:11.248128Z",
+  "sites": [
+    {
+      "id": "CO-HINSDALE-BONANZA-EMPIRE-CHIEF",
+      "name": "Bonanza–Empire Chief Mine & Mill",
+      "location": "Hinsdale County, Colorado",
+      "county": "Hinsdale County",
+      "category": "Mine / Mill / Aerial Tramway / Industrial Ruins",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B297=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B297&\"\" \"\"&$C297),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&\"&\"$C297),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B297&\"\" \"\"&$C297),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C297<>\"\"\"\",$C297,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+      "overview": [
+        "Bonanza–Empire Chief Mine & Mill is a verified historic mine / mill / aerial tramway / industrial ruins site in Hinsdale County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-HINSDALE-BURROWS-PARK-MINING-CAMPS",
+      "name": "Burrows Park / Tellurium–White Cross–Argentum Mining Camps",
+      "location": "Hinsdale County, Colorado",
+      "county": "Hinsdale County",
+      "category": "Mining District / Ghost Town Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B298=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B298&\"\" \"\"&$C298),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&\"&\"$C298),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B298&\"\" \"\"&$C298),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C298<>\"\"\"\",$C298,\"\"Historic Site\"\")))\"),\"Town / Camp\")",
+      "overview": [
+        "Burrows Park / Tellurium–White Cross–Argentum Mining Camps is a verified historic mining district / ghost town complex site in Hinsdale County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-HINSDALE-CAPITOL-CITY-COMPLEX",
+      "name": "Capitol City Mining Town, Smelter & Sawmill Complex",
+      "location": "Hinsdale County, Colorado",
+      "county": "Hinsdale County",
+      "category": "Ghost Town / Smelter / Industrial Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B299=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B299&\"\" \"\"&$C299),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&\"&\"$C299),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B299&\"\" \"\"&$C299),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C299<>\"\"\"\",$C299,\"\"Historic Site\"\")))\"),\"Smelter\")",
+      "overview": [
+        "Capitol City Mining Town, Smelter & Sawmill Complex is a verified historic ghost town / smelter / industrial complex site in Hinsdale County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-HINSDALE-CARSON-OLD-CARSON-CAMPS",
+      "name": "Carson & Old Carson Mining Camps",
+      "location": "Hinsdale County, Colorado",
+      "county": "Hinsdale County",
+      "category": "Ghost Town / Mining Camp Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B300=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B300&\"\" \"\"&$C300),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&\"&\"$C300),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B300&\"\" \"\"&$C300),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C300<>\"\"\"\",$C300,\"\"Historic Site\"\")))\"),\"Town / Camp\")",
+      "overview": [
+        "Carson & Old Carson Mining Camps is a verified historic ghost town / mining camp complex site in Hinsdale County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-HINSDALE-LAKE-CITY-BRANCH-RAILROAD",
+      "name": "D&RG / D&RGW Lake City Branch Railroad Corridor",
+      "location": "Hinsdale County, Colorado",
+      "county": "Hinsdale County",
+      "category": "Railroad / Transportation Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B301=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B301&\"\" \"\"&$C301),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&\"&\"$C301),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B301&\"\" \"\"&$C301),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C301<>\"\"\"\",$C301,\"\"Historic Site\"\")))\"),\"Railroad Feature\")",
+      "overview": [
+        "D&RG / D&RGW Lake City Branch Railroad Corridor is a verified historic railroad / transportation complex site in Hinsdale County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-HINSDALE-GOLCONDA-MINING-COMPLEX",
+      "name": "Golconda Mine, Boarding House & Compressor Complex",
+      "location": "Hinsdale County, Colorado",
+      "county": "Hinsdale County",
+      "category": "Mine / Mining Camp / Industrial Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B302=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B302&\"\" \"\"&$C302),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&\"&\"$C302),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B302&\"\" \"\"&$C302),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C302<>\"\"\"\",$C302,\"\"Historic Site\"\")))\"),\"Town / Camp\")",
+      "overview": [
+        "Golconda Mine, Boarding House & Compressor Complex is a verified historic mine / mining camp / industrial complex site in Hinsdale County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-HINSDALE-GOLDEN-FLEECE-MINE-COMPLEX",
+      "name": "Golden Fleece / Hotchkiss Mine Complex",
+      "location": "Hinsdale County, Colorado",
+      "county": "Hinsdale County",
+      "category": "Mine / Mining Camp Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B303=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B303&\"\" \"\"&$C303),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&\"&\"$C303),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B303&\"\" \"\"&$C303),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C303<>\"\"\"\",$C303,\"\"Historic Site\"\")))\"),\"Town / Camp\")",
+      "overview": [
+        "Golden Fleece / Hotchkiss Mine Complex is a verified historic mine / mining camp complex site in Hinsdale County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-HINSDALE-HIDDEN-TREASURE-HARD-TACK-COMPLEX",
+      "name": "Hidden Treasure–Hard Tack Mine, Mill & Treasure City Complex",
+      "location": "Hinsdale County, Colorado",
+      "county": "Hinsdale County",
+      "category": "Mine / Mill / Mining Camp Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B304=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B304&\"\" \"\"&$C304),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&\"&\"$C304),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B304&\"\" \"\"&$C304),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C304<>\"\"\"\",$C304,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+      "overview": [
+        "Hidden Treasure–Hard Tack Mine, Mill & Treasure City Complex is a verified historic mine / mill / mining camp complex site in Hinsdale County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-HINSDALE-LAKE-CITY-HISTORIC-DISTRICT",
+      "name": "Lake City Historic District / Mining Supply Town",
+      "location": "Hinsdale County, Colorado",
+      "county": "Hinsdale County",
+      "category": "Historic Mining Town / District",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B305=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B305&\"\" \"\"&$C305),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&\"&\"$C305),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B305&\"\" \"\"&$C305),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C305<>\"\"\"\",$C305,\"\"Historic Site\"\")))\"),\"Town / Camp\")",
+      "overview": [
+        "Lake City Historic District / Mining Supply Town is a verified historic historic mining town / district site in Hinsdale County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-HINSDALE-SHERMAN-BLACK-WONDER-COMPLEX",
+      "name": "Sherman Mining Camp & Black Wonder Mill Complex",
+      "location": "Hinsdale County, Colorado",
+      "county": "Hinsdale County",
+      "category": "Ghost Town / Mine-Mill Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B306=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B306&\"\" \"\"&$C306),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&\"&\"$C306),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B306&\"\" \"\"&$C306),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C306<>\"\"\"\",$C306,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+      "overview": [
+        "Sherman Mining Camp & Black Wonder Mill Complex is a verified historic ghost town / mine-mill complex site in Hinsdale County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-HINSDALE-UTE-ULAY-HENSON-COMPLEX",
+      "name": "Ute-Ulay Mine, Mill & Henson Complex",
+      "location": "Hinsdale County, Colorado",
+      "county": "Hinsdale County",
+      "category": "Mine / Mill / Ghost Town / Industrial Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B307=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B307&\"\" \"\"&$C307),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&\"&\"$C307),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B307&\"\" \"\"&$C307),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C307<>\"\"\"\",$C307,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+      "overview": [
+        "Ute-Ulay Mine, Mill & Henson Complex is a verified historic mine / mill / ghost town / industrial complex site in Hinsdale County."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    }
+  ]
+}

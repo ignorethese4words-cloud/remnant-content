@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-custer",
+  "county": "Custer County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.189Z",
+  "sites": [
+    {
+      "id": "CO-CUSTER-WESTCLIFFE-DRG-ENGINE-HOUSE",
+      "name": "Westcliffe D&RG Engine House & Turntable Remains",
+      "location": "110 Rosita Ave., Westcliffe",
+      "county": "Custer County",
+      "category": "Railroad Engine House",
+      "componentType": "Railroad Feature",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A restored single-stall Denver & Rio Grande engine house at Westcliffe."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.1344,
+        "longitude": -105.4711
+      }
+    }
+  ]
+}

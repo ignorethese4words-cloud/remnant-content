@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-el-paso",
+  "county": "El Paso County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.189Z",
+  "sites": [
+    {
+      "id": "CO-EL-PASO-CALHAN-ROCK-ISLAND-DEPOT",
+      "name": "Calhan Rock Island Railroad Depot",
+      "location": "Calhan",
+      "county": "El Paso County",
+      "category": "Railroad Depot",
+      "componentType": "Railroad Depot",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving 1906 Rock Island railroad depot in Calhan."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.0383,
+        "longitude": -104.299
+      }
+    },
+    {
+      "id": "CO-EL-PASO-MIDLAND-ROUNDHOUSE",
+      "name": "Midland Terminal Railroad Roundhouse",
+      "location": "600 S. 21st St., Colorado Springs",
+      "county": "El Paso County",
+      "category": "Railroad Roundhouse",
+      "componentType": "Railroad Feature",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving stone railroad roundhouse associated with the Colorado Midland and Midland Terminal."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.84,
+        "longitude": -104.858889
+      }
+    }
+  ]
+}

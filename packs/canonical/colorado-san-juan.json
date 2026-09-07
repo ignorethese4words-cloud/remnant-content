@@ -1,0 +1,454 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-san-juan",
+  "county": "San Juan County",
+  "state": "Colorado",
+  "version": "6",
+  "generatedAt": "2026-08-28T13:50:00.000Z",
+  "sites": [
+    {
+      "category": "Mining Corridor",
+      "componentType": "Historic Route",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-ARRASTRA",
+      "location": "Arrastra Gulch",
+      "name": "Arrastra Gulch Mining Corridor",
+      "overview": [
+        "Historic mining corridor with early placer, mine, mill and tramway context; individual workings remain distinct."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mine / Mill / Aerial Tramway Complex",
+      "componentType": "Mill / Processing",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-BIG-GIANT-CONTENTION",
+      "location": "San Juan high country",
+      "name": "Big Giant Mine, Mill & Contention Tramway Complex",
+      "overview": [
+        "Linked mine, mill and tramway complex retained as one parent identification record."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mine / Mill / Aerial Tramway Complex",
+      "componentType": "Mill / Processing",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-BUFFALO-BOY-VERTEX",
+      "location": "San Juan high country",
+      "name": "Buffalo Boy–Vertex Mine, Mill & Aerial Tramway Complex",
+      "overview": [
+        "Buffalo Boy/Vertex mine, mill and tramway landscape."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Railroad",
+      "componentType": "Railroad Feature",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-DSNG",
+      "location": "Durango–Silverton corridor",
+      "name": "Durango–Silverton Mining Railroad Corridor",
+      "overview": [
+        "Historic narrow-gauge mining railroad corridor between Durango and Silverton."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mining Town",
+      "componentType": "Town / Camp",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-EUREKA",
+      "location": "Eureka",
+      "name": "Eureka Mining Town",
+      "overview": [
+        "Historic Eureka mining settlement; Sunnyside mine and mill components remain distinct."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mill / Tunnel",
+      "componentType": "Mill / Processing",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-FRISCO-BAGLEY",
+      "location": "North of Silverton",
+      "name": "Frisco-Bagley Mill & Tunnel",
+      "overview": [
+        "Historic Frisco-Bagley reduction mill and tunnel complex."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mining Camp",
+      "componentType": "Town / Camp",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-GLADSTONE",
+      "location": "Gladstone",
+      "name": "Gladstone / Gold King Mining Camp",
+      "overview": [
+        "Historic Gladstone mining camp linked to Gold King and American Tunnel but kept as a distinct town/camp identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mining Camp / Mine / Mill Landscape",
+      "componentType": "Mill / Processing",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-MAGGIE-HAMLET-INTERSECTION",
+      "location": "Maggie Gulch",
+      "name": "Maggie Gulch / Middleton–Hamlet–Intersection Mining Landscape",
+      "overview": [
+        "Gulch-scale parent for the linked Middleton, Hamlet and Intersection mining landscape."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mining Complex",
+      "componentType": "Mining Complex",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-MARTIN",
+      "location": "Silverton area",
+      "name": "Martin Mining Complex",
+      "overview": [
+        "Historic Martin mining complex with preserved boardinghouse and transportation/mining context."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mill",
+      "componentType": "Mill / Processing",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-MAYFLOWER",
+      "location": "Northeast of Silverton",
+      "name": "Mayflower / Shenandoah-Dives Mill",
+      "overview": [
+        "Historic selective-flotation mill; keep mine workings, tram and later operating phases as linked distinct components."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mine / Mining Complex",
+      "componentType": "Adit / Portal",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-MOGUL-GRAND-MOGUL",
+      "location": "Cement Creek / Ross Basin",
+      "name": "Mogul–Grand Mogul Mine Complex",
+      "overview": [
+        "Related Mogul and Grand Mogul mine sites retained as linked but distinct components."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mine / Mining Complex",
+      "componentType": "Mine",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-PRIDE-WEST-GREEN-MTN",
+      "location": "Cunningham Gulch",
+      "name": "Pride of the West & Green Mountain Mines Complex",
+      "overview": [
+        "Linked Pride of the West and Green Mountain mine complex."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mine / Mill",
+      "componentType": "Mill / Processing",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-SILVER-LAKE",
+      "location": "Silver Lake Basin",
+      "name": "Silver Lake Mine & Mill",
+      "overview": [
+        "Basin-level parent identification for the Silver Lake mine-and-mill landscape."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mine / Mill",
+      "componentType": "Mill / Processing",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-SOUND-DEMOCRAT",
+      "location": "San Juan County",
+      "name": "Sound Democrat Mill & Mine",
+      "overview": [
+        "Historic Sound Democrat mill-and-mine complex; Silver Queen remains a linked distinct component."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mine / Mill",
+      "componentType": "Mill / Processing",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-TOBASCO",
+      "location": "Burrows Park / Edith Mountain",
+      "name": "Tobasco Mine & Mill",
+      "overview": [
+        "Historic Tobasco mine-and-mill complex with identifiable processing ruins."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mining Camp / Ghost Town",
+      "componentType": "Town / Camp",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-HOWARDSVILLE",
+      "location": "Howardsville, San Juan County, Colorado",
+      "name": "Howardsville Mining Camp / Townsite",
+      "overview": [
+        "Howardsville is an 1874 mining camp in the upper Animas district that served Cunningham Gulch mines and briefly functioned as the first San Juan County seat."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Railroad / Mining Transportation",
+      "componentType": "Railroad Feature",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-SILVERTON-NORTHERN",
+      "location": "Silverton–Animas Forks corridor, San Juan County, Colorado",
+      "name": "Silverton Northern Railroad / Animas Forks Line",
+      "overview": [
+        "The Silverton Northern linked Silverton with Howardsville, Eureka, and Animas Forks; surviving engine-house and grade remnants identify this mining-transportation corridor."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Ghost Town",
+      "componentType": "Town / Camp",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-ANIMAS-FORKS",
+      "location": "Animas Forks, San Juan County, Colorado",
+      "name": "Animas Forks Ghost Town",
+      "overview": [
+        "Animas Forks is a documented high-elevation mining townsite with surviving buildings and a well-established nineteenth-century mining history."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mining District",
+      "componentType": "Historic District",
+      "county": "San Juan County",
+      "id": "CO-SAN-JUAN-SILVERTON",
+      "location": "Silverton, San Juan County, Colorado",
+      "name": "Silverton Historic Mining District",
+      "overview": [
+        "Silverton is the historic center of the San Juan mining district and preserves a nationally significant mining-town landscape."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "category": "Mine / Mining Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B472=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B472&\"\" \"\"&$C472),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&\"&\"$C472),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B472&\"\" \"\"&$C472),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C472<>\"\"\"\",$C472,\"\"Historic Site\"\")))\"),\"Mine\")",
+      "county": "San Juan County",
+      "displayImages": [],
+      "id": "CO-SAN-JUAN-BROOKLYN",
+      "location": "San Juan County, Colorado",
+      "mediaNotice": "Historic image not available",
+      "moreHistory": [
+        "Historic mine features and later environmental-control works should be distinguished so modern remediation is not mistaken for mining-era construction."
+      ],
+      "name": "Brooklyn Mine Complex",
+      "overview": [
+        "The Brooklyn Mine is a documented historic mine in San Juan County's Silverton-area hard-rock mining landscape and retains recognizable mine buildings, waste rock, and associated industrial features.",
+        "The site is now also part of the broader Bonita Peak environmental-remediation landscape, which has altered portions of the historic mine setting."
+      ],
+      "timeline": [
+        {
+          "text": "The Bonita Peak Mining District, including the Brooklyn Mine site, was added to the federal National Priorities List for mine-related contamination.",
+          "year": "2016"
+        }
+      ],
+      "state": "Colorado",
+      "appReady": true,
+      "betaVisible": true
+    },
+    {
+      "category": "Mining Camp / Mine / Mill Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B486=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B486&\"\" \"\"&$C486),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&\"&\"$C486),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B486&\"\" \"\"&$C486),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C486<>\"\"\"\",$C486,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+      "county": "San Juan County",
+      "displayImages": [],
+      "id": "CO-SAN-JUAN-HIGHLAND-MARY",
+      "location": "San Juan County, Colorado",
+      "mediaNotice": "Historic image not available",
+      "moreHistory": [
+        "Research supports silver as the principal historic commodity, with gold and base metals also associated with the property."
+      ],
+      "name": "Highland Mary Mining Camp & Mine/Mill Complex",
+      "overview": [
+        "Highland Mary was a substantial mining camp and mine-and-mill complex in Cunningham Gulch, with worker housing and processing facilities tied to a major silver-producing property.",
+        "The surviving landscape represents the linked camp, mine, mill, boarding-house, and transportation system rather than a single isolated opening."
+      ],
+      "timeline": [
+        {
+          "text": "The Highland Mary claim was staked.",
+          "year": "1874"
+        },
+        {
+          "text": "A post office operated at Highland Mary, confirming the development of a distinct mining settlement.",
+          "year": "1878–1885"
+        },
+        {
+          "text": "New owners acquired the mine and renewed development.",
+          "year": "1895"
+        },
+        {
+          "text": "The Highland Mary remained an important producer in the Silverton area.",
+          "year": "Early 1900s"
+        }
+      ],
+      "state": "Colorado",
+      "appReady": true,
+      "betaVisible": true
+    },
+    {
+      "category": "Mine / Mill / Aerial Tramway",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B488=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B488&\"\" \"\"&$C488),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&\"&\"$C488),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B488&\"\" \"\"&$C488),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C488<>\"\"\"\",$C488,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+      "county": "San Juan County",
+      "displayImages": [],
+      "id": "CO-SAN-JUAN-LACKAWANNA",
+      "location": "San Juan County, Colorado",
+      "mediaNotice": "Historic image not available",
+      "moreHistory": [
+        "Mine workings, tram routes, mill buildings, waste rock, tailings, and later cleanup features are linked components and should not be collapsed into one point."
+      ],
+      "name": "Lackawanna Mine & Mill Complex",
+      "overview": [
+        "The Lackawanna complex linked a large flotation mill on the Animas River with mine workings in Swansea Gulch by aerial tram.",
+        "The surviving multi-story mill and associated industrial landscape preserve one of the clearest examples of twentieth-century ore processing around Silverton."
+      ],
+      "timeline": [
+        {
+          "text": "The surviving Lackawanna mill was constructed and began operating.",
+          "year": "1928"
+        },
+        {
+          "text": "The mill operated for several decades, treating polymetallic ores.",
+          "year": "1928–1969"
+        },
+        {
+          "text": "Major tailings-removal work changed parts of the industrial landscape.",
+          "year": "2000–2001"
+        }
+      ],
+      "state": "Colorado",
+      "appReady": true,
+      "betaVisible": true
+    },
+    {
+      "category": "Mine / Mill / Mining Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B497=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B497&\"\" \"\"&$C497),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&\"&\"$C497),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B497&\"\" \"\"&$C497),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C497<>\"\"\"\",$C497,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+      "county": "San Juan County",
+      "displayImages": [],
+      "id": "CO-SAN-JUAN-NORTH-STAR-SULTAN",
+      "location": "San Juan County, Colorado",
+      "mediaNotice": "Historic image not available",
+      "moreHistory": [
+        "Silver and base-metal ores were historically important; current remediation features should be interpreted separately from original mine construction."
+      ],
+      "name": "North Star Mine & Mill / Sultan Mountain Complex",
+      "overview": [
+        "The North Star Mine on Sultan Mountain was an important Silverton-area underground mine with a documented mill site and multiple portal levels.",
+        "The site preserves a combination of historic mine workings, mill remains, waste-rock landscape, and modern drainage or remediation infrastructure."
+      ],
+      "timeline": [
+        {
+          "text": "The North Star was among the important mines active during Silverton's early boom.",
+          "year": "1870s"
+        },
+        {
+          "text": "A substantial water-powered mill was developed for the property.",
+          "year": "1890s"
+        },
+        {
+          "text": "The Level 7 portal was closed or backfilled while mine drainage was maintained.",
+          "year": "1980s"
+        },
+        {
+          "text": "Modern stabilization and remediation work altered portions of the waste-rock and drainage landscape.",
+          "year": "2020–2022"
+        }
+      ],
+      "state": "Colorado",
+      "appReady": true,
+      "betaVisible": true
+    },
+    {
+      "category": "Mine / Tunnel / Mining Complex",
+      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B506=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B506&\"\" \"\"&$C506),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&\"&\"$C506),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B506&\"\" \"\"&$C506),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C506<>\"\"\"\",$C506,\"\"Historic Site\"\")))\"),\"Adit / Portal\")",
+      "county": "San Juan County",
+      "displayImages": [],
+      "id": "CO-SAN-JUAN-SUNNYSIDE-AMERICAN",
+      "location": "San Juan County, Colorado",
+      "mediaNotice": "Historic image not available",
+      "moreHistory": [
+        "The Sunnyside workings, American Tunnel portal, mill and Eureka-area infrastructure are linked components but should remain separately identifiable."
+      ],
+      "name": "Sunnyside Mine & American Tunnel Complex",
+      "overview": [
+        "The Sunnyside Mine and American Tunnel form a linked but physically distinct mining and haulage system in the Silverton-area district.",
+        "The American Tunnel began as a Gold King Mine project and was later extended beneath Bonita Peak to provide low-level haulage and drainage access for the revived Sunnyside operation."
+      ],
+      "timeline": [
+        {
+          "text": "Development of the Sunnyside Mine began.",
+          "year": "Late 1880s"
+        },
+        {
+          "text": "Work began on the American Tunnel beneath the Gold King Mine.",
+          "year": "1900"
+        },
+        {
+          "text": "Standard Metals extended the American Tunnel to connect with the Sunnyside system.",
+          "year": "1959–1961"
+        },
+        {
+          "text": "The Lake Emma water inflow temporarily shut the Sunnyside operation.",
+          "year": "1978"
+        },
+        {
+          "text": "The modern Sunnyside operation closed.",
+          "year": "1991"
+        }
+      ],
+      "state": "Colorado",
+      "appReady": true,
+      "betaVisible": true
+    }
+  ]
+}

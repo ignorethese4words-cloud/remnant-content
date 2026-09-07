@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-conejos",
+  "county": "Conejos County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.188Z",
+  "sites": [
+    {
+      "id": "CO-CONEJOS-COSTILLA-CROSSING-BRIDGE",
+      "name": "Costilla Crossing Railroad Bridge",
+      "location": "Conejos County",
+      "county": "Conejos County",
+      "category": "Railroad Bridge",
+      "componentType": "Bridge / Trestle",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving historic railroad bridge over the Rio Grande near Antonito."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 37.07845,
+        "longitude": -105.75664
+      }
+    },
+    {
+      "id": "CO-CONEJOS-ANTONITO-DRG-DEPOT",
+      "name": "Denver & Rio Grande Railroad Antonito Depot",
+      "location": "Front Street, Antonito",
+      "county": "Conejos County",
+      "category": "Railroad Depot",
+      "componentType": "Railroad Depot",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving 1880 Denver & Rio Grande masonry depot in Antonito."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 37.07005,
+        "longitude": -106.012083
+      }
+    }
+  ]
+}

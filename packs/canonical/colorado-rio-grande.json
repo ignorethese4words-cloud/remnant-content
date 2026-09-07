@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-rio-grande",
+  "county": "Rio Grande County",
+  "state": "Colorado",
+  "version": "2",
+  "generatedAt": "2026-09-07T20:36:12.974Z",
+  "sites": [
+    {
+      "id": "CO-RIO-GRANDE-CREEDE-BRANCH-SOUTH-FORK",
+      "name": "Creede Branch D&RGW Railroad & South Fork Service Complex",
+      "location": "South Fork and the historic Creede Branch corridor, Rio Grande County, Colorado",
+      "county": "Rio Grande County",
+      "category": "Railroad / Transportation Corridor / Industrial Infrastructure",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "The Denver & Rio Grande built the Creede Branch in 1891 and converted it to standard gauge in 1902. Existing research supports the surviving branch corridor and South Fork service features, including the historic water tank, as a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-RIO-GRANDE-JASPER-CORNWALL-CAMP",
+      "name": "Jasper / Cornwall Mining Camp & Mine Landscape",
+      "location": "Jasper / Cornwall area, Rio Grande County, Colorado",
+      "county": "Rio Grande County",
+      "category": "Ghost Town / Mining Camp / Mining Landscape",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Jasper, also associated with the Cornwall mining camp, is a documented historic mining settlement and landscape that includes the Perry, Miser, and Sanger workings. Existing research supports the camp-level identity while preserving uncertainty in its early chronology."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-RIO-GRANDE-SUMMITVILLE-COMPLEX",
+      "name": "Summitville Mine, Mill & Ghost Town Complex",
+      "location": "Summitville mining district, Rio Grande County, Colorado",
+      "county": "Rio Grande County",
+      "category": "Mine / Mill / Ghost Town / Industrial Complex",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "Summitville is a documented mining complex encompassing the historic Little Annie workings, mills, and townsite as well as the later open-pit and Superfund landscape. Federal geologic research supports the district-scale complex as a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    }
+  ]
+}

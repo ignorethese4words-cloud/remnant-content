@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-lincoln",
+  "county": "Lincoln County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.191Z",
+  "sites": [
+    {
+      "id": "CO-LINCOLN-HUGO-UP-ROUNDHOUSE",
+      "name": "Hugo Union Pacific Railroad Roundhouse",
+      "location": "Hugo",
+      "county": "Lincoln County",
+      "category": "Railroad Roundhouse",
+      "componentType": "Railroad Feature",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving Union Pacific roundhouse in Hugo."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.133785,
+        "longitude": -103.474544
+      }
+    }
+  ]
+}

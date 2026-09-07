@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-park",
+  "county": "Park County",
+  "state": "Colorado",
+  "version": "2",
+  "generatedAt": "2026-09-07T20:24:27.192Z",
+  "sites": [
+    {
+      "id": "CO-PARK-JEFFERSON-DSPP-DEPOT",
+      "name": "Jefferson DSP&P Railroad Depot & Station Site",
+      "location": "Jefferson",
+      "county": "Park County",
+      "category": "Railroad / Historic Transportation",
+      "componentType": "Railroad Depot",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "The Jefferson Denver, South Park & Pacific depot is a surviving circa-1880 combination passenger-and-freight depot and one of the few intact structures from the historic narrow-gauge network."
+      ],
+      "timeline": [
+        {
+          "year": "c.1880–1937",
+          "text": "The depot served the Denver, South Park & Pacific system and remained in active railroad use until 1937."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.377231,
+        "longitude": -105.801027
+      }
+    }
+  ]
+}

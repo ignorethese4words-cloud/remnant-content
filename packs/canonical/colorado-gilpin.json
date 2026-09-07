@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-gilpin",
+  "county": "Gilpin County",
+  "state": "Colorado",
+  "version": "5",
+  "generatedAt": "2026-09-07T20:36:12.965Z",
+  "sites": [
+    {
+      "id": "CO-GILPIN-APEX-PINE-DISTRICT",
+      "name": "Apex Mining Camp & Pine–Kingston–Apex District",
+      "location": "Apex and Pine Creek area, Gilpin County, Colorado",
+      "county": "Gilpin County",
+      "category": "Ghost Town / Mining District",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Apex is a documented historic mining camp within the Pine–Kingston–Apex district. Existing research supports the surviving buildings, foundations, and mine landscape as a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-GILPIN-BATES-HUNTER-GOLDEN-GILPIN",
+      "name": "Bates–Hunter Mine & Golden Gilpin Mill Complex",
+      "location": "Central City and Black Hawk area, Gilpin County, Colorado",
+      "county": "Gilpin County",
+      "category": "Mine / Mill Complex",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "The Bates–Hunter Mine and Golden Gilpin Mill form a documented mine-and-processing complex associated with the Central City and Black Hawk mining district. The surviving shaft headframe and mill support a stable basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-GILPIN-COLORADO-CENTRAL-BRANCH",
+      "name": "Colorado Central / C&S Black Hawk–Central City Railroad Complex",
+      "location": "Black Hawk and Central City, Gilpin County, Colorado",
+      "county": "Gilpin County",
+      "category": "Railroad / Historic Transportation",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "The Colorado Central and later Colorado & Southern railroad linked Black Hawk and Central City through a distinctive switchback route. Existing research supports the surviving right-of-way and railroad service structures as a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-GILPIN-GILPIN-TRAMWAY",
+      "name": "Gilpin Tramway / Gilpin Railroad Mining Railroad Network",
+      "location": "Central City–Black Hawk mining district, Gilpin County, Colorado",
+      "county": "Gilpin County",
+      "category": "Railroad / Mining Infrastructure",
+      "componentType": "Tramway",
+      "overview": [
+        "The Gilpin Tramway was a documented two-foot-gauge ore-haul railroad serving mines and mills throughout the Central City–Black Hawk district. Surviving grades and switchbacks support the network as a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-GILPIN-GREGORY-BOBTAIL-GUNNELL",
+      "name": "Gregory–Bobtail–Gunnell Gold Discovery & Mine Landscape",
+      "location": "Gregory Gulch area, Gilpin County, Colorado",
+      "county": "Gilpin County",
+      "category": "Mine / Mill / Mining Landscape",
+      "componentType": "Mill / Processing",
+      "overview": [
+        "The Gregory–Bobtail–Gunnell landscape encompasses the documented 1859 hard-rock gold discovery area and major mine, mill, transport, and tailings remains. Existing research supports the landscape as a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-GILPIN-NEVADAVILLE",
+      "name": "Nevadaville Mining Camp & Ghost Townsite",
+      "location": "Nevadaville, Gilpin County, Colorado",
+      "county": "Gilpin County",
+      "category": "Ghost Town / Mining Camp",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Nevadaville is a documented 1859 mining camp with substantial surviving town fabric and an associated mine landscape. Existing research supports the historic camp as a stable basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-GILPIN-PERIGO-GOLD-DIRT",
+      "name": "Perigo / Gold Dirt–Gamble Gulch Mining District & Ghost Camps",
+      "location": "Gamble Gulch and Perigo area, Gilpin County, Colorado",
+      "county": "Gilpin County",
+      "category": "Ghost Town / Mining District",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Perigo and Gold Dirt were successive mining camps within the documented Gamble Gulch district. Surviving foundations, mine workings, dumps, mill sites, and the altered mining landscape support a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-GILPIN-QUARTZ-HILL-LANDSCAPE",
+      "name": "Quartz Hill Mining & Gilpin Tramway Landscape",
+      "location": "Quartz Hill west of Central City, Gilpin County, Colorado",
+      "county": "Gilpin County",
+      "category": "Mining District / Industrial Landscape",
+      "componentType": "Tramway",
+      "overview": [
+        "Quartz Hill is a documented multi-mine industrial landscape west of Central City. Mine dumps, foundations, workings, and surviving Gilpin Tramway grades and switchbacks support the landscape as a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-GILPIN-RUSSELL-GULCH",
+      "name": "Russell Gulch Mining Camp & District",
+      "location": "Russell Gulch southwest of Central City, Gilpin County, Colorado",
+      "county": "Gilpin County",
+      "category": "Ghost Town / Mining District",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Russell Gulch is a documented 1859 gold camp with surviving historic buildings, ruins, foundations, mine dumps, ditch traces, and tramway grades that support the camp and district as a basic Scan identity."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-GILPIN-CENTRAL-BLACK-HAWK",
+      "name": "Central City–Black Hawk Mining District",
+      "location": "Central City, Black Hawk, and Nevadaville, Gilpin County, Colorado",
+      "county": "Gilpin County",
+      "category": "Mining District",
+      "componentType": "Historic District",
+      "overview": [
+        "Central City, Black Hawk, and Nevadaville form the principal surviving settlements of the historic Gregory mining district, where the 1859 gold rush developed into a mature hard-rock mining and milling region.",
+        "The district preserves commercial, residential, civic, mining, milling, and transportation resources. Individual mines, mills, tramways, railroads, and town components remain related but should not be conflated."
+      ],
+      "timeline": [
+        {
+          "year": "1859",
+          "text": "Gold discoveries in Gregory Gulch triggered rapid settlement and the growth of Central City, Black Hawk, Nevadaville, and nearby mining camps."
+        },
+        {
+          "year": "1860s–1870s",
+          "text": "Short-lived placer mining gave way to underground lode mining, while mills, smelters, transportation systems, and substantial town buildings expanded."
+        },
+        {
+          "year": "1859–1918",
+          "text": "The district evolved from boom camps into established industrial towns serving one of the Rocky Mountain West’s most important early mining regions."
+        },
+        {
+          "year": "July 4, 1961",
+          "text": "The Central City–Black Hawk area received National Historic Landmark designation for its nationally important mining-frontier history."
+        },
+        {
+          "year": "Today",
+          "text": "Historic town fabric and surrounding mining landscapes preserve the connected story of extraction, processing, transportation, commerce, and community life."
+        }
+      ],
+      "moreHistory": [
+        "National Park Service documentation treats the district as a prototypical Rocky Mountain mining-frontier settlement. Its significance rests on both the gold industry and the urban communities that supported it.",
+        "Central City, Black Hawk, and Nevadaville developed different roles within the same mining system. Black Hawk concentrated much of the milling and transportation activity, while Central City became a major commercial and civic center; Nevadaville retained its own mining-camp identity.",
+        "The landmark district does not encompass every surviving mine, mill, dump, tramway grade, or railroad feature in the surrounding hills. Remnant therefore preserves major industrial components as linked but distinct records.",
+        "Observe historic buildings and mining remnants only from lawful areas. Mine openings, unstable structures, dumps, and industrial remains may be hazardous and are not entry locations."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "features": [
+        {
+          "id": "gilpin-central-city",
+          "name": "Central City Historic Core",
+          "type": "Mining Town / Commercial and Civic Center",
+          "confidence": "Confirmed",
+          "note": "Substantial historic commercial, civic, residential, and mining-related resources survive within the district."
+        },
+        {
+          "id": "gilpin-black-hawk",
+          "name": "Black Hawk Industrial and Town Core",
+          "type": "Milling / Transportation / Town Landscape",
+          "confidence": "Confirmed",
+          "note": "Historic town fabric and industrial relationships document Black Hawk’s role in milling and transportation."
+        },
+        {
+          "id": "gilpin-nevadaville",
+          "name": "Nevadaville",
+          "type": "Mining Camp / Townsite",
+          "confidence": "Confirmed",
+          "note": "Nevadaville is a distinct settlement component within the larger landmark district and also retains its own Remnant record."
+        }
+      ],
+      "state": "Colorado",
+      "appReady": true,
+      "betaVisible": true
+    },
+    {
+      "id": "CO-GILPIN-HIDEE",
+      "name": "Hidee Gold Mine",
+      "location": "Virginia Canyon / Glory Hole area near Central City, Gilpin County, Colorado",
+      "county": "Gilpin County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "overview": [
+        "The Hidee Gold Mine is a documented underground gold mine in the Virginia Canyon–Glory Hole area of the Central City–Black Hawk mining district.",
+        "Its surviving underground workings and later educational use provide a recognizable example of the narrow-vein hard-rock mining that shaped Gilpin County."
+      ],
+      "timeline": [
+        {
+          "year": "Late 19th century",
+          "text": "The Hidee property was developed within the established Virginia Canyon gold-mining landscape near Central City and Black Hawk."
+        },
+        {
+          "year": "1896",
+          "text": "Historical summaries record submission of the Hidee property for a mineral patent during its early mining era."
+        },
+        {
+          "year": "1980s",
+          "text": "A walk-in opening was developed for educational interpretation of local mining history and geology."
+        },
+        {
+          "year": "Since 1988",
+          "text": "Mine supporters and operators have continued interpreting mining methods, geology, and the history of the Central City–Black Hawk district."
+        },
+        {
+          "year": "Today",
+          "text": "The documented mine workings remain the defining identification feature of the Hidee property."
+        }
+      ],
+      "moreHistory": [
+        "The Hidee belongs to the broader Virginia Canyon and Glory Hole mining landscape but should not be represented by generic photographs or claims from unrelated Central City mines.",
+        "Gold-bearing pyritic ore is central to the mine’s identity. Reported exceptionally rich assay values describe selected samples and should not be treated as an average ore grade or life-of-mine production total.",
+        "The present interpretive operation is a later layer in the property’s history. It preserves the mine identity while explaining both historic and modern mining practices.",
+        "This entry is informational, not access authorization. Conditions and operating arrangements can change, and mine openings should never be entered except through an authorized operation."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "features": [
+        {
+          "id": "hidee-workings",
+          "name": "Hidee Underground Workings",
+          "type": "Gold Mine",
+          "confidence": "Confirmed",
+          "note": "The documented workings are the mine’s primary surviving identification feature."
+        },
+        {
+          "id": "hidee-virginia-canyon",
+          "name": "Virginia Canyon Mining Context",
+          "type": "Mining Landscape",
+          "confidence": "Confirmed",
+          "note": "The Hidee is part of the larger Virginia Canyon–Glory Hole mining area but remains a distinct property."
+        }
+      ],
+      "state": "Colorado",
+      "appReady": true,
+      "betaVisible": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-weld",
+  "county": "Weld County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.193Z",
+  "sites": [
+    {
+      "id": "CO-WELD-GREELEY-UP-DEPOT",
+      "name": "Greeley Union Pacific Railroad Depot",
+      "location": "902 7th Ave., Greeley",
+      "county": "Weld County",
+      "category": "Railroad Depot",
+      "componentType": "Railroad Depot",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving 1930 Union Pacific passenger depot in Greeley."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.424167,
+        "longitude": -104.688056
+      }
+    }
+  ]
+}

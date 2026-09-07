@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-denver",
+  "county": "Denver County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.189Z",
+  "sites": [
+    {
+      "id": "CO-DENVER-MIDWEST-STEEL-IRON-WORKS",
+      "name": "Midwest Steel & Iron Works Company Complex",
+      "location": "25 Larimer Street, Denver",
+      "county": "Denver County",
+      "category": "Industrial Complex",
+      "componentType": "Power / Industrial",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving historic metal-fabrication complex in Denver."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.740111,
+        "longitude": -105.015863
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-grand",
+  "county": "Grand County",
+  "state": "Colorado",
+  "version": "2",
+  "generatedAt": "2026-09-07T20:24:27.189Z",
+  "sites": [
+    {
+      "id": "CO-GRAND-ARIZOBA-MINE",
+      "name": "Arizoba Mine",
+      "location": "Blue Ridge Mining District",
+      "county": "Grand County",
+      "category": "Mine / Prospect",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Arizoba Mine is a named historic copper mine preserved on USGS-derived King Creek mapping in Grand County."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS-derived mapping preserves Arizoba as a named inactive copper mine."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.957763,
+        "longitude": -106.271416
+      }
+    },
+    {
+      "id": "CO-GRAND-BIG-DIKE-LODE",
+      "name": "Big Dike Lode",
+      "location": "Radial Mountain area",
+      "county": "Grand County",
+      "category": "Mine / Lode Prospect",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Big Dike Lode is a named Grand County mine feature preserved on USGS-derived Radial Mountain mapping."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Federal mapping preserves Big Dike Lode as a named mine feature."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.34887,
+        "longitude": -106.1003
+      }
+    },
+    {
+      "id": "CO-GRAND-BLUE-RIDGE-MINE",
+      "name": "Blue Ridge Mine",
+      "location": "Grand County",
+      "county": "Grand County",
+      "category": "Mine / Prospect",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Blue Ridge Mine is a federally recorded Grand County copper site with a stable mapped mine location."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS MRDS preserves Blue Ridge as a named copper mine locality."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.0075,
+        "longitude": -106.3053
+      }
+    },
+    {
+      "id": "CO-GRAND-COZENS-RANCH",
+      "name": "Cozens Ranch House & Stage Stop",
+      "location": "Fraser Valley",
+      "county": "Grand County",
+      "category": "Historic Ranch / Stage Stop",
+      "componentType": "Historic Ranch / Stage Stop",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Cozens Ranch House is a surviving 1874 Fraser Valley ranch and historic stage-stop building."
+      ],
+      "timeline": [
+        {
+          "year": "1874–1876",
+          "text": "The ranch developed into a stage stop and early Fraser Valley post office."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.932487,
+        "longitude": -105.791119
+      }
+    },
+    {
+      "id": "CO-GRAND-MOFFAT-TUNNEL-WEST-PORTAL",
+      "name": "Moffat Tunnel West Portal / West Portal Construction Camp",
+      "location": "Winter Park",
+      "county": "Grand County",
+      "category": "Railroad / Tunnel / Construction Camp",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "The Moffat Tunnel West Portal is the verified Grand County western entrance to the historic Moffat railroad tunnel near Winter Park."
+      ],
+      "timeline": [
+        {
+          "year": "1923–1928",
+          "text": "Construction culminated in the completed Moffat Tunnel and railroad service through the Continental Divide."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.8875,
+        "longitude": -105.76222
+      }
+    }
+  ]
+}

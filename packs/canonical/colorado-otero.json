@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-otero",
+  "county": "Otero County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.192Z",
+  "sites": [
+    {
+      "id": "CO-OTERO-MANZANOLA-SANTA-FE-DEPOT",
+      "name": "Santa Fe Railway Manzanola Depot",
+      "location": "212 N. Grand Ave., Manzanola",
+      "county": "Otero County",
+      "category": "Railroad Depot",
+      "componentType": "Railroad Depot",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving 1913 Santa Fe combination passenger-and-freight depot."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.11,
+        "longitude": -103.866944
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-pitkin",
+  "county": "Pitkin County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.192Z",
+  "sites": [
+    {
+      "id": "CO-Pitkin-REDSTONE-COKE-OVENS",
+      "name": "Redstone Coke Oven Historic District",
+      "location": "Redstone",
+      "county": "Pitkin County",
+      "category": "Coke Oven Historic District",
+      "componentType": "Mill / Processing",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving bank of historic coke ovens associated with Redstone's coal industry."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.18111,
+        "longitude": -107.24139
+      }
+    }
+  ]
+}

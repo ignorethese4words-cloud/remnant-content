@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-moffat",
+  "county": "Moffat County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.191Z",
+  "sites": [
+    {
+      "id": "CO-MOFFAT-BROMIDE-CHARCOAL-KILNS",
+      "name": "Bromide Charcoal Kilns & Smelter Site",
+      "location": "Greystone vicinity",
+      "county": "Moffat County",
+      "category": "Charcoal Kilns / Smelter Site",
+      "componentType": "Mill / Processing",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Four surviving stone charcoal kilns from the Bromide smelter complex."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.5776,
+        "longitude": -108.657
+      }
+    }
+  ]
+}

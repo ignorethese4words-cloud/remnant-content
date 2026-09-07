@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-jefferson",
+  "county": "Jefferson County",
+  "state": "Colorado",
+  "version": "5",
+  "generatedAt": "2026-09-07T20:36:12.965Z",
+  "sites": [
+    {
+      "id": "CO-JEFFERSON-CAMP-GEORGE-WEST",
+      "name": "Camp George West Military Training Complex",
+      "location": "Golden, Jefferson County, Colorado",
+      "county": "Jefferson County",
+      "category": "Military Camp / Training Complex / Historic District",
+      "componentType": "Military Site",
+      "overview": [
+        "Camp George West is a documented military training complex near Golden with a surviving historic campus and major National Guard-era training resources."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-JEFFERSON-DENVER-ORDNANCE",
+      "name": "Denver Ordnance Plant / Denver Federal Center WWII Industrial Complex",
+      "location": "Lakewood, Jefferson County, Colorado",
+      "county": "Jefferson County",
+      "category": "WWII Ordnance Plant / Federal Industrial Complex",
+      "componentType": "Military Site",
+      "overview": [
+        "The Denver Federal Center preserves the campus identity of the World War II Denver Ordnance Plant, a major military-industrial manufacturing complex."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-JEFFERSON-MARTIN-TITAN-TEST",
+      "name": "Glenn L. Martin Titan Missile Test Facilities / Air Force Plant PJKS",
+      "location": "Waterton area, Jefferson County, Colorado",
+      "county": "Jefferson County",
+      "category": "Cold War Missile Test / Military-Industrial Complex",
+      "componentType": "Military Site",
+      "overview": [
+        "Air Force Plant PJKS in the Waterton area was a Cold War missile-test complex associated with Glenn L. Martin and Titan development, with documented test-facility remnants."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-JEFFERSON-LEYDEN-COAL",
+      "name": "Leyden Coal Mine, Company Town & Railroad Complex",
+      "location": "Leyden, Jefferson County, Colorado",
+      "county": "Jefferson County",
+      "category": "Coal Mine / Company Town / Railroad Complex",
+      "componentType": "Town / Camp",
+      "overview": [
+        "Leyden was a coal-mining complex with a company town and railroad connection; surviving camp fabric identifies the broader industrial landscape."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-JEFFERSON-LARIAT-TRAIL",
+      "name": "Lookout Mountain Lariat Trail & Denver Mountain Parks Road Complex",
+      "location": "Lookout Mountain, Jefferson County, Colorado",
+      "county": "Jefferson County",
+      "category": "Historic Scenic Road / Park Infrastructure Complex",
+      "componentType": "Historic Route",
+      "overview": [
+        "The Lariat Trail is a historic scenic road and Denver Mountain Parks corridor whose surviving alignment and infrastructure define the Lookout Mountain landscape."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-JEFFERSON-MORRISON-STONE",
+      "name": "Morrison Stone, Lime & Town Company Quarry and Industrial Town Landscape",
+      "location": "Morrison, Jefferson County, Colorado",
+      "county": "Jefferson County",
+      "category": "Quarry / Industrial Company Town / Railroad Landscape",
+      "componentType": "Quarry",
+      "overview": [
+        "The Morrison Stone, Lime & Town Company quarry shaped an industrial company-town and railroad landscape whose surviving features identify Morrison's stone-working history."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-JEFFERSON-MOUNT-FALCON-WALKER",
+      "name": "Mount Falcon Walker Estate & Summer White House Ruins Complex",
+      "location": "Mount Falcon Park, Jefferson County, Colorado",
+      "county": "Jefferson County",
+      "category": "Estate Ruins / Planned Civic Complex / Historic Landscape",
+      "componentType": "Historic Site",
+      "overview": [
+        "The Walker estate castle ruins and Summer White House foundation identify a planned estate and civic complex preserved within Mount Falcon Park."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-JEFFERSON-PLATTE-CANYON-DSPP",
+      "name": "Platte Canyon DSP&P / Colorado & Southern Railroad Corridor",
+      "location": "Platte Canyon, Jefferson County, Colorado",
+      "county": "Jefferson County",
+      "category": "Railroad Grade / Canyon Transportation Complex",
+      "componentType": "Railroad Feature",
+      "overview": [
+        "The Platte Canyon corridor preserves the identity and surviving grade of the Denver, South Park & Pacific and later Colorado & Southern narrow-gauge railroad route."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-JEFFERSON-RED-ROCKS-CCC",
+      "name": "Red Rocks Park & Mount Morrison CCC–WPA Complex",
+      "location": "Red Rocks Park, Jefferson County, Colorado",
+      "county": "Jefferson County",
+      "category": "New Deal Park / CCC Camp / Amphitheatre Complex",
+      "componentType": "Historic District",
+      "overview": [
+        "Red Rocks Park is a nationally significant New Deal landscape whose amphitheatre, Civilian Conservation Corps camp resources, and park infrastructure identify the broader CCC–WPA complex."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-JEFFERSON-ROCKY-FLATS",
+      "name": "Rocky Flats Nuclear Weapons Plant & Cleanup Landscape",
+      "location": "Rocky Flats, Jefferson County, Colorado",
+      "county": "Jefferson County",
+      "category": "Cold War Nuclear Weapons / Industrial Archaeology Complex",
+      "componentType": "Industrial Site",
+      "overview": [
+        "Rocky Flats was a major Cold War nuclear-weapons production plant; its documented former industrial footprint and cleanup landscape identify the historic complex."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    },
+    {
+      "id": "CO-JEFFERSON-SCHWARTZWALDER-RALSTON",
+      "name": "Schwartzwalder Mine & Ralston Buttes Uranium Complex",
+      "location": "Ralston Buttes, Jefferson County, Colorado",
+      "county": "Jefferson County",
+      "category": "Uranium Mine / Mining District / Remediation Complex",
+      "componentType": "Mine",
+      "overview": [
+        "The Schwartzwalder Mine anchors the Ralston Buttes uranium complex, identified by its documented production history, mine workings, and remediation landscape."
+      ],
+      "state": "Colorado",
+      "appReady": false,
+      "betaVisible": false
+    }
+  ]
+}

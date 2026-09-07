@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-prowers",
+  "county": "Prowers County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.192Z",
+  "sites": [
+    {
+      "id": "CO-PROWERS-HOLLY-SANTA-FE-DEPOT",
+      "name": "Holly Santa Fe Depot (Town Hall)",
+      "location": "302 S. Main St., Holly",
+      "county": "Prowers County",
+      "category": "Railroad Depot",
+      "componentType": "Railroad Depot",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving 1912 Santa Fe railroad depot in Holly."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.050278,
+        "longitude": -102.123333
+      }
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-summit",
+  "county": "Summit County",
+  "state": "Colorado",
+  "version": "2",
+  "generatedAt": "2026-09-07T20:24:27.192Z",
+  "sites": [
+    {
+      "id": "minnie",
+      "name": "Minnie Mine",
+      "location": "Breckenridge",
+      "county": "Summit County",
+      "category": "Mine",
+      "componentType": "Mine / Shaft",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.48702,
+        "longitude": -106.00246
+      }
+    },
+    {
+      "id": "montezuma-town",
+      "name": "Montezuma Mining Town",
+      "location": "Montezuma",
+      "county": "Summit County",
+      "category": "Mining Town",
+      "componentType": "Town",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "Montezuma developed as the community center of the upper Snake River and Peru Creek mining country. It supported nearby mines and mills while also serving residential, commercial, postal, and social functions.",
+        "The town is historically connected to the surrounding mining district, but Remnant keeps it separate from individual properties such as Pennsylvania, Saints John, Quail, and other nearby mines."
+      ],
+      "timeline": [
+        {
+          "year": "Late 19th century",
+          "text": "Mineral discoveries drove the growth of Montezuma and the surrounding Snake River mining district."
+        },
+        {
+          "year": "Mining-boom era",
+          "text": "Businesses, residences, lodging, postal services, and other community functions developed to support miners and families."
+        },
+        {
+          "year": "Early 20th century",
+          "text": "Changing metal markets and mine closures reduced activity, though Montezuma continued as a community."
+        },
+        {
+          "year": "1941",
+          "text": "Marion Post Wolcott documented Montezuma for the Farm Security Administration/Office of War Information."
+        },
+        {
+          "year": "Today",
+          "text": "Montezuma remains a living incorporated community surrounded by one of Summit County’s densest historic mining landscapes."
+        }
+      ],
+      "moreHistory": [
+        "Montezuma served as a service and community center for a much larger mining landscape.",
+        "The town demonstrates why the term “ghost town” can oversimplify history: Montezuma declined from its mining-era peak but did not disappear.",
+        "Marion Post Wolcott’s 1941 photographs document buildings and streetscapes during a period of renewed defense-related mining activity.",
+        "For identification purposes, Pennsylvania, Saints John, Quail, Wild Irishman, and other properties remain separate sites rather than being folded into the town record."
+      ],
+      "displayImages": [
+        {
+          "id": "montezuma-1941",
+          "title": "Johnny's Hotel and post office, Montezuma — 1941",
+          "label": "",
+          "source": {
+            "uri": "https://cdn.loc.gov/service/pnp/fsa/8c31000/8c31600/8c31636v.jpg"
+          },
+          "sourceNote": "Library of Congress FSA/OWI photograph by Marion Post Wolcott. Public domain / no known restrictions."
+        }
+      ],
+      "features": [
+        {
+          "id": "monte-core",
+          "name": "Historic Town Core",
+          "type": "Townsite",
+          "confidence": "Confirmed",
+          "note": "Historic buildings and streetscape elements survive within the community."
+        },
+        {
+          "id": "monte-community",
+          "name": "Historic Community Buildings",
+          "type": "Civic / Commercial",
+          "confidence": "Confirmed",
+          "note": "Historical photographs document postal, hotel, and community functions."
+        },
+        {
+          "id": "monte-district",
+          "name": "Relationship to Surrounding Mining District",
+          "type": "Historic Landscape",
+          "confidence": "Confirmed",
+          "note": "The town is historically connected to nearby mines while remaining a distinct location."
+        }
+      ]
+    },
+    {
+      "id": "pennsylvania",
+      "name": "Pennsylvania Mine",
+      "location": "Peru Creek / Montezuma",
+      "county": "Summit County",
+      "category": "Mine / Mill",
+      "componentType": "Mine complex",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A major Peru Creek mine-and-mill complex used as a primary Remnant field-test site. Recent field documentation distinguishes the lower mill area from higher mine-level portals, machinery, waste dumps, and heavy timber surface structures."
+      ],
+      "timeline": [
+        {
+          "year": "1879",
+          "text": "Initial development of the Pennsylvania property began in the Montezuma district."
+        },
+        {
+          "year": "1890s",
+          "text": "The property became an important producer during the district’s major mining period."
+        },
+        {
+          "year": "20th century",
+          "text": "Mining continued intermittently, leaving multiple levels, portals, dumps, structures, and mill remains."
+        },
+        {
+          "year": "Today",
+          "text": "Surviving structures, portals, mill remains, and landscape relationships help interpret how the Pennsylvania complex was arranged and operated."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "penn-upper-structure",
+          "name": "Upper Mine-Level Structure",
+          "type": "Major Surface Structure",
+          "confidence": "Probable",
+          "note": "A substantial surviving timber industrial structure at the same general elevation as a Pennsylvania Mine portal. Its exact historic function is still being researched."
+        },
+        {
+          "id": "penn-portals",
+          "name": "Mine Portals / Adits",
+          "type": "Underground Workings",
+          "confidence": "Confirmed",
+          "note": "Multiple mine openings are associated with the Pennsylvania property. These are treated as mine components rather than separate visitor destinations."
+        },
+        {
+          "id": "penn-mill-area",
+          "name": "Pennsylvania Mill Area",
+          "type": "Processing Complex",
+          "confidence": "Confirmed",
+          "note": "The lower mill area is historically connected to the Pennsylvania property but is distinct from the higher mine-level workings and surface structures."
+        }
+      ],
+      "coordinates": {
+        "latitude": 39.596944,
+        "longitude": -105.873889
+      }
+    },
+    {
+      "id": "quail",
+      "name": "Quail Mine",
+      "location": "Montezuma",
+      "county": "Summit County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A compact high-altitude mining site above Montezuma with documented mine openings, rails, machinery, waste-rock workings, and collapsed timber structures."
+      ],
+      "timeline": [
+        {
+          "year": "Historic workings",
+          "text": "The Quail site contains multiple underground and surface mining features."
+        },
+        {
+          "year": "Today",
+          "text": "Surviving mine openings, rails, machinery, waste rock, and timber remains preserve evidence of the historic operation."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.58,
+        "longitude": -105.845
+      }
+    },
+    {
+      "id": "reiling",
+      "name": "Reiling Dredge",
+      "location": "Breckenridge",
+      "county": "Summit County",
+      "category": "Mining Infrastructure",
+      "componentType": "Dredge",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.48324,
+        "longitude": -106.00962
+      }
+    },
+    {
+      "id": "royal-tiger",
+      "name": "Royal Tiger Mine Group",
+      "location": "Swan River / Tiger",
+      "county": "Summit County",
+      "category": "Mine / Mill",
+      "componentType": "Mine & Mill",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.52309,
+        "longitude": -105.9617
+      }
+    },
+    {
+      "id": "saints-john",
+      "name": "Saints John Mine & Mill",
+      "location": "Montezuma",
+      "county": "Summit County",
+      "category": "Mine / Mill",
+      "componentType": "Mine & Mill",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A historic mine-and-mill complex near Montezuma with extensive collapsed timber, masonry, waste-rock, and industrial remains. The surviving landscape helps distinguish the mine workings from the mill and other industrial components."
+      ],
+      "timeline": [
+        {
+          "year": "Historic operation",
+          "text": "Saints John developed as an important silver-lead-zinc mining complex in the Montezuma district."
+        },
+        {
+          "year": "Today",
+          "text": "Surviving ruins and field documentation help interpret the relationship between the mine workings, mill, and industrial remains."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "features": [
+        {
+          "id": "sj-mill-ruins",
+          "name": "Mill / Industrial Ruins",
+          "type": "Major Site Component",
+          "confidence": "Probable",
+          "note": "The surviving collapsed timber and masonry are consistent with the documented Saints John industrial complex; individual building functions are still being resolved."
+        },
+        {
+          "id": "sj-mine-workings",
+          "name": "Mine Workings",
+          "type": "Underground / Surface Mining Components",
+          "confidence": "Confirmed",
+          "note": "The broader Saints John property includes mine workings on the surrounding mountain in addition to the mill and industrial remains."
+        }
+      ],
+      "coordinates": {
+        "latitude": 39.57,
+        "longitude": -105.87778
+      }
+    },
+    {
+      "id": "sallie-barber",
+      "name": "Sallie Barber Mine",
+      "location": "Breckenridge",
+      "county": "Summit County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.47861,
+        "longitude": -105.99611
+      }
+    },
+    {
+      "id": "wellington",
+      "name": "Wellington Mine",
+      "location": "Breckenridge",
+      "county": "Summit County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": true,
+      "betaVisible": true,
+      "overview": [
+        "The Wellington was one of the major hard-rock mining operations in French Gulch east of Breckenridge. Historically separate from the neighboring Oro Mine, the two properties were combined in 1907 as the Wellington-Oro complex.",
+        "The operation is especially useful for understanding changes in mining and milling technology, with extensive underground workings and several generations of ore-processing equipment."
+      ],
+      "timeline": [
+        {
+          "year": "1880s",
+          "text": "Major lode-mining activity developed in French Gulch, including the Wellington and Oro properties."
+        },
+        {
+          "year": "1907",
+          "text": "The previously separate Wellington and Oro mines were combined into the Wellington-Oro operation."
+        },
+        {
+          "year": "1908",
+          "text": "A gravity mill was built to concentrate ore."
+        },
+        {
+          "year": "1912",
+          "text": "A roasting and magnetic-separation plant was constructed for zinc-ore treatment."
+        },
+        {
+          "year": "1927",
+          "text": "Flotation technology replaced the older roasting and magnetic-separation process."
+        },
+        {
+          "year": "1929",
+          "text": "The earlier gravity mill ceased operation."
+        },
+        {
+          "year": "1930s–1970s",
+          "text": "Mining activity continued intermittently after the main historic production period."
+        },
+        {
+          "year": "Modern era",
+          "text": "Treatment facilities address contaminated water draining from historic workings."
+        }
+      ],
+      "moreHistory": [
+        "EPA historical studies describe the Wellington-Oro as the largest lode-mining operation in French Gulch, with more than 12 miles of underground workings.",
+        "The successive milling systems illustrate how operators adapted to changing ore types and metallurgical technology.",
+        "The Wellington and Oro began as separate mines. Their later combination is historically important, but the original identities should not be erased.",
+        "Modern remediation is part of the site’s continuing history and has altered portions of the industrial landscape."
+      ],
+      "displayImages": []
+    },
+    {
+      "id": "wild-irishman",
+      "name": "Wild Irishman Mine",
+      "location": "Montezuma",
+      "county": "Summit County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.56028,
+        "longitude": -105.88611
+      }
+    }
+  ]
+}

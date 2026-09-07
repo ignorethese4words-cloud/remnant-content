@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-clear-creek",
+  "county": "Clear Creek County",
+  "state": "Colorado",
+  "version": "85",
+  "generatedAt": "2026-09-07T20:24:27.188Z",
+  "sites": [
+    {
+      "id": "CO-CLEAR-CREEK-ALMADEN-MINE",
+      "name": "Almaden Mine",
+      "location": "Fall River",
+      "county": "Clear Creek County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Almaden Mine is a documented underground mine on the southwest side of Fall River. USGS studies describe two principal drift adits and a shaft, including workings on the Colorado No. 1 or Blazing Star vein, providing a defensible Basic Scan identity without asserting present-day access or condition."
+      ],
+      "timeline": [
+        {
+          "year": "1906–1963",
+          "text": "Federal and Colorado School of Mines records document the Almaden property across multiple studies, including early mine reports and later USGS investigations of its polymetallic and uranium-bearing veins."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.78443,
+        "longitude": -105.585
+      }
+    },
+    {
+      "id": "CO-CLEAR-CREEK-AP-TUNNEL",
+      "name": "AP Tunnel",
+      "location": "Kelso Mountain",
+      "county": "Clear Creek County",
+      "category": "Mine / Tunnel",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "AP Tunnel is a documented underground gold-silver past producer on Kelso Mountain. A historic image identifies the mine's shafthouse and tailings, giving the site a stable Basic Scan identity while later chronology and present condition remain intentionally unasserted."
+      ],
+      "timeline": [
+        {
+          "year": "1882",
+          "text": "A contemporary Colorado Miner report described the A. P. tunnel as a developing ore-producing property."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.6711,
+        "longitude": -105.7967
+      }
+    },
+    {
+      "id": "CO-CLEAR-CREEK-APEX-SHAFT",
+      "name": "Apex Shaft",
+      "location": "Idaho Springs / Central City district",
+      "county": "Clear Creek County",
+      "category": "Shaft / Mine",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Apex Shaft is a distinct underground gold past-producer locality in Clear Creek County. Federal mine records and mapped shaft data provide a stable Basic Scan anchor while site-specific operator and production chronology remain incomplete."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS and MRDS records preserve Apex Shaft as a named underground gold mine and past producer."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.7283,
+        "longitude": -105.5631
+      }
+    },
+    {
+      "id": "CO-CLEAR-CREEK-BRIGHTON-MINE",
+      "name": "Brighton Mine",
+      "location": "Freeland-Lamartine district",
+      "county": "Clear Creek County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Brighton Mine is a documented Freeland-Lamartine underground mine with a long early-20th-century operating span and recorded gold, silver, lead, copper, and zinc production. The federal mine record provides a stable Basic Scan anchor without requiring any claim about present-day remnants."
+      ],
+      "timeline": [
+        {
+          "year": "1903–1952",
+          "text": "Federal records document sustained work and production at Brighton during the early and mid-20th century."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.7606,
+        "longitude": -105.5233
+      }
+    },
+    {
+      "id": "CO-CLEAR-CREEK-BROWNSVILLE-PROCESSING-PLANT",
+      "name": "Brownsville Processing Plant",
+      "location": "Clear Creek County",
+      "county": "Clear Creek County",
+      "category": "Mill / Processing",
+      "componentType": "Mill / Processing",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Brownsville is a federally recorded gold processing plant and past-producer locality in Clear Creek County. The plant identity and mapped position are sufficient for Basic Scan while construction date, operator, process, throughput, feed mines, and surviving features remain intentionally unresolved."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Federal mineral records preserve Brownsville as a named gold-processing plant and past producer."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.6953,
+        "longitude": -105.7347
+      }
+    },
+    {
+      "id": "CO-CLEAR-CREEK-BULLION-KING-MINE",
+      "name": "Bullion King Mine",
+      "location": "Idaho Springs district",
+      "county": "Clear Creek County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Bullion King, also recorded as Mayflower, is a documented underground gold-polymetallic past producer in Clear Creek County. Federal records preserve the alias relationship, mapped entrance, 1902–1906 production period, and commodity mix for a defensible Basic Scan record."
+      ],
+      "timeline": [
+        {
+          "year": "1902–1906",
+          "text": "Federal records document production at the Bullion King/Mayflower property during this period."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.74166,
+        "longitude": -105.54587
+      }
+    }
+  ]
+}

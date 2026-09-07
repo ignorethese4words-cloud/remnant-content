@@ -1,199 +1,459 @@
 {
+  "schemaVersion": 1,
+  "contentVersion": "2026-09-07T20:36:13.018Z",
+  "generatedAt": "2026-09-07T20:36:13.018Z",
+  "minimumAppContentSchema": 1,
+  "delivery": "github-raw",
   "packs": [
     {
+      "id": "colorado-bent",
+      "county": "Bent County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-bent.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-boulder",
       "county": "Boulder County",
-      "exploreSiteCount": 2,
-      "idOnlySiteCount": 19,
-      "packId": "co-boulder-v12",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/boulder-county.json",
       "state": "Colorado",
-      "version": 12
+      "version": "14",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 33,
+      "siteCount": 33
     },
     {
+      "id": "colorado-broomfield",
+      "county": "Broomfield County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-broomfield.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-chaffee",
       "county": "Chaffee County",
-      "exploreSiteCount": 14,
-      "idOnlySiteCount": 4,
-      "packId": "co-chaffee-v9",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/chaffee-county.json",
       "state": "Colorado",
-      "version": 9
+      "version": "13",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 71,
+      "siteCount": 71
     },
     {
+      "id": "colorado-cheyenne",
+      "county": "Cheyenne County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-cheyenne.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-clear-creek",
       "county": "Clear Creek County",
-      "exploreSiteCount": 72,
-      "idOnlySiteCount": 211,
-      "packId": "co-clear-creek-v87",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/clear-creek-county.json",
       "state": "Colorado",
-      "version": 87
-    },
-    {
-      "county": "Dolores County",
+      "version": "85",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-clear-creek.json",
       "exploreSiteCount": 0,
       "idOnlySiteCount": 6,
-      "packId": "co-dolores-v3",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/dolores-county.json",
-      "state": "Colorado",
-      "version": 3
+      "siteCount": 6
     },
     {
+      "id": "colorado-conejos",
+      "county": "Conejos County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-conejos.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 2,
+      "siteCount": 2
+    },
+    {
+      "id": "colorado-costilla",
+      "county": "Costilla County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-costilla.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 2,
+      "siteCount": 2
+    },
+    {
+      "id": "colorado-custer",
+      "county": "Custer County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-custer.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-denver",
+      "county": "Denver County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-denver.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-dolores",
+      "county": "Dolores County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-dolores.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 0,
+      "siteCount": 0
+    },
+    {
+      "id": "colorado-douglas",
+      "county": "Douglas County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-douglas.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-eagle",
       "county": "Eagle County",
+      "state": "Colorado",
+      "version": "6",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-eagle.json",
       "exploreSiteCount": 8,
       "idOnlySiteCount": 2,
-      "packId": "co-eagle-v7",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/eagle-county.json",
-      "state": "Colorado",
-      "version": 7
+      "siteCount": 10
     },
     {
+      "id": "colorado-el-paso",
+      "county": "El Paso County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-el-paso.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 2,
+      "siteCount": 2
+    },
+    {
+      "id": "colorado-garfield",
+      "county": "Garfield County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-garfield.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 2,
+      "siteCount": 2
+    },
+    {
+      "id": "colorado-gilpin",
       "county": "Gilpin County",
+      "state": "Colorado",
+      "version": "5",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gilpin.json",
       "exploreSiteCount": 2,
-      "idOnlySiteCount": 9,
-      "packId": "co-gilpin-v5",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/gilpin-county.json",
-      "state": "Colorado",
-      "version": 5
+      "idOnlySiteCount": 0,
+      "siteCount": 2
     },
     {
-      "county": "Gunnison County",
-      "exploreSiteCount": 0,
-      "idOnlySiteCount": 30,
-      "packId": "co-gunnison-v6",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/gunnison-county.json",
+      "id": "colorado-grand",
+      "county": "Grand County",
       "state": "Colorado",
-      "version": 6
-    },
-    {
-      "county": "Hinsdale County",
-      "exploreSiteCount": 0,
-      "idOnlySiteCount": 11,
-      "packId": "co-hinsdale-v2",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/hinsdale-county.json",
-      "state": "Colorado",
-      "version": 2
-    },
-    {
-      "county": "Jefferson County",
-      "exploreSiteCount": 0,
-      "idOnlySiteCount": 11,
-      "packId": "co-jefferson-v5",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/jefferson-county.json",
-      "state": "Colorado",
-      "version": 5
-    },
-    {
-      "county": "Lake County",
-      "exploreSiteCount": 18,
-      "idOnlySiteCount": 44,
-      "packId": "co-lake-v20",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/lake-county.json",
-      "state": "Colorado",
-      "version": 20
-    },
-    {
-      "county": "Mineral County",
-      "exploreSiteCount": 0,
-      "idOnlySiteCount": 7,
-      "packId": "co-mineral-v2",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/mineral-county.json",
-      "state": "Colorado",
-      "version": 2
-    },
-    {
-      "county": "Ouray County",
-      "exploreSiteCount": 20,
-      "idOnlySiteCount": 9,
-      "packId": "co-ouray-v4",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/ouray-county.json",
-      "state": "Colorado",
-      "version": 4
-    },
-    {
-      "county": "Park County",
-      "exploreSiteCount": 9,
-      "idOnlySiteCount": 13,
-      "packId": "co-park-v10",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/park-county.json",
-      "state": "Colorado",
-      "version": 10
-    },
-    {
-      "county": "Rio Grande County",
-      "exploreSiteCount": 0,
-      "idOnlySiteCount": 3,
-      "packId": "co-rio-grande-v2",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/rio-grande-county.json",
-      "state": "Colorado",
-      "version": 2
-    },
-    {
-      "county": "Saguache County",
+      "version": "2",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-grand.json",
       "exploreSiteCount": 0,
       "idOnlySiteCount": 5,
-      "packId": "co-saguache-v4",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/saguache-county.json",
-      "state": "Colorado",
-      "version": 4
+      "siteCount": 5
     },
     {
+      "id": "colorado-gunnison",
+      "county": "Gunnison County",
+      "state": "Colorado",
+      "version": "8",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gunnison.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 15,
+      "siteCount": 15
+    },
+    {
+      "id": "colorado-hinsdale",
+      "county": "Hinsdale County",
+      "state": "Colorado",
+      "version": "2",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-hinsdale.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 0,
+      "siteCount": 0
+    },
+    {
+      "id": "colorado-huerfano",
+      "county": "Huerfano County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-huerfano.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-jefferson",
+      "county": "Jefferson County",
+      "state": "Colorado",
+      "version": "5",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-jefferson.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 0,
+      "siteCount": 0
+    },
+    {
+      "id": "colorado-la-plata",
+      "county": "La Plata County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-la-plata.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-lake",
+      "county": "Lake County",
+      "state": "Colorado",
+      "version": "8",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+      "exploreSiteCount": 14,
+      "idOnlySiteCount": 4,
+      "siteCount": 18
+    },
+    {
+      "id": "colorado-larimer",
+      "county": "Larimer County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-larimer.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-las-animas",
+      "county": "Las Animas County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-las-animas.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-lincoln",
+      "county": "Lincoln County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lincoln.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-logan",
+      "county": "Logan County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-logan.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-mesa",
+      "county": "Mesa County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mesa.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-mineral",
+      "county": "Mineral County",
+      "state": "Colorado",
+      "version": "2",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mineral.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 0,
+      "siteCount": 0
+    },
+    {
+      "id": "colorado-moffat",
+      "county": "Moffat County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-moffat.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-montrose",
+      "county": "Montrose County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-montrose.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-morgan",
+      "county": "Morgan County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-morgan.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-otero",
+      "county": "Otero County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-otero.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-ouray",
+      "county": "Ouray County",
+      "state": "Colorado",
+      "version": "4",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+      "exploreSiteCount": 20,
+      "idOnlySiteCount": 0,
+      "siteCount": 20
+    },
+    {
+      "id": "colorado-park",
+      "county": "Park County",
+      "state": "Colorado",
+      "version": "2",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-park.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-pitkin",
+      "county": "Pitkin County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-pitkin.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-prowers",
+      "county": "Prowers County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-prowers.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-rio-grande",
+      "county": "Rio Grande County",
+      "state": "Colorado",
+      "version": "2",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-rio-grande.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 0,
+      "siteCount": 0
+    },
+    {
+      "id": "colorado-routt",
+      "county": "Routt County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-routt.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
+    },
+    {
+      "id": "colorado-saguache",
+      "county": "Saguache County",
+      "state": "Colorado",
+      "version": "4",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-saguache.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 0,
+      "siteCount": 0
+    },
+    {
+      "id": "colorado-san-juan",
       "county": "San Juan County",
+      "state": "Colorado",
+      "version": "6",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-san-juan.json",
       "exploreSiteCount": 5,
-      "idOnlySiteCount": 19,
-      "packId": "co-san-juan-v6",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/san-juan-county.json",
-      "state": "Colorado",
-      "version": 6
+      "idOnlySiteCount": 0,
+      "siteCount": 5
     },
     {
+      "id": "colorado-san-miguel",
       "county": "San Miguel County",
-      "exploreSiteCount": 0,
-      "idOnlySiteCount": 11,
-      "packId": "co-san-miguel-v3",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/san-miguel-county.json",
       "state": "Colorado",
-      "version": 3
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-san-miguel.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 0,
+      "siteCount": 0
     },
     {
+      "id": "colorado-summit",
       "county": "Summit County",
-      "exploreSiteCount": 16,
-      "idOnlySiteCount": 45,
-      "packId": "co-summit-v24",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/summit-county.json",
       "state": "Colorado",
-      "version": 24
+      "version": "2",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
+      "exploreSiteCount": 2,
+      "idOnlySiteCount": 8,
+      "siteCount": 10
     },
     {
+      "id": "colorado-teller",
       "county": "Teller County",
-      "exploreSiteCount": 0,
-      "idOnlySiteCount": 11,
-      "packId": "co-teller-v2",
-      "payloadUrl": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/teller-county.json",
       "state": "Colorado",
-      "version": 2
+      "version": "2",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-teller.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 0,
+      "siteCount": 0
+    },
+    {
+      "id": "colorado-weld",
+      "county": "Weld County",
+      "state": "Colorado",
+      "version": "3",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-weld.json",
+      "exploreSiteCount": 0,
+      "idOnlySiteCount": 1,
+      "siteCount": 1
     }
-  ],
-  "schemaVersion": 1,
-  "updatedAt": "2026-09-06T03:01:53.499Z",
-  "delivery": "github",
-  "githubHostedCounties": [
-    "Boulder County",
-    "Chaffee County",
-    "Clear Creek County",
-    "Dolores County",
-    "Eagle County",
-    "Gilpin County",
-    "Gunnison County",
-    "Hinsdale County",
-    "Jefferson County",
-    "Lake County",
-    "Mineral County",
-    "Ouray County",
-    "Park County",
-    "Rio Grande County",
-    "Saguache County",
-    "San Juan County",
-    "San Miguel County",
-    "Summit County",
-    "Teller County"
   ]
 }

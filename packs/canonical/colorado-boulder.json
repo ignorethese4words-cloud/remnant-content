@@ -1,0 +1,690 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-boulder",
+  "county": "Boulder County",
+  "state": "Colorado",
+  "version": "14",
+  "generatedAt": "2026-09-07T20:24:27.186Z",
+  "sites": [
+    {
+      "id": "CO-BOULDER-1905-MINE",
+      "name": "1905 Mine",
+      "location": "Hurricane Hill / Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic tungsten mine documented by USGS beside Hurricane Hill Road."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.973771,
+        "longitude": -105.484022
+      }
+    },
+    {
+      "id": "CO-BOULDER-AFTERTHOUGHT-MINE",
+      "name": "Afterthought Mine",
+      "location": "Jamestown Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Afterthought Mine is a documented Jamestown-area fluorspar mine with a stable mapped mine/tunnel anchor."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Federal Jamestown-district mapping preserves the Afterthought mine and tunnel workings."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.1222078,
+        "longitude": -105.40055
+      }
+    },
+    {
+      "id": "CO-BOULDER-ALAMAKEE",
+      "name": "Alamakee",
+      "location": "Gold Hill Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Gold Hill mine documented in nineteenth-century mining records and mapped locality records."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.06611,
+        "longitude": -105.40472
+      }
+    },
+    {
+      "id": "CO-BOULDER-ALASKA-TUNNEL",
+      "name": "Alaska Tunnel",
+      "location": "Ward Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine Tunnel",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Ward-district tunnel locality preserved in federal/MRDS-derived mining records."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.07333,
+        "longitude": -105.50667
+      }
+    },
+    {
+      "id": "CO-BOULDER-ALICE-MINE",
+      "name": "Alice Mine",
+      "location": "Jamestown Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Jamestown mine documented in state operating reports and federal fluorspar studies."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.1225,
+        "longitude": -105.3981
+      }
+    },
+    {
+      "id": "CO-BOULDER-ALICE-OPEN-PIT",
+      "name": "Alice Open Pit",
+      "location": "Jamestown Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Alice Open Pit is a mapped Jamestown-area surface mine and a distinct physical component from the underground Alice Mine."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS-derived mapping preserves Alice Open Pit as a separate named mine feature."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.1291522,
+        "longitude": -105.3958276
+      }
+    },
+    {
+      "id": "CO-BOULDER-ALLIED-JAMESTOWN",
+      "name": "Allied Jamestown",
+      "location": "Jamestown Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Allied Jamestown fluorspar property anchored to the documented Yellow Girl and Chancellor workings cluster."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.1225,
+        "longitude": -105.3981
+      }
+    },
+    {
+      "id": "CO-BOULDER-ALPINE-HORN",
+      "name": "Alpine Horn",
+      "location": "Sugarloaf Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Sugarloaf-district gold mine with surviving archival workings maps and a mapped mine locality."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.027486,
+        "longitude": -105.411661
+      }
+    },
+    {
+      "id": "CO-BOULDER-ALTON-TUNNEL",
+      "name": "Alton Tunnel",
+      "location": "Boulder County",
+      "county": "Boulder County",
+      "category": "Historic Mine Tunnel",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic mine tunnel documented in state mining reports and federal place-name mapping."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.9667,
+        "longitude": -105.5333
+      }
+    },
+    {
+      "id": "CO-BOULDER-ANNA-C-MINE",
+      "name": "Anna C Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic tungsten property represented by the Anna C. mine group."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.97889,
+        "longitude": -105.52917
+      }
+    },
+    {
+      "id": "CO-BOULDER-ATCHISON-MINE",
+      "name": "Atchison Mine",
+      "location": "Gold Hill Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Atchison mine property in the Gold Hill district."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.05194,
+        "longitude": -105.3675
+      }
+    },
+    {
+      "id": "CO-BOULDER-BIG-CAMERON-MINE",
+      "name": "Big Cameron Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic tungsten mine with documented shaft and DMEA development."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.99194,
+        "longitude": -105.45417
+      }
+    },
+    {
+      "id": "CO-BOULDER-BIG-HORN-SHAFT",
+      "name": "Big Horn Shaft",
+      "location": "Sugarloaf Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine Shaft",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic named mine shaft in Boulder County."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.01639,
+        "longitude": -105.56639
+      }
+    },
+    {
+      "id": "CO-BOULDER-BLACK-PRINCE-MINE",
+      "name": "Black Prince Mine",
+      "location": "Boulder County tungsten district",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Black Prince Mine is a documented Boulder County tungsten property with multiple mapped tunnel workings."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS Professional Paper 245 maps the Black Prince workings as a four-tunnel mine complex."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.00249,
+        "longitude": -105.39527
+      }
+    },
+    {
+      "id": "CO-BOULDER-BONANZA-NO-2",
+      "name": "Bonanza No. 2 Mine",
+      "location": "Boulder County",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Boulder County tungsten property preserved in federal exploration records."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.018611,
+        "longitude": -105.377222
+      }
+    },
+    {
+      "id": "CO-BOULDER-CASH-MILL",
+      "name": "Cash Mill",
+      "location": "Gold Hill / Summerville area",
+      "county": "Boulder County",
+      "category": "Historic Mill / Ore Processing",
+      "componentType": "Mill / Processing",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Cash Mill is a distinct historic gold-processing plant in Boulder County, separate from the nearby Cash Mine. Federal mineral-resource mapping provides a defensible site-level Basic Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Federal records and historic Summerville-area photographs preserve the Cash/Victoria mill within the Gold Hill mining landscape."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.0636,
+        "longitude": -105.4069
+      }
+    },
+    {
+      "id": "CO-BOULDER-CENTENNIAL-TUNNEL",
+      "name": "Centennial Tunnel",
+      "location": "Gold Hill Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine Tunnel",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic named tunnel locality in the Gold Hill district."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.03556,
+        "longitude": -105.47278
+      }
+    },
+    {
+      "id": "CO-BOULDER-DOROTHY-KATIE-MINES",
+      "name": "Dorothy-Katie Mines",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Dorothy-Katie tungsten property, anchored to the documented Dorothy mine component."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.01361,
+        "longitude": -105.37222
+      }
+    },
+    {
+      "id": "CO-BOULDER-DOZER-MINE",
+      "name": "Dozer Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic tungsten mine preserved in USGS/MRDS records."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.9819,
+        "longitude": -105.4983
+      }
+    },
+    {
+      "id": "CO-BOULDER-EUREKA-MINE",
+      "name": "Eureka Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic tungsten mine with substantial documented production and underground development."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.00193,
+        "longitude": -105.41333
+      }
+    },
+    {
+      "id": "CO-BOULDER-GOOD-FRIDAY-MINE",
+      "name": "Good Friday Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic named mine in the Boulder County tungsten district."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.006653,
+        "longitude": -105.40305
+      }
+    },
+    {
+      "id": "CO-BOULDER-HALLIE-A-MINE",
+      "name": "Hallie A Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Hallie A tungsten mine documented by Colorado and federal mining records."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.019431,
+        "longitude": -105.511665
+      }
+    },
+    {
+      "id": "CO-BOULDER-HOOSIER-MINE",
+      "name": "Hoosier Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic tungsten mine documented by federal and Colorado mining records."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.97483,
+        "longitude": -105.49861
+      }
+    },
+    {
+      "id": "CO-BOULDER-PAYMASTER-MINE",
+      "name": "Paymaster Mine",
+      "location": "Boulder Canyon",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Paymaster-Wheelman property with documented tunnel workings and tungsten/gold production."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.00444,
+        "longitude": -105.37417
+      }
+    },
+    {
+      "id": "CO-BOULDER-PINESHAD-MINE",
+      "name": "Pineshad Mine",
+      "location": "Caribou Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic tungsten property recorded federally as Pineshad Mine and mapped as Pine Shade Mine."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.97889,
+        "longitude": -105.54833
+      }
+    },
+    {
+      "id": "CO-BOULDER-RAMBLER-MINE",
+      "name": "Rambler Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic tungsten mine with documented shaft development and production history."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.947209,
+        "longitude": -105.508887
+      }
+    },
+    {
+      "id": "CO-BOULDER-RANGE-VIEW-LODE",
+      "name": "Range View Lode Mining Claim",
+      "location": "Gordon Gulch",
+      "county": "Boulder County",
+      "category": "Historic Mine / Lode",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic tungsten property with documented workings and DMEA-era development."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.008042,
+        "longitude": -105.444718
+      }
+    },
+    {
+      "id": "CO-BOULDER-ROOSE-TUNNEL",
+      "name": "Roose Tunnel",
+      "location": "Nederland area",
+      "county": "Boulder County",
+      "category": "Historic Mine Tunnel",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic named tungsten tunnel represented in federal exploration records and mapped place data."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.96249,
+        "longitude": -105.51166
+      }
+    },
+    {
+      "id": "CO-BOULDER-STEEL-PLATE-MINE",
+      "name": "Steel Plate Mine",
+      "location": "Grand Island / Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Steel Plate tungsten mine documented in federal exploration records and mapped mine data."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.98221,
+        "longitude": -105.48666
+      }
+    },
+    {
+      "id": "CO-BOULDER-VASCO-NO-1-MINE",
+      "name": "Vasco No. 1 Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Vasco No. 1 tungsten mine, an important early producer in the district."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.97582,
+        "longitude": -105.482775
+      }
+    },
+    {
+      "id": "CO-BOULDER-VASCO-NO-7-MINE",
+      "name": "Vasco No. 7 Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic Vasco No. 7 tungsten mine with documented shaft levels, production and early mining history."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.97582,
+        "longitude": -105.483052
+      }
+    },
+    {
+      "id": "CO-BOULDER-WILD-TIGER-MINE",
+      "name": "Wild Tiger Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic tungsten mine with documented shafts, adit, production, and later reopening attempts."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.00667,
+        "longitude": -105.39806
+      }
+    },
+    {
+      "id": "CO-BOULDER-WORLD-MINE",
+      "name": "World Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Historic tungsten mine with documented World and Brandt shafts and DMEA-era work."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.983042,
+        "longitude": -105.477219
+      }
+    }
+  ]
+}

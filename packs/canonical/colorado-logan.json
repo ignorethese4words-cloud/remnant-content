@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-logan",
+  "county": "Logan County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.191Z",
+  "sites": [
+    {
+      "id": "CO-LOGAN-STERLING-UP-RAILROAD-DEPOT",
+      "name": "Sterling Union Pacific Railroad Depot",
+      "location": "113 N. Front St., Sterling",
+      "county": "Logan County",
+      "category": "Railroad Depot",
+      "componentType": "Railroad Depot",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving 1902 Union Pacific railroad depot in Sterling."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 40.624722,
+        "longitude": -103.204167
+      }
+    }
+  ]
+}

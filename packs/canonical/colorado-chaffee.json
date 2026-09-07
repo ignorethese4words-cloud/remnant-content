@@ -1,0 +1,1590 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-chaffee",
+  "county": "Chaffee County",
+  "state": "Colorado",
+  "version": "13",
+  "generatedAt": "2026-09-07T20:24:27.188Z",
+  "sites": [
+    {
+      "id": "CO-CHAFFEE-ALASKA-MINE",
+      "name": "Alaska Mine",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Alaska Mine is a named historic Chaffee County mine preserved on USGS topographic mapping in the Monarch district."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.5591639,
+        "longitude": -106.2769674
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-ALDERMAN-DEPOSIT",
+      "name": "Alderman Deposit",
+      "location": "Browns Canyon district",
+      "county": "Chaffee County",
+      "category": "Historic Mine / Mineral Deposit",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Alderman is a federally mapped Browns Canyon mineral deposit developed by a crosscut adit and drift workings. USGS documentation provides a stable deposit-level identification anchor without requiring any claim about the present condition of the historic opening."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Federal USGS mapping and mine descriptions identify the Alderman deposit and its crosscut-adit and drift workings in the Browns Canyon district."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.6253,
+        "longitude": -106.0661
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-ALLARD-BERYLLIUM",
+      "name": "Allard Beryllium Mine",
+      "location": "Turret Mining District",
+      "county": "Chaffee County",
+      "category": "Historic Industrial Mineral Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Allard, also known as the Combination Prospect, is a federally documented beryllium-bearing pegmatite property in the Turret district. Federal and mapped locality evidence provides a defensible Basic Scan anchor without implying present condition."
+      ],
+      "timeline": [
+        {
+          "year": "1940s",
+          "text": "USGS pegmatite investigations documented the Allard/Combination property during federal beryllium exploration of the Turret district."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.63333,
+        "longitude": -105.9839
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-ALPHA-BETA",
+      "name": "Alpha and Beta Mine",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Alpha and Beta is a named Monarch-district gold-silver mine preserved on federal topographic mapping. The mapped mine feature provides a stable Basic Scan identification anchor even though a richer site-specific operating chronology has not been recovered."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS-derived Garfield quadrangle mapping preserves Alpha and Beta as a named mine feature in the Monarch mining district."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.56555,
+        "longitude": -106.29697
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-AMERICAN-FLAG-MINE",
+      "name": "American Flag Mine",
+      "location": "Turret district",
+      "county": "Chaffee County",
+      "category": "Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "American Flag is a documented Turret-district gold mine with Anaconda, Crete, Ethel Consolidation and Holdredge recorded as associated historical names."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.63222,
+        "longitude": -106.00195
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-ANNA-HUFFMAN-COPPER",
+      "name": "Anna Huffman Copper",
+      "location": "Monarch area",
+      "county": "Chaffee County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Anna Huffman is a named Chaffee County copper property with a documented 1952 federal exploration episode."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.50167,
+        "longitude": -106.25086
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-ANNIE-C-MINE",
+      "name": "Annie C Mine",
+      "location": "Free Gold district",
+      "county": "Chaffee County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Annie C is a named historic gold-mine locality in Chaffee County's Free Gold district. Federal topographic mapping provides a stable identification point while unsupported operator or production details are intentionally omitted."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS-derived Buena Vista West quadrangle mapping preserves Annie C as a named mine feature associated with the Free Gold mining district."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.83333,
+        "longitude": -106.13391
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-APRIL-FOOL-MINE",
+      "name": "April Fool Mine (Chaffee County)",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "April Fool is a documented Monarch-district lead-silver mine preserved on USGS topographic mapping."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.54028,
+        "longitude": -106.29558
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-ATLANTIC-MOUND-INDEPENDENCE",
+      "name": "Atlantic / Mound / Independence",
+      "location": "South Cottonwood Creek / Chaffee County",
+      "county": "Chaffee County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Atlantic, Mound, and Independence are linked historical names for the same South Cottonwood mining property. The USGS-mapped Mound Mine feature provides a defensible site-level Basic Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Federal and locality records preserve Atlantic, Mound, and Independence as linked names for the same Chaffee County mining property."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.783329,
+        "longitude": -106.283911
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BANCROFT",
+      "name": "Bancroft",
+      "location": "Nathrop quadrangle / Chaffee County",
+      "county": "Chaffee County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Bancroft Mine is a distinct named USGS mine feature. The nearby Bancroft Incline is a separate mapped feature and is not conflated with this Basic Scan target."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS 1:24,000 mapping preserves Bancroft Mine as a distinct Chaffee County mine locality."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.644719,
+        "longitude": -106.080849
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BE-TRUE-MINE",
+      "name": "Be True Mine",
+      "location": "Buena Vista West area",
+      "county": "Chaffee County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Be True is a federally mapped Chaffee County uranium mine and past-producer locality. The named USGS mine feature supplies a stable Basic Scan anchor while uncertain operator, production, and surviving-remnant details remain unasserted."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS-derived Buena Vista West mapping and federal mine records preserve Be True as a named uranium mine and past producer."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.83,
+        "longitude": -106.13
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BEN-BOLTS-PAYMASTER",
+      "name": "Ben Bolts Paymaster",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Ben Bolts Paymaster is a mapped Monarch-district silver mine and past-producer locality. Federal mapping and mine records support the identity and location for Basic Scan while richer operating history and present-day workings remain unasserted."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS-derived Garfield quadrangle mapping preserves Ben Bolts Paymaster as a named inactive silver mine in the Monarch district."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.55,
+        "longitude": -106.31725
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BEN-BOYER-CLAIM",
+      "name": "Ben Boyer Claim",
+      "location": "Cleora Mining District",
+      "county": "Chaffee County",
+      "category": "Historic Mine / Prospect",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Ben Boyer Claim is a uniquely mapped Cleora-district prospect locality suitable for site-level Basic Scan identification. No surviving open working is asserted."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Federal mineral-resource records preserve the Ben Boyer Claim as a named Cleora-district prospect locality."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.66056,
+        "longitude": -105.87361
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BEN-HILL-MINE",
+      "name": "Ben Hill Mine",
+      "location": "Salida West area",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Ben Hill is a documented Chaffee County lead-silver mine preserved as a named USGS topographic feature."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.5713861,
+        "longitude": -106.1241843
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BETSY",
+      "name": "Betsy",
+      "location": "Granite quadrangle / Chaffee County",
+      "county": "Chaffee County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Betsy Mine is preserved as a distinct named Chaffee County mine feature in USGS-derived mapping. The mapped point is used only as a site-level anchor and not as exact portal geometry."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS-derived Granite-quadrangle mapping preserves Betsy Mine as a named historic mine locality."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.05,
+        "longitude": -106.26724
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BLACK-TIGER-MINE",
+      "name": "Black Tiger Mine",
+      "location": "Monarch Mining District",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Black Tiger is a documented Monarch-district lead-silver mine. Colorado Geological Survey and USGS mapping provide a defensible site-level Basic Scan anchor without asserting present portal condition."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Historic federal and Colorado records preserve Black Tiger as a producing Monarch-area lode and mapped mine feature."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.549719,
+        "longitude": -106.289468
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BLUE-BRUTE-MINE",
+      "name": "Blue Brute Mine",
+      "location": "Turret Mining District",
+      "county": "Chaffee County",
+      "category": "Surface Mine / Open Cuts",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Blue Brute is a documented Turret-district beryllium prospect and mine property with two recorded open cuts. The mapped historic working area provides a defensible Basic Scan anchor without asserting current cut condition."
+      ],
+      "timeline": [
+        {
+          "year": "Mid-20th-century exploration era",
+          "text": "Federal DMEA and MRDS records preserve the Blue Brute claims, associated names, and documented open-cut workings."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.62139,
+        "longitude": -105.96559
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BLUE-STONE-DEPOSIT",
+      "name": "Blue Stone Deposit",
+      "location": "Browns Canyon district",
+      "county": "Chaffee County",
+      "category": "Adit / Shaft / Surface Cuts",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Blue Stone is a federally documented Browns Canyon fluorspar property with a shallow shaft, adit and surface cuts."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.64861,
+        "longitude": -106.075
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BONNIE-BELLE-MINE",
+      "name": "Bonnie Belle Mine",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Bonnie Belle is a documented Monarch-district lead-silver mine preserved on the Garfield USGS quadrangle."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.57305,
+        "longitude": -106.28947
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BOSS-LAKE-MINE",
+      "name": "Boss Lake Mine",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Mine / Stockpile",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Boss Lake is a documented Chaffee County iron mine and magnetite stockpile locality."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.5576,
+        "longitude": -106.3086
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BRIGHTON-MINE",
+      "name": "Brighton Mine (Chaffee County)",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "The Chaffee County Brighton is a historic Monarch-area silver-lead producer distinct from same-name Colorado mines."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.5844413,
+        "longitude": -106.2972456
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-BUCKHORN-TUNNEL",
+      "name": "Buckhorn Tunnel",
+      "location": "Chaffee County",
+      "county": "Chaffee County",
+      "category": "Underground Tunnel / Mine",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Buckhorn Tunnel is tied to a specific mapped underground working and federal Mine Map Repository record. The historical tunnel location supports Basic Scan without asserting current portal condition."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Federal mine-map records preserve Buckhorn Tunnel as a specific underground working in Chaffee County."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.76139,
+        "longitude": -106.39389
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-CALUMET-MINE",
+      "name": "Calumet Mine",
+      "location": "Turret / Calumet area",
+      "county": "Chaffee County",
+      "category": "Mine / Shaft / Adit / Open Cuts",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Calumet is a major historic Chaffee County iron mine with extensive documented workings and a strong railroad/company-town history. The federal MRDS main-entrance location provides a defensible Basic Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "1881–1899",
+          "text": "Calumet shipped iron ore over the Denver & Rio Grande branch and supplied Colorado Coal and Iron / CF&I before declining ore quality led to closure."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.63737,
+        "longitude": -105.94785
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-CHIMNEY-HILL-MINE",
+      "name": "Chimney Hill Mine",
+      "location": "Browns Canyon district",
+      "county": "Chaffee County",
+      "category": "Mine / Shaft / Adit Complex",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Chimney Hill is a federally mapped Browns Canyon fluorspar mine with documented shaft, adit, level and pit workings."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.6439,
+        "longitude": -106.0786
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-CLEORA-NO-2-PROSPECT",
+      "name": "Cleora No. 2 Prospect",
+      "location": "Cleora Mining District / Longfellow Gulch",
+      "county": "Chaffee County",
+      "category": "Adit / Prospect",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Cleora No. 2 is a federally documented prospect developed by a 150-foot adit on the east side of Longfellow Gulch. The mapped historic adit location provides a defensible Basic Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS/MRDS documentation records a 150-foot adit at the Cleora No. 2 prospect."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.6575,
+        "longitude": -105.942222
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-CLINTON-MINE",
+      "name": "Clinton Mine (Chaffee County)",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Clinton is a documented Monarch-district mine with early-1880s development and later 1901-1904 production."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.59305,
+        "longitude": -106.27975
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-COLORADO-AMERICAN",
+      "name": "Colorado-American Mine",
+      "location": "Browns Canyon district",
+      "county": "Chaffee County",
+      "category": "Mine / Pit / Shaft / Adit Complex",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Colorado-American was the principal fluorspar producer of the Browns Canyon district and has extensive mapped surface and underground workings."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.6325,
+        "longitude": -106.0661
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-COLUMBINE-MINE",
+      "name": "Columbine Mine (Chaffee County)",
+      "location": "Granite quadrangle / Chaffee County",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "The Chaffee County Columbine Mine is independently mapped as a named mine locality. The locality is used for Basic Scan without asserting a surviving open portal or current working condition."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS/GNIS-derived mapping preserves Columbine Mine as a distinct Chaffee County mine locality."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.0327708,
+        "longitude": -106.3597468
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-COLUMBUS-MINE",
+      "name": "Columbus Mine",
+      "location": "Garfield quadrangle / Monarch area",
+      "county": "Chaffee County",
+      "category": "Tunnel / Shaft / Mill Site",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Columbus Mine is a mapped Chaffee County mine locality associated historically with tunnel, shaft, and mill components. The parent mine locality is used as the Basic Scan anchor without claiming which component survives today."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS mapping and early Colorado mining records preserve the Columbus mining complex in the Monarch area."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.571941,
+        "longitude": -106.3286354
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-COPPER-KING-LODE",
+      "name": "Copper King Lode",
+      "location": "Salida area",
+      "county": "Chaffee County",
+      "category": "Mine / Lode",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Copper King Lode is a federally documented Chaffee County copper-gold vein property with a traceable claim and mineral-examination record."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.5306,
+        "longitude": -106.1786
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-CRYSTAL-NO-8-MINE",
+      "name": "Crystal No. 8 Mine",
+      "location": "Trout Creek Pass area",
+      "county": "Chaffee County",
+      "category": "Open Cut / Adit Mine",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Crystal No. 8 is a federally documented pegmatite mine developed by a substantial two-level open cut and short adit."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.83361,
+        "longitude": -106.02556
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-DARLING-MINE",
+      "name": "Darling Mine",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Darling is a documented Monarch-district silver-lead mine preserved on USGS topographic mapping."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.573053,
+        "longitude": -106.297523
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-DELAY-ADIT-LLOYD-SHAFT",
+      "name": "Delay Adit and Lloyd Shaft",
+      "location": "Browns Canyon Fluorspar District",
+      "county": "Chaffee County",
+      "category": "Adit / Shaft / Prospect Complex",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Delay Adit and Lloyd Shaft are linked but distinct historic workings in the Browns Canyon fluorspar district. Federal mapping provides a defensible site-level anchor for the combined working complex."
+      ],
+      "timeline": [
+        {
+          "year": "Historic fluorspar era",
+          "text": "USGS Professional Paper 626 separately maps the Delay Adit and Lloyd Shaft workings within the Browns Canyon district."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.64167,
+        "longitude": -106.07417
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-ECLIPSE-MINE",
+      "name": "Eclipse Mine",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Eclipse is a documented Monarch-district zinc and lead mine with extensive historic underground workings."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.53472,
+        "longitude": -106.31336
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-ELKINGTON-MINE",
+      "name": "Elkington Mine",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Elkington is a documented Monarch-area lead-silver mine preserved as a named historic mine feature."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.54111,
+        "longitude": -106.30086
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-EVENING-STAR-MINE",
+      "name": "Evening Star Mine (Chaffee County)",
+      "location": "Monarch Hill",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Evening Star is a documented Monarch Hill mine with shaft, adit and extensive underground workings."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.54155,
+        "longitude": -106.29716
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-FAIRPLAY-MINE",
+      "name": "Fairplay Mine",
+      "location": "Monarch area",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Fairplay is a distinct Chaffee County lead-silver mine and past-producer locality."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.5556,
+        "longitude": -106.3117
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-FRACTION-MINE",
+      "name": "Fraction Mine (Chaffee County)",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Fraction is a documented Monarch-district lead-silver mine preserved on the Garfield USGS quadrangle."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.5749971,
+        "longitude": -106.2853008
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-FUTURITY-MINE",
+      "name": "Futurity Mine",
+      "location": "Futurity–Bassam Ridge area",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Futurity is a documented Chaffee County copper-gold-silver mine associated with the Futurity–Bassam Ridge mining landscape. USGS-derived topographic locality data provides a stable mine-level Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "Early 1900s",
+          "text": "State mining records document Futurity as a copper-producing property with gold and silver context."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.7499964,
+        "longitude": -106.1672408
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-GARFIELD-MINE",
+      "name": "Garfield Mine",
+      "location": "Taylor Gulch / Monarch district",
+      "county": "Chaffee County",
+      "category": "Adit / Mine",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Garfield Mine is a documented Taylor Gulch lead-zinc property with historic adit workings."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.561108,
+        "longitude": -106.28669
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-GLADSTONE-MINE",
+      "name": "Gladstone Mine",
+      "location": "Mount Yale quadrangle / Chaffee County",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Gladstone Mine is a distinct Chaffee County silver-lead past producer preserved in federal and Colorado mining records. The USGS-mapped mine locality provides a defensible Basic Scan anchor without asserting present portal condition."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Federal mineral-resource records and Colorado mining reports preserve Gladstone as a named Chaffee County underground mine."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.81194,
+        "longitude": -106.33669
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-GOLD-BUG-TURRET",
+      "name": "Gold Bug Mine (Turret District)",
+      "location": "Turret district",
+      "county": "Chaffee County",
+      "category": "Shaft / Mine",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Gold Bug is a documented Turret-district gold-silver mine with a deep shaft and substantial historic dump."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.64028,
+        "longitude": -105.97667
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-GOLDEN-AGE-MINE",
+      "name": "Golden Age Mine",
+      "location": "Monarch Mining District",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Golden Age is a documented Monarch-district silver-lead mine with state and federal source support. USGS-derived topographic mapping provides a stable Basic Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Colorado Geological Survey and USGS records preserve Golden Age as a named Monarch-district producer."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.5716636,
+        "longitude": -106.2978012
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-GOLDEN-CACHE-MINE",
+      "name": "Golden Cache Mine (Chaffee County)",
+      "location": "Granite district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Golden Cache is a documented Granite-district gold mine preserved as a named Chaffee County mine locality."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 39.04999,
+        "longitude": -106.26724
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-GOLDEN-WONDER-MINE",
+      "name": "Golden Wonder Mine",
+      "location": "Turret district",
+      "county": "Chaffee County",
+      "category": "Incline Shaft / Mine",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Golden Wonder is a documented Turret-district gold mine with operating-era evidence and inclined workings."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.63889,
+        "longitude": -105.9689
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-GRAND-VIEW",
+      "name": "Grand View Mine",
+      "location": "Cleora Mining District",
+      "county": "Chaffee County",
+      "category": "Mine / Adit Complex",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Grand View is a documented Cleora-district mine complex developed by multiple adits and a shaft. The federal mine-complex locality provides a defensible Basic Scan anchor without asserting a currently open portal."
+      ],
+      "timeline": [
+        {
+          "year": "1890–1905",
+          "text": "Federal records identify Grand View as a small copper-gold-tungsten operation discovered and first produced in 1890, with last recorded production in 1905."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.5172,
+        "longitude": -105.9391
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-GREAT-MONARCH-MARSHALL-TUNNEL",
+      "name": "Great Monarch and Marshall Tunnel",
+      "location": "Monarch Mining District",
+      "county": "Chaffee County",
+      "category": "Tunnel / Mine Complex",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Great Monarch is one of the foundational 1878 discoveries of the Monarch district. The mapped Great Monarch mine feature provides a defensible parent Scan anchor while the Marshall Tunnel remains a related component."
+      ],
+      "timeline": [
+        {
+          "year": "1878",
+          "text": "The Great Monarch claim was discovered during the founding period of the Monarch mining district."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.54083,
+        "longitude": -106.30417
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-HERSKBERGER-TUNNEL",
+      "name": "Herskberger Tunnel",
+      "location": "Turret district",
+      "county": "Chaffee County",
+      "category": "Tunnel / Mine",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Herskberger Tunnel is a named Turret-district historic gold mine preserved on USGS-derived mapping."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.63333,
+        "longitude": -106.00029
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-HOLY-WATER-MINE",
+      "name": "Holy Water Mine",
+      "location": "Monarch area",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Holy Water, also mapped as Holywater Mine, is a named Chaffee County gold-silver past-producer locality."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.80944,
+        "longitude": -106.35891
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-INDIANAPOLIS-MINE",
+      "name": "Indianapolis Mine",
+      "location": "Taylor Gulch / Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Indianapolis is a documented Taylor Gulch gold mine with a short adit and shallow winze."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.57575,
+        "longitude": -106.29103
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-IRON-CHEST-GOLD-MINE",
+      "name": "Iron Chest Mine (Gold Property, Chaffee County)",
+      "location": "Chalk Creek district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "This Iron Chest record is the gold-polymetallic Chalk Creek property, distinct from other same-name Chaffee occurrences. USGS production history and mapped mine locality support a defensible Basic Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "1875–1915",
+          "text": "USGS records most early production before 1900 and documented production episodes in 1902 and 1913–1915."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.6675,
+        "longitude": -106.3506
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-IRON-DUKE-MINE",
+      "name": "Iron Duke Mine (Chaffee County)",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Iron Duke is a documented Monarch-district mine preserved on federal/topographic mapping."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.576664,
+        "longitude": -106.293079
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-JEWELL-TUNNEL",
+      "name": "Jewell Tunnel",
+      "location": "Monarch Mining District",
+      "county": "Chaffee County",
+      "category": "Tunnel / Mine",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Jewell Tunnel is a documented Monarch-area zinc and polymetallic mine with early-20th-century production and later federal exploration. Mapped locality evidence provides a stable Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "1913–1945",
+          "text": "State and federal records document production, development, examination, and rehabilitation work at Jewell Tunnel."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.57278,
+        "longitude": -106.29167
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-LIENHART-MINE",
+      "name": "Lienhart Mine",
+      "location": "Mount Harvard / Morris Creek area",
+      "county": "Chaffee County",
+      "category": "Mine / Adit",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Lienhart is a well-documented polymetallic mine with a dedicated Colorado Geological Survey site report and identified adit, waste-rock, and tailings components. USGS place mapping provides a stable parent anchor."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "The Lienhart property, also known by several Mount Harvard-related names, was developed by an adit and associated surface mine features."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.93777,
+        "longitude": -106.25474
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-LITTLE-WONDER-MINE",
+      "name": "Little Wonder Mine",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Little Wonder is a documented Monarch-area lead mine preserved as a named USGS mine feature."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.536941,
+        "longitude": -106.315302
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-MADONNA-MINE",
+      "name": "Madonna Mine",
+      "location": "Monarch Mining District",
+      "county": "Chaffee County",
+      "category": "Adit / Mine Complex",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Madonna is one of the principal historic mines of the Monarch district, with extensive multi-level workings and major zinc/lead-silver production. USGS topographic locality data provides a stable parent-mine Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "1878–1930",
+          "text": "Madonna was discovered in 1878 and became one of the Monarch district's principal long-running producers."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.529441,
+        "longitude": -106.307246
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-MOSS-FLOWER-HALF-MOON",
+      "name": "Moss Flower (Half Moon Mine)",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Moss Flower is a named Chaffee County mine preserved on the Garfield USGS quadrangle; the Half Moon relationship remains retained as an associated property name rather than invented history."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.5711077,
+        "longitude": -106.3286354
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-NEW-YORK-MINE",
+      "name": "New York Mine",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "New York is a documented Monarch-district gold mine with multiple federal Mine Map Repository references."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.57528,
+        "longitude": -106.28917
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-OHIO-MORNINGSTAR",
+      "name": "Ohio and Morningstar Mine",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Ohio and Morningstar is a named Chaffee County gold-silver mine preserved on USGS topographic mapping."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.549997,
+        "longitude": -106.317246
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-PAYMASTER-MINE",
+      "name": "Paymaster Mine (Chaffee County)",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Paymaster is a documented Monarch-district lead-silver mine, distinct from same-name mines elsewhere in Colorado."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.53306,
+        "longitude": -106.305
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-PRIDE-OF-THE-WEST",
+      "name": "Pride of the West Mine (Chaffee County)",
+      "location": "Saint Elmo area",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Pride of the West is a documented Chaffee County gold-silver mine preserved on USGS topographic mapping."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.6263853,
+        "longitude": -106.3333574
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-SEDALIA-MINE",
+      "name": "Sedalia Mine",
+      "location": "Sedalia district",
+      "county": "Chaffee County",
+      "category": "Mine / Adit Complex",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Sedalia is a major historic copper-zinc mine with documented multi-adit development and a stable mapped mine locality."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.6036,
+        "longitude": -106.0306
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-SHAMROCK-MINE",
+      "name": "Shamrock Mine (Chaffee County)",
+      "location": "Monarch Mining District",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Shamrock is a documented Monarch-district gold mine with copper, lead, and silver mineralization. Its mapped mine locality provides a defensible Basic Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "USGS and Colorado Geological Survey sources document Shamrock as a Monarch-district past producer."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.56667,
+        "longitude": -106.28667
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-SILENT-FRIEND",
+      "name": "Silent Friend Mine (Chaffee County)",
+      "location": "Monarch district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Silent Friend is a documented Chaffee County Monarch-district mine, distinct from the Lake County namesake."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.5225,
+        "longitude": -106.3153
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-SILVER-KING-MINE",
+      "name": "Silver King Mine (Chaffee County)",
+      "location": "Winfield / Clear Creek area",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "This Silver King is the Chaffee County lead mine, distinct from same-name mines elsewhere in Colorado. Mapped locality and federal mine-map records support a stable Basic Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Federal mine records preserve Silver King as a Chaffee County underground lead past producer."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.91749,
+        "longitude": -106.36364
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-SNOWFLAKE-DEPOSIT",
+      "name": "Snowflake Deposit",
+      "location": "Browns Canyon Mining District",
+      "county": "Chaffee County",
+      "category": "Adit / Incline",
+      "componentType": "Adit / Portal",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Snowflake is a federally documented Browns Canyon fluorspar deposit developed by an adit and incline. USGS deposit mapping provides a stable Basic Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "Historic fluorspar era",
+          "text": "USGS Professional Paper 626 documented Snowflake and its adit/incline workings within the Browns Canyon fluorspar district."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.63861,
+        "longitude": -106.07639
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-STOCKTON-MINE",
+      "name": "Stockton Mine",
+      "location": "Cleora district",
+      "county": "Chaffee County",
+      "category": "Mine / Shaft / Adit Complex",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Stockton is a significant Cleora-district copper-tungsten mine with documented shaft and adit development."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.52305,
+        "longitude": -105.96529
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-THIRTY-SIX-THIRTY-MINE",
+      "name": "Thirty-Six-Thirty Mine",
+      "location": "Garfield quadrangle",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Thirty-Six-Thirty is a named Chaffee County lead-silver mine preserved in state and federal mine records. USGS topographic place mapping provides a stable Basic Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Colorado Geological Survey and federal records preserve Thirty-Six-Thirty as an underground lead-silver producer."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.6233299,
+        "longitude": -106.3150236
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-TILDEN-MINE",
+      "name": "Tilden Mine",
+      "location": "Chalk Creek area",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Tilden is a documented Chaffee County gold mine with operating-era evidence and a stable mapped mine locality."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.66666,
+        "longitude": -106.26724
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-TOMMY-EVANS-LODE",
+      "name": "Tommy Evans Lode (Survey No. 14303)",
+      "location": "Winfield district",
+      "county": "Chaffee County",
+      "category": "Underground Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "Tommy Evans Lode is a federally recorded silver occurrence in the Winfield district identified by Mineral Survey No. 14303."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.98333,
+        "longitude": -106.43333
+      }
+    },
+    {
+      "id": "CO-CHAFFEE-WHITE-KING-DEPOSIT",
+      "name": "White King Deposit",
+      "location": "Browns Canyon Mining District",
+      "county": "Chaffee County",
+      "category": "Mine / Adit / Shaft",
+      "componentType": "Shaft / Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "White King is a documented Browns Canyon fluorspar producer developed mainly by a long adit and shallow shaft. Federal deposit mapping supplies a stable parent-level Scan anchor."
+      ],
+      "timeline": [
+        {
+          "year": "1929–1944",
+          "text": "White King produced fluorspar during interwar and World War II-era operating periods documented by USGS."
+        }
+      ],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.64861,
+        "longitude": -106.07722
+      }
+    }
+  ]
+}
