@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "colorado-bent",
+  "county": "Bent County",
+  "state": "Colorado",
+  "version": "3",
+  "generatedAt": "2026-09-07T20:24:27.185Z",
+  "sites": [
+    {
+      "id": "CO-BENT-FORT-LYON-HISTORIC-COMPLEX",
+      "name": "Fort Lyon Historic Military & Veterans Complex",
+      "location": "Fort Lyon",
+      "county": "Bent County",
+      "category": "Military Fort / Veterans Hospital Historic Complex",
+      "componentType": "Military Site",
+      "appReady": false,
+      "betaVisible": false,
+      "overview": [
+        "A surviving historic military and institutional campus at Fort Lyon."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "coordinates": {
+        "latitude": 38.077222,
+        "longitude": -103.132778
+      }
+    }
+  ]
+}
