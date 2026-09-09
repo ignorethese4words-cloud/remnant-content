@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "16",
-  "generatedAt": "2026-09-09T12:29:25.472528Z",
+  "version": "17",
+  "generatedAt": "2026-09-09T12:30:53.957689Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -97,12 +97,27 @@
       "componentType": "Mine",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-08T07:31:00.000Z",
       "overview": [
-        "Historic Gold Hill mine documented in nineteenth-century mining records and mapped locality records."
+        "Alamakee was one of the original mining discoveries at Gold Hill and is documented in federal mining history and historic Boulder-area archival records."
       ],
-      "timeline": [],
-      "moreHistory": [],
+      "timeline": [
+        {
+          "year": "Early Gold Hill mining era",
+          "text": "Federal mining history identifies Alamakee among the original discoveries at Gold Hill."
+        },
+        {
+          "year": "1895",
+          "text": "A surviving Boulder Historical Society/Carnegie Library photograph identifies the Alamakee Mine in the Gold Hill landscape."
+        }
+      ],
+      "moreHistory": [
+        "USGS mining history documents the Alamakee name at Gold Hill, while mapped locality evidence provides a stable mine-level identification anchor near 40.06611, -105.40472.",
+        "The known 1895 archival photograph is retained as research evidence, but its item-level reuse basis is not sufficiently clear for Remnant packaging. It is therefore not shipped in the app."
+      ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 40.06611,
         "longitude": -105.40472
@@ -117,12 +132,27 @@
       "componentType": "Adit / Portal",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-08T07:31:00.000Z",
       "overview": [
-        "Historic Ward-district tunnel locality preserved in federal/MRDS-derived mining records."
+        "Alaska Tunnel is a named historic tunnel locality in Boulder County's Ward Mining District, preserved in federal/MRDS-derived mineral locality records."
       ],
-      "timeline": [],
-      "moreHistory": [],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "The Alaska Tunnel was developed within the Ward district's dense network of underground mine and tunnel workings."
+        },
+        {
+          "year": "Modern mapping",
+          "text": "Mineral-locality mapping preserves Alaska Tunnel near the Tarbox/Smoky Gold United workings cluster."
+        }
+      ],
+      "moreHistory": [
+        "The mapped locality near 40.07333, -105.50667 provides a defensible historic tunnel-level Scan anchor without claiming that Remnant has field-surveyed a surviving portal opening.",
+        "A focused exact-site media search did not verify a publishable Alaska Tunnel photograph; nearby Ward-district imagery was rejected rather than assigned to the wrong tunnel."
+      ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 40.07333,
         "longitude": -105.50667
