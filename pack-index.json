@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-07T20:36:13.018Z",
-  "generatedAt": "2026-09-07T20:36:13.018Z",
+  "contentVersion": "2026-09-09T12:23:51.640664Z",
+  "generatedAt": "2026-09-09T12:23:51.640664Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -9,21 +9,21 @@
       "id": "colorado-bent",
       "county": "Bent County",
       "state": "Colorado",
-      "version": "3",
+      "version": "4",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-bent.json",
-      "exploreSiteCount": 0,
-      "idOnlySiteCount": 1,
+      "exploreSiteCount": 1,
+      "idOnlySiteCount": 0,
       "siteCount": 1
     },
     {
       "id": "colorado-boulder",
       "county": "Boulder County",
       "state": "Colorado",
-      "version": "14",
+      "version": "15",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
-      "exploreSiteCount": 0,
-      "idOnlySiteCount": 33,
-      "siteCount": 33
+      "exploreSiteCount": 3,
+      "idOnlySiteCount": 31,
+      "siteCount": 34
     },
     {
       "id": "colorado-broomfield",

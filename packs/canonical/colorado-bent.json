@@ -3,8 +3,8 @@
   "id": "colorado-bent",
   "county": "Bent County",
   "state": "Colorado",
-  "version": "3",
-  "generatedAt": "2026-09-07T20:24:27.185Z",
+  "version": "4",
+  "generatedAt": "2026-09-09T12:23:51.640664Z",
   "sites": [
     {
       "id": "CO-BENT-FORT-LYON-HISTORIC-COMPLEX",
@@ -13,14 +13,36 @@
       "county": "Bent County",
       "category": "Military Fort / Veterans Hospital Historic Complex",
       "componentType": "Military Site",
-      "appReady": false,
-      "betaVisible": false,
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-08T02:32:00.000Z",
       "overview": [
-        "A surviving historic military and institutional campus at Fort Lyon."
+        "Fort Lyon is a historic military and institutional campus in Bent County, established as a U.S. Army post in the nineteenth century and later adapted for medical and veterans-related uses."
       ],
-      "timeline": [],
-      "moreHistory": [],
-      "displayImages": [],
+      "timeline": [
+        "1867 — Fort Lyon was established at this location as a U.S. Army post.",
+        "1906 — The site entered a new institutional era after its military use.",
+        "1932 — Development continued during the site's veterans and medical period."
+      ],
+      "moreHistory": [
+        "National Park Service documentation identifies Fort Lyon as a historic district and confirms the site's long military and institutional history."
+      ],
+      "displayImages": [
+        {
+          "id": "fort-lyon-highsmith-38927",
+          "title": "Buildings at New Fort Lyon",
+          "label": "Documentary Photograph",
+          "source": {
+            "uri": "https://cdn.loc.gov/service/pnp/highsm/38900/38927v.jpg"
+          },
+          "remoteUri": "https://cdn.loc.gov/service/pnp/highsm/38900/38927v.jpg",
+          "sourcePage": "https://www.loc.gov/item/2017688819/",
+          "sourceNote": "Carol M. Highsmith photograph, 2016. Library of Congress, Prints and Photographs Division, LC-DIG-highsm-38927.",
+          "rights": "Library of Congress rights advisory: No known restrictions on publication.",
+          "mediaStatus": "PACKAGED"
+        }
+      ],
+      "mediaSearchStatus": "FOUND_USABLE_MEDIA",
       "coordinates": {
         "latitude": 38.077222,
         "longitude": -103.132778
