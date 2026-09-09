@@ -1,0 +1,88 @@
+name: Promote next verified ID-only sites
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/promote-next-five-idonly.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Promote Ajax and Albion only
+        run: |
+          python - <<'PY'
+          import json, datetime
+          pack_path = 'packs/canonical/colorado-boulder.json'
+          idx_path = 'pack-index.json'
+          pack = json.load(open(pack_path, encoding='utf-8'))
+          sites = pack.get('sites', [])
+          by_id = {s.get('id'): s for s in sites if s.get('id')}
+
+          incoming = [
+            {
+              'id':'CO-BOULDER-AJAX-COAL-MINE','name':'Ajax Mine','location':'Louisville / Harney-Lastoka area','county':'Boulder County','category':'Historic Mine','componentType':'Mine','appReady':False,'betaVisible':False,'contentUpdatedAt':'2026-09-08T07:31:00.000Z',
+              'overview':['Ajax Mine is a documented inactive coal mine in Boulder County\'s Louisville-area coal field. Boulder County historical material retains the Ajax name in the Harney-Lastoka mining landscape, while mapped place data provides a stable mine-level location for identification.'],
+              'timeline':[{'year':'1890','text':'Boulder County\'s retained Harney-Lastoka historical research identifies the Ajax coal mine as established in 1890.'},{'year':'Historic coal-mining era','text':'The mine formed part of the Louisville-area coal landscape that shaped local settlement and employment.'}],
+              'moreHistory':['A mapped mine point at approximately 39.977763, -105.136652 is retained as a defensible historic mine-level Scan anchor. Remnant does not represent that point as a field-surveyed surviving shaft collar.','A focused media search did not locate a reusable exact-site Ajax photograph; similarly named Ajax mines elsewhere in Colorado were rejected as wrong-site material.'],
+              'displayImages':[],'mediaNotice':'Historic image not available','mediaSearchStatus':'SEARCH_EXHAUSTED','coordinates':{'latitude':39.977763,'longitude':-105.136652}
+            },
+            {
+              'id':'CO-BOULDER-ALBION-MINE','name':'Albion Mine','location':'Lake Albion / Snowy Range Mining District','county':'Boulder County','category':'Historic Mine','componentType':'Mine','appReady':False,'betaVisible':False,'contentUpdatedAt':'2026-09-08T12:24:00.000Z',
+              'overview':['Albion Mine is a documented historic mine locality near Lake Albion in Boulder County\'s Snowy Range Mining District.','Historic Boulder County sources place Camp Albion at the center of the Snowy Range district, while retained mineral-locality mapping provides a defensible mine-level identification point for Albion without claiming that a surviving opening has been field-surveyed.'],
+              'timeline':[{'year':'1861','text':'The Snowy Range Mining District was organized during Boulder County\'s early mining period; later sources also called it the Albion Mining District after the nearby camp.'},{'year':'1864','text':'A Denver Public Library mining-place index records the Albion Mine as established by 1864.'},{'year':'Late 1800s','text':'Camp Albion developed as a small mining center near timberline and became the focal settlement of the Snowy Range district.'}],
+              'moreHistory':['Boulder historical collections describe Camp Albion as a small western Boulder County mining center associated with the Snowy Range Mining District and preserve photographs of the camp and its ore-milling landscape.','A mapped Albion mineral locality at approximately 40.05000, -105.58528 is retained as the Basic Scan anchor. Remnant treats this as a defensible historic mine-level locality point, not as a claim that an open shaft, adit, or exact surviving collar has been field-verified.','Known archival Camp Albion photographs document the surrounding mining settlement rather than the exact Albion Mine component, and their item-level reuse terms do not provide a sufficiently clear basis for packaging them as the mine\'s app image.'],
+              'displayImages':[],'mediaNotice':'Historic image not available','mediaSearchStatus':'SEARCH_EXHAUSTED','coordinates':{'latitude':40.05,'longitude':-105.58528}
+            }
+          ]
+
+          added = 0
+          for site in incoming:
+            if site['id'] not in by_id:
+              sites.append(site)
+              by_id[site['id']] = site
+              added += 1
+
+          if added != 2:
+            raise SystemExit(f'Expected to add exactly 2 sites, added {added}')
+
+          now = datetime.datetime.now(datetime.timezone.utc).isoformat().replace('+00:00','Z')
+          pack['sites'] = sites
+          pack['generatedAt'] = now
+          pack['version'] = str(int(pack.get('version','0')) + 1)
+          with open(pack_path,'w',encoding='utf-8') as f:
+            json.dump(pack,f,indent=2); f.write('\n')
+
+          idx = json.load(open(idx_path, encoding='utf-8'))
+          target = next(p for p in idx['packs'] if p.get('id') == 'colorado-boulder')
+          explore = [s for s in sites if s.get('appReady') and s.get('betaVisible')]
+          idonly = [s for s in sites if isinstance(s.get('coordinates'),dict) and not (s.get('appReady') and s.get('betaVisible'))]
+          target['version'] = pack['version']
+          target['exploreSiteCount'] = len(explore)
+          target['idOnlySiteCount'] = len(idonly)
+          target['siteCount'] = len(explore) + len(idonly)
+          idx['contentVersion'] = now
+          idx['generatedAt'] = now
+          with open(idx_path,'w',encoding='utf-8') as f:
+            json.dump(idx,f,indent=2); f.write('\n')
+
+          assert len([s for s in sites if s.get('id') == 'CO-BOULDER-AJAX-COAL-MINE']) == 1
+          assert len([s for s in sites if s.get('id') == 'CO-BOULDER-ALBION-MINE']) == 1
+          assert target['exploreSiteCount'] == 3
+          assert target['idOnlySiteCount'] == 33
+          assert target['siteCount'] == 36
+          print('Promoted Ajax and Albion as ID-only; Boulder 3 Explore / 33 ID-only / 36 total')
+          PY
+      - name: Commit delivery update
+        run: |
+          git config user.name 'Remnant Content Promoter'
+          git config user.email 'actions@users.noreply.github.com'
+          git add packs/canonical/colorado-boulder.json pack-index.json
+          git commit -m 'Promote Ajax and Albion ID-only sites'
+          git push
