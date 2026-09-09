@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "15",
-  "generatedAt": "2026-09-09T12:23:51.640664Z",
+  "version": "16",
+  "generatedAt": "2026-09-09T12:29:25.472528Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -771,6 +771,82 @@
       "coordinates": {
         "latitude": 39.9819296,
         "longitude": -105.136652
+      }
+    },
+    {
+      "id": "CO-BOULDER-AJAX-COAL-MINE",
+      "name": "Ajax Mine",
+      "location": "Louisville / Harney-Lastoka area",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-08T07:31:00.000Z",
+      "overview": [
+        "Ajax Mine is a documented inactive coal mine in Boulder County's Louisville-area coal field. Boulder County historical material retains the Ajax name in the Harney-Lastoka mining landscape, while mapped place data provides a stable mine-level location for identification."
+      ],
+      "timeline": [
+        {
+          "year": "1890",
+          "text": "Boulder County's retained Harney-Lastoka historical research identifies the Ajax coal mine as established in 1890."
+        },
+        {
+          "year": "Historic coal-mining era",
+          "text": "The mine formed part of the Louisville-area coal landscape that shaped local settlement and employment."
+        }
+      ],
+      "moreHistory": [
+        "A mapped mine point at approximately 39.977763, -105.136652 is retained as a defensible historic mine-level Scan anchor. Remnant does not represent that point as a field-surveyed surviving shaft collar.",
+        "A focused media search did not locate a reusable exact-site Ajax photograph; similarly named Ajax mines elsewhere in Colorado were rejected as wrong-site material."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.977763,
+        "longitude": -105.136652
+      }
+    },
+    {
+      "id": "CO-BOULDER-ALBION-MINE",
+      "name": "Albion Mine",
+      "location": "Lake Albion / Snowy Range Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-08T12:24:00.000Z",
+      "overview": [
+        "Albion Mine is a documented historic mine locality near Lake Albion in Boulder County's Snowy Range Mining District.",
+        "Historic Boulder County sources place Camp Albion at the center of the Snowy Range district, while retained mineral-locality mapping provides a defensible mine-level identification point for Albion without claiming that a surviving opening has been field-surveyed."
+      ],
+      "timeline": [
+        {
+          "year": "1861",
+          "text": "The Snowy Range Mining District was organized during Boulder County's early mining period; later sources also called it the Albion Mining District after the nearby camp."
+        },
+        {
+          "year": "1864",
+          "text": "A Denver Public Library mining-place index records the Albion Mine as established by 1864."
+        },
+        {
+          "year": "Late 1800s",
+          "text": "Camp Albion developed as a small mining center near timberline and became the focal settlement of the Snowy Range district."
+        }
+      ],
+      "moreHistory": [
+        "Boulder historical collections describe Camp Albion as a small western Boulder County mining center associated with the Snowy Range Mining District and preserve photographs of the camp and its ore-milling landscape.",
+        "A mapped Albion mineral locality at approximately 40.05000, -105.58528 is retained as the Basic Scan anchor. Remnant treats this as a defensible historic mine-level locality point, not as a claim that an open shaft, adit, or exact surviving collar has been field-verified.",
+        "Known archival Camp Albion photographs document the surrounding mining settlement rather than the exact Albion Mine component, and their item-level reuse terms do not provide a sufficiently clear basis for packaging them as the mine's app image."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 40.05,
+        "longitude": -105.58528
       }
     }
   ]
