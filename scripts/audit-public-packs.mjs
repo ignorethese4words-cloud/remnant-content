@@ -6,6 +6,7 @@ const PACK_DIR = path.join(ROOT, 'packs', 'canonical');
 const MANIFEST_PATH = path.join(ROOT, 'pack-index.json');
 const OUT_DIR = path.join(ROOT, 'audit');
 const OUT_PATH = path.join(OUT_DIR, 'public-pack-audit.json');
+const QUEUE_TSV_PATH = path.join(OUT_DIR, 'public-pack-queue.tsv');
 
 const internalTextRe = /\b(first deep pass|queued for app update|package verification|work queue|worker\s*[12]?|research queue|staging|debug|G(?:10|[1-9])\s+(?:PASS|INCOMPLETE|BLOCKED|package|gate))\b/i;
 const stableIdRe = /^CO-[A-Z0-9-]+$/;
@@ -135,5 +136,24 @@ const report = {
 };
 fs.mkdirSync(OUT_DIR, { recursive: true });
 fs.writeFileSync(OUT_PATH, JSON.stringify(report, null, 2) + '\n');
+
+const bySite = new Map();
+for (const f of findings) {
+  if (!f.siteId) continue;
+  const row = bySite.get(f.siteId) || { siteId: f.siteId, siteName: f.siteName || '', county: f.county || '', codes: new Set(), severities: new Set() };
+  if (!row.siteName && f.siteName) row.siteName = f.siteName;
+  if (!row.county && f.county) row.county = f.county;
+  row.codes.add(f.code);
+  row.severities.add(f.severity);
+  bySite.set(f.siteId, row);
+}
+const tsvLines = ['Site ID\tLocation Name\tCounty\tIssue Codes\tPriority'];
+for (const row of [...bySite.values()].sort((a,b) => a.county.localeCompare(b.county) || a.siteName.localeCompare(b.siteName) || a.siteId.localeCompare(b.siteId))) {
+  const priority = row.severities.has('CRITICAL') ? 'HIGH' : row.severities.has('HIGH') ? 'HIGH' : 'MEDIUM';
+  tsvLines.push([row.siteId, row.siteName.replace(/[\t\r\n]+/g,' '), row.county.replace(/ County$/i,''), [...row.codes].sort().join(','), priority].join('\t'));
+}
+fs.writeFileSync(QUEUE_TSV_PATH, tsvLines.join('\n') + '\n');
+
 console.log(`PUBLIC PACK AUDIT — ${report.packsChecked} packs / ${report.publishedSitesChecked} sites / ${report.affectedPublishedSites} affected sites / ${findings.length} findings`);
 for (const [sev,count] of Object.entries(report.findingCounts)) console.log(`${sev}: ${count}`);
+console.log(`QUEUE EXPORT — ${bySite.size} unique published Site IDs`);
