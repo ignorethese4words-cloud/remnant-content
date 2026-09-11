@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "17",
-  "generatedAt": "2026-09-09T12:30:53.957689Z",
+  "version": "18",
+  "generatedAt": "2026-09-11T21:57:31.454Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -878,6 +878,53 @@
         "latitude": 40.05,
         "longitude": -105.58528
       }
+    },
+    {
+      "id": "CO-BOULDER-CLYDE-MINE",
+      "name": "Clyde Mine",
+      "location": "Nederland Mining District",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.98333,
+        "longitude": -105.5
+      },
+      "overview": [
+        "Clyde Mine is a documented historic tungsten mine northeast of Nederland in Boulder County. Federal mineral-exploration records identify it as a distinct named property, while Colorado Geological Survey mapping documents substantial underground workings at the site."
+      ],
+      "timeline": [],
+      "moreHistory": [
+        "Colorado Geological Survey mapping places the Clyde Mine in the northwest quarter of Section 7, Township 1 South, Range 72 West, about 1.5 miles northeast of Nederland, and records overlapping shafts with seven levels and a deep winze.",
+        "USGS Data Series 1004 lists Clyde Mine in Boulder County under DMEA docket 4038 as a tungsten property, preserving the mine's identity in federal mineral-exploration records."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "sourceReferences": [
+        {
+          "title": "Colorado Geological Survey MI-04",
+          "publisher": "Colorado Geological Survey",
+          "note": "Retained registry evidence places Clyde Mine in NW1/4 Sec. 7, T1S R72W about 1.5 miles northeast of Nederland and documents overlapping shafts with seven levels plus a deep winze."
+        },
+        {
+          "title": "USGS Data Series 1004 — Historical Files from Federal Government Mineral Exploration-Assistance Programs, 1950 to 1974",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/ds/1004/ds1004_alldockets.htm",
+          "note": "Lists Clyde Mine, Boulder County, Colorado, DMEA docket 4038, as a tungsten property."
+        },
+        {
+          "title": "Mindat — Clyde Mine, Boulder County, Colorado",
+          "publisher": "Mindat.org",
+          "url": "https://www.mindat.org/loc-109939.html",
+          "note": "Provides a locality coordinate near 39.98333, -105.50000 for the Clyde Mine in the Nederland Mining District."
+        }
+      ],
+      "contentUpdatedAt": "2026-09-11T17:48:25-06:00"
     }
   ]
 }
