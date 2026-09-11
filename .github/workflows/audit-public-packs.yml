@@ -1,0 +1,39 @@
+name: Audit Remnant Public Packs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'packs/canonical/**'
+      - 'pack-index.json'
+      - 'media/**'
+      - 'scripts/audit-public-packs.mjs'
+      - '.github/workflows/audit-public-packs.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Audit public county packs
+        run: node scripts/audit-public-packs.mjs
+      - name: Commit audit report
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add audit/public-pack-audit.json
+          if git diff --cached --quiet; then
+            echo 'Audit report unchanged.'
+          else
+            git commit -m 'Update public pack audit report'
+            git push
+          fi
