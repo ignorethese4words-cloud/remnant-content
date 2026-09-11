@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-09-11T14:59:38.850Z",
+  "generatedAt": "2026-09-11T15:00:30.111Z",
   "standard": "Remnant public delivery production standard — permanent Site ID, tier semantics, coordinates, visitor content, media/rights or SEARCH_EXHAUSTED, manifest consistency, no internal language",
   "packsChecked": 45,
   "publishedSitesChecked": 331,
   "affectedPublishedSites": 322,
   "findingCounts": {
-    "CRITICAL": 1,
     "HIGH": 527,
     "MEDIUM": 322
   },
@@ -696,15 +695,6 @@
     "CO-WELD-GREELEY-UP-DEPOT"
   ],
   "findings": [
-    {
-      "severity": "CRITICAL",
-      "code": "MANIFEST_COUNT_MISMATCH",
-      "siteId": null,
-      "siteName": null,
-      "county": "Pitkin County",
-      "file": "packs/canonical/colorado-pitkin.json",
-      "message": "Actual usable counts 2/1/1 do not match manifest 1/0/1."
-    },
     {
       "severity": "HIGH",
       "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
