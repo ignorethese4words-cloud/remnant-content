@@ -3,8 +3,8 @@
   "id": "colorado-pitkin",
   "county": "Pitkin County",
   "state": "Colorado",
-  "version": "3",
-  "generatedAt": "2026-09-07T20:24:27.192Z",
+  "version": "4",
+  "generatedAt": "2026-09-11T14:58:16.000Z",
   "sites": [
     {
       "id": "CO-Pitkin-REDSTONE-COKE-OVENS",
@@ -25,6 +25,60 @@
         "latitude": 39.18111,
         "longitude": -107.24139
       }
+    },
+    {
+      "id": "CO-PITKIN-ASHCROFT",
+      "name": "Ashcroft Ghost Town",
+      "location": "Castle Creek Valley near Aspen",
+      "county": "Pitkin County",
+      "category": "Ghost Town / Mining Camp",
+      "componentType": "Town / Camp",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-11T12:22:00.000Z",
+      "overview": [
+        "Ashcroft is a preserved historic silver-mining town in the upper Castle Creek Valley, about eleven miles from Aspen.",
+        "Founded during the 1880 silver rush, the settlement grew quickly as a mining and transportation hub before shallow ore deposits and the rise of Aspen led to a rapid decline."
+      ],
+      "timeline": [
+        {
+          "year": "1880",
+          "text": "Prospectors Charles B. Culver and W. F. Coxhead found silver in the upper Castle Creek Valley. The camp first called Castle Forks City developed into Ashcroft."
+        },
+        {
+          "year": "1883-1912",
+          "text": "Mining declined as shallow ore veins failed to sustain production. Residents increasingly moved to Aspen, and by 1912 fewer than 50 people remained."
+        },
+        {
+          "year": "1936-1942",
+          "text": "The Highland Bavarian Lodge ski project incorporated Ashcroft, and during World War II the U.S. Army's 10th Mountain Division trained nearby."
+        },
+        {
+          "year": "1974-present",
+          "text": "Aspen Historical Society began stewarding the townsite under U.S. Forest Service permit. Restored and relocated historic structures, trails, interpretation, and surviving foundations preserve the site for visitors."
+        }
+      ],
+      "moreHistory": [
+        "Aspen Historical Society identifies Ashcroft as an 1880s mining town and transportation junction at the headwaters of Castle Creek. Its surviving landscape includes restored and relocated log buildings, the original post office building in its original location, visible former building foundations, and other remnants of the settlement.",
+        "The town's boom was brief. Ashcroft's mines closed after ore veins proved to be shallow surface deposits, and many residents moved to Aspen, sometimes taking cabins with them.",
+        "For Remnant identification, the townsite destination point linked by Aspen Historical Society at approximately 39.0544504, -106.8000586 is used as the defensible Scan anchor for the historic townsite. This is a townsite-level anchor, not a claim for any single surviving building."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.0544504,
+        "longitude": -106.8000586
+      },
+      "sourceReferences": [
+        {
+          "title": "Ashcroft Ghost Town",
+          "publisher": "Aspen Historical Society",
+          "sourcePage": "https://aspenhistory.org/ashcroft-ghost-town/",
+          "note": "Provides the townsite history, surviving/restored structures, current stewardship, location, and the official directions link used for the townsite Scan anchor."
+        }
+      ]
     }
   ]
 }
