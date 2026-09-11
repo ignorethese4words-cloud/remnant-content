@@ -1,0 +1,48 @@
+name: Merge Remnant Public Site Patches
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'patches/pending/*.json'
+      - 'scripts/merge-site-patches.mjs'
+      - '.github/workflows/merge-site-patches.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: remnant-public-site-patch-merge
+  cancel-in-progress: false
+
+jobs:
+  merge-site-patches:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Merge and validate pending public site patches
+        run: node scripts/merge-site-patches.mjs
+
+      - name: Commit merged public county packs and manifest
+        shell: bash
+        run: |
+          if git diff --quiet -- packs/canonical pack-index.json patches/pending; then
+            echo "No merged public county-pack changes to commit."
+            exit 0
+          fi
+
+          git config user.name "remnant-publisher-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add packs/canonical pack-index.json patches/pending
+          git commit -m "Merge verified Remnant public site patch"
+          git push
