@@ -1,0 +1,55 @@
+{
+  "countySlug": "chaffee",
+  "site": {
+    "id": "CO-CHAFFEE-ALLARD-BERYLLIUM",
+    "name": "Allard Beryllium Mine",
+    "location": "Turret Mining District",
+    "county": "Chaffee County",
+    "category": "Historic Industrial Mineral Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T02:17:06Z",
+    "overview": [
+      "Allard Beryllium Mine is a documented historic beryllium-bearing pegmatite locality in Chaffee County's Turret Mining District, associated in mineral records with the Combination Prospect."
+    ],
+    "timeline": [
+      {
+        "year": "1940s",
+        "text": "Federal pegmatite investigations documented the Combination Prospect among Chaffee County beryl-bearing pegmatites examined during wartime and postwar strategic-mineral studies."
+      }
+    ],
+    "moreHistory": [
+      "U.S. Geological Survey Professional Paper 227 lists the Combination Prospect among the beryllium pegmatites examined in Chaffee County.",
+      "Modern mapped-place records preserve the Allard Beryllium Mine name near 38.63333, -105.98390, while mineral-locality records identify the nearby Combination Prospect as the Allard Beryllium Prospect in the Turret district."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 38.63333,
+      "longitude": -105.9839
+    },
+    "sourceReferences": [
+      {
+        "title": "Pegmatite investigations, 1942-45, in New England — U.S. Geological Survey Professional Paper 227",
+        "publisher": "U.S. Geological Survey",
+        "url": "https://pubs.usgs.gov/pp/0227/report.pdf",
+        "note": "Lists the Combination Prospect among Chaffee County beryllium pegmatites examined."
+      },
+      {
+        "title": "Combination Prospect (Allard Beryllium Prospect), Turret Mining District, Chaffee County, Colorado",
+        "publisher": "Mindat.org / Hudson Institute of Mineralogy",
+        "url": "https://www.mindat.org/loc-110701.html",
+        "note": "Links the Combination Prospect with the Allard Beryllium Prospect name in the Turret Mining District and records beryllium among the commodities."
+      },
+      {
+        "title": "Allard Beryllium Mine topographic locality",
+        "publisher": "USGS-derived mapped place data",
+        "url": "https://www.anyplaceamerica.com/directory/co/chaffee-county-08015/mines/allard-beryllium-mine-1745956/",
+        "note": "Preserves the Allard Beryllium Mine name and mapped coordinates at approximately 38.6333298, -105.9839014."
+      }
+    ]
+  }
+}
