@@ -1,0 +1,70 @@
+{
+  "countySlug": "clear-creek",
+  "site": {
+    "id": "CO-CLEAR-CREEK-AJAX-MICA",
+    "name": "Ajax Mica Mine",
+    "location": "Floyd Hill area, Clear Creek County",
+    "county": "Clear Creek County",
+    "state": "Colorado",
+    "category": "Mine / Industrial Mineral Mining",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-12T14:17:21-06:00",
+    "overview": [
+      "The Ajax Mica Mine, also documented as the Floyd Hill Mica Mine, is a historic mica operation in the Clear Creek pegmatite district. Federal records identify discovery in 1875 and first production in 1895; the property was initially worked for mica used in stove manufacture and was reopened during World War II-era demand in 1944."
+    ],
+    "timeline": [
+      {
+        "year": "1875",
+        "text": "USGS mineral records list discovery of the Ajax Mica Mine in 1875."
+      },
+      {
+        "year": "1895",
+        "text": "USGS records list the first production year as 1895."
+      },
+      {
+        "year": "1944",
+        "text": "The mine was reopened under Ralph D. Naslund and George Baer and produced scrap, mine-run, punch, and sheet mica."
+      },
+      {
+        "year": "1947",
+        "text": "A federal examination documented the Ajax workings and pegmatite geology on the north side of Clear Creek."
+      }
+    ],
+    "moreHistory": [
+      "USGS descriptions document a zoned pegmatite with quartz, albite, and muscovite, including concentrations of sheet mica. Published workings include a shallow open cut, an adit, and an inclined shaft; separate federal surveys recorded somewhat different measurements, so the records are best read as period descriptions rather than a single exact total.",
+      "A 1944 reopening produced 50,900 pounds of scrap mica, 22,927 pounds of mine-run mica, and 1,036 pounds of full-trimmed punch and sheet mica. The mine is also associated with beryl and other pegmatite minerals."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.74917,
+      "longitude": -105.44028
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS Professional Paper 227 — Pegmatite Investigations in Colorado, Wyoming, and Utah, 1942–44",
+        "url": "https://pubs.usgs.gov/pp/0227/report.pdf",
+        "note": "Pages 27–29 document Ajax/Floyd Hill mica history, workings, pegmatite geology, and 1944 production."
+      },
+      {
+        "title": "USGS Trace Elements Investigations Report 59",
+        "url": "https://pubs.usgs.gov/tei/059/report.pdf",
+        "note": "Federal field examination documents the Ajax mica mine location, workings, and pegmatite geology."
+      },
+      {
+        "title": "USGS MRDS 10013761 mirror — Ajax Mica Mine",
+        "url": "https://westernmininghistory.com/mine-detail/10013761/",
+        "note": "Preserves the USGS MRDS identity, Floyd Hill Mica Mine alias, coordinates, discovery/production years, ownership, workings, commodities, and source citations."
+      },
+      {
+        "title": "USGS Geologic Quadrangle Map GQ-1337 — Squaw Pass Quadrangle",
+        "url": "https://doi.org/10.3133/gq1337",
+        "note": "Authoritative geologic mapping source retained for the Ajax locality and regional setting."
+      }
+    ]
+  }
+}
