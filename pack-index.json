@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-12T17:07:20.710Z",
-  "generatedAt": "2026-09-12T17:07:20.710Z",
+  "contentVersion": "2026-09-12T17:08:55.284Z",
+  "generatedAt": "2026-09-12T17:08:55.284Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -159,11 +159,11 @@
       "id": "colorado-gilpin",
       "county": "Gilpin County",
       "state": "Colorado",
-      "version": "5",
+      "version": "6",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gilpin.json",
       "exploreSiteCount": 2,
-      "idOnlySiteCount": 0,
-      "siteCount": 2
+      "idOnlySiteCount": 1,
+      "siteCount": 12
     },
     {
       "id": "colorado-grand",
