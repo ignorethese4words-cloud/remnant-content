@@ -1,0 +1,71 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-CONGER-MINE",
+    "name": "Conger Mine",
+    "location": "Sherwood Creek / west of Mud Lake near Nederland",
+    "county": "Boulder County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-11T20:52:19.000Z",
+    "overview": [
+      "The Conger Mine was the leading tungsten mine of the Boulder County tungsten district near Nederland, developed after Samuel Conger and J. H. Wanamaker recognized valuable ferberite ore around 1900.",
+      "Federal mining records describe a 991-foot shaft and an extensive underground system, while modern Boulder County restoration work still identifies the historic mine site along Sherwood Creek west of Mud Lake."
+    ],
+    "timeline": [
+      {
+        "year": "1900",
+        "text": "Conger and Wanamaker recovered about 40 tons of high-grade tungsten ore from leased ground near Nederland, and Conger identified the vein that became the district's most productive."
+      },
+      {
+        "year": "1903 onward",
+        "text": "After the original lease ended, the property was expanded into a major tungsten operation as demand for tungsten steel increased."
+      },
+      {
+        "year": "1910s",
+        "text": "The mine grew into one of the most important producers in the district during the tungsten boom associated with high-speed steel and World War I demand."
+      },
+      {
+        "year": "By 1945",
+        "text": "USGS estimates indicate that the Conger Mine supplied roughly 20 to 25 percent of the Boulder County district's historic tungsten output."
+      },
+      {
+        "year": "2024-2025",
+        "text": "Boulder County and Colorado reclamation agencies advanced work along Sherwood Creek to address mine waste and restore the stream corridor at the historic Conger site."
+      }
+    ],
+    "moreHistory": [
+      "U.S. Geological Survey Professional Paper 245 describes the Conger as the most productive vein in the Boulder County tungsten district and documents the scale of the underground workings. The mine became a centerpiece of the Nederland-area tungsten industry that expanded rapidly after 1900.",
+      "The same federal history places the discovery in the period when tungsten steel was becoming important for high-speed cutting tools. Prices and demand rose sharply through the early twentieth century, culminating in the World War I boom.",
+      "The mine's legacy remains visible in the landscape. Boulder County identifies the Conger Mine site along Sherwood Creek, west of Mud Lake, where recent reclamation work has focused on mine waste and restoration of the creek corridor."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.97528,
+      "longitude": -105.52167
+    },
+    "sourceReferences": [
+      {
+        "title": "Geology and ore deposits of the Boulder County tungsten district, Colorado",
+        "publisher": "U.S. Geological Survey",
+        "type": "Professional Paper 245",
+        "url": "https://pubs.usgs.gov/pp/0245/report.pdf"
+      },
+      {
+        "title": "Conger Mine site along Sherwood Creek",
+        "publisher": "Boulder County Parks & Open Space",
+        "url": "https://bouldercounty.gov/wp-content/uploads/2024/09/posac-site-visit-9-20-2024.pdf"
+      },
+      {
+        "title": "Conger Mine MRDS-derived record",
+        "publisher": "Western Mining History",
+        "url": "https://westernmininghistory.com/mine-detail/10107649/"
+      }
+    ]
+  }
+}
