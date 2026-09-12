@@ -3,16 +3,21 @@
   "id": "colorado-eagle",
   "county": "Eagle County",
   "state": "Colorado",
-  "version": "6",
-  "generatedAt": "2026-09-07T20:36:12.964Z",
+  "version": "7",
+  "generatedAt": "2026-09-12T21:45:10.028Z",
   "sites": [
     {
       "id": "CO-EAGLE-CAMP-HALE",
       "name": "Camp Hale",
-      "location": "Eagle River Valley",
+      "location": "Eagle River Valley / Pando Valley",
       "county": "Eagle County",
+      "state": "Colorado",
       "category": "Military Site",
-      "componentType": "Training Camp / Historic District",
+      "componentType": "Town / Camp",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-12T21:45:00Z",
       "overview": [
         "Camp Hale was a purpose-built high-altitude U.S. Army training center created during World War II in the Pando Valley. It became the principal Colorado training ground for soldiers learning mountain and winter warfare.",
         "The site is most closely associated with the 10th Mountain Division. Soldiers trained in skiing, climbing, cold-weather survival, rough-terrain movement, weapons handling, and specialized equipment for mountain operations.",
@@ -25,27 +30,15 @@
         },
         {
           "year": "1943–1944",
-          "text": "Mountain troops trained intensively at Camp Hale. National Archives holdings include more than 1,000 photographs of 10th Mountain Division training activities at the camp."
-        },
-        {
-          "year": "1943–1944",
-          "text": "Training included skiing, climbing, cold-weather survival, movement over rough terrain, weapons deployment, and testing of specialized mountain equipment."
+          "text": "Mountain troops trained intensively at Camp Hale in skiing, climbing, cold-weather survival, rough-terrain movement, weapons deployment, and specialized mountain equipment."
         },
         {
           "year": "1945",
           "text": "The 10th Mountain Division fought in Italy after training in Colorado mountain conditions."
         },
         {
-          "year": "Postwar",
-          "text": "Veterans of the division became influential in the growth of American skiing and outdoor recreation."
-        },
-        {
           "year": "1959–1965",
           "text": "The Camp Hale area was later used for classified training of Tibetan resistance fighters."
-        },
-        {
-          "year": "1960s",
-          "text": "The military installation was deactivated and much of the land returned to Forest Service management."
         },
         {
           "year": "2022",
@@ -55,12 +48,35 @@
       "moreHistory": [
         "The high valley provided both room for a large military installation and immediate access to steep terrain, heavy snow, severe cold, and high elevations. Those conditions made the surrounding landscape part of the training system rather than merely a backdrop.",
         "The camp included barracks, mess halls, warehouses, administrative buildings, theaters, chapels, hospital facilities, stables and corrals, motor-pool areas, rail facilities, ranges, ski areas, roads, and bridges.",
-        "The Mountain and Winter Warfare Board tested tactics and equipment for operating in snow and mountains, including skis, sleds, snow vehicles, cold-weather clothing, and systems for moving weapons and supplies.",
-        "Camp Hale is important both as a military landscape and for its later influence on American skiing. The relationship between wartime training, mountain recreation, and postwar ski-industry development is a major part of the site’s historical significance.",
-        "The later Cold War use of the area adds another historical layer. Between 1959 and 1965, the CIA used Camp Hale for secret training connected with Tibetan resistance operations.",
         "Many original buildings are gone, but foundations, road patterns, rail traces, ranges, and the surrounding training terrain still help explain how the wartime installation functioned."
       ],
       "displayImages": [
+        {
+          "id": "hale-site-hero",
+          "title": "Camp Hale Memorial and mountain backdrop",
+          "label": "SITE • NATIONAL ARCHIVES",
+          "source": {
+            "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Top_of_the_Rockies_-_Mountain_Backdrop_at_Camp_Hale_Memorial_-_NARA_-_7722422.jpg"
+          },
+          "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Top_of_the_Rockies_-_Mountain_Backdrop_at_Camp_Hale_Memorial_-_NARA_-_7722422.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Top_of_the_Rockies_-_Mountain_Backdrop_at_Camp_Hale_Memorial_-_NARA_-_7722422.jpg",
+          "sourceNote": "Exact Camp Hale Memorial landscape at approximately 39.448 N, 106.334 W; photograph by Sally Pearce, National Archives Identifier 7722422.",
+          "rights": "Public domain — U.S. Department of Transportation federal work",
+          "mediaStatus": "PACKAGED"
+        },
+        {
+          "id": "hale-site-ruins",
+          "title": "Camp Hale field house ruins",
+          "label": "SITE • HISTORIC REMAINS",
+          "source": {
+            "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/DSCN3059_camphaleruins_e_600.jpg"
+          },
+          "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/DSCN3059_camphaleruins_e_600.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:DSCN3059_camphaleruins_e_600.jpg",
+          "sourceNote": "Concrete ruins of a field house at the Camp Hale site in Eagle County, photographed April 28, 2005 by Matthew Trump.",
+          "rights": "CC BY-SA 3.0 — Matthew Trump",
+          "mediaStatus": "PACKAGED"
+        },
         {
           "id": "hale-ski-sled",
           "title": "Mountain Troopers pulling a ski cargo sled",
@@ -69,7 +85,10 @@
             "uri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/eagle/camp-hale-ski-cargo-sled.jpg"
           },
           "remoteUri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/eagle/camp-hale-ski-cargo-sled.jpg",
-          "sourceNote": "National Archives, 337-TNG-199-2. Camp Hale / 10th Mountain Division training collection. Source retained for provenance; app delivery uses Remnant-controlled media copy."
+          "sourcePage": "https://unwritten-record.blogs.archives.gov/2023/01/10/camp-hale-colorado-training-the-10th-mountain-division-during-world-war-ii/",
+          "sourceNote": "National Archives Local ID 337-TNG-199-2; Camp Hale / 10th Mountain Division training collection.",
+          "rights": "National Archives federal record — no known copyright restrictions",
+          "mediaStatus": "PACKAGED"
         },
         {
           "id": "hale-rough-terrain",
@@ -79,7 +98,10 @@
             "uri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/eagle/camp-hale-rough-terrain.jpg"
           },
           "remoteUri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/eagle/camp-hale-rough-terrain.jpg",
-          "sourceNote": "National Archives, 337-TNG-1-2. The National Archives states the Camp Hale photographs used in this collection have no known copyright restrictions. Source retained for provenance; app delivery uses Remnant-controlled media copy."
+          "sourcePage": "https://unwritten-record.blogs.archives.gov/2023/01/10/camp-hale-colorado-training-the-10th-mountain-division-during-world-war-ii/",
+          "sourceNote": "National Archives Local ID 337-TNG-1-2; Camp Hale / 10th Mountain Division training collection.",
+          "rights": "National Archives federal record — no known copyright restrictions",
+          "mediaStatus": "PACKAGED"
         },
         {
           "id": "hale-timberline",
@@ -89,9 +111,13 @@
             "uri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/eagle/camp-hale-timberline-1943.jpg"
           },
           "remoteUri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/eagle/camp-hale-timberline-1943.jpg",
-          "sourceNote": "National Archives, 111-SC-189485. Original Signal Corps caption identifies Camp Hale, Colorado, May 8, 1943. Source retained for provenance; app delivery uses Remnant-controlled media copy."
+          "sourcePage": "https://unwritten-record.blogs.archives.gov/2023/01/10/camp-hale-colorado-training-the-10th-mountain-division-during-world-war-ii/",
+          "sourceNote": "National Archives Local ID 111-SC-189485 / NAID 100310366; original caption identifies Camp Hale, Colorado, May 8, 1943.",
+          "rights": "National Archives federal record — no known copyright restrictions",
+          "mediaStatus": "PACKAGED"
         }
       ],
+      "mediaSearchStatus": "FOUND_USABLE_MEDIA",
       "features": [
         {
           "id": "hale-core",
@@ -113,13 +139,6 @@
           "type": "Training Area",
           "confidence": "Confirmed",
           "note": "The surrounding mountains were integral to skiing, climbing, cold-weather, and field training."
-        },
-        {
-          "id": "hale-ranges",
-          "name": "Ranges and Field Training Areas",
-          "type": "Training Area",
-          "confidence": "Confirmed",
-          "note": "Weapons, obstacle, and field-training areas formed part of the broader military landscape."
         }
       ],
       "coordinates": {
@@ -129,9 +148,32 @@
       "legacyIds": [
         "camp-hale"
       ],
-      "state": "Colorado",
-      "appReady": true,
-      "betaVisible": true
+      "sourceReferences": [
+        {
+          "title": "Camp Hale, Colorado: Training the 10th Mountain Division During World War II",
+          "publisher": "National Archives",
+          "url": "https://unwritten-record.blogs.archives.gov/2023/01/10/camp-hale-colorado-training-the-10th-mountain-division-during-world-war-ii/",
+          "note": "Supports Camp Hale history and the three packaged wartime training images."
+        },
+        {
+          "title": "Top of the Rockies - Mountain Backdrop at Camp Hale Memorial",
+          "publisher": "National Archives / Federal Highway Administration",
+          "url": "https://commons.wikimedia.org/wiki/File:Top_of_the_Rockies_-_Mountain_Backdrop_at_Camp_Hale_Memorial_-_NARA_-_7722422.jpg",
+          "note": "Exact-site public-domain hero photograph from Camp Hale Memorial."
+        },
+        {
+          "title": "Camp Hale field house ruins",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:DSCN3059_camphaleruins_e_600.jpg",
+          "note": "Exact-site Camp Hale ruins photograph licensed CC BY-SA 3.0."
+        },
+        {
+          "title": "Spy Sites: Camp Hale",
+          "publisher": "Central Intelligence Agency",
+          "url": "https://www.cia.gov/stories/story/spy-sites-camp-hale/",
+          "note": "Supports the later Camp Hale Tibetan resistance training history."
+        }
+      ]
     },
     {
       "id": "CO-EAGLE-BELDEN",
