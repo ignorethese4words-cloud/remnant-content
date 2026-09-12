@@ -3,28 +3,67 @@
   "id": "colorado-conejos",
   "county": "Conejos County",
   "state": "Colorado",
-  "version": "3",
-  "generatedAt": "2026-09-07T20:24:27.188Z",
+  "version": "4",
+  "generatedAt": "2026-09-12T17:52:33.137Z",
   "sites": [
     {
       "id": "CO-CONEJOS-COSTILLA-CROSSING-BRIDGE",
-      "name": "Costilla Crossing Railroad Bridge",
-      "location": "Conejos County",
+      "name": "Costilla Crossing Bridge",
+      "location": "Rio Grande east of Antonito",
       "county": "Conejos County",
-      "category": "Railroad Bridge",
+      "state": "Colorado",
+      "category": "Historic Roadway Bridge / Truss",
       "componentType": "Bridge / Trestle",
+      "tier": "ID ONLY",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T17:51:30.000Z",
       "overview": [
-        "A surviving historic railroad bridge over the Rio Grande near Antonito."
+        "Costilla Crossing Bridge is a surviving historic roadway bridge over the Rio Grande east of Antonito. Completed in 1892, it is a rare two-span Thatcher through truss built with iron and steel components."
       ],
-      "timeline": [],
-      "moreHistory": [],
-      "displayImages": [],
+      "timeline": [
+        {
+          "year": "1891",
+          "text": "The Colorado legislature appropriated funds for a bridge at the Costilla Crossing of the Rio Grande, and the state engineer solicited competitive bridge designs and bids."
+        },
+        {
+          "year": "1892",
+          "text": "The Wrought Iron Bridge Company of Canton, Ohio received the construction contract and completed the two-span Thatcher truss by the end of August."
+        }
+      ],
+      "moreHistory": [
+        "The Thatcher truss type was patented in 1884 by engineer Edwin Thatcher and was never widely adopted. Historic bridge documentation identifies Costilla Crossing as an unusually rare surviving example and an important early vehicular truss in Colorado."
+      ],
+      "displayImages": [
+        {
+          "id": "costilla-crossing-bridge-2025-01",
+          "title": "Costilla Crossing Bridge",
+          "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Costilla_Crossing_Bridge_1.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Costilla_Crossing_Bridge_1.JPG",
+          "sourceNote": "Photograph by Jeffrey Beall, taken March 16, 2025; exact Costilla Crossing Bridge site.",
+          "rights": "CC BY 4.0 — Jeffrey Beall",
+          "mediaStatus": "PACKAGED"
+        }
+      ],
+      "mediaSearchStatus": "FOUND_USABLE_MEDIA",
       "coordinates": {
         "latitude": 37.07845,
         "longitude": -105.75664
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "History Colorado — Costilla Crossing Bridge",
+          "url": "https://www.historycolorado.org/taxonomy/term/312?page=2"
+        },
+        {
+          "title": "National Park Service HABS/HAER inventory — Costilla Crossing Bridge / State Bridge CN01",
+          "url": "https://npgallery.nps.gov/GetAsset/d2b5e32e-ab19-40e0-990c-f0ddc8323a1c"
+        },
+        {
+          "title": "Wikimedia Commons — Costilla Crossing Bridge 1.JPG",
+          "url": "https://commons.wikimedia.org/wiki/File:Costilla_Crossing_Bridge_1.JPG"
+        }
+      ]
     },
     {
       "id": "CO-CONEJOS-ANTONITO-DRG-DEPOT",
