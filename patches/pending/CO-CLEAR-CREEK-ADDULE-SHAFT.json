@@ -1,0 +1,40 @@
+{
+  "countySlug": "clear-creek",
+  "site": {
+    "id": "CO-CLEAR-CREEK-ADDULE-SHAFT",
+    "name": "Addule Shaft",
+    "location": "Central City quadrangle / near Russell Gulch",
+    "county": "Clear Creek County",
+    "state": "Colorado",
+    "category": "Historic Mine Shaft",
+    "componentType": "Shaft / Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T17:59:30.000Z",
+    "overview": [
+      "Addule Shaft is a documented inactive gold-mine and shaft locality in Clear Creek County, preserved as a named feature on Central City-area topographic mapping."
+    ],
+    "timeline": [],
+    "moreHistory": [
+      "USGS-derived mapping places Addule Shaft Mine near 39.761932, -105.517497 at about 9,157 feet elevation. The mapped mine location identifies the historic site; no claim is made that a surviving shaft collar, headframe, or other surface structure has been field-verified or is accessible today."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.7619324,
+      "longitude": -105.5174971
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS-derived Addule Shaft Mine topographic feature record",
+        "url": "https://www.anyplaceamerica.com/directory/co/clear-creek-county-08019/mines/addule-shaft-mine-1685411/"
+      },
+      {
+        "title": "Central City USGS topographic mapping — Addule Shaft Mine",
+        "url": "https://mapstore.mytopo.com/products/ustopo_colorado_central-city"
+      }
+    ]
+  }
+}
