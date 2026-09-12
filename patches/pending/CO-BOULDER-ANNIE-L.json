@@ -1,0 +1,36 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-ANNIE-L",
+    "name": "Annie L.",
+    "location": "Boulder County Tungsten District, near Roosevelt Tunnel",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Shaft / Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T18:10:00.000Z",
+    "overview": [
+      "Annie L. is a documented historic tungsten mine in Boulder County's tungsten district, closely associated with the Roosevelt workings.",
+      "Colorado and federal mining records describe a 120-foot shaft with two levels and record substantial historic tungsten production from the property."
+    ],
+    "timeline": [
+      {"year":"1916–1918","text":"The Annie L./Roosevelt property saw its chief early production during the World War I tungsten boom."},
+      {"year":"1943","text":"Thayer and McClellan worked the Annie L. during renewed wartime tungsten activity."}
+    ],
+    "moreHistory": [
+      "Colorado Geological Survey records place Annie L. in SE1/4 Sec. 36, T1N R72W, about 900 feet S67°W of the Roosevelt tunnel. U.S. Geological Survey Professional Paper 245 likewise describes the Annie L. shaft about 900 feet west-southwest of Roosevelt and notes two eastward levels from the shaft.",
+      "The coordinates used here are an approximate mapped location calculated from the documented offset from the Roosevelt tunnel. No claim is made that a surviving open shaft, portal, or safe public access exists today."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {"latitude":40.003866,"longitude":-105.395465},
+    "sourceReferences": [
+      {"title":"Colorado Geological Survey MI-04 — Tungsten Mines of Colorado","url":"https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/MI-04.pdf"},
+      {"title":"U.S. Geological Survey Professional Paper 245 — Geology and Ore Deposits of the Boulder County Tungsten District","url":"https://pubs.usgs.gov/pp/0245/report.pdf"}
+    ]
+  }
+}
