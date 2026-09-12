@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "31",
-  "generatedAt": "2026-09-12T18:34:19.640Z",
+  "version": "32",
+  "generatedAt": "2026-09-12T18:44:44.906Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -1492,6 +1492,50 @@
         {
           "title": "USGS-derived Black Rover Mine topographic feature record",
           "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/black-rover-mine-1685043/"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-BARKER-NO-1-MINE",
+      "name": "Barker No. 1 Mine",
+      "location": "Boulder County Tungsten District / Clark Tunnel",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T18:46:00.000Z",
+      "overview": [
+        "Barker No. 1 was a historic tungsten mine developed from the Clark Tunnel in the Boulder County Tungsten District.",
+        "Colorado's 1960 tungsten-mine inventory places the Barker No. 1 workings about 200 feet inside the Clark Tunnel and records two working levels with historic tungsten production."
+      ],
+      "timeline": [],
+      "moreHistory": [
+        "The state mine inventory estimates Barker No. 1 production at roughly 2,000 to 3,000 tungsten units and describes ore stopes above and below the Clark Tunnel level. U.S. Geological Survey work also describes the Barker No. 1 vein as a continuation of the Vasco No. 8 vein.",
+        "The coordinate used here is a documented Barker Mine / Clark Tunnel locality-level anchor near 39.97027, -105.48083. It identifies the historic mine area without claiming that Remnant has field-surveyed a surviving portal, shaft collar, or underground working.",
+        "A focused exact-site media search did not locate a defensible reusable Barker No. 1 image, so nearby tungsten-district photographs were rejected rather than attached to the wrong mine."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.970265,
+        "longitude": -105.48083
+      },
+      "sourceReferences": [
+        {
+          "title": "Colorado Geological Survey — Tungsten Mines of Colorado (MI-04)",
+          "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/MI-04.pdf"
+        },
+        {
+          "title": "U.S. Geological Survey Professional Paper 245 — Geology and Ore Deposits of the Boulder County Tungsten District",
+          "url": "https://pubs.usgs.gov/pp/0245/report.pdf"
+        },
+        {
+          "title": "Mapped Barker Mine locality",
+          "url": "https://mapcarta.com/23171166"
         }
       ]
     }
