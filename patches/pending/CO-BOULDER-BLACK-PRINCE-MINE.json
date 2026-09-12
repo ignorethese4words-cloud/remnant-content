@@ -1,0 +1,52 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-BLACK-PRINCE-MINE",
+    "name": "Black Prince Mine",
+    "location": "Black Tiger Gulch / Boulder County tungsten district",
+    "county": "Boulder County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-11T22:17:00Z",
+    "overview": [
+      "Black Prince Mine is a documented historic mine in Black Tiger Gulch within Boulder County's tungsten district, where federal geological work recorded several underground tunnels on the southwest side of the gulch."
+    ],
+    "timeline": [
+      {
+        "year": "Historic tungsten-mining era",
+        "text": "Black Prince was developed as a group of underground workings in Black Tiger Gulch during the district's tungsten-mining period."
+      },
+      {
+        "year": "1953",
+        "text": "U.S. Geological Survey Professional Paper 245 documented four Black Prince tunnels and their relationship to the geology of the Boulder County tungsten district."
+      }
+    ],
+    "moreHistory": [
+      "USGS Professional Paper 245 places four Black Prince tunnels at approximately 6,725, 6,870, 6,955, and 7,000 feet elevation on the southwest side of Black Tiger Gulch, about 1,500 feet from its mouth, and includes a geologic plan of the workings."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.00249,
+      "longitude": -105.39527
+    },
+    "sourceReferences": [
+      {
+        "title": "Geology and ore deposits of the Boulder County tungsten district, Colorado — Professional Paper 245",
+        "publisher": "U.S. Geological Survey",
+        "url": "https://pubs.usgs.gov/publication/pp245",
+        "note": "Documents the Black Prince tunnels in Black Tiger Gulch and provides component-level mine geometry."
+      },
+      {
+        "title": "Gold Hill USGS topographic mapping — Black Prince Mine",
+        "publisher": "U.S. Geological Survey / US Topo",
+        "url": "https://mapstore.mytopo.com/products/ustopo_colorado_gold-hill",
+        "note": "Preserves Black Prince Mine as a named Boulder County mine feature near the retained mine-level coordinate."
+      }
+    ]
+  }
+}
