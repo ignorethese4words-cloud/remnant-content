@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-12T18:04:15.681Z",
-  "generatedAt": "2026-09-12T18:04:15.681Z",
+  "contentVersion": "2026-09-12T18:04:57.238Z",
+  "generatedAt": "2026-09-12T18:04:57.238Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -79,7 +79,7 @@
       "id": "colorado-costilla",
       "county": "Costilla County",
       "state": "Colorado",
-      "version": "3",
+      "version": "4",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-costilla.json",
       "exploreSiteCount": 0,
       "idOnlySiteCount": 2,
