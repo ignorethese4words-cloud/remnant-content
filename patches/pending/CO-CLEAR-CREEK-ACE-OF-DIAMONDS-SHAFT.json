@@ -1,0 +1,47 @@
+{
+  "countySlug": "clear-creek",
+  "site": {
+    "id": "CO-CLEAR-CREEK-ACE-OF-DIAMONDS-SHAFT",
+    "name": "Ace of Diamonds Shaft Mine",
+    "location": "Idaho Springs mining district / near Russell Gulch",
+    "county": "Clear Creek County",
+    "state": "Colorado",
+    "category": "Mine / Shaft",
+    "componentType": "Shaft / Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T12:24:00-06:00",
+    "overview": [
+      "Ace of Diamonds Shaft Mine is a documented historic mine opening in the Idaho Springs mining district of Clear Creek County. U.S. Geological Survey records identify the Ace of Diamonds shaft among mapped mines and prospects in the district, and topographic-derived mapping preserves a stable location near Russell Gulch."
+    ],
+    "timeline": [],
+    "moreHistory": [
+      "U.S. Geological Survey Bulletin 1208 lists the Ace of Diamonds shaft on plate 1 at location E-II,13. USGS-derived topographic records place the named inactive gold-mine locality near 39.766099, -105.531664 on the Central City quadrangle. The retained sources do not establish a dependable operator chronology, production total, or surviving surface structures, so those details are left unstated."
+    ],
+    "coordinates": {
+      "latitude": 39.766099,
+      "longitude": -105.5316643
+    },
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "sourceReferences": [
+      {
+        "title": "U.S. Geological Survey Bulletin 1208 — Geology and Ore Deposits of the Front Range Urban Corridor / Idaho Springs district mine index",
+        "url": "https://pubs.usgs.gov/bul/1208/report.pdf",
+        "note": "Lists Ace of Diamonds shaft among mines and prospects shown on plate 1 at E-II,13."
+      },
+      {
+        "title": "USGS-topographic-derived Ace of Diamonds Shaft Mine feature record",
+        "url": "https://www.anyplaceamerica.com/directory/co/clear-creek-county-08019/mines/ace-of-diamonds-shaft-mine-1685409/",
+        "note": "Supports the named inactive gold-mine locality and mapped coordinates near 39.766099, -105.5316643."
+      },
+      {
+        "title": "Central City Colorado US Topo Map",
+        "url": "https://mapstore.mytopo.com/products/ustopo_colorado_central-city",
+        "note": "The Central City USGS quadrangle listing includes Ace of Diamonds Shaft Mine as a named feature."
+      }
+    ]
+  }
+}
