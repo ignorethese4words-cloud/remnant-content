@@ -1,0 +1,41 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-BLUE-GOOSE-MINE",
+    "name": "Blue Goose Mine",
+    "location": "Boulder-Weld coalfield / Louisville area",
+    "county": "Boulder County",
+    "category": "Historic Coal Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T17:05:00.000Z",
+    "overview": [
+      "Blue Goose Mine is a documented inactive coal mine in Boulder County's Boulder-Weld coalfield and is preserved as a named mine feature on Louisville-area topographic mapping.",
+      "Published Colorado coal-mine mapping places Blue Goose among the historic underground coal workings in the Louisville and Marshall-area mining landscape."
+    ],
+    "timeline": [],
+    "moreHistory": [
+      "USGS-derived mapping places the named mine at approximately 39.979985, -105.189432. The mapped mine locality is used to identify the historic site; no claim is made that a particular surviving shaft or underground opening has been field-verified or is accessible today.",
+      "A focused exact-site media search did not locate a defensible reusable historic photograph, so unrelated coal-mine imagery was not attached."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.9799854,
+      "longitude": -105.1894317
+    },
+    "sourceReferences": [
+      {
+        "title": "Louisville USGS topographic mapping — Blue Goose Mine",
+        "url": "https://mapstore.mytopo.com/products/historic_7-5x7-5_louisville_colorado"
+      },
+      {
+        "title": "USGS-derived Blue Goose Mine gazetteer record",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/blue-goose-mine-1685166/"
+      }
+    ]
+  }
+}
