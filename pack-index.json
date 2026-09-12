@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-12T20:19:52.833Z",
-  "generatedAt": "2026-09-12T20:19:52.833Z",
+  "contentVersion": "2026-09-12T20:21:41.313Z",
+  "generatedAt": "2026-09-12T20:21:41.313Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -59,11 +59,11 @@
       "id": "colorado-clear-creek",
       "county": "Clear Creek County",
       "state": "Colorado",
-      "version": "93",
+      "version": "94",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-clear-creek.json",
-      "exploreSiteCount": 0,
+      "exploreSiteCount": 1,
       "idOnlySiteCount": 14,
-      "siteCount": 14
+      "siteCount": 15
     },
     {
       "id": "colorado-conejos",
