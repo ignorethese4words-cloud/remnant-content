@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-12T16:02:30.365Z",
-  "generatedAt": "2026-09-12T16:02:30.365Z",
+  "contentVersion": "2026-09-12T17:00:00.099Z",
+  "generatedAt": "2026-09-12T17:00:00.099Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -109,11 +109,11 @@
       "id": "colorado-dolores",
       "county": "Dolores County",
       "state": "Colorado",
-      "version": "4",
+      "version": "5",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-dolores.json",
       "exploreSiteCount": 0,
-      "idOnlySiteCount": 1,
-      "siteCount": 7
+      "idOnlySiteCount": 2,
+      "siteCount": 8
     },
     {
       "id": "colorado-douglas",
