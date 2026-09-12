@@ -3,8 +3,8 @@
   "id": "colorado-clear-creek",
   "county": "Clear Creek County",
   "state": "Colorado",
-  "version": "91",
-  "generatedAt": "2026-09-12T18:42:51.452Z",
+  "version": "92",
+  "generatedAt": "2026-09-12T19:00:37.808Z",
   "sites": [
     {
       "id": "CO-CLEAR-CREEK-ALMADEN-MINE",
@@ -382,6 +382,43 @@
         {
           "title": "USGS MRDS-derived Clear Creek County mine inventory",
           "url": "https://westernmininghistory.com/mine-county/colorado/clear-creek/"
+        }
+      ]
+    },
+    {
+      "id": "CO-CLEAR-CREEK-APT-TUNNEL",
+      "name": "A.P.T. Tunnel Mine",
+      "location": "Clear Creek County",
+      "county": "Clear Creek County",
+      "state": "Colorado",
+      "category": "Mine / Tunnel",
+      "componentType": "Adit / Portal",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T11:18:28-06:00",
+      "overview": [
+        "A.P.T. Tunnel Mine is a documented historic mine-and-tunnel locality in Clear Creek County. USGS topographic mapping preserves the named feature near 39.77693, -105.68667, providing a defensible identification anchor without implying that a portal has been field-verified or remains accessible today."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "coordinates": {
+        "latitude": 39.77693,
+        "longitude": -105.68667
+      },
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "sourceReferences": [
+        {
+          "title": "USGS MRDS-derived Clear Creek County mine inventory",
+          "url": "https://westernmininghistory.com/mine-county/colorado/clear-creek/",
+          "note": "USGS-derived mine indexing preserves A.P.T. Tunnel Mine as a named Clear Creek County mine locality."
+        },
+        {
+          "title": "USGS-topographic A.P.T. Tunnel Mine feature record",
+          "url": "https://www.anyplaceamerica.com/directory/co/clear-creek-county-08019/mines/a-p-t-tunnel-mine-1685273/",
+          "note": "USGS-topographic-derived mapping supports the named feature and location near 39.77693, -105.68667."
         }
       ]
     }
