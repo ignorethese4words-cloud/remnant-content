@@ -1,0 +1,36 @@
+{
+  "countySlug": "dolores",
+  "site": {
+    "id": "CO-DOLORES-ALBION-MINE",
+    "name": "Albion Mine",
+    "location": "Rico mining area",
+    "county": "Dolores County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T12:17:39Z",
+    "overview": [
+      "Albion Mine is a historic named mine in the Rico mining area of Dolores County, preserved as a distinct mine feature on USGS topographic mapping."
+    ],
+    "timeline": [],
+    "moreHistory": [
+      "The mapped mine location provides a defensible identification target. This record does not claim that a historic opening or other working survives or is accessible today."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 37.7141612,
+      "longitude": -108.088408
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS Rico topographic mapping — Albion Mine",
+        "url": "https://www.yellowmaps.com/usgs/topo.cfm?map=co-1734240-albion-mine"
+      }
+    ]
+  }
+}
