@@ -3,8 +3,8 @@
   "id": "colorado-eagle",
   "county": "Eagle County",
   "state": "Colorado",
-  "version": "7",
-  "generatedAt": "2026-09-12T21:45:10.028Z",
+  "version": "8",
+  "generatedAt": "2026-09-12T21:46:05.195Z",
   "sites": [
     {
       "id": "CO-EAGLE-CAMP-HALE",
@@ -180,8 +180,13 @@
       "name": "Belden Mining & Railroad Complex",
       "location": "Belden Canyon / Battle Mountain",
       "county": "Eagle County",
+      "state": "Colorado",
       "category": "Ghost Town / Railroad / Mining & Mill Complex",
-      "componentType": "Mining Camp, Railroad Station & Industrial Complex",
+      "componentType": "Mill / Processing",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-12T21:47:00Z",
       "overview": [
         "Belden developed in the narrow Eagle River canyon below Battle Mountain as a railroad, mining, and ore-handling center serving the mines above Gilman.",
         "The Denver & Rio Grande station, mining settlement, mills, load-out facilities, waste-rock structures, and railroad corridor created a dense industrial landscape linking the mountain mines with regional transportation."
@@ -234,14 +239,27 @@
         "The surviving canyon landscape remains heavily shaped by mining and later environmental stabilization, making the relationship between railroad engineering, ore handling, mine waste, and steep terrain especially visible."
       ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 39.5255,
         "longitude": -106.3861
       },
-      "state": "Colorado",
-      "appReady": true,
-      "betaVisible": true,
-      "mediaNotice": "Historic image not available"
+      "sourceReferences": [
+        {
+          "title": "USGS GNIS / Belden, Colorado townsite reference",
+          "url": "https://en.wikipedia.org/wiki/Belden,_Colorado"
+        },
+        {
+          "title": "DPLA / Denver Public Library — East Belden Tunnel, 1926",
+          "url": "https://dp.la/item/bc84fb27ddd3637aa2af145b08204812",
+          "note": "Useful site-specific research image; publication rights remain not evaluated, so it is not packaged."
+        },
+        {
+          "title": "Gilman and Belden mining-district history",
+          "url": "https://www.uncovercolorado.com/ghost-towns/gilman/"
+        }
+      ]
     },
     {
       "id": "CO-EAGLE-FULFORD-CAMP",
