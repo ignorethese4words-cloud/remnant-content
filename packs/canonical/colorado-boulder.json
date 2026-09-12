@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "25",
-  "generatedAt": "2026-09-12T06:02:32.204Z",
+  "version": "26",
+  "generatedAt": "2026-09-12T10:04:42.406Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -230,18 +230,48 @@
       "county": "Boulder County",
       "category": "Historic Mine",
       "componentType": "Mine",
+      "tier": "ID ONLY",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T06:25:00Z",
       "overview": [
-        "Historic Sugarloaf-district gold mine with surviving archival workings maps and a mapped mine locality."
+        "Alpine Horn is a documented historic mine on the southeast side of Sugarloaf Mountain in Boulder County, with surviving archival records that identify the lode and preserve maps of its underground workings."
       ],
-      "timeline": [],
-      "moreHistory": [],
+      "timeline": [
+        {
+          "year": "1912",
+          "text": "Archival records preserve a lawsuit filed by Alpine Horn owner J. N. Esselstyn against the United States Gold Corporation, reflecting active property interests in the Sugarloaf mining landscape."
+        },
+        {
+          "year": "2002",
+          "text": "Boulder County Parks and Open Space purchased the Alpine Horn lode on the southeast side of Sugarloaf Mountain."
+        }
+      ],
+      "moreHistory": [
+        "The Carnegie Library for Local History preserves an Alpine Horn collection containing mine documents, maps of the Alpine Horn workings, and plats of nearby mining properties.",
+        "Historic mapping continues to identify Alpine Horn Mine in the Sugarloaf area, supporting the documented mine locality near 40.027486, -105.411661."
+      ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 40.027486,
         "longitude": -105.411661
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "Alpine Horn lode and surrounding property",
+          "publisher": "Carnegie Library for Local History",
+          "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A871",
+          "note": "Identifies the Alpine Horn lode in the Sugar Loaf Mining District, preserves maps of its workings and nearby mine plats, documents the 1912 ownership dispute, and records Boulder County's 2002 purchase of the lode."
+        },
+        {
+          "title": "Gold Hill Colorado US Topo Map",
+          "publisher": "MyTopo / USGS topographic mapping",
+          "url": "https://mapstore.mytopo.com/products/ustopo_colorado_gold-hill",
+          "note": "Lists Alpine Horn Mine among the named mine localities on the Gold Hill quadrangle used to corroborate the mapped mine location."
+        }
+      ]
     },
     {
       "id": "CO-BOULDER-ALTON-TUNNEL",
