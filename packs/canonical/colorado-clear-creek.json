@@ -3,8 +3,8 @@
   "id": "colorado-clear-creek",
   "county": "Clear Creek County",
   "state": "Colorado",
-  "version": "92",
-  "generatedAt": "2026-09-12T19:00:37.808Z",
+  "version": "93",
+  "generatedAt": "2026-09-12T20:04:27.713Z",
   "sites": [
     {
       "id": "CO-CLEAR-CREEK-ALMADEN-MINE",
@@ -419,6 +419,43 @@
           "title": "USGS-topographic A.P.T. Tunnel Mine feature record",
           "url": "https://www.anyplaceamerica.com/directory/co/clear-creek-county-08019/mines/a-p-t-tunnel-mine-1685273/",
           "note": "USGS-topographic-derived mapping supports the named feature and location near 39.77693, -105.68667."
+        }
+      ]
+    },
+    {
+      "id": "CO-CLEAR-CREEK-ACCORD-MINE",
+      "name": "Accord Mine",
+      "location": "Clear Creek County",
+      "county": "Clear Creek County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T12:52:05-06:00",
+      "overview": [
+        "Accord Mine is a documented historic mine in Clear Creek County near Empire. USGS-derived topographic mapping preserves the named mine at approximately 39.746654, -105.668614, providing a defensible identification point without implying present-day access or surviving open workings."
+      ],
+      "timeline": [],
+      "moreHistory": [
+        "The mapped Accord Mine is identified as an inactive gold-and-silver mine on the Georgetown, Colorado topographic quadrangle. The available retained evidence supports the mine's identity and location, but does not establish a reliable operator chronology, production total, or present condition, so those details are left unstated."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.7466542,
+        "longitude": -105.6686139
+      },
+      "sourceReferences": [
+        {
+          "title": "USGS-derived Accord Mine topographic feature record",
+          "url": "https://www.anyplaceamerica.com/directory/co/clear-creek-county-08019/mines/accord-mine-1693735/"
+        },
+        {
+          "title": "Georgetown, Colorado US Topo map index",
+          "url": "https://mapstore.mytopo.com/products/ustopo_colorado_georgetown"
         }
       ]
     }
