@@ -1,0 +1,61 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-SWITZERLAND-TRAIL",
+    "name": "Denver, Boulder & Western Railway / Switzerland Trail of America",
+    "location": "Switzerland Trail / Ward-Nederland area",
+    "county": "Boulder County",
+    "category": "Railroad / Historic Transportation",
+    "componentType": "Railroad Feature",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T03:52:38.000Z",
+    "overview": [
+      "The Switzerland Trail follows portions of a historic narrow-gauge railroad corridor that served Boulder County mining communities and later became a well-known scenic excursion route."
+    ],
+    "timeline": [
+      {
+        "year": "1880s-1890s",
+        "text": "Early narrow-gauge construction linked Boulder County mining districts, and the route expanded through the mountain communities west of Boulder."
+      },
+      {
+        "year": "1898",
+        "text": "The Colorado and Northwestern promoted the mountain railroad as the Switzerland Trail of America to attract excursion traffic as well as mining-related business."
+      },
+      {
+        "year": "1919",
+        "text": "Rail service ended and the tracks were removed, leaving substantial portions of the former railroad grade in the landscape."
+      },
+      {
+        "year": "1980",
+        "text": "The Denver, Boulder and Western Railway Historic District, also known as the Switzerland Trail of America, was listed in the National Register of Historic Places."
+      }
+    ],
+    "moreHistory": [
+      "The corridor was used by several narrow-gauge railroad companies, including the Greeley, Salt Lake and Pacific Railway, Colorado and Northwestern Railroad, and Denver, Boulder and Western Railroad. It carried ore, supplies, residents, and tourists through Boulder County's mountain mining country.",
+      "Boulder County continues to recognize the Switzerland Trail railroad line as an important part of the county's mining and transportation history. Portions of the historic roadbed remain visible and are used for modern recreation."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.022222,
+      "longitude": -105.463139
+    },
+    "sourceReferences": [
+      {
+        "title": "National Park Service — Denver, Boulder and Western Railway Historic District nomination",
+        "url": "https://npgallery.nps.gov/GetAsset/d14a94cf-0e4b-4d37-9043-3681b6b305f7"
+      },
+      {
+        "title": "Boulder County — Hard Rock Mining Tour",
+        "url": "https://bouldercounty.gov/open-space/education/hard-rock-mining-tour/"
+      },
+      {
+        "title": "Boulder County Historic Preservation Advisory Board packet — Switzerland Trail location reference",
+        "url": "https://assets.bouldercounty.gov/wp-content/uploads/2018/04/hpab-agenda-and-meeting-packet-20180405.pdf"
+      }
+    ]
+  }
+}
