@@ -3,8 +3,8 @@
   "id": "colorado-clear-creek",
   "county": "Clear Creek County",
   "state": "Colorado",
-  "version": "86",
-  "generatedAt": "2026-09-11T22:07:14.859Z",
+  "version": "87",
+  "generatedAt": "2026-09-12T17:23:20.352Z",
   "sites": [
     {
       "id": "CO-CLEAR-CREEK-ALMADEN-MINE",
@@ -199,6 +199,43 @@
         {
           "title": "Mindat bibliography entry for USGS Open-File Report 66-87",
           "url": "https://www.mindat.org/reference.php?id=698256"
+        }
+      ]
+    },
+    {
+      "id": "CO-CLEAR-CREEK-AIR-LINE-MINE",
+      "name": "Air Line Mine",
+      "location": "Central City quadrangle",
+      "county": "Clear Creek County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T17:15:00.000Z",
+      "overview": [
+        "Air Line Mine is a documented historic gold-silver mine in Clear Creek County, preserved as a named mine feature on Central City-area topographic mapping."
+      ],
+      "timeline": [],
+      "moreHistory": [
+        "USGS-derived mapping places the Air Line Mine near 39.783877, -105.549165 at about 9,478 feet elevation. The mapped mine locality identifies the historic property; no claim is made that a surviving shaft, portal, or other opening has been field-verified or is accessible today."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.7838767,
+        "longitude": -105.5491651
+      },
+      "sourceReferences": [
+        {
+          "title": "USGS-derived Air Line Mine topographic feature record",
+          "url": "https://www.anyplaceamerica.com/directory/co/clear-creek-county-08019/mines/air-line-mine-1685412/"
+        },
+        {
+          "title": "Central City USGS topographic mapping",
+          "url": "https://mapstore.mytopo.com/products/ustopo_colorado_central-city"
         }
       ]
     }
