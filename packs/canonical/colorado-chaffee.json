@@ -3,8 +3,8 @@
   "id": "colorado-chaffee",
   "county": "Chaffee County",
   "state": "Colorado",
-  "version": "13",
-  "generatedAt": "2026-09-07T20:24:27.188Z",
+  "version": "14",
+  "generatedAt": "2026-09-12T09:03:01.425Z",
   "sites": [
     {
       "id": "CO-CHAFFEE-ALASKA-MINE",
@@ -13,18 +13,44 @@
       "county": "Chaffee County",
       "category": "Historic Mine",
       "componentType": "Mine",
+      "tier": "ID ONLY",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T04:21:33Z",
       "overview": [
-        "Alaska Mine is a named historic Chaffee County mine preserved on USGS topographic mapping in the Monarch district."
+        "Alaska Mine is a named historic gold-, silver-, and lead-bearing mine in Chaffee County, preserved on U.S. topographic mapping in the Garfield quadrangle near the Monarch mining area."
       ],
-      "timeline": [],
-      "moreHistory": [],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Alaska Mine became an established named mine locality in the Garfield quadrangle and was retained in federal topographic feature records."
+        }
+      ],
+      "moreHistory": [
+        "USGS-derived mapped-place records locate Alaska Mine at approximately 38.55916, -106.27697 and about 10,266 feet elevation, and describe the inactive mine as associated with silver, gold, and lead.",
+        "Available site-specific records support the mine's identity and location but do not provide a dependable detailed operating chronology or production history."
+      ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 38.5591639,
         "longitude": -106.2769674
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "Alaska Mine Topo Map in Chaffee County, Colorado",
+          "publisher": "AnyPlaceAmerica / USGS-derived mapped place data",
+          "url": "https://www.anyplaceamerica.com/directory/co/chaffee-county-08015/mines/alaska-mine-1745727/",
+          "note": "Identifies Alaska Mine in Chaffee County at 38.5591639, -106.2769674, gives an elevation of about 10,266 feet, describes it as an inactive silver, gold, and lead mine, and places it on the Garfield USGS quadrangle."
+        },
+        {
+          "title": "Garfield-area mine feature listing",
+          "publisher": "TopoQuest / U.S. Geological Survey topographic data",
+          "url": "https://topoquest.com/place/colorado/mine/thirty-six-thirty-mine/1745794",
+          "note": "USGS-derived Garfield-quadrangle listing independently preserves Alaska Mine at approximately 38.559164, -106.276967 among nearby named mine features."
+        }
+      ]
     },
     {
       "id": "CO-CHAFFEE-ALDERMAN-DEPOSIT",
