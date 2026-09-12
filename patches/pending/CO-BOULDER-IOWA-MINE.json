@@ -1,0 +1,56 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-IOWA-MINE",
+    "name": "Iowa Mine",
+    "location": "Gordon Gulch / Boulder County Tungsten District",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine / Adit",
+    "componentType": "Adit / Portal",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T20:40:00.000Z",
+    "overview": [
+      "Iowa Mine is a documented historic tungsten mine and short-adit working in Gordon Gulch in Boulder County's tungsten district.",
+      "Colorado's tungsten inventory records about 100 units of production from the property, with ferberite and scheelite in a granite-hosted vein."
+    ],
+    "timeline": [
+      {
+        "year": "1955",
+        "text": "Colorado Geological Survey records limited development by underhand stoping that produced fair-grade tungsten ore."
+      }
+    ],
+    "moreHistory": [
+      "Colorado Geological Survey places Iowa in the northeast quarter of Section 34, T1N R72W, east of the Ophir-Miser group in Gordon Gulch, and describes the working as a short adit.",
+      "The retained coordinate represents the Gordon Gulch locality for identification and is not presented as a field-surveyed adit portal."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.0085975,
+      "longitude": -105.4411069
+    },
+    "sourceReferences": [
+      {
+        "title": "MI-04 Tungsten Mines of Colorado",
+        "publisher": "Colorado Geological Survey",
+        "url": "https://coloradogeologicalsurvey.org/publications/tungsten-mines-colorado/",
+        "note": "Documents Iowa in Gordon Gulch, its short adit, approximate production, ore minerals, ownership and 1955 development."
+      },
+      {
+        "title": "Tungsten deposits of Boulder County, Colorado",
+        "publisher": "U.S. Geological Survey",
+        "url": "https://pubs.usgs.gov/publication/pp245",
+        "note": "Provides federal context for the Gordon Gulch tungsten-mining area."
+      },
+      {
+        "title": "USGS-derived Gordon Gulch feature record",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/valleys/gordon-gulch-178587/",
+        "note": "Provides the retained Gordon Gulch locality coordinate; it is not treated as an exact portal survey."
+      }
+    ]
+  }
+}
