@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "34",
-  "generatedAt": "2026-09-12T20:42:50.632Z",
+  "version": "35",
+  "generatedAt": "2026-09-12T21:09:33.167Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -1646,6 +1646,69 @@
           "title": "USGS-derived Gordon Gulch feature record",
           "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/valleys/gordon-gulch-178587/",
           "note": "Provides the retained Gordon Gulch locality coordinate; it is not treated as an exact portal survey."
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-LOWER-RAMBLER-MINE",
+      "name": "Lower Rambler Mine",
+      "location": "Boulder County Tungsten District / SW1/4 Sec. 24, T1S R73W",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Tungsten Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T20:46:00.000Z",
+      "overview": [
+        "Lower Rambler Mine is a documented tungsten mine in Boulder County's tungsten district, west of the historic Tungsten shaft area.",
+        "Federal and Colorado mining records describe a deep Lower Rambler shaft and ferberite-bearing workings that produced tungsten during the twentieth century."
+      ],
+      "timeline": [
+        {
+          "year": "1930s",
+          "text": "USGS records state that the Lower Rambler shaft was sunk during the 1930s."
+        },
+        {
+          "year": "1943",
+          "text": "Small production was reported from level workings driven by Tom Walsh, with the Cowdery brothers identified as owners at the time."
+        },
+        {
+          "year": "Mid-20th century",
+          "text": "Colorado's tungsten-mine inventory records the main shaft at about 200 feet deep and notes additional drifting and crosscutting under a federal exploration contract."
+        }
+      ],
+      "moreHistory": [
+        "USGS Professional Paper 245 places Lower Rambler at about 8,590 feet elevation, roughly 1,800 feet west-northwest of the Tungsten shaft, and documents ferberite-bearing feeder veins in the mine workings.",
+        "The Colorado tungsten inventory places the Rambler-Lower Rambler property in the southwest quarter of Section 24, Township 1 South, Range 73 West and distinguishes the Lower Rambler main shaft from the shallower Rambler workings.",
+        "The retained coordinate is a conservative mine-group locality associated with the documented Rambler-Lower Rambler occurrence; it is not represented as a field-surveyed surviving shaft collar or an access point."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.95,
+        "longitude": -105.510833
+      },
+      "sourceReferences": [
+        {
+          "title": "Geology and Ore Deposits of the Boulder County Tungsten District, Colorado — Professional Paper 245",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/pp/0245/report.pdf",
+          "note": "Documents the Lower Rambler location, workings, geology, ferberite ore, 1930s shaft development, and 1943 production."
+        },
+        {
+          "title": "Tungsten Mines of Colorado",
+          "publisher": "Colorado Geological Survey / Colorado state archive",
+          "url": "https://hermes.cde.state.co.us/islandora/object/co%3A26414/datastream/OBJ/download/Tungsten_mines_of_Colorado.pdf",
+          "note": "Places Rambler-Lower Rambler in SW1/4 Sec. 24, T1S R73W and records the Lower Rambler main shaft, production, ownership, and later development."
+        },
+        {
+          "title": "Boulder County Tungsten Mining District locality index",
+          "publisher": "Mindat",
+          "url": "https://www.mindat.org/loc-134313.html",
+          "note": "Corroborates the grouped Rambler-Lower Rambler occurrence in the Boulder County tungsten district; the grouped locality is used conservatively for identification rather than as an exact portal coordinate."
         }
       ]
     }
