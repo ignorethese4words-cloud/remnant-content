@@ -1,0 +1,39 @@
+{
+  "countySlug": "dolores",
+  "site": {
+    "id": "CO-DOLORES-AMERICA-MINE",
+    "name": "America Mine",
+    "location": "Lone Cone (Dunton) District",
+    "county": "Dolores County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "coordinates": {
+      "latitude": 37.76083,
+      "longitude": -108.10611
+    },
+    "overview": [
+      "The America Mine is a historic silver-gold mine in the Lone Cone (Dunton) mining district of Dolores County. Federal mineral records identify it as a past producer associated with the patented America, Columbia, and Nil Desperandum claims."
+    ],
+    "timeline": [
+      "During the historic mining era — The property was developed through the America, Columbia, and Nil Desperandum patented claims.",
+      "1910 — The federal mineral record lists the property's last reported production year."
+    ],
+    "moreHistory": [
+      "Historic mining records describe four adits driven generally southeast and connected by raises. The documented lower-tunnel location identifies the historic mine site; this does not imply that an opening survives or is accessible today."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "sourceReferences": [
+      {
+        "title": "USGS MRDS-derived record 10014228 — America Mine",
+        "url": "https://westernmininghistory.com/mine-detail/10014228/"
+      }
+    ],
+    "contentUpdatedAt": "2026-09-12T10:47:50Z"
+  }
+}
