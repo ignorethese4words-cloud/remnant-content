@@ -1,0 +1,60 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-BLACK-DIAMOND-MINE",
+    "name": "Black Diamond Mine",
+    "location": "Lafayette / Baseline Road and U.S. 287 area",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Coal Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T20:38:30.000Z",
+    "overview": [
+      "Black Diamond Mine was a documented coal mine in the Lafayette area of Boulder County and part of the Boulder-Weld coal field.",
+      "Local historical records preserve the mine in Lafayette's twentieth-century coal-mining story, while USGS-derived mapping provides a stable mine-level location for identification."
+    ],
+    "timeline": [
+      {
+        "year": "1942",
+        "text": "A Lafayette historical photograph documents the interior of the Black Diamond Mine during its operating era."
+      },
+      {
+        "year": "1956",
+        "text": "Local and county historical sources identify Black Diamond as Lafayette's last coal mine to close."
+      }
+    ],
+    "moreHistory": [
+      "USGS-derived mapping places the named Black Diamond Mine near 39.948597, -105.233878 and records it as an inactive coal mine; the mapped point is used as a mine-level identification location rather than a claim that a surviving shaft or opening has been field-surveyed.",
+      "A surviving 1942 photograph is retained as historical evidence, but its item-level reuse terms are not sufficiently clear for app use, so no image is included with this record."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.948597,
+      "longitude": -105.2338778
+    },
+    "sourceReferences": [
+      {
+        "title": "Coal Mining, 1900-1940 — Black Diamond Mine, Lafayette, 1942",
+        "publisher": "Boulder County Latino History Project",
+        "url": "https://latinohistoryproject.org/teachers/primary-source-sets/coal-mining-1900-1940/",
+        "note": "Preserves a Lafayette Public Library image identifying the Black Diamond Mine in Lafayette in 1942."
+      },
+      {
+        "title": "Boulder County Hazard Mitigation Plan — Lafayette annex",
+        "publisher": "Boulder Office of Disaster Management",
+        "url": "https://www.boulderoem.com/wp-content/uploads/2022/05/hmp-annexes-updates.pdf",
+        "note": "States that the Black Diamond Mine was the last Lafayette mine to close, in 1956."
+      },
+      {
+        "title": "USGS-derived Black Diamond Mine topographic feature record",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/black-diamond-mine-1685164/",
+        "note": "Provides the named inactive coal-mine locality and mapped coordinate used for identification."
+      }
+    ]
+  }
+}
