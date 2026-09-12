@@ -3,8 +3,8 @@
   "id": "colorado-clear-creek",
   "county": "Clear Creek County",
   "state": "Colorado",
-  "version": "88",
-  "generatedAt": "2026-09-12T17:25:58.627Z",
+  "version": "89",
+  "generatedAt": "2026-09-12T17:49:43.770Z",
   "sites": [
     {
       "id": "CO-CLEAR-CREEK-ALMADEN-MINE",
@@ -273,6 +273,39 @@
         {
           "title": "Georgetown USGS topographic mapping",
           "url": "https://mapstore.mytopo.com/products/ustopo_colorado_georgetown"
+        }
+      ]
+    },
+    {
+      "id": "CO-CLEAR-CREEK-ACCIDENTAL-MINE",
+      "name": "Accidental Mine",
+      "location": "Idaho Springs quadrangle",
+      "county": "Clear Creek County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T17:48:30.000Z",
+      "overview": [
+        "Accidental Mine is a documented historic gold-silver mine in Clear Creek County, preserved as a named mine feature on Idaho Springs-area topographic mapping."
+      ],
+      "timeline": [],
+      "moreHistory": [
+        "USGS-derived mapping places Accidental Mine near 39.729988, -105.551943 at about 8,199 feet elevation. The mapped mine locality supports identification of the historic property; no surviving portal, shaft, structures, or present-day access condition are asserted."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.7299879,
+        "longitude": -105.551943
+      },
+      "sourceReferences": [
+        {
+          "title": "USGS-derived Accidental Mine topographic feature record",
+          "url": "https://www.anyplaceamerica.com/directory/co/clear-creek-county-08019/mines/accidental-mine-1693951/"
         }
       ]
     }
