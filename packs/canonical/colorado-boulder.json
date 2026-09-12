@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "27",
-  "generatedAt": "2026-09-12T10:59:58.754Z",
+  "version": "28",
+  "generatedAt": "2026-09-12T12:02:11.283Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -1292,6 +1292,72 @@
           "title": "Conger Mine MRDS-derived record",
           "publisher": "Western Mining History",
           "url": "https://westernmininghistory.com/mine-detail/10107649/"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-BLUE-JAY-MINE",
+      "name": "Blue Jay Mine",
+      "location": "Jamestown Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-12T05:20:00Z",
+      "overview": [
+        "Blue Jay Mine is a historic fluorspar mine southeast of Jamestown in Boulder County, where federal mining studies documented a substantial underground operation and Boulder County later preserved the site as a designated historic property."
+      ],
+      "timeline": [
+        {
+          "year": "Mid-20th century",
+          "text": "Federal investigators described the Blue Jay Mine as developed by several short adits, a roughly 300-foot vertical shaft, and drifts on the 150- and 300-foot levels."
+        },
+        {
+          "year": "1949-1950",
+          "text": "Federal teams sampled and examined the mine's lower workings during investigations of uranium-bearing minerals associated with the fluorite vein."
+        },
+        {
+          "year": "2007",
+          "text": "Boulder County designated Blue Jay Mine as a historic site, recognizing the surviving mining complex near Jamestown."
+        }
+      ],
+      "moreHistory": [
+        "The Blue Jay vein was described by U.S. Geological Survey investigators as a northwest-trending structure more than 1,000 feet long, containing deep-purple crystalline fluorite with quartz, clay minerals, pyrite, galena, and uranium-bearing minerals.",
+        "Boulder County has described Blue Jay as one of the better-preserved and historically interesting mining complexes on its open-space properties. The surviving hoist-house area has also become important bat habitat, giving the historic mine an additional modern conservation role."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 40.1105412,
+        "longitude": -105.3836049
+      },
+      "sourceReferences": [
+        {
+          "title": "Uranium Occurrences in the Front Range Mineral Belt, Colorado",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/tei/059/report.pdf",
+          "note": "Documents Blue Jay Mine southeast of Jamestown, its ownership and lease at the time of study, short adits, 300-foot shaft, 150- and 300-foot levels, fluorite vein geology, and 1949-1950 federal examinations."
+        },
+        {
+          "title": "2022 Wildlife Annual Report — The Bats of Blue Jay Mine",
+          "publisher": "Boulder County Parks & Open Space",
+          "url": "https://assets.bouldercounty.gov/wp-content/uploads/2023/06/wildlife-annual-report-2022.pdf",
+          "note": "Describes Blue Jay Mine near Jamestown as a well-preserved and historically interesting mining complex and documents bat use of the hoist-house structure."
+        },
+        {
+          "title": "Designated Historic Sites",
+          "publisher": "Boulder County",
+          "url": "https://bouldercounty.gov/property-and-land/land-use/historic-preservation/designated-historic-sites/",
+          "note": "Lists Blue Jay Mine as Boulder County historic site HP-07-08, designated August 21, 2007."
+        },
+        {
+          "title": "Blue Jay Mine mapped locality",
+          "publisher": "USGS-derived mapped place data",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/",
+          "note": "Preserves the Blue Jay Mine mapped coordinates at approximately 40.1105412, -105.3836049 near Jamestown."
         }
       ]
     }
