@@ -1,0 +1,42 @@
+{
+  "countySlug": "clear-creek",
+  "site": {
+    "id": "CO-CLEAR-CREEK-ALABAMA-SHAFT",
+    "name": "Alabama Shaft",
+    "location": "Lamartine Mining District",
+    "county": "Clear Creek County",
+    "state": "Colorado",
+    "category": "Shaft / Mine",
+    "componentType": "Shaft / Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T18:43:00.000Z",
+    "overview": [
+      "Alabama Shaft is a documented historic gold-silver shaft and mine locality in Clear Creek County's Lamartine Mining District.",
+      "USGS-derived topographic mapping preserves the named shaft near 39.73721, -105.58667, providing a defensible mine-level identification anchor without asserting that any historic surface structure survives today."
+    ],
+    "timeline": [],
+    "moreHistory": [
+      "Federal mine inventories preserve Alabama Shaft as a named past-producing Clear Creek County locality. The mapped point identifies the historic shaft property; Remnant does not claim that the shaft collar, a headframe, hoist house, ore bins, or other surface remains have been field-verified or are accessible.",
+      "A focused exact-site media search did not produce a defensible reusable historical photograph, so unrelated district imagery was rejected rather than attached to the wrong site."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.73721,
+      "longitude": -105.586666
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS-derived Alabama Shaft Mine topographic feature record",
+        "url": "https://topoquest.com/place/colorado/mine/alabama-shaft-mine/1693952"
+      },
+      {
+        "title": "USGS MRDS-derived Clear Creek County mine inventory",
+        "url": "https://westernmininghistory.com/mine-county/colorado/clear-creek/"
+      }
+    ]
+  }
+}
