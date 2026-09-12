@@ -1,0 +1,40 @@
+{
+  "countySlug": "clear-creek",
+  "site": {
+    "id": "CO-CLEAR-CREEK-AETNA-MINE",
+    "name": "Aetna Mine",
+    "location": "Georgetown quadrangle",
+    "county": "Clear Creek County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T17:26:00.000Z",
+    "overview": [
+      "Aetna Mine is a documented historic gold-silver mine in Clear Creek County, preserved as a named mine feature on Georgetown-area topographic mapping."
+    ],
+    "timeline": [],
+    "moreHistory": [
+      "USGS-derived mapping places Aetna Mine near 39.709154, -105.692226 at about 8,596 feet elevation. The mapped mine locality identifies the historic property; no claim is made that a surviving shaft, portal, or other opening has been field-verified or is accessible today."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.7091541,
+      "longitude": -105.6922262
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS-derived Aetna Mine topographic feature record",
+        "url": "https://www.anyplaceamerica.com/directory/co/clear-creek-county-08019/mines/aetna-mine-1693736/"
+      },
+      {
+        "title": "Georgetown USGS topographic mapping",
+        "url": "https://mapstore.mytopo.com/products/ustopo_colorado_georgetown"
+      }
+    ]
+  }
+}
