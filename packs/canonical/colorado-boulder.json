@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "60",
-  "generatedAt": "2026-09-13T13:43:55.859Z",
+  "version": "61",
+  "generatedAt": "2026-09-13T13:51:34.060Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -2677,6 +2677,59 @@
         {
           "title": "USGS-derived Hummer Mine mapped feature — Tungsten, Colorado quadrangle",
           "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/hummer-mine-1685060/"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-LIVINGSTON-MINE",
+      "name": "Livingston Mine",
+      "location": "Sugarloaf Mountain / Sugar Loaf Mining District",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-13T19:20:00-06:00",
+      "overview": [
+        "Livingston Mine is a documented historic gold-and-silver mine on Sugarloaf Mountain in Boulder County's Sugar Loaf Mining District.",
+        "Federal mineral reports identify it as one of the county's important early-twentieth-century producers, while historic Boulder photographs preserve views of the mine in the 1890s and early 1900s."
+      ],
+      "timeline": [
+        {
+          "year": "1893-1894",
+          "text": "A surviving Boulder Historical Society photograph documents the Livingston Mine and its surface buildings on Sugarloaf Mountain."
+        },
+        {
+          "year": "1905",
+          "text": "The U.S. Geological Survey described the Livingston as one of Boulder County's important producers and noted that the mine was developed by shafts."
+        }
+      ],
+      "moreHistory": [
+        "The U.S. Geological Survey placed the Livingston in the Sugar Loaf district between Four Mile Creek and Boulder Creek and grouped it with the district's important producing properties.",
+        "Historic photographs in the Carnegie Library for Local History preserve the Livingston Mine as a named Sugarloaf Mountain operation. Those images were retained as research evidence, but no image with sufficiently clear redistribution rights was identified for app packaging.",
+        "A USGS/GNIS-derived mapped mine point at approximately 40.0258195, -105.4130504 is used as the historic mine-level identification anchor without claiming that a surviving shaft collar has been field surveyed."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 40.0258195,
+        "longitude": -105.4130504
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey — Mineral Resources of the United States, 1905",
+          "url": "https://apps.usgs.gov/minerals-information-archives/mineral-resources-1893-1933/mr-1905.pdf"
+        },
+        {
+          "title": "Carnegie Library for Local History — Livingston Mine on Sugarloaf Mountain, BHS 219-5-11",
+          "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A26646"
+        },
+        {
+          "title": "USGS/GNIS-derived Livingston Mine topographic record",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/livingston-mine-1683708/"
         }
       ]
     }
