@@ -3,8 +3,8 @@
   "id": "colorado-jefferson",
   "county": "Jefferson County",
   "state": "Colorado",
-  "version": "5",
-  "generatedAt": "2026-09-07T20:36:12.965Z",
+  "version": "6",
+  "generatedAt": "2026-09-13T03:01:42.697Z",
   "sites": [
     {
       "id": "CO-JEFFERSON-CAMP-GEORGE-WEST",
@@ -159,6 +159,49 @@
       "state": "Colorado",
       "appReady": false,
       "betaVisible": false
+    },
+    {
+      "id": "CO-JEFFERSON-BANKERS-LODE-CLAIM",
+      "name": "Bankers Lode Claim",
+      "county": "Jefferson County",
+      "state": "Colorado",
+      "category": "Historic Mine / Prospect",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.89083,
+        "longitude": -105.34222
+      },
+      "overview": [
+        "Bankers Lode Claim is a historic underground mining property in Jefferson County's Ralston Buttes mining district, developed along a north-trending breccia zone in Precambrian crystalline rock."
+      ],
+      "timeline": [
+        "The mine was developed with a drift about 500 feet long, two raises, and a crosscut; later published descriptions reported the workings as extensively collapsed.",
+        "In 1954, federal uranium-reconnaissance work included a preliminary report and geologic map of the Bankers Lode workings in the district."
+      ],
+      "moreHistory": [
+        "Published geologic descriptions place the Bankers Lode Claim in the SE quarter of the NW quarter of section 9, Township 2 South, Range 71 West, at roughly 8,500 feet elevation. Reported mineralization includes fluorite and copper minerals such as chalcocite, with secondary malachite and cuprite among the noted minerals."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "sources": [
+        {
+          "title": "Fluorspar Deposits in Colorado — Jefferson County, Bankers Lode Claim",
+          "sourcePage": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/OF-75-00.pdf"
+        },
+        {
+          "title": "Bankers Lode Claim locality placement — Mindat nearby-localities index",
+          "sourcePage": "https://www.mindat.org/feature-5417342.html"
+        },
+        {
+          "title": "Ralston Buttes Mining District locality index",
+          "sourcePage": "https://www.mindat.org/loc-66741.html"
+        }
+      ],
+      "contentUpdatedAt": "2026-09-12T09:19:20Z"
     }
   ]
 }
