@@ -3,28 +3,46 @@
   "id": "colorado-cheyenne",
   "county": "Cheyenne County",
   "state": "Colorado",
-  "version": "3",
-  "generatedAt": "2026-09-07T20:24:27.188Z",
+  "version": "4",
+  "generatedAt": "2026-09-13T01:39:12.922Z",
   "sites": [
     {
       "id": "CO-CHEYENNE-KIT-CARSON-UP-DEPOT",
       "name": "Kit Carson Union Pacific Railroad Depot (Museum)",
       "location": "200 Park St., Kit Carson",
       "county": "Cheyenne County",
+      "state": "Colorado",
       "category": "Railroad Depot",
       "componentType": "Railroad Depot",
+      "tier": "ID ONLY",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T13:55:00-06:00",
       "overview": [
-        "A surviving 1904 Union Pacific combination depot now used as a museum."
+        "The Kit Carson Union Pacific Railroad Depot is a surviving 1904 wood-frame combination depot in Kit Carson, Colorado, now used as a museum."
       ],
-      "timeline": [],
-      "moreHistory": [],
+      "timeline": [
+        {
+          "year": "1904",
+          "text": "The depot was constructed as a Union Pacific standard-plan combination depot."
+        }
+      ],
+      "moreHistory": [
+        "History Colorado identifies the building as a well-preserved example of a Union Pacific standard-plan combination depot. Its survival provides a tangible link to the railroad era that shaped Kit Carson and the surrounding eastern plains."
+      ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 38.76471,
         "longitude": -102.79378
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "History Colorado — Kit Carson Union Pacific Railroad Depot (Kit Carson Museum)",
+          "url": "https://www.historycolorado.org/taxonomy/term/461"
+        }
+      ]
     }
   ]
 }

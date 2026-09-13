@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-13T01:38:47.028Z",
-  "generatedAt": "2026-09-13T01:38:47.028Z",
+  "contentVersion": "2026-09-13T01:39:12.922Z",
+  "generatedAt": "2026-09-13T01:39:12.922Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -49,7 +49,7 @@
       "id": "colorado-cheyenne",
       "county": "Cheyenne County",
       "state": "Colorado",
-      "version": "3",
+      "version": "4",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-cheyenne.json",
       "exploreSiteCount": 0,
       "idOnlySiteCount": 1,
