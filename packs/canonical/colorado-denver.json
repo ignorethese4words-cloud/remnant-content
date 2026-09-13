@@ -3,28 +3,62 @@
   "id": "colorado-denver",
   "county": "Denver County",
   "state": "Colorado",
-  "version": "3",
-  "generatedAt": "2026-09-07T20:24:27.189Z",
+  "version": "4",
+  "generatedAt": "2026-09-13T05:05:51.202Z",
   "sites": [
     {
       "id": "CO-DENVER-MIDWEST-STEEL-IRON-WORKS",
       "name": "Midwest Steel & Iron Works Company Complex",
       "location": "25 Larimer Street, Denver",
       "county": "Denver County",
-      "category": "Industrial Complex",
-      "componentType": "Power / Industrial",
-      "appReady": false,
-      "betaVisible": false,
+      "state": "Colorado",
+      "category": "Steel Fabrication / Industrial Complex",
+      "componentType": "Steel Fabrication / Industrial Complex",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-12T15:53:07Z",
       "overview": [
-        "A surviving historic metal-fabrication complex in Denver."
+        "The Midwest Steel & Iron Works Company complex at 25 Larimer Street was the headquarters of one of Denver's oldest and largest structural and ornamental metal fabricators. The four-building industrial complex reflects the city's growth as a regional manufacturing and engineering center."
       ],
-      "timeline": [],
-      "moreHistory": [],
-      "displayImages": [],
+      "timeline": [
+        "1906 — Initial construction began at the Larimer Street complex.",
+        "1923 — The Larimer Street complex became Midwest Steel & Iron Works Company's headquarters.",
+        "1930 — Denver architect Roland L. Linder designed an Art Deco office addition, an unusual application of the style to an industrial site.",
+        "1983 — The Larimer Street complex ended its long period as the company's headquarters; the site was also determined eligible for the National Register of Historic Places for its industrial and architectural significance."
+      ],
+      "moreHistory": [
+        "Historic American Engineering Record documentation identifies Midwest Steel & Iron Works as a major regional fabricator of structural and ornamental metal components used in buildings and engineering works across Colorado, Wyoming, and New Mexico. The surviving Larimer Street complex includes industrial, office, repair, and storage functions that illustrate Denver's twentieth-century metal-fabrication industry."
+      ],
+      "displayImages": [
+        {
+          "id": "loc-haer-co19-020997p",
+          "title": "Interior detail of 1930 office addition, Midwest Steel & Iron Works Company",
+          "remoteUri": "https://cdn.loc.gov/service/pnp/habshaer/co/co0000/co0012/photos/020997p_150px.jpg",
+          "source": {
+            "uri": "https://cdn.loc.gov/service/pnp/habshaer/co/co0000/co0012/photos/020997p_150px.jpg"
+          },
+          "sourcePage": "https://www.loc.gov/pictures/item/co0012.photos.020997p/",
+          "sourceNote": "Historic American Engineering Record HAER CO-19 photograph 4; Library of Congress Prints and Photographs Division.",
+          "rights": "Library of Congress HAER record: no known restrictions on images made by the U.S. Government; use subject to the HABS/HAER/HALS rights advisory.",
+          "mediaStatus": "PACKAGED"
+        }
+      ],
+      "mediaSearchStatus": "FOUND_USABLE_MEDIA",
       "coordinates": {
         "latitude": 39.740111,
         "longitude": -105.015863
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "Library of Congress — Midwest Steel & Iron Works Company, HAER CO-19",
+          "url": "https://www.loc.gov/item/co0012/"
+        },
+        {
+          "title": "Historic American Engineering Record — Midwest Steel & Iron Works Company, HAER CO-19 data pages",
+          "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/co/co0000/co0012/data/co0012data.pdf"
+        }
+      ]
     }
   ]
 }
