@@ -1,0 +1,56 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-ELSIE-MINE",
+    "name": "Elsie Mine",
+    "location": "Tungsten district, Boulder County",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-13T03:52:10-06:00",
+    "overview": [
+      "Elsie Mine is a documented historic tungsten mine in Boulder County's Tungsten district.",
+      "Federal exploration-assistance records list the Elsie Mine under two DMEA dockets, while early Colorado tungsten reporting and USGS-derived mapping preserve the site as a distinct named mine locality."
+    ],
+    "timeline": [
+      {
+        "year": "1908",
+        "text": "Colorado's early tungsten survey illustrated ore from the Elsie Mine while documenting the main tungsten area of Boulder County."
+      },
+      {
+        "year": "1950s-1970s federal exploration-assistance era",
+        "text": "USGS Data Series 1004 preserves two DMEA exploration-assistance files for the Elsie Mine, docket numbers 3538 and 3785, both identified with tungsten."
+      }
+    ],
+    "moreHistory": [
+      "The Colorado Geological Survey's early report on Boulder County tungsten includes Elsie Mine ore in its illustrated discussion of the district, confirming the mine's historic identity within the tungsten field.",
+      "USGS Data Series 1004 independently preserves two federal exploration-assistance files for the Elsie Mine, strengthening the identification beyond a single mapped-name lead.",
+      "USGS-derived place mapping places the Elsie Mine at approximately 39.9419314, -105.4883303. Remnant uses this as a mine-locality identification point and does not claim it is a field-surveyed surviving shaft or portal."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.9419314,
+      "longitude": -105.4883303
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS Data Series 1004 — Historical Files from Federal Government Mineral Exploration-Assistance Programs, 1950 to 1974",
+        "url": "https://pubs.usgs.gov/ds/1004/ds1004_bystate.htm"
+      },
+      {
+        "title": "Colorado Geological Survey — First Report, 1908, Main Tungsten Area of Boulder County",
+        "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/B-00.pdf"
+      },
+      {
+        "title": "USGS-derived mapped locality — Elsie Mine, Boulder County",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/elsie-mine-181141/"
+      }
+    ]
+  }
+}
