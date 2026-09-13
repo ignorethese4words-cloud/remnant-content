@@ -1,0 +1,44 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-RAMBLER-MINE",
+    "name": "Rambler Mine",
+    "location": "Boulder County Tungsten Mining District",
+    "county": "Boulder County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-13T01:43:00Z",
+    "overview": [
+      "Rambler Mine is a documented historic tungsten property in Boulder County, preserved in federal mapping and state and federal district records."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "District records document Rambler and Lower Rambler as related but distinct workings within the Boulder County tungsten-mining landscape."
+      }
+    ],
+    "moreHistory": [
+      "Federal mapping preserves the Rambler Mine locality at approximately 39.947209, -105.508887. The Rambler point is retained for this mine record while the documented Lower Rambler relationship is kept distinct rather than collapsing separate workings into one location."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.947209,
+      "longitude": -105.508887
+    },
+    "sourceReferences": [
+      {
+        "title": "Colorado Geological Survey MI-04 — Tungsten Mines of Colorado",
+        "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/MI-04.pdf"
+      },
+      {
+        "title": "U.S. Geological Survey Professional Paper 245 — Geology and Ore Deposits of the Boulder County Tungsten District, Colorado",
+        "url": "https://pubs.usgs.gov/pp/0245/report.pdf"
+      }
+    ]
+  }
+}
