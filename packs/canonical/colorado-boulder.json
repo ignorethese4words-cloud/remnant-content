@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "48",
-  "generatedAt": "2026-09-13T01:32:14.639Z",
+  "version": "49",
+  "generatedAt": "2026-09-13T01:32:44.397Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -397,22 +397,50 @@
     {
       "id": "CO-BOULDER-BIG-HORN-SHAFT",
       "name": "Big Horn Shaft",
-      "location": "Sugarloaf Mining District",
+      "location": "Sugarloaf Mining District / northeast of Grand Island-Caribou district",
       "county": "Boulder County",
+      "state": "Colorado",
       "category": "Historic Mine Shaft",
       "componentType": "Shaft / Mine",
+      "tier": "ID ONLY",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T13:17:12-06:00",
       "overview": [
-        "Historic named mine shaft in Boulder County."
+        "Big Horn Shaft is a documented historic mine shaft in Boulder County's Sugarloaf Mining District, northeast of the Grand Island-Caribou mining area. Federal mineral-resource material records the property as a molybdenum producer, while mapped locality data preserves a stable shaft-level identification point."
       ],
-      "timeline": [],
-      "moreHistory": [],
+      "timeline": [
+        {
+          "year": "1918",
+          "text": "A federal mineral-potential synthesis reports production of molybdenite-bearing ore from pyritic quartz veins in Precambrian gneiss at the Big Horn Shaft."
+        }
+      ],
+      "moreHistory": [
+        "The Bureau of Land Management's Royal Gorge Field Office mineral-potential report cites earlier Colorado and federal references for 1918 production at Big Horn Shaft and places the property just northeast of the Grand Island-Caribou district.",
+        "Mineral-locality mapping identifies Big Horn Shaft (Caribou) in the Sugarloaf Mining District near 40.01639, -105.56639. Remnant uses this mapped shaft locality for identification and does not claim that a shaft collar, headframe, foundations, or other surface remains have been field-verified or are accessible today.",
+        "A focused exact-site media search did not produce a defensible rights-cleared historical photograph for app packaging, so nearby or similarly named mine imagery was not attached."
+      ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 40.01639,
         "longitude": -105.56639
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "Royal Gorge Field Office Mineral Potential Report — Boulder County molybdenum discussion",
+          "publisher": "U.S. Bureau of Land Management",
+          "url": "https://eplanning.blm.gov/public_projects/lup/39877/162741/198546/Royal_Gorge_Field__Office_MPR.pdf",
+          "note": "Reports 1918 molybdenite-bearing ore production at Big Horn Shaft and places it northeast of the Grand Island-Caribou district, citing Eckel (1961) and King (1964)."
+        },
+        {
+          "title": "Sugarloaf Mining District — Big Horn Shaft (Caribou) locality",
+          "publisher": "Mindat",
+          "url": "https://www.mindat.org/loc-66751.html",
+          "note": "Preserves Big Horn Shaft (Caribou) as a Sugarloaf Mining District locality; mapped locality coordinates support the retained shaft-level identification point."
+        }
+      ]
     },
     {
       "id": "CO-BOULDER-BLACK-PRINCE-MINE",
