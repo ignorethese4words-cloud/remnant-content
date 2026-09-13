@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-12T23:00:31.832Z",
-  "generatedAt": "2026-09-12T23:00:31.832Z",
+  "contentVersion": "2026-09-13T00:05:47.601Z",
+  "generatedAt": "2026-09-13T00:05:47.601Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -39,7 +39,7 @@
       "id": "colorado-chaffee",
       "county": "Chaffee County",
       "state": "Colorado",
-      "version": "17",
+      "version": "18",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
       "exploreSiteCount": 0,
       "idOnlySiteCount": 71,

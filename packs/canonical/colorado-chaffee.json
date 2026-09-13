@@ -3,8 +3,8 @@
   "id": "colorado-chaffee",
   "county": "Chaffee County",
   "state": "Colorado",
-  "version": "17",
-  "generatedAt": "2026-09-12T14:59:43.410Z",
+  "version": "18",
+  "generatedAt": "2026-09-13T00:05:47.601Z",
   "sites": [
     {
       "id": "CO-CHAFFEE-ALASKA-MINE",
@@ -202,22 +202,52 @@
     {
       "id": "CO-CHAFFEE-AMERICAN-FLAG-MINE",
       "name": "American Flag Mine",
-      "location": "Turret district",
+      "location": "Turret Mining District",
       "county": "Chaffee County",
       "category": "Mine",
       "componentType": "Mine",
+      "tier": "ID ONLY",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-11T23:25:00Z",
       "overview": [
-        "American Flag is a documented Turret-district gold mine with Anaconda, Crete, Ethel Consolidation and Holdredge recorded as associated historical names."
+        "American Flag Mine is a documented historic gold mine in the Turret Mining District of Chaffee County, with the locality preserved in mineral records and U.S. topographic mapping."
       ],
-      "timeline": [],
-      "moreHistory": [],
+      "timeline": [
+        {
+          "year": "1901-1902",
+          "text": "Colorado Bureau of Mines annual reports from these years are cited among the historical references for the American Flag Mine locality."
+        },
+        {
+          "year": "Modern documentation",
+          "text": "Mineral-locality and topographic records continue to preserve American Flag Mine as a named Turret-district mine."
+        }
+      ],
+      "moreHistory": [
+        "Mineral locality records identify gold as the major commodity and list Anaconda Mine, Ethel Consolidation Mine, Crete Mine, and Holdredge Mine among associated historical names for the American Flag locality.",
+        "The documented mine locality is approximately 38.63222, -106.00195 in the Turret Mining District."
+      ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 38.63222,
         "longitude": -106.00195
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "American Flag Mine, Turret Mining District, Chaffee County, Colorado, USA",
+          "publisher": "Mindat.org / Hudson Institute of Mineralogy",
+          "url": "https://www.mindat.org/loc-110647.html",
+          "note": "Records the American Flag Mine locality, Turret Mining District, coordinates, associated historical names, gold commodity, producer status, and historical references."
+        },
+        {
+          "title": "Nathrop Colorado US Topo Map",
+          "publisher": "USGS mapping via MyTopo Map Store",
+          "url": "https://mapstore.mytopo.com/products/ustopo_colorado_nathrop",
+          "note": "Lists American Flag Mine as a named feature on the Nathrop quadrangle."
+        }
+      ]
     },
     {
       "id": "CO-CHAFFEE-ANNA-HUFFMAN-COPPER",
