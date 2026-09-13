@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "42",
-  "generatedAt": "2026-09-13T01:17:12.747Z",
+  "version": "43",
+  "generatedAt": "2026-09-13T01:17:41.062Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -767,18 +767,35 @@
       "county": "Boulder County",
       "category": "Historic Mine",
       "componentType": "Mine",
+      "tier": "ID ONLY",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-13T01:33:00Z",
       "overview": [
-        "Historic tungsten mine documented by federal and Colorado mining records."
+        "Hoosier Mine is a documented historic mine in Boulder County's tungsten district, preserved in federal mineral records and district mapping."
       ],
-      "timeline": [],
-      "moreHistory": [],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Federal district records document the Hoosier Mine as part of the Boulder County tungsten-mining landscape."
+        }
+      ],
+      "moreHistory": [
+        "Federal mineral records place the main Hoosier mine entrance at approximately 39.97483, -105.49861 with reported positional accuracy of about 50 meters. The mapped point is a historic mine locality and does not imply that the surviving opening has been field-verified."
+      ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 39.97483,
         "longitude": -105.49861
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey Professional Paper 245 — Geology and Ore Deposits of the Boulder County Tungsten District, Colorado",
+          "url": "https://pubs.usgs.gov/pp/0245/report.pdf"
+        }
+      ]
     },
     {
       "id": "CO-BOULDER-PAYMASTER-MINE",
