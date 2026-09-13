@@ -1,0 +1,52 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-GRAND-CENTRAL-MINE",
+    "name": "Grand Central Mine",
+    "location": "Near Jamestown, Boulder County",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-13T04:58:00-06:00",
+    "overview": [
+      "Grand Central Mine is a documented historic gold-and-silver mine in Boulder County near Jamestown.",
+      "Federal mineral records identify the Grand Central as a past producer and preserve a mapped main-entrance location in the Boulder quadrangle."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "The Grand Central was worked as a gold-and-silver mine in Boulder County and is retained in federal mineral records as a past producer."
+      },
+      {
+        "year": "Modern federal documentation",
+        "text": "USGS Mineral Resources Data System records preserve the Grand Central as a named mine site with a main-entrance coordinate in the Boulder 1:24,000 quadrangle."
+      }
+    ],
+    "moreHistory": [
+      "The USGS Mineral Resources Data System record for Grand Central identifies gold and silver as the documented commodities and classifies the property as a past producer.",
+      "The MRDS record gives a WGS84 main-entrance point at approximately 40.11743, -105.35845 with stated 10-meter location accuracy. Remnant uses that documented mine-level point for identification without asserting current access or condition.",
+      "USGS-derived topographic listings independently retain Grand Central Mine as a named Boulder County mine feature. A focused media search did not locate a rights-cleared photograph that could be confidently tied to this exact Boulder County site; similarly named Grand Central mines elsewhere were rejected."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.11743,
+      "longitude": -105.35845
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS Mineral Resources Data System — Grand Central (MRDS #10238686)",
+        "url": "https://www.qvyshift.com/mrds/show-mrds.php?dep_id=10238686"
+      },
+      {
+        "title": "USGS Boulder topographic map listing — Grand Central Mine",
+        "url": "https://www.yellowmaps.com/usgs/topo.cfm?map=co-1683840-grand-central-mine"
+      }
+    ]
+  }
+}
