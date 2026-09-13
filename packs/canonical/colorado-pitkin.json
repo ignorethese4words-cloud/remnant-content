@@ -3,8 +3,8 @@
   "id": "colorado-pitkin",
   "county": "Pitkin County",
   "state": "Colorado",
-  "version": "4",
-  "generatedAt": "2026-09-11T14:58:16.000Z",
+  "version": "5",
+  "generatedAt": "2026-09-13T01:41:05.868Z",
   "sites": [
     {
       "id": "CO-Pitkin-REDSTONE-COKE-OVENS",
@@ -77,6 +77,47 @@
           "publisher": "Aspen Historical Society",
           "sourcePage": "https://aspenhistory.org/ashcroft-ghost-town/",
           "note": "Provides the townsite history, surviving/restored structures, current stewardship, location, and the official directions link used for the townsite Scan anchor."
+        }
+      ]
+    },
+    {
+      "id": "CO-PITKIN-ALPINE-MINE",
+      "name": "Alpine Mine",
+      "location": "Columbia (Ashcroft) Mining District, Pitkin County",
+      "county": "Pitkin County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T23:14:00Z",
+      "overview": [
+        "Alpine Mine is a documented historic gold mine in Pitkin County's Columbia (Ashcroft) mining district. USGS-derived topographic mapping preserves the named mine at approximately 39.049990, -106.797816, providing a defensible identification point without implying present-day access or surviving open workings."
+      ],
+      "timeline": [],
+      "moreHistory": [
+        "Available retained sources consistently place this Alpine Mine in the Ashcroft-area Columbia mining district and distinguish it from same-name mines elsewhere in Colorado and Nevada. The current evidence supports the mine's identity, district, commodity, and mapped location, but does not establish a reliable operator chronology, production total, or surviving condition, so those details are left unstated."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.0499903,
+        "longitude": -106.7978158
+      },
+      "sourceReferences": [
+        {
+          "title": "USGS-derived Alpine Mine topographic feature record",
+          "url": "https://www.anyplaceamerica.com/directory/co/pitkin-county-08097/mines/alpine-mine-1684853/"
+        },
+        {
+          "title": "Hayden Peak, Colorado US Topo map index",
+          "url": "https://mapstore.mytopo.com/products/ustopo_colorado_hayden-peak"
+        },
+        {
+          "title": "Pitkin County locality index — Columbia (Ashcroft) Mining District",
+          "url": "https://www.mindat.org/loc-24237.html"
         }
       ]
     }
