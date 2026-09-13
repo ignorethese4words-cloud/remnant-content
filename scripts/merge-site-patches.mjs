@@ -94,6 +94,17 @@ function counts(pack) {
   return { siteCount: pack.sites.length, exploreSiteCount, idOnlySiteCount };
 }
 
+function removeLegacyIds(pack, ids, patchName, currentId) {
+  if (!Array.isArray(ids)) return;
+  for (const id of ids) {
+    if (typeof id !== 'string' || !id.trim()) fail(`${patchName}: removeSiteIds must contain non-empty strings`);
+    if (id === currentId) fail(`${patchName}: removeSiteIds cannot include current site.id ${currentId}`);
+    const matches = pack.sites.filter((s) => s?.id === id).length;
+    if (matches > 1) fail(`${patchName}: duplicate legacy Site ID ${id} in public county pack`);
+    if (matches === 1) pack.sites = pack.sites.filter((s) => s?.id !== id);
+  }
+}
+
 if (!fs.existsSync(PATCH_DIR)) {
   console.log('PUBLIC SITE PATCH MERGE — no pending patch directory');
   process.exit(0);
@@ -116,17 +127,19 @@ for (const patchName of patchFiles) {
   const patchPath = path.join(PATCH_DIR, patchName);
   const patch = readJson(patchPath);
   const countySlug = patch?.countySlug;
+  const operation = patch?.operation ?? 'upsert';
   const site = patch?.site;
   if (!countySlug || !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(countySlug)) fail(`${patchName}: invalid countySlug`);
-  validateSite(site, patchName);
+  if (operation !== 'upsert' && operation !== 'delete') fail(`${patchName}: operation must be upsert or delete`);
+  if (operation === 'upsert') validateSite(site, patchName);
 
-  const countyLabel = site.county.endsWith(' County') ? site.county : `${site.county} County`;
   const packPath = path.join(PACK_DIR, `colorado-${countySlug}.json`);
   let pack;
   if (fs.existsSync(packPath)) {
     pack = readJson(packPath);
     if (!Array.isArray(pack.sites)) fail(`${patchName}: ${countySlug} public pack has no sites array`);
-  } else {
+  } else if (operation === 'upsert') {
+    const countyLabel = site.county.endsWith(' County') ? site.county : `${site.county} County`;
     pack = {
       schemaVersion: 1,
       id: `colorado-${countySlug}`,
@@ -136,24 +149,39 @@ for (const patchName of patchFiles) {
       generatedAt: new Date().toISOString(),
       sites: []
     };
-  }
-
-  const matching = pack.sites.map((s, i) => s?.id === site.id ? i : -1).filter((i) => i >= 0);
-  if (matching.length > 1) fail(`${patchName}: duplicate public Site ID ${site.id} in ${countySlug} pack`);
-
-  if (matching.length === 1) {
-    const existing = pack.sites[matching[0]];
-    const incomingTs = isoTime(site.contentUpdatedAt);
-    const existingTs = isoTime(existing?.contentUpdatedAt);
-    if (existingTs !== null && incomingTs !== null && incomingTs < existingTs) {
-      fail(`${patchName}: incoming ${site.id} is older than existing public content`);
-    }
-    pack.sites[matching[0]] = site;
   } else {
-    pack.sites.push(site);
+    fail(`${patchName}: cannot delete from missing ${countySlug} public pack`);
   }
 
-  if (pack.sites.filter((s) => s?.id === site.id).length !== 1) fail(`${patchName}: post-merge uniqueness check failed for ${site.id}`);
+  let affectedId;
+  if (operation === 'delete') {
+    const siteId = patch?.siteId;
+    if (!siteId || typeof siteId !== 'string') fail(`${patchName}: delete operation requires siteId`);
+    const matches = pack.sites.filter((s) => s?.id === siteId).length;
+    if (matches !== 1) fail(`${patchName}: delete requires exactly one existing Site ID ${siteId}; found ${matches}`);
+    pack.sites = pack.sites.filter((s) => s?.id !== siteId);
+    affectedId = siteId;
+  } else {
+    removeLegacyIds(pack, patch?.removeSiteIds, patchName, site.id);
+
+    const matching = pack.sites.map((s, i) => s?.id === site.id ? i : -1).filter((i) => i >= 0);
+    if (matching.length > 1) fail(`${patchName}: duplicate public Site ID ${site.id} in ${countySlug} pack`);
+
+    if (matching.length === 1) {
+      const existing = pack.sites[matching[0]];
+      const incomingTs = isoTime(site.contentUpdatedAt);
+      const existingTs = isoTime(existing?.contentUpdatedAt);
+      if (existingTs !== null && incomingTs !== null && incomingTs < existingTs) {
+        fail(`${patchName}: incoming ${site.id} is older than existing public content`);
+      }
+      pack.sites[matching[0]] = site;
+    } else {
+      pack.sites.push(site);
+    }
+
+    if (pack.sites.filter((s) => s?.id === site.id).length !== 1) fail(`${patchName}: post-merge uniqueness check failed for ${site.id}`);
+    affectedId = site.id;
+  }
 
   const oldVersion = Number.parseInt(String(pack.version ?? '0'), 10);
   pack.version = String(Number.isFinite(oldVersion) ? oldVersion + 1 : 1);
@@ -163,10 +191,22 @@ for (const patchName of patchFiles) {
   fs.writeFileSync(packPath, `${JSON.stringify(pack, null, 2)}\n`, 'utf8');
 
   const verifyPack = readJson(packPath);
-  if (verifyPack.sites.filter((s) => s?.id === site.id).length !== 1) fail(`${patchName}: reread verification failed for ${site.id}`);
-  const verifiedSite = verifyPack.sites.find((s) => s?.id === site.id);
-  validateSite(verifiedSite, `${patchName} reread`);
+  if (operation === 'delete') {
+    if (verifyPack.sites.some((s) => s?.id === affectedId)) fail(`${patchName}: reread delete verification failed for ${affectedId}`);
+  } else {
+    if (verifyPack.sites.filter((s) => s?.id === site.id).length !== 1) fail(`${patchName}: reread verification failed for ${site.id}`);
+    const verifiedSite = verifyPack.sites.find((s) => s?.id === site.id);
+    validateSite(verifiedSite, `${patchName} reread`);
+    for (const oldId of patch?.removeSiteIds ?? []) {
+      if (verifyPack.sites.some((s) => s?.id === oldId)) fail(`${patchName}: legacy Site ID ${oldId} survived reread`);
+    }
+  }
 
+  const countyLabel = typeof pack.county === 'string' && pack.county.trim()
+    ? pack.county
+    : operation === 'upsert'
+      ? (site.county.endsWith(' County') ? site.county : `${site.county} County`)
+      : fail(`${patchName}: missing county label after delete`);
   const c = counts(verifyPack);
   let entry = index.packs.find((p) => p?.id === `colorado-${countySlug}`);
   if (!entry) {
@@ -185,7 +225,7 @@ for (const patchName of patchFiles) {
 
   fs.unlinkSync(patchPath);
   merged += 1;
-  touched.push(`${site.id} -> packs/canonical/colorado-${countySlug}.json`);
+  touched.push(`${affectedId} -> packs/canonical/colorado-${countySlug}.json`);
 }
 
 fs.writeFileSync(INDEX_PATH, `${JSON.stringify(index, null, 2)}\n`, 'utf8');
