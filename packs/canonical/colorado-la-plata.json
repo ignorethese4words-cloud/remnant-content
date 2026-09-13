@@ -3,8 +3,8 @@
   "id": "colorado-la-plata",
   "county": "La Plata County",
   "state": "Colorado",
-  "version": "3",
-  "generatedAt": "2026-09-07T20:24:27.190Z",
+  "version": "4",
+  "generatedAt": "2026-09-13T22:03:51.831Z",
   "sites": [
     {
       "id": "CO-LA-PLATA-COLORADO-UTE-POWER-PLANT",
@@ -25,6 +25,52 @@
         "latitude": 37.278889,
         "longitude": -107.879722
       }
+    },
+    {
+      "id": "CO-LA-PLATA-SMALL-HOPE-MINE",
+      "name": "Small Hope Mine",
+      "location": "La Plata Mining District (California Mining District)",
+      "county": "La Plata County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-12T13:51:22Z",
+      "overview": [
+        "Small Hope Mine is a historic gold-silver mine in the La Plata Mining District of La Plata County. Federal geologic work documents a developed mine with a deep shaft, a short adit, and later underground connection attempts from the Grassy Hill crosscut tunnel."
+      ],
+      "timeline": [
+        "Late 1880s to early 1890s — The Small Hope vein was discovered and the mine became a recurring producer.",
+        "By the late 1890s — Ore was being taken from a 275-foot shaft and a short adit near 11,600 feet elevation; some ore was treated in a small bromination plant.",
+        "1898–1900 — The Grassy Hill crosscut tunnel was driven and intersected a vein believed by operators to be the Small Hope, followed by additional drifting.",
+        "1930s — Federal investigators recorded the Grassy Hill tunnel as reopened for examination before later caving near its portal."
+      ],
+      "moreHistory": [
+        "The retained identification anchor is the La Plata district Small Hope locality at approximately 37.43333, -108.04111. This record intentionally excludes the separate lower-elevation Small Hope feature shown on the Hesperus quadrangle. Historical descriptions document substantial underground development, but this app record does not imply that any shaft, adit, or tunnel is open, safe, or accessible today."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 37.43333,
+        "longitude": -108.04111
+      },
+      "sources": [
+        {
+          "title": "U.S. Geological Survey Professional Paper 219 — Geology and Ore Deposits of the La Plata District, Colorado",
+          "sourcePage": "https://pubs.usgs.gov/pp/0219/report.pdf"
+        },
+        {
+          "title": "La Plata Mining District (California Mining District) — locality index including Small Hope Mine",
+          "sourcePage": "https://www.mindat.org/loc-26965.html"
+        },
+        {
+          "title": "Mindat nearest-locality record placing Small Hope Mine in the La Plata Mining District",
+          "sourcePage": "https://www.mindat.org/nearestlocs.php?cs=0&lat=37.43000030517578&long=-108.05583190917969"
+        }
+      ]
     }
   ]
 }
