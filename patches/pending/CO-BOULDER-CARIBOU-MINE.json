@@ -1,0 +1,62 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-CARIBOU-MINE",
+    "name": "Caribou Mine",
+    "location": "Caribou Mining District near Nederland",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-13T00:53:00-06:00",
+    "overview": [
+      "Caribou Mine is a historic silver mine on Caribou Hill northwest of Nederland in Boulder County. The Caribou area became known as a silver district beginning in 1869, and the mine developed into one of the district's principal underground workings.",
+      "U.S. Geological Survey studies describe the Caribou as primarily a silver mine with interconnected workings that later also yielded lead, zinc, gold, copper, and a small amount of uranium."
+    ],
+    "timeline": [
+      {
+        "year": "1869",
+        "text": "The Caribou area became established as a silver-mining district, with the Caribou Mine among the district's principal workings."
+      },
+      {
+        "year": "1947-1948",
+        "text": "Consolidated Caribou Silver Mines reopened the workings; pitchblende was identified during reopening of the deeper levels in 1948."
+      },
+      {
+        "year": "1951-1954",
+        "text": "The U.S. Geological Survey carried out detailed geologic and underground mapping of the Caribou area while evaluating uranium occurrences associated with the mine."
+      }
+    ],
+    "moreHistory": [
+      "USGS Trace Elements Investigations 228 describes the Caribou Mine as primarily a silver mine that developed the Caribou, No Name, Poorman, Sherman, and Silver Dollar veins, with additional veins exposed in deeper workings. The mine complex included extensive underground levels and interconnected workings on Caribou Hill.",
+      "Later USGS summaries describe the mine at roughly 10,000 feet elevation, with the Idaho tunnel connecting to the Caribou shaft and thousands of feet of drifts. The district's production was dominated by silver and lead, with smaller amounts of other metals including uranium during mid-20th-century exploration."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.98111,
+      "longitude": -105.58333
+    },
+    "sourceReferences": [
+      {
+        "title": "Geology and uranium deposits of the Caribou area, Boulder County, Colorado",
+        "publisher": "U.S. Geological Survey",
+        "url": "https://www.usgs.gov/publications/geology-and-uranium-deposits-caribou-area-boulder-county-colorado-0"
+      },
+      {
+        "title": "Trace Elements Investigations 228 — Caribou area, Boulder County",
+        "publisher": "U.S. Geological Survey",
+        "url": "https://pubs.usgs.gov/publication/tei228"
+      },
+      {
+        "title": "Caribou Mine (Caribou shaft), Caribou Mining District",
+        "publisher": "Mindat",
+        "url": "https://www.mindat.org/loc-5993.html"
+      }
+    ]
+  }
+}
