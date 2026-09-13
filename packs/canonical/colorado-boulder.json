@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "41",
-  "generatedAt": "2026-09-13T01:15:59.762Z",
+  "version": "42",
+  "generatedAt": "2026-09-13T01:17:12.747Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -669,18 +669,39 @@
       "county": "Boulder County",
       "category": "Historic Mine",
       "componentType": "Mine",
+      "tier": "ID ONLY",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-13T01:31:00Z",
       "overview": [
-        "Historic tungsten mine with substantial documented production and underground development."
+        "Eureka Mine is a documented historic tungsten property in Boulder County's tungsten district, preserved in federal topographic mapping and state and federal mining records."
       ],
-      "timeline": [],
-      "moreHistory": [],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "State and federal mining references document development and production at the Eureka Mine within the Boulder County tungsten district."
+        }
+      ],
+      "moreHistory": [
+        "Federal mapping preserves the Eureka Mine locality at approximately 40.00193, -105.41333. The mapped point identifies the historic mine area without claiming that a surviving shaft or portal has been field-surveyed."
+      ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 40.00193,
         "longitude": -105.41333
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "Colorado Geological Survey MI-04 — Tungsten Mines of Colorado",
+          "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/MI-04.pdf"
+        },
+        {
+          "title": "U.S. Geological Survey Professional Paper 245 — Geology and Ore Deposits of the Boulder County Tungsten District, Colorado",
+          "url": "https://pubs.usgs.gov/pp/0245/report.pdf"
+        }
+      ]
     },
     {
       "id": "CO-BOULDER-GOOD-FRIDAY-MINE",
