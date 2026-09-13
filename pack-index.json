@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-13T15:33:07.026Z",
-  "generatedAt": "2026-09-13T15:33:07.026Z",
+  "contentVersion": "2026-09-13T15:37:01.088Z",
+  "generatedAt": "2026-09-13T15:37:01.088Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -429,10 +429,10 @@
       "id": "colorado-summit",
       "county": "Summit County",
       "state": "Colorado",
-      "version": "4",
+      "version": "5",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
-      "exploreSiteCount": 2,
-      "idOnlySiteCount": 7,
+      "exploreSiteCount": 3,
+      "idOnlySiteCount": 6,
       "siteCount": 9
     },
     {

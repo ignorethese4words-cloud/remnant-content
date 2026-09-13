@@ -3,8 +3,8 @@
   "id": "colorado-summit",
   "county": "Summit County",
   "state": "Colorado",
-  "version": "4",
-  "generatedAt": "2026-09-13T15:33:07.026Z",
+  "version": "5",
+  "generatedAt": "2026-09-13T15:37:01.088Z",
   "sites": [
     {
       "id": "minnie",
@@ -22,35 +22,6 @@
       "coordinates": {
         "latitude": 39.48702,
         "longitude": -106.00246
-      }
-    },
-    {
-      "id": "quail",
-      "name": "Quail Mine",
-      "location": "Montezuma",
-      "county": "Summit County",
-      "category": "Mine",
-      "componentType": "Mine",
-      "appReady": false,
-      "betaVisible": false,
-      "overview": [
-        "A compact high-altitude mining site above Montezuma with documented mine openings, rails, machinery, waste-rock workings, and collapsed timber structures."
-      ],
-      "timeline": [
-        {
-          "year": "Historic workings",
-          "text": "The Quail site contains multiple underground and surface mining features."
-        },
-        {
-          "year": "Today",
-          "text": "Surviving mine openings, rails, machinery, waste rock, and timber remains preserve evidence of the historic operation."
-        }
-      ],
-      "moreHistory": [],
-      "displayImages": [],
-      "coordinates": {
-        "latitude": 39.58,
-        "longitude": -105.845
       }
     },
     {
@@ -320,6 +291,72 @@
           "publisher": "U.S. Geological Survey",
           "url": "https://www.usgs.gov/media/images/upper-workings-pennsylvania-mine-headwaters-peru-creek-co",
           "note": "Exact-site public-domain photograph and identification."
+        }
+      ]
+    },
+    {
+      "id": "CO-SUMMIT-QUAIL",
+      "name": "Quail Mine",
+      "location": "Collier Mountain east of Montezuma",
+      "county": "Summit County",
+      "state": "Colorado",
+      "category": "Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-13T15:34:42.545Z",
+      "overview": [
+        "The Quail Mine is a documented high-altitude hard-rock mine on the west slope of Collier Mountain, about a mile east of Montezuma. USGS reporting places the workings near 12,000 feet and describes two principal adits connected by a raise.",
+        "The Quail vein was discovered in the 1890s. Historic records document lead-silver ore shipments in the 1910s, and a Colorado mining report still listed the property as a lead-silver operation in 1952."
+      ],
+      "timeline": [
+        {
+          "year": "1890s",
+          "text": "Philip Bianchi is reported to have discovered the Quail vein, and lead ore was shipped from the upper tunnel."
+        },
+        {
+          "year": "1914–1916",
+          "text": "Historic reporting records annual shipments of roughly 100 to 120 tons of galena ore."
+        },
+        {
+          "year": "1917–1919",
+          "text": "Additional carloads of ore were shipped after the main company operations had stopped."
+        },
+        {
+          "year": "1952",
+          "text": "Colorado's annual mining report listed the Quail Mine at Montezuma as a lead-silver operation."
+        }
+      ],
+      "moreHistory": [
+        "USGS Professional Paper 178 describes two adits, each extending roughly 400 feet along the vein, with a raise connecting the lower and upper workings.",
+        "The surviving mine landscape includes openings, waste rock, rails, machinery, and collapsed timber remains associated with the historic operation."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.58,
+        "longitude": -105.845
+      },
+      "sourceReferences": [
+        {
+          "title": "Geology and ore deposits of the Montezuma quadrangle, Colorado — U.S. Geological Survey Professional Paper 178",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/pp/0178/report.pdf",
+          "note": "Quail Mine section documents location, workings, discovery, production, and ore shipments."
+        },
+        {
+          "title": "Report for the year 1952",
+          "publisher": "State of Colorado",
+          "url": "https://spl.cde.state.co.us/artemis/nrserials/nr92001internet/nr920011952internet.pdf",
+          "note": "Lists Quail Mine at Montezuma as a lead-silver operation."
+        },
+        {
+          "title": "Quail Mine locality record",
+          "publisher": "Mindat",
+          "url": "https://www.mindat.org/loc-120344.html",
+          "note": "Corroborates the named mine locality and coordinates."
         }
       ]
     }
