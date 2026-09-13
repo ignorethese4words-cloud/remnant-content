@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "67",
-  "generatedAt": "2026-09-13T14:13:11.118Z",
+  "version": "68",
+  "generatedAt": "2026-09-13T14:51:13.617Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -3069,6 +3069,78 @@
         {
           "title": "USGS Nederland topographic mapping — Crow Number Thirty-six Mine",
           "url": "https://mapstore.mytopo.com/products/ustopo_colorado_nederland"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-CHANCE-MINE",
+      "name": "Chance Mine",
+      "location": "Beaver Creek area southeast of Nederland / Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-13T14:43:00Z",
+      "overview": [
+        "Chance Mine, historically called the Tungsten Mine, was an important early tungsten property southeast of Nederland in Boulder County's tungsten district.",
+        "U.S. Geological Survey records trace the mine from the first discovery of the vein in 1900 through intensive early production, renewed underground development during World War I, and later federal-supported work."
+      ],
+      "timeline": [
+        {
+          "year": "1900",
+          "text": "Prospector Henry Loughlin discovered the Tungsten vein but made no recorded shipments."
+        },
+        {
+          "year": "1902",
+          "text": "John McRay sank a 15-foot shaft and mined a small quantity of ore."
+        },
+        {
+          "year": "1906-1909",
+          "text": "Orin Beach developed and patented claims on the Tungsten vein; subsequent company operations reportedly recovered about $175,000 in ore before the early workings were thought exhausted."
+        },
+        {
+          "year": "1916",
+          "text": "George Cowdery explored eastward on the 120-foot level and found a new ore shoot, leading to further underground development."
+        },
+        {
+          "year": "1951-1952",
+          "text": "Federal exploration records and Colorado mine reports continued to list the Tungsten (Chance) Mine as a tungsten property operated by Tungsten Mining Company."
+        }
+      ],
+      "moreHistory": [
+        "U.S. Geological Survey Professional Paper 245 places the mine about 1 1/4 miles southeast of Nederland and about 3,300 feet west-southwest of Tungsten Mountain at roughly 8,530 feet elevation. The report describes the Tungsten and Chance names as referring to the same mine and documents its underground workings in detail.",
+        "The same federal history records early ore west of the shaft at very high reported tungsten grade and shows later development on deeper levels. A dedicated longitudinal projection of the Tungsten (Chance) workings was published from 1930 mine data.",
+        "A USGS/GNIS-derived mapped point for Tungsten Shaft at approximately 39.943598, -105.497775 is retained as a documented shaft-level component of the historic Tungsten/Chance mine. It is a historic mapped feature and does not imply that an open shaft or safe public access exists today."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.9435981,
+        "longitude": -105.4977751
+      },
+      "sourceReferences": [
+        {
+          "title": "Geology and Ore Deposits of the Boulder County Tungsten District, Colorado — Professional Paper 245",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/pp/0245/report.pdf"
+        },
+        {
+          "title": "USGS Data Series 1004 — Historical Files from Federal Government Mineral Exploration-Assistance Programs, 1950 to 1974",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/ds/1004/ds1004_co.htm"
+        },
+        {
+          "title": "Colorado Bureau of Mines — Report for the year 1952",
+          "publisher": "State of Colorado",
+          "url": "https://spl.cde.state.co.us/artemis/nrserials/nr92001internet/nr920011952internet.pdf"
+        },
+        {
+          "title": "USGS/GNIS-derived Tungsten Shaft topographic record",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/tungsten-shaft-181139/"
         }
       ]
     }
