@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "38",
-  "generatedAt": "2026-09-13T01:13:37.155Z",
+  "version": "39",
+  "generatedAt": "2026-09-13T01:14:04.618Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -581,18 +581,35 @@
       "county": "Boulder County",
       "category": "Historic Mine",
       "componentType": "Mine",
+      "tier": "ID ONLY",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-13T01:22:00Z",
       "overview": [
-        "Historic tungsten mine preserved in USGS/MRDS records."
+        "Dozer Mine is a documented historic tungsten mine in Boulder County's tungsten district, preserved in federal mineral records as a past-producing underground property."
       ],
-      "timeline": [],
-      "moreHistory": [],
+      "timeline": [
+        {
+          "year": "Mid-20th century",
+          "text": "Federal mineral-exploration records preserved a substantial Defense Minerals Exploration Administration file for the Dozer tungsten property."
+        }
+      ],
+      "moreHistory": [
+        "Federal mineral records place the Dozer Mine at approximately 39.9819, -105.4983 and classify it as a past-producing underground tungsten mine. Detailed production totals and a fuller operating chronology have not been confirmed in the retained sources."
+      ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 39.9819,
         "longitude": -105.4983
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "USGS Data Series 1004 — Historical Files from Federal Government Mineral Exploration-Assistance Programs, 1950 to 1974",
+          "url": "https://pubs.usgs.gov/ds/1004/ds1004_co.htm"
+        }
+      ]
     },
     {
       "id": "CO-BOULDER-EUREKA-MINE",
