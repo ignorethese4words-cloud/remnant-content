@@ -1,0 +1,67 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-BOULDER-VALLEY-MINE",
+    "name": "Boulder Valley Mine",
+    "location": "Erie / Coal Creek",
+    "county": "Boulder County",
+    "category": "Historic Coal Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-12T21:17:10Z",
+    "overview": [
+      "The Boulder Valley Mine was one of the defining coal mines of early Erie and, for a time, became Colorado's largest coal producer as railroad access expanded the Northern Coalfield.",
+      "The historic mine site lies near today's Coal Creek Disc Golf Course and the old Boulder Valley rail corridor, where the former workings helped shape Erie's growth as a coal town."
+    ],
+    "timeline": [
+      {
+        "year": "1871",
+        "text": "The Boulder Valley Railroad reached Erie, stimulating renewed development of the Northern Coalfield and a surge in production from the Boulder Valley Mine."
+      },
+      {
+        "year": "1877",
+        "text": "A miners' strike at the Boulder Valley Mine escalated during the episode remembered locally as the Erie War, and troops were brought in to maintain order."
+      },
+      {
+        "year": "1884",
+        "text": "Miners again struck for improved working conditions. The operating company removed machinery and abandoned the works after the strike continued."
+      },
+      {
+        "year": "1890s",
+        "text": "The Boulder Valley Mine reopened under new ownership and remained part of Erie's coal-mining landscape."
+      }
+    ],
+    "moreHistory": [
+      "Town of Erie historical material identifies the Boulder Valley Mine as a major early producer in the Northern Coalfield and links the mine directly to Erie's development as an important Colorado coal town.",
+      "Modern local interpretation places the original mine beside the historic railroad alignment near the Coal Creek Disc Golf Course. A USGS-derived mapped mine point at approximately 40.049429, -105.042481 provides a defensible mine-level identification anchor; Remnant does not represent that point as a field-surveyed surviving shaft collar.",
+      "Contemporary reporting and local interpretation note that the former entrance has been filled and mine structures no longer survive, while portions of the historic mining landscape remain visible near the route."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.0494289,
+      "longitude": -105.0424814
+    },
+    "sources": [
+      {
+        "title": "Town of Erie - History",
+        "url": "https://www.erieco.gov/239/History"
+      },
+      {
+        "title": "Town of Erie - Timeline of Erie's History",
+        "url": "https://erieco.gov/2286/31921/Timeline-of-Eries-History"
+      },
+      {
+        "title": "Colorado Railbike Adventures - Boulder Valley Mine Route",
+        "url": "https://www.coloradorailbikeadventures.com/routes"
+      },
+      {
+        "title": "USGS-derived Boulder Valley Mine mapped location",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/boulder-valley-mine-1683969/"
+      }
+    ]
+  }
+}
