@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "56",
-  "generatedAt": "2026-09-13T10:00:34.602Z",
+  "version": "57",
+  "generatedAt": "2026-09-13T11:01:11.191Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -2448,6 +2448,65 @@
           "title": "Wikimedia Commons — Cardinal Mill (Full).JPG",
           "url": "https://commons.wikimedia.org/wiki/File:Cardinal_Mill_(Full).JPG",
           "note": "Exact-site modern photograph with CC BY-SA 3.0 license and camera location 39.968888, -105.550000."
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-LITTLE-MAUD-MINE",
+      "name": "Little Maud Mine",
+      "location": "Magnolia Mining District / Boulder County",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T20:20:17-06:00",
+      "overview": [
+        "Little Maud Mine is a named inactive gold-and-silver mine in Boulder County's Magnolia Mining District.",
+        "USGS-derived topographic place data preserves the mine at approximately 39.994708, -105.364438, providing a stable mine-level identification point without implying that a surviving shaft or portal has been field-verified."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Little Maud Mine formed part of the Magnolia Mining District, a compact Boulder County gold-telluride district whose principal veins were discovered during the late nineteenth century."
+        },
+        {
+          "year": "Modern mapping",
+          "text": "USGS-derived Eldorado Springs topographic mapping retains Little Maud Mine as a named inactive mine feature."
+        }
+      ],
+      "moreHistory": [
+        "The retained mine coordinate is 39.9947083, -105.3644377. Remnant uses this documented mine-level locality for identification and does not claim that the point marks a surviving opening surveyed in the field.",
+        "Mindat's Magnolia Mining District locality index independently lists Little Maud Mine within the district, helping distinguish this Boulder County site from same-named mines elsewhere in Colorado.",
+        "A focused exact-site media search did not locate a rights-cleared reusable Little Maud Mine photograph; nearby Magnolia-district images were rejected rather than attached to the wrong site."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.9947083,
+        "longitude": -105.3644377
+      },
+      "sourceReferences": [
+        {
+          "title": "Little Maud Mine Topo Map in Boulder County, Colorado",
+          "publisher": "AnyPlaceAmerica / USGS-derived place data",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/little-maud-mine-1685134/",
+          "note": "Identifies Little Maud Mine in Boulder County as an inactive gold-and-silver mine and provides the retained USGS-derived coordinate 39.9947083, -105.3644377 on the Eldorado Springs quadrangle."
+        },
+        {
+          "title": "Magnolia Mining District, Boulder County, Colorado, USA",
+          "publisher": "Mindat.org",
+          "url": "https://www.mindat.org/loc-24262.html",
+          "note": "Lists Little Maud Mine as a locality within the Magnolia Mining District and provides district historical context."
+        },
+        {
+          "title": "Eldorado Springs topographic map 1:24,000 scale, Colorado",
+          "publisher": "YellowMaps / USGS topographic index",
+          "url": "https://www.yellowmaps.com/usgs/quad/39105h3.htm",
+          "note": "Lists Little Maud Mine among named features on the Eldorado Springs USGS quadrangle."
         }
       ]
     }
