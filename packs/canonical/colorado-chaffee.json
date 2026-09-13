@@ -3,8 +3,8 @@
   "id": "colorado-chaffee",
   "county": "Chaffee County",
   "state": "Colorado",
-  "version": "18",
-  "generatedAt": "2026-09-13T00:05:47.601Z",
+  "version": "19",
+  "generatedAt": "2026-09-13T01:38:47.028Z",
   "sites": [
     {
       "id": "CO-CHAFFEE-ALASKA-MINE",
@@ -276,23 +276,44 @@
       "county": "Chaffee County",
       "category": "Historic Mine",
       "componentType": "Mine",
+      "tier": "ID ONLY",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-11T23:47:56Z",
       "overview": [
-        "Annie C is a named historic gold-mine locality in Chaffee County's Free Gold district. Federal topographic mapping provides a stable identification point while unsupported operator or production details are intentionally omitted."
+        "Annie C Mine is a named historic gold-mine locality in Chaffee County's Free Gold Mining District, preserved on federal topographic mapping near Buena Vista."
       ],
       "timeline": [
         {
           "year": "Historic mining era",
-          "text": "USGS-derived Buena Vista West quadrangle mapping preserves Annie C as a named mine feature associated with the Free Gold mining district."
+          "text": "Annie C was established as a named mine locality in the Free Gold district and was later retained on U.S. Geological Survey topographic mapping of the Buena Vista West quadrangle."
         }
       ],
-      "moreHistory": [],
+      "moreHistory": [
+        "Available records support Annie C as a gold-associated mine locality in the Free Gold Mining District, but dependable operator, production, and detailed chronology records have not been recovered.",
+        "The mapped mine location provides a stable identification point without making claims about present-day condition or surviving workings."
+      ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 38.83333,
         "longitude": -106.13391
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "Buena Vista West Colorado US Topo Map",
+          "publisher": "USGS mapping via MyTopo Map Store",
+          "url": "https://mapstore.mytopo.com/products/ustopo_colorado_buena-vista-west",
+          "note": "Lists Annie C Mine as a named feature on the Buena Vista West USGS quadrangle."
+        },
+        {
+          "title": "Mindat locality search — Free Gold Mining District / Buena Vista Area",
+          "publisher": "Mindat.org / Hudson Institute of Mineralogy",
+          "url": "https://www.mindat.org/lsearch.php?loc=colorado",
+          "note": "Places Annie C in the Buena Vista Area of the Free Gold Mining District in Chaffee County."
+        }
+      ]
     },
     {
       "id": "CO-CHAFFEE-APRIL-FOOL-MINE",
