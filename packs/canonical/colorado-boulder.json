@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "76",
-  "generatedAt": "2026-09-13T20:05:03.762Z",
+  "version": "77",
+  "generatedAt": "2026-09-13T21:06:47.487Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -3595,6 +3595,66 @@
         {
           "title": "USGS Boulder topographic map listing — Grand Central Mine",
           "url": "https://www.yellowmaps.com/usgs/topo.cfm?map=co-1683840-grand-central-mine"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-MALVINA-MINE",
+      "name": "Malvina Mine",
+      "location": "Salina / Gold Hill Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-13T17:48:45.000Z",
+      "overview": [
+        "The Malvina Mine was a prominent nineteenth-century telluride-gold mine in the Salina and Gold Hill mining area of Boulder County.",
+        "Federal mining history records its discovery in 1875 and substantial early production, while historic USGS topographic mapping preserves a named mine-level location for identification."
+      ],
+      "timeline": [
+        {
+          "year": "1875",
+          "text": "The Malvina lode was discovered during the summer of 1875 and quickly became one of the notable telluride-gold properties in the Salina area."
+        },
+        {
+          "year": "Late 1875",
+          "text": "USGS historical reporting records rich telluride production and a shaft about 100 feet deep by the end of the mine's first year of development."
+        },
+        {
+          "year": "1880-1891",
+          "text": "Boulder historical collections preserve underground-workings documentation and photographs associated with the Melvina/Malvina Mine, showing continued local documentation of the property."
+        },
+        {
+          "year": "1957",
+          "text": "The USGS Gold Hill 7.5-minute quadrangle retained Melvina Mine as a named mapped mine feature."
+        }
+      ],
+      "moreHistory": [
+        "U.S. Geological Survey Professional Paper 138 documents the Malvina as an important early telluride-gold producer in the Salina/Gold Hill area and records its 1875 discovery and development.",
+        "The 1957 USGS Gold Hill quadrangle explicitly labels Melvina Mine. A USGS/GNIS-derived mine point at approximately 40.049153, -105.384716 is used as the identification anchor; Remnant does not claim that this point is a field-surveyed surviving shaft collar.",
+        "Carnegie Library for Local History preserves Malvina/Melvina mine material, including an 1891 underground photograph. A focused media review did not establish a sufficiently clear app-use rights basis for packaging an exact-site historic image, so no image is attached."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 40.0491526,
+        "longitude": -105.3847161
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey Professional Paper 138 — Mining in Colorado",
+          "url": "https://pubs.usgs.gov/publication/pp138"
+        },
+        {
+          "title": "U.S. Geological Survey 1957 Gold Hill 7.5-minute quadrangle — Melvina Mine",
+          "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Gold%20Hill_1957_24000_geo.pdf"
+        },
+        {
+          "title": "Carnegie Library for Local History — Melvina Mine: 700 feet underground",
+          "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A29077"
         }
       ]
     }

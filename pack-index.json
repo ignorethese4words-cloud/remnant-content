@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-13T20:05:03.762Z",
-  "generatedAt": "2026-09-13T20:05:03.762Z",
+  "contentVersion": "2026-09-13T21:06:47.487Z",
+  "generatedAt": "2026-09-13T21:06:47.487Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -19,11 +19,11 @@
       "id": "colorado-boulder",
       "county": "Boulder County",
       "state": "Colorado",
-      "version": "76",
+      "version": "77",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
       "exploreSiteCount": 22,
-      "idOnlySiteCount": 56,
-      "siteCount": 78
+      "idOnlySiteCount": 57,
+      "siteCount": 79
     },
     {
       "id": "colorado-broomfield",
