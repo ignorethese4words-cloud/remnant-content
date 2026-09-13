@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "65",
-  "generatedAt": "2026-09-13T14:05:14.074Z",
+  "version": "66",
+  "generatedAt": "2026-09-13T14:07:52.012Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -2955,6 +2955,67 @@
           "title": "Grand View Mine — historic USGS topographic map listing",
           "publisher": "OldMapsOnline / United States Geological Survey",
           "url": "https://www.oldmapsonline.org/de/maps/a850ab1b-d239-433e-9e7d-ec0ffbc7842f"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-GREAT-NORTHERN-SILVER-MINE",
+      "name": "Great Northern Silver Mine",
+      "location": "Caribou Park / Caribou Mining District",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-13T20:45:00-06:00",
+      "overview": [
+        "Great Northern Silver Mine is the historic Great Northern Mine on the east side of Caribou Park, north of the former town of Caribou.",
+        "Federal geological studies document its shaft workings in the Caribou silver district and later retained the property among Boulder County's uranium-bearing vein localities."
+      ],
+      "timeline": [
+        {
+          "year": "Late 1800s",
+          "text": "The Great Northern was developed as part of the Caribou district's gold-and-silver mining landscape; federal reports describe the property as an established shaft mine north of Caribou."
+        },
+        {
+          "year": "1917",
+          "text": "U.S. Geological Survey Professional Paper 94 described the abandoned Great Northern shaft on the east side of Caribou Park, about a mile north of Caribou."
+        },
+        {
+          "year": "1950s-1960s",
+          "text": "Federal uranium investigations revisited the Caribou area, mapped the Great Northern about 3,000 feet northeast of the Caribou mine, and retained Great Northern Silver Mine among Boulder County uranium-bearing vein occurrences."
+        }
+      ],
+      "moreHistory": [
+        "USGS studies place the Great Northern on the contact of the Caribou stock and describe a substantial mine dump dominated by monzonite, evidence of significant underground development even though the workings were inaccessible during later federal visits.",
+        "The Great Northern name in the earlier Caribou mining literature and Great Northern Silver Mine in the later uranium compilation refer to the same Caribou-area mine locality retained by the registry.",
+        "A USGS/GNIS-derived mapped mine point at approximately 39.988598, -105.577778 is used as the historic mine-level identification anchor. It is a named mine locality, not a claim that a surviving shaft collar has been field surveyed or is safe to approach."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.988598,
+        "longitude": -105.577778
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey Professional Paper 94 — Economic Geology of Gilpin County and Adjacent Parts of Clear Creek and Boulder Counties, Colorado",
+          "url": "https://pubs.usgs.gov/pp/0094/report.pdf"
+        },
+        {
+          "title": "U.S. Geological Survey Bulletin 1030-N — Geology and Uranium Deposits of the Caribou Area, Boulder County, Colorado",
+          "url": "https://pubs.usgs.gov/bul/1030n/report.pdf"
+        },
+        {
+          "title": "U.S. Geological Survey Professional Paper 455 — Geology of Uranium-Bearing Veins in the Conterminous United States",
+          "url": "https://pubs.usgs.gov/pp/0455a-f/report.pdf"
+        },
+        {
+          "title": "USGS/GNIS-derived Great Northern Mine topographic record",
+          "url": "https://topoquest.com/place/colorado/mine/great-northern-mine/5423780"
         }
       ]
     }
