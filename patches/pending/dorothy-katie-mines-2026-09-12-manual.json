@@ -1,0 +1,49 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-DOROTHY-KATIE-MINES",
+    "name": "Dorothy-Katie Mines",
+    "location": "Millionaire Gulch / Boulder County Tungsten Mining District",
+    "county": "Boulder County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-13T01:26:00Z",
+    "overview": [
+      "The Dorothy and Katie mines were important historic tungsten workings in Millionaire Gulch within the Boulder County tungsten district. Federal mining records document the two properties as closely related workings with substantial early twentieth-century activity."
+    ],
+    "timeline": [
+      {
+        "year": "1915-1918",
+        "text": "Extensive development took place at the Dorothy and Katie mines during the World War I tungsten period."
+      },
+      {
+        "year": "1926-1927",
+        "text": "The Dorothy Mine returned to operation during another period of tungsten work."
+      },
+      {
+        "year": "1940s",
+        "text": "Dorothy was worked again through the mid-1940s, while records also note limited later work at Katie, including activity in 1942."
+      }
+    ],
+    "moreHistory": [
+      "U.S. Geological Survey records describe Dorothy and Katie as leading tungsten mines of Millionaire Gulch and report historical output estimates through 1944 of roughly 13,000 units of WO3 for Dorothy and 7,000 for Katie.",
+      "The retained identification point near 40.01361, -105.37222 corresponds to the mapped Dorothy component of the documented Dorothy-Katie property. It is used as a conservative mine-area location rather than as a claim that every individual opening has been field-surveyed."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.01361,
+      "longitude": -105.37222
+    },
+    "sourceReferences": [
+      {
+        "title": "U.S. Geological Survey Professional Paper 245 — Geology and Ore Deposits of the Boulder County Tungsten District, Colorado",
+        "url": "https://pubs.usgs.gov/pp/0245/report.pdf"
+      }
+    ]
+  }
+}
