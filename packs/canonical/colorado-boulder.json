@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "40",
-  "generatedAt": "2026-09-13T01:15:35.279Z",
+  "version": "41",
+  "generatedAt": "2026-09-13T01:15:59.762Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -356,18 +356,43 @@
       "county": "Boulder County",
       "category": "Historic Mine",
       "componentType": "Mine",
+      "tier": "ID ONLY",
       "appReady": false,
       "betaVisible": false,
+      "contentUpdatedAt": "2026-09-13T01:28:00Z",
       "overview": [
-        "Historic tungsten mine with documented shaft and DMEA development."
+        "Big Cameron Mine is a documented historic tungsten property in Boulder County's tungsten district, preserved in state mining records and federal exploration files."
       ],
-      "timeline": [],
-      "moreHistory": [],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "State mine records document development of the Big Cameron tungsten property within the Boulder County district."
+        },
+        {
+          "year": "Mid-20th century",
+          "text": "Federal mineral-exploration records continued to preserve the Big Cameron property as a documented tungsten locality."
+        }
+      ],
+      "moreHistory": [
+        "The mapped mine locality near 39.99194, -105.45417 is consistent with the retained state and federal records for Big Cameron. The location identifies the historic mine area without asserting that a surviving opening has been field-surveyed."
+      ],
       "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
         "latitude": 39.99194,
         "longitude": -105.45417
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "Colorado Geological Survey MI-04 — Tungsten Mines of Colorado",
+          "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/MI-04.pdf"
+        },
+        {
+          "title": "USGS Data Series 1004 — Historical Files from Federal Government Mineral Exploration-Assistance Programs, 1950 to 1974",
+          "url": "https://pubs.usgs.gov/ds/1004/ds1004_co.htm"
+        }
+      ]
     },
     {
       "id": "CO-BOULDER-BIG-HORN-SHAFT",
