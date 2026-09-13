@@ -1,0 +1,64 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-INVINCIBLE-MINE",
+    "name": "Invincible Mine",
+    "location": "Jamestown Mining District",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-13T20:05:00-06:00",
+    "overview": [
+      "Invincible Mine is a documented historic mine northwest of Jamestown that shifted from metal mining to fluorspar production during the early twentieth century.",
+      "Colorado and federal geological reports describe its broad fluorite vein, shaft, open cut, tunnel and drift workings, while historic Boulder photographs preserve the mine's surface setting."
+    ],
+    "timeline": [
+      {
+        "year": "1885-1910",
+        "text": "A surviving Boulder Historical Society photograph documents the Invincible Mine near Jamestown and its mine building."
+      },
+      {
+        "year": "1917-1918",
+        "text": "Colorado Geological Survey reporting described a fluorite vein about 12 feet wide, an open cut southeast of the shaft house, and ore production through a lower tunnel and drift."
+      },
+      {
+        "year": "1940s",
+        "text": "Fluorspar from the Invincible was among the Jamestown-district feed processed at the Valmont mill near Boulder for industrial use."
+      }
+    ],
+    "moreHistory": [
+      "Colorado Geological Survey Bulletin 18 records that the Invincible had formerly been worked as a metalliferous mine before becoming an intermittent fluorspar producer. The report describes a persistent fluorite-rich vein and separate shaft, open-cut, tunnel and drift development.",
+      "Later federal work on the Jamestown fluorspar district retained the Invincible as a named mine and documented it within the district's broader fluorite system.",
+      "A USGS/GNIS-derived mapped mine point at approximately 40.124152, -105.393883 is used as the historic mine-level identification anchor. It identifies the named mine locality without claiming that a particular surviving shaft or portal has been field surveyed or is safe to approach."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.124152,
+      "longitude": -105.393883
+    },
+    "sourceReferences": [
+      {
+        "title": "Colorado Geological Survey Bulletin 18 — Fluorspar Deposits of Colorado",
+        "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/B-18.pdf"
+      },
+      {
+        "title": "Fluorspar Deposits of the Jamestown District, Boulder County, Colorado — E. N. Goddard / U.S. Geological Survey",
+        "url": "https://coloscisoc.org/wp-content/uploads/2018/06/CSS_Proc_v15_pp5-20_Jamestown_Fluorspar-Goddard-pt1.pdf"
+      },
+      {
+        "title": "Carnegie Library for Local History — Invincible Mine near Jamestown, BHS 219-4-19",
+        "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A26197"
+      },
+      {
+        "title": "USGS/GNIS-derived Boulder County topographic listing — Invincible Mine",
+        "url": "https://www.topoquest.com/place/colorado/civil/boulder-county/198122"
+      }
+    ]
+  }
+}
