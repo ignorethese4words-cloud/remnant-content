@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "71",
-  "generatedAt": "2026-09-13T15:01:35.905Z",
+  "version": "72",
+  "generatedAt": "2026-09-13T16:00:19.349Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -3308,6 +3308,62 @@
           "title": "Peewink Mountain Topo Map in Boulder County, Colorado",
           "publisher": "TopoZone / USGS-derived topographic data",
           "url": "https://www.topozone.com/colorado/boulder-co/summit/peewink-mountain/"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-CHANCELLOR-MINE",
+      "name": "Chancellor Mine",
+      "location": "Jamestown Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-13T10:20:57.000Z",
+      "overview": [
+        "Chancellor Mine is a documented producer in the Jamestown Mining District west of Jamestown, where fluorite mining became an important part of Boulder County's twentieth-century mineral industry.",
+        "Federal mine investigations and U.S. Geological Survey references specifically document the Chancellor workings and its fluorite-bearing vein system."
+      ],
+      "timeline": [
+        {
+          "year": "1903 onward",
+          "text": "The Jamestown district began producing fluorspar in the early twentieth century, adding industrial fluorite to the district's older precious- and base-metal mining history."
+        },
+        {
+          "year": "1940s",
+          "text": "Fluorite mining expanded sharply in the Jamestown area. A 1949 U.S. Bureau of Mines investigation included four diamond-drill holes totaling 1,434 feet on the Chancellor deposit."
+        },
+        {
+          "year": "1950",
+          "text": "U.S. Geological Survey Professional Paper 223 documented the Chancellor Mine among the Front Range ore deposits and retained it as a named Jamestown-district locality."
+        }
+      ],
+      "moreHistory": [
+        "The Chancellor is also recorded as Allied Jamestown in mineral-locality references. Published records identify fluorite as a major commodity and also report silver, lead, and gold at the deposit.",
+        "The U.S. Bureau of Mines' 1949 Jamestown fluorite investigation describes drilling on the Chancellor vein as part of a broader study of mine workings and fluorspar resources in the district.",
+        "A mapped U.S. Geological Survey mine feature at approximately 40.123319, -105.396661 provides a defensible site-level location. It is used as a mine-locality point rather than a claim that a particular surviving shaft or portal has been field surveyed."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 40.1233189,
+        "longitude": -105.3966609
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Bureau of Mines RI 4483 — Investigation of Jamestown Fluorite Deposits, Boulder County, Colorado (1949)",
+          "url": "https://onetunnel.org/documents/ri-4483-investigation-of-jamestown-fluorite-deposits-boulder-county-colo-"
+        },
+        {
+          "title": "Lovering & Goddard — Geology and Ore Deposits of the Front Range, Colorado, USGS Professional Paper 223 (1950)",
+          "url": "https://doi.org/10.3133/pp223"
+        },
+        {
+          "title": "USGS-derived Chancellor Mine mapped feature — Gold Hill quadrangle",
+          "url": "https://topoquest.com/place/colorado/mine/chancellor-mine/1735877"
         }
       ]
     }
