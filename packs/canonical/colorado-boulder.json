@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "53",
-  "generatedAt": "2026-09-13T01:59:39.526Z",
+  "version": "54",
+  "generatedAt": "2026-09-13T04:04:33.195Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -2244,6 +2244,69 @@
         {
           "title": "USGS-derived Boulder Valley Mine mapped location",
           "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/boulder-valley-mine-1683969/"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-BED-DIG-MINE",
+      "name": "Bed Dig Mine",
+      "location": "About one mile northwest of Nederland / Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-12T19:17:37-06:00",
+      "overview": [
+        "Bed Dig Mine, spelled Beddig Mine in federal records, was one of the more productive tungsten mines of the Boulder County tungsten district about a mile northwest of Nederland.",
+        "U.S. Geological Survey reporting places the mine just west of the Conger Mine and documents sustained early-twentieth-century development on the Crow patent."
+      ],
+      "timeline": [
+        {
+          "year": "1905-1907",
+          "text": "Colorado Tungsten Corporation worked the mine intensively and developed it to the fifth level."
+        },
+        {
+          "year": "1915-1918",
+          "text": "Primos Chemical Company operated the Beddig in conjunction with the adjoining Conger Mine."
+        },
+        {
+          "year": "1934-1945",
+          "text": "Sublessees carried out limited additional work while the Crow patent was leased by Wolf Tongue Mining Company, but production during this period was small."
+        }
+      ],
+      "moreHistory": [
+        "U.S. Geological Survey Professional Paper 245 states that the Beddig ranked among the district's leading mines by total output and describes the property as part of the Crow patent, owned by Colorado Tungsten Corporation from 1905.",
+        "The same federal study documents the mine's underground development and its close operational relationship with the neighboring Conger Mine during the World War I tungsten boom.",
+        "Modern USGS-derived topographic place data preserves the Beddig Mine as a named inactive tungsten mine on the Nederland quadrangle at approximately 39.982209, -105.527221."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.9822091,
+        "longitude": -105.5272208
+      },
+      "sourceReferences": [
+        {
+          "title": "Geology and Ore Deposits of the Boulder County Tungsten District, Colorado — Professional Paper 245",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/publication/pp245",
+          "note": "Documents Beddig Mine history, production, Crow patent ownership, intensive 1905-1907 development, 1915-1918 Primos operation with Conger Mine, and later limited work."
+        },
+        {
+          "title": "Nederland, Colorado US Topo — Beddig Mine",
+          "publisher": "U.S. Geological Survey-derived topographic mapping",
+          "url": "https://mapstore.mytopo.com/products/ustopo_colorado_nederland",
+          "note": "Preserves Beddig Mine as a named feature on the Nederland quadrangle."
+        },
+        {
+          "title": "Beddig Mine Topo Map in Boulder County, Colorado",
+          "publisher": "AnyPlaceAmerica / USGS-derived place data",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/beddig-mine-1684936/",
+          "note": "Provides the retained USGS-derived mine coordinate 39.9822091, -105.5272208 and identifies the feature as an inactive tungsten mine."
         }
       ]
     }
