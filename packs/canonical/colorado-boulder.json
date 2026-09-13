@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "59",
-  "generatedAt": "2026-09-13T13:03:56.665Z",
+  "version": "60",
+  "generatedAt": "2026-09-13T13:43:55.859Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -2631,6 +2631,52 @@
           "title": "Cash Mine — USGS topographic feature record",
           "publisher": "AnyplaceAmerica / USGS-derived mapping",
           "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/cash-mine-178533/"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-HUMMER-MINE",
+      "name": "Hummer Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-13T13:36:06Z",
+      "overview": [
+        "Hummer Mine is a documented historic mine in Boulder County's tungsten district. U.S. Geological Survey Professional Paper 245 preserves the Hummer as a named mine and includes a geologic plan of its workings."
+      ],
+      "timeline": [
+        {
+          "year": "Historic tungsten-mining era",
+          "text": "The Hummer formed part of the Boulder County tungsten district's network of mine workings."
+        },
+        {
+          "year": "1953",
+          "text": "U.S. Geological Survey Professional Paper 245 documented the Hummer Mine and published a geologic plan of the workings."
+        }
+      ],
+      "moreHistory": [
+        "Professional Paper 245 places the Hummer Mine at about 8,405 feet elevation and 250 feet north 39 degrees west of the Hoosier shaft.",
+        "A USGS-derived mapped mine feature at approximately 39.977487, -105.499442 provides a defensible mine-level identification point. Remnant does not represent that point as a field-surveyed surviving shaft or portal."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.9774869,
+        "longitude": -105.499442
+      },
+      "sourceReferences": [
+        {
+          "title": "Lovering & Tweto — Geology and Ore Deposits of the Boulder County Tungsten District, Colorado, USGS Professional Paper 245",
+          "url": "https://pubs.usgs.gov/publication/pp245"
+        },
+        {
+          "title": "USGS-derived Hummer Mine mapped feature — Tungsten, Colorado quadrangle",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/hummer-mine-1685060/"
         }
       ]
     }
