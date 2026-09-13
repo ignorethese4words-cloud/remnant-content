@@ -1,0 +1,64 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-BOULDER-COUNTY-TUNNEL",
+    "name": "Boulder County Tunnel",
+    "location": "Coon Track Gulch below Cardinal / Grand Island Mining District",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine Tunnel/Adit",
+    "componentType": "Adit / Portal",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-12T16:53:40Z",
+    "overview": [
+      "The Boulder County Tunnel was a major nineteenth-century haulage and drainage tunnel driven from Coon Track Gulch below Cardinal to reach the Boulder County Mine and other Caribou-district workings.",
+      "Historic records show the project evolving from an ambitious district-scale tunnel in the 1870s into an operating mine-and-mill system, and surviving archival photography documents miners and equipment inside the tunnel near Cardinal."
+    ],
+    "timeline": [
+      {
+        "year": "1875-1876",
+        "text": "The Consolidated Caribou Belt Mining Company began driving a roughly 7-by-7-foot tunnel from the bottom of Coon Track Gulch below Cardinal as a proposed drain and haulageway beneath the Caribou district."
+      },
+      {
+        "year": "1877",
+        "text": "The Boulder County Mining, Tunneling, Milling, Land & Town Company acquired the early tunnel and nearby water-powered mill and resumed development."
+      },
+      {
+        "year": "1879",
+        "text": "After the tunnel had reached about 700 feet, the operation changed ownership; later development completed the connection to the Boulder County Mine system and supported ore treatment at the adjacent mill."
+      },
+      {
+        "year": "1920",
+        "text": "Contemporary mining-industry reporting described the Boulder County Tunnel as having been advanced thousands of feet and working ore while the nearby Boulder County mill was being expanded."
+      }
+    ],
+    "moreHistory": [
+      "History Colorado's National Register mining-context documentation describes the Boulder County Tunnel as an unusually ambitious early attempt to undercut the Caribou district, with compressed-air rock drills used to speed development.",
+      "The Carnegie Library for Local History preserves an undated Boulder Historical Society photograph taken inside the Boulder County Mine Tunnel near Cardinal, showing miners and equipment and identifying the site with the Grand Island Mining District.",
+      "USGS MRDS record 10141964 retains Boulder County Tunnel as a named underground mineral occurrence and identifies its mapped reference point as the main entrance. The coordinate is used by Remnant as a historic tunnel-level identification anchor, not as a claim that a surviving portal has been field-surveyed."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.97805,
+      "longitude": -105.55753
+    },
+    "sourceReferences": [
+      {
+        "title": "Carnegie Library for Local History — Inside the Boulder County Mine Tunnel near Cardinal, Colorado",
+        "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A24137"
+      },
+      {
+        "title": "History Colorado / National Register mining context — Boulder County Tunnel and Caribou district development",
+        "url": "https://historycoloradodev.exemplifi.io/sites/default/files/media/document/2017/623amend09.pdf"
+      },
+      {
+        "title": "USGS Mineral Resources Data System record 10141964 — Boulder County Tunnel (archived MRDS data mirror)",
+        "url": "https://www.qvyshift.com/mrds/show-mrds.php?dep_id=10141964"
+      }
+    ]
+  }
+}
