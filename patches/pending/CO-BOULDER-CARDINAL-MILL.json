@@ -1,0 +1,90 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-CARDINAL-MILL",
+    "name": "Cardinal Mill & Mining Camp Complex",
+    "location": "Cardinal / Coon Track Creek west of Nederland",
+    "county": "Boulder County",
+    "category": "Mill / Mining Camp",
+    "componentType": "Mill / Processing",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-12T05:49:00Z",
+    "overview": [
+      "Cardinal Mill is a rare surviving ore-concentration mill in western Boulder County, built beside the Boulder County Mine and the mining camp of Cardinal west of Nederland.",
+      "The mill processed gold and silver ore and later became an important tungsten mill, preserving an unusually complete example of the machinery and gravity-flow layout used in Colorado hard-rock mining."
+    ],
+    "timeline": [
+      {
+        "year": "1870",
+        "text": "Prospector Stephen Conger discovered the Boulder County lode, helping establish the mining activity that later supported the Cardinal settlement and mill complex."
+      },
+      {
+        "year": "1901-1903",
+        "text": "The Cardinal Mill was built at the mouth of the Boulder County Tunnel as a gravity-flow concentration plant for local ore."
+      },
+      {
+        "year": "1905-1910",
+        "text": "Cardinal operated as one of the region's full-time tungsten mills during Boulder County's early tungsten boom."
+      },
+      {
+        "year": "1914-1942",
+        "text": "The mill returned to gold processing and operated intermittently until mining and milling ended in 1942."
+      },
+      {
+        "year": "2001-2011",
+        "text": "Cardinal Mill was locally landmarked, acquired by Boulder County for preservation, and listed in the National Register of Historic Places in 2011."
+      }
+    ],
+    "moreHistory": [
+      "Cardinal Mill was designed as a concentration plant on a steep slope above Coon Track Creek. Its stepped structure used gravity to move ore downward through successive treatment stages while reducing the amount of mechanical lifting required.",
+      "Boulder County records describe the mill as initially handling complex gold and silver ore from the Boulder County vein before operators shifted to tungsten. The plant later returned to gold processing and remained in intermittent use until 1942.",
+      "History Colorado identifies the Cardinal Mill as significant for engineering and industry and as an outstanding surviving concentration facility. Boulder County preservation work has retained the building and much of its historic milling equipment, making it an unusually intact example of the county's hard-rock mining infrastructure.",
+      "The surrounding Cardinal settlement developed around the mine, mill, and railroad connection, linking the industrial site to the broader mining community that occupied this part of western Boulder County."
+    ],
+    "displayImages": [
+      {
+        "id": "cardinal-mill-full-2014",
+        "title": "Cardinal Mill along Coon Track Creek",
+        "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/3/34/Cardinal_Mill_%28Full%29.JPG",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cardinal_Mill_(Full).JPG",
+        "sourceNote": "Exact-site photograph of Cardinal Mill by Wikimedia Commons contributor Violin Theory; photographed 29 September 2014 and identified with National Register reference 11000945.",
+        "rights": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0); author: Violin Theory.",
+        "mediaStatus": "PACKAGED"
+      }
+    ],
+    "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+    "coordinates": {
+      "latitude": 39.968888,
+      "longitude": -105.55
+    },
+    "sourceReferences": [
+      {
+        "title": "Boulder County Mining Tour — Cardinal Mill",
+        "url": "https://storymaps.arcgis.com/stories/f7505c1ec46d437294f64ad0793a418c",
+        "note": "Boulder County history of the Boulder County Mine, Cardinal settlement, mill construction and operation, tungsten processing, and county preservation."
+      },
+      {
+        "title": "History Colorado — Cardinal Mill",
+        "url": "https://www.historycolorado.org/taxonomy/term/1620",
+        "note": "Identifies the 1901 Cardinal Mill as significant for engineering and industry and as an outstanding concentration facility associated with tungsten production through 1942."
+      },
+      {
+        "title": "Boulder County Images Magazine — Cardinal Mill Now on National Register of Historic Places",
+        "url": "https://bouldercountyopenspace.org/i/wp-content/uploads/2017/05/images34-1spring12.pdf",
+        "note": "Documents the mill's National Register listing, operating history, intact machinery, and county preservation work."
+      },
+      {
+        "title": "Carnegie Library for Local History — Cardinal, Colorado: Boulder County Mill photographs, 1911",
+        "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A65099",
+        "note": "Archival 1911 record identifying the Boulder County Mill near Cardinal, also called the Cardinal Mill or Donora Mill."
+      },
+      {
+        "title": "Wikimedia Commons — Cardinal Mill (Full).JPG",
+        "url": "https://commons.wikimedia.org/wiki/File:Cardinal_Mill_(Full).JPG",
+        "note": "Exact-site modern photograph with CC BY-SA 3.0 license and camera location 39.968888, -105.550000."
+      }
+    ]
+  }
+}
