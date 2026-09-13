@@ -3,8 +3,8 @@
   "id": "colorado-summit",
   "county": "Summit County",
   "state": "Colorado",
-  "version": "3",
-  "generatedAt": "2026-09-13T15:29:42.145Z",
+  "version": "4",
+  "generatedAt": "2026-09-13T15:33:07.026Z",
   "sites": [
     {
       "id": "minnie",
@@ -22,66 +22,6 @@
       "coordinates": {
         "latitude": 39.48702,
         "longitude": -106.00246
-      }
-    },
-    {
-      "id": "pennsylvania",
-      "name": "Pennsylvania Mine",
-      "location": "Peru Creek / Montezuma",
-      "county": "Summit County",
-      "category": "Mine / Mill",
-      "componentType": "Mine complex",
-      "appReady": false,
-      "betaVisible": false,
-      "overview": [
-        "A major Peru Creek mine-and-mill complex used as a primary Remnant field-test site. Recent field documentation distinguishes the lower mill area from higher mine-level portals, machinery, waste dumps, and heavy timber surface structures."
-      ],
-      "timeline": [
-        {
-          "year": "1879",
-          "text": "Initial development of the Pennsylvania property began in the Montezuma district."
-        },
-        {
-          "year": "1890s",
-          "text": "The property became an important producer during the district’s major mining period."
-        },
-        {
-          "year": "20th century",
-          "text": "Mining continued intermittently, leaving multiple levels, portals, dumps, structures, and mill remains."
-        },
-        {
-          "year": "Today",
-          "text": "Surviving structures, portals, mill remains, and landscape relationships help interpret how the Pennsylvania complex was arranged and operated."
-        }
-      ],
-      "moreHistory": [],
-      "displayImages": [],
-      "features": [
-        {
-          "id": "penn-upper-structure",
-          "name": "Upper Mine-Level Structure",
-          "type": "Major Surface Structure",
-          "confidence": "Probable",
-          "note": "A substantial surviving timber industrial structure at the same general elevation as a Pennsylvania Mine portal. Its exact historic function is still being researched."
-        },
-        {
-          "id": "penn-portals",
-          "name": "Mine Portals / Adits",
-          "type": "Underground Workings",
-          "confidence": "Confirmed",
-          "note": "Multiple mine openings are associated with the Pennsylvania property. These are treated as mine components rather than separate visitor destinations."
-        },
-        {
-          "id": "penn-mill-area",
-          "name": "Pennsylvania Mill Area",
-          "type": "Processing Complex",
-          "confidence": "Confirmed",
-          "note": "The lower mill area is historically connected to the Pennsylvania property but is distinct from the higher mine-level workings and surface structures."
-        }
-      ],
-      "coordinates": {
-        "latitude": 39.596944,
-        "longitude": -105.873889
       }
     },
     {
@@ -284,6 +224,104 @@
         "latitude": 39.56028,
         "longitude": -105.88611
       }
+    },
+    {
+      "id": "CO-SUMMIT-PENNSYLVANIA",
+      "name": "Pennsylvania Mine",
+      "location": "Peru Creek near Montezuma",
+      "county": "Summit County",
+      "state": "Colorado",
+      "category": "Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-13T15:31:22.881Z",
+      "overview": [
+        "The Pennsylvania Mine is a historic hard-rock mine complex on the south side of Peru Creek near Montezuma. U.S. Geological Survey reporting identifies it as one of the most productive mines in the Montezuma quadrangle.",
+        "The vein was discovered in 1879, production peaked around 1893, and the property continued operating through difficult periods that closed many neighboring mines. The site is also important to modern water-quality work because mine drainage contributes acidic, metal-rich water to Peru Creek."
+      ],
+      "timeline": [
+        {
+          "year": "1879",
+          "text": "The Pennsylvania vein was discovered south of Decatur in the Peru Creek mining area."
+        },
+        {
+          "year": "1893",
+          "text": "The mine reached the height of its historic production and continued operating through the lean years that followed the silver panic."
+        },
+        {
+          "year": "Through the mid-1940s",
+          "text": "The consolidated Pennsylvania property continued intermittent production of gold, silver, lead, copper, and zinc ores."
+        },
+        {
+          "year": "Modern era",
+          "text": "USGS studies of Peru Creek document acidic, metal-rich drainage from the Pennsylvania Mine and evaluate its contribution to downstream metal loading."
+        }
+      ],
+      "moreHistory": [
+        "Historic USGS reporting records the Pennsylvania as one of the most productive properties in the Montezuma quadrangle.",
+        "Multiple mine levels, portals, waste dumps, timber remains, and the lower processing area preserve the layout of a substantial mountain mining complex."
+      ],
+      "features": [
+        {
+          "id": "penn-upper-workings",
+          "name": "Upper Workings",
+          "type": "Mine workings",
+          "confidence": "Confirmed",
+          "note": "USGS photography documents upper workings of the Pennsylvania Mine in the headwaters of Peru Creek."
+        },
+        {
+          "id": "penn-portals",
+          "name": "Mine Portals / Adits",
+          "type": "Underground workings",
+          "confidence": "Confirmed",
+          "note": "Multiple openings and mine levels are associated with the Pennsylvania property."
+        },
+        {
+          "id": "penn-mill-area",
+          "name": "Lower Processing Area",
+          "type": "Industrial remains",
+          "confidence": "Confirmed",
+          "note": "The lower industrial area is historically connected to the Pennsylvania property and remains distinct from the higher mine workings."
+        }
+      ],
+      "displayImages": [
+        {
+          "id": "pennsylvania-usgs-2009-upper-workings",
+          "title": "Upper workings of the Pennsylvania Mine — 2009",
+          "remoteUri": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/pennsylvania_mine_peru_creek_co_rlr_img_0010_l.jpg",
+          "sourcePage": "https://www.usgs.gov/media/images/upper-workings-pennsylvania-mine-headwaters-peru-creek-co",
+          "sourceNote": "U.S. Geological Survey photograph by Robert L. Runkel, September 7, 2009.",
+          "rights": "Public Domain — U.S. Geological Survey",
+          "mediaStatus": "PACKAGED"
+        }
+      ],
+      "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+      "coordinates": {
+        "latitude": 39.596944,
+        "longitude": -105.873889
+      },
+      "sourceReferences": [
+        {
+          "title": "Montezuma quadrangle, Colorado — U.S. Geological Survey Professional Paper 178",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/pp/0178/report.pdf",
+          "note": "Documents the 1879 discovery, production history, and significance of the Pennsylvania Mine in the Montezuma quadrangle."
+        },
+        {
+          "title": "Estimating instream constituent loads using replicate synoptic sampling, Peru Creek, Colorado",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://www.usgs.gov/publications/estimating-instream-constituent-loads-using-replicate-synoptic-sampling-peru-creek",
+          "note": "Documents acidic, metal-rich effluent from the Pennsylvania Mine and its contribution to Peru Creek metal loading."
+        },
+        {
+          "title": "Upper Workings of Pennsylvania Mine in Headwaters of Peru Creek, CO",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://www.usgs.gov/media/images/upper-workings-pennsylvania-mine-headwaters-peru-creek-co",
+          "note": "Exact-site public-domain photograph and identification."
+        }
+      ]
     }
   ]
 }
