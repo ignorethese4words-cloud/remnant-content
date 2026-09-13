@@ -3,8 +3,8 @@
   "id": "colorado-summit",
   "county": "Summit County",
   "state": "Colorado",
-  "version": "2",
-  "generatedAt": "2026-09-07T20:24:27.192Z",
+  "version": "3",
+  "generatedAt": "2026-09-13T15:29:42.145Z",
   "sites": [
     {
       "id": "minnie",
@@ -23,82 +23,6 @@
         "latitude": 39.48702,
         "longitude": -106.00246
       }
-    },
-    {
-      "id": "montezuma-town",
-      "name": "Montezuma Mining Town",
-      "location": "Montezuma",
-      "county": "Summit County",
-      "category": "Mining Town",
-      "componentType": "Town",
-      "appReady": true,
-      "betaVisible": true,
-      "overview": [
-        "Montezuma developed as the community center of the upper Snake River and Peru Creek mining country. It supported nearby mines and mills while also serving residential, commercial, postal, and social functions.",
-        "The town is historically connected to the surrounding mining district, but Remnant keeps it separate from individual properties such as Pennsylvania, Saints John, Quail, and other nearby mines."
-      ],
-      "timeline": [
-        {
-          "year": "Late 19th century",
-          "text": "Mineral discoveries drove the growth of Montezuma and the surrounding Snake River mining district."
-        },
-        {
-          "year": "Mining-boom era",
-          "text": "Businesses, residences, lodging, postal services, and other community functions developed to support miners and families."
-        },
-        {
-          "year": "Early 20th century",
-          "text": "Changing metal markets and mine closures reduced activity, though Montezuma continued as a community."
-        },
-        {
-          "year": "1941",
-          "text": "Marion Post Wolcott documented Montezuma for the Farm Security Administration/Office of War Information."
-        },
-        {
-          "year": "Today",
-          "text": "Montezuma remains a living incorporated community surrounded by one of Summit County’s densest historic mining landscapes."
-        }
-      ],
-      "moreHistory": [
-        "Montezuma served as a service and community center for a much larger mining landscape.",
-        "The town demonstrates why the term “ghost town” can oversimplify history: Montezuma declined from its mining-era peak but did not disappear.",
-        "Marion Post Wolcott’s 1941 photographs document buildings and streetscapes during a period of renewed defense-related mining activity.",
-        "For identification purposes, Pennsylvania, Saints John, Quail, Wild Irishman, and other properties remain separate sites rather than being folded into the town record."
-      ],
-      "displayImages": [
-        {
-          "id": "montezuma-1941",
-          "title": "Johnny's Hotel and post office, Montezuma — 1941",
-          "label": "",
-          "source": {
-            "uri": "https://cdn.loc.gov/service/pnp/fsa/8c31000/8c31600/8c31636v.jpg"
-          },
-          "sourceNote": "Library of Congress FSA/OWI photograph by Marion Post Wolcott. Public domain / no known restrictions."
-        }
-      ],
-      "features": [
-        {
-          "id": "monte-core",
-          "name": "Historic Town Core",
-          "type": "Townsite",
-          "confidence": "Confirmed",
-          "note": "Historic buildings and streetscape elements survive within the community."
-        },
-        {
-          "id": "monte-community",
-          "name": "Historic Community Buildings",
-          "type": "Civic / Commercial",
-          "confidence": "Confirmed",
-          "note": "Historical photographs document postal, hotel, and community functions."
-        },
-        {
-          "id": "monte-district",
-          "name": "Relationship to Surrounding Mining District",
-          "type": "Historic Landscape",
-          "confidence": "Confirmed",
-          "note": "The town is historically connected to nearby mines while remaining a distinct location."
-        }
-      ]
     },
     {
       "id": "pennsylvania",

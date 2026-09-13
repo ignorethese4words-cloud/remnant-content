@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-13T15:01:35.905Z",
-  "generatedAt": "2026-09-13T15:01:35.905Z",
+  "contentVersion": "2026-09-13T15:29:42.145Z",
+  "generatedAt": "2026-09-13T15:29:42.145Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -429,11 +429,11 @@
       "id": "colorado-summit",
       "county": "Summit County",
       "state": "Colorado",
-      "version": "2",
+      "version": "3",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
-      "exploreSiteCount": 2,
+      "exploreSiteCount": 1,
       "idOnlySiteCount": 8,
-      "siteCount": 10
+      "siteCount": 9
     },
     {
       "id": "colorado-teller",
