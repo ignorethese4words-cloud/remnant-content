@@ -3,22 +3,53 @@
   "id": "colorado-dolores",
   "county": "Dolores County",
   "state": "Colorado",
-  "version": "5",
-  "generatedAt": "2026-09-12T17:00:00.099Z",
+  "version": "6",
+  "generatedAt": "2026-09-13T01:40:37.701Z",
   "sites": [
     {
       "id": "CO-DOLORES-ATLANTIC-CABLE-MINE",
       "name": "Atlantic Cable Mine & Headframe Complex",
-      "location": "Rico mining district, Dolores County, Colorado",
+      "location": "Pioneer (Rico) District",
       "county": "Dolores County",
-      "category": "Mine / Industrial Remnant",
-      "componentType": "Headframe",
-      "overview": [
-        "The Atlantic Cable Mine is documented as one of Rico's early profitable mines. Existing research supports the surviving headframe and associated mine landscape as a stable basic Scan identity."
-      ],
       "state": "Colorado",
+      "category": "Historic Mine / Industrial Remnant",
+      "componentType": "Headframe",
+      "tier": "ID ONLY",
       "appReady": false,
-      "betaVisible": false
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T11:17:19Z",
+      "overview": [
+        "The Atlantic Cable Mine is a historic silver-lead-zinc mine at the north end of Rico. Its headframe and shaft remain a visible industrial remnant of the Pioneer mining district."
+      ],
+      "timeline": [
+        "1878 — John Glasgow and others located the Atlantic Cable claim.",
+        "Before 1900 — The mine's principal shaft was sunk.",
+        "1940s — The Rico Argentine Mining Company pumped the shaft and produced zinc-lead-copper ore during World War II."
+      ],
+      "moreHistory": [
+        "USGS district geology describes the Atlantic Cable as a shaft mine with levels at 45, 62, and 183 feet below the surface. The mine produced silver, lead, zinc, copper, and minor gold. The preserved headframe provides a defensible identification target; this record does not imply access to underground workings."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 37.69417,
+        "longitude": -108.03111
+      },
+      "sourceReferences": [
+        {
+          "title": "USGS MRDS-derived record 10014117 — Atlantic Cable Mine",
+          "url": "https://westernmininghistory.com/mine-detail/10014117/"
+        },
+        {
+          "title": "USGS — Geology and Ore Deposits of the Rico District, Colorado (1974)",
+          "url": "https://pubs.usgs.gov/pp/0723/report.pdf"
+        },
+        {
+          "title": "SAH Archipedia — Atlantic Cable Mine",
+          "url": "https://sah-archipedia.org/buildings/CO-01-DL05"
+        }
+      ]
     },
     {
       "id": "CO-DOLORES-DUNTON-MINING-CAMP",
