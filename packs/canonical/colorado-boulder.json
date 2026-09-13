@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "35",
-  "generatedAt": "2026-09-12T21:09:33.167Z",
+  "version": "37",
+  "generatedAt": "2026-09-13T01:05:39.573Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -1709,6 +1709,106 @@
           "publisher": "Mindat",
           "url": "https://www.mindat.org/loc-134313.html",
           "note": "Corroborates the grouped Rambler-Lower Rambler occurrence in the Boulder County tungsten district; the grouped locality is used conservatively for identification rather than as an exact portal coordinate."
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-ILLINOIS-MINE",
+      "name": "Illinois Mine",
+      "location": "Northwest of Nederland / Boulder County Tungsten District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-11T20:21:46Z",
+      "overview": [
+        "Illinois Mine was a documented tungsten mine northwest of Nederland and one of the principal properties operated by the Wolf Tongue Mining Company in the Boulder County tungsten district."
+      ],
+      "timeline": [
+        {
+          "year": "Early 20th century",
+          "text": "Wolf Tongue Mining Company operated the Illinois Mine as one of its principal tungsten properties near Nederland."
+        },
+        {
+          "year": "Mid-20th century documentation",
+          "text": "U.S. Geological Survey Professional Paper 245 documented the Illinois workings and their place within the Boulder County tungsten district."
+        }
+      ],
+      "moreHistory": [
+        "State and federal mining records place the Illinois Mine roughly northwest of Nederland and document substantial underground workings, including a deep shaft and multiple levels.",
+        "The mine formed part of the tungsten-producing landscape around Nederland that became nationally important during the first half of the twentieth century."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.97,
+        "longitude": -105.52
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey Professional Paper 245 — Geology and Ore Deposits of the Boulder County Tungsten District, Colorado",
+          "url": "https://pubs.usgs.gov/pp/0245/report.pdf"
+        },
+        {
+          "title": "Carnegie Library for Local History — Wolf Tongue Mining Company records, 1910-1951",
+          "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A319"
+        },
+        {
+          "title": "Carnegie Library for Local History — Wolf Tongue Mining Company photograph collection",
+          "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A16191"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-KEKIONGA-MINE",
+      "name": "Kekionga Mine",
+      "location": "Upper Magnolia Road / Magnolia Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-11T18:22:00.000Z",
+      "overview": [
+        "Kekionga Mine is a documented historic Boulder County mine above Magnolia, where Colorado Geological Survey records describe tungsten workings reached by the upper Magnolia road."
+      ],
+      "timeline": [
+        {
+          "year": "Historic operation",
+          "text": "Colorado Geological Survey records the Kekionga property with a shaft more than 200 feet deep, additional shafts and cuts, and production of about 2,000 tungsten units."
+        },
+        {
+          "year": "Later work",
+          "text": "The same state record notes that the last work was carried out under an RFC loan and that combined gold-and-tungsten ore was developed."
+        }
+      ],
+      "moreHistory": [
+        "Colorado Geological Survey MI-04 places the workings on the south line of Section 6, Township 1 South, Range 71 West, above Magnolia, and notes that the upper Magnolia road passes between the mine dumps.",
+        "USGS-derived place mapping retains the Kekionga Mine locality at approximately 39.9858196, -105.3841605, consistent with the documented Magnolia-area mine setting."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.9858196,
+        "longitude": -105.3841605
+      },
+      "sourceReferences": [
+        {
+          "title": "Colorado Geological Survey MI-04 — Tungsten Mines of Colorado",
+          "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/MI-04.pdf"
+        },
+        {
+          "title": "Kekionga Mine Topo Map in Boulder County, Colorado",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/kekionga-mine-181159/"
+        },
+        {
+          "title": "Kekionga Mine, Magnolia Mining District, Boulder County, Colorado",
+          "url": "https://www.mindat.org/loc-281948.html"
         }
       ]
     }
