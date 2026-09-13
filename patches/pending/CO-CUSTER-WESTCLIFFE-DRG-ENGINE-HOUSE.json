@@ -1,0 +1,71 @@
+{
+  "countySlug": "custer",
+  "site": {
+    "id": "CO-CUSTER-WESTCLIFFE-DRG-ENGINE-HOUSE",
+    "name": "Westcliffe D&RG Engine House & Turntable Remains",
+    "location": "West end of Rosita Avenue, Westcliffe",
+    "county": "Custer County",
+    "category": "Railroad Engine House / Terminal Remains",
+    "componentType": "Railroad Feature",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "Built in 1900–01 for the Denver & Rio Grande's branch from Texas Creek, Westcliffe's single-stall engine house served the railroad's terminal in the Wet Mountain Valley.",
+      "The restored engine house and the depression left by the removed turntable preserve an unusually rare example of a small branch-line locomotive facility in Colorado."
+    ],
+    "timeline": [
+      {
+        "year": "1900–1901",
+        "text": "The Denver & Rio Grande constructed the single-stall engine house for its Westcliffe terminus on the branch from Texas Creek."
+      },
+      {
+        "year": "1938",
+        "text": "Rail service on the Westcliffe branch ended, leaving the engine house as one of the surviving railroad structures from the line."
+      },
+      {
+        "year": "1990s–2006",
+        "text": "Local preservation work stabilized and restored the deteriorated engine house, which later became part of Westcliffe's railroad-history museum complex."
+      }
+    ],
+    "moreHistory": [
+      "Colorado's State Register documentation describes this engine house as a particularly rare surviving example because branch lines did not commonly receive dedicated engine houses. The surviving turntable depression helps show how locomotives were serviced and turned at the end of the line.",
+      "Today the engine house is associated with All Aboard Westcliffe's local railroad-history collection, which interprets the role rail transportation played in the Wet Mountain Valley."
+    ],
+    "displayImages": [
+      {
+        "id": "westcliffe-engine-house-interior-nara",
+        "title": "Interior of the Westcliffe engine house",
+        "remoteUri": "https://cache.getarchive.net/Prod/thumb/cdn10/L3Bob3RvLzIwMTMvMTIvMzEvZnJvbnRpZXItcGF0aHdheXMtc2NlbmljLWFuZC1oaXN0b3JpYy1ieXdheS1pbnNpZGUtdmlldy1vZi1lbmdpbmUtaG91c2UtNzAxNDU0LXNtYWxsLmpwZw%3D%3D/320/213/jpg",
+        "sourcePage": "https://nara.getarchive.net/media/frontier-pathways-scenic-and-historic-byway-inside-view-of-engine-house-701454",
+        "sourceNote": "U.S. National Archives digital photograph of the interior of the Westcliffe engine house; photo courtesy of Mel Porth.",
+        "rights": "Public domain / no known copyright restrictions",
+        "mediaStatus": "PACKAGED"
+      }
+    ],
+    "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+    "coordinates": {
+      "latitude": 38.1344,
+      "longitude": -105.4711
+    },
+    "sourceReferences": [
+      {
+        "title": "Directory of Railroad Properties in the Colorado State Register of Historic Properties — Denver & Rio Grande Engine House, 5CR.221",
+        "url": "https://hermes.cde.state.co.us/islandora/object/co%3A1218/datastream/OBJ/download/Directory_of_railroad_properties_in_the_Colorado_state_register_of_historic_properties.pdf"
+      },
+      {
+        "title": "Town of Westcliffe Master Plan — Historic Buildings",
+        "url": "https://townofwestcliffe.colorado.gov/sites/g/files/lrnvjt781/files/documents/Master%20Plan%20FINAL%201-15-25.pdf"
+      },
+      {
+        "title": "All Aboard Westcliffe — Engine House",
+        "url": "https://www.allaboardwestcliffe.co/copy-of-engine-house"
+      },
+      {
+        "title": "U.S. National Archives image record — Westcliffe engine house interior",
+        "url": "https://nara.getarchive.net/media/frontier-pathways-scenic-and-historic-byway-inside-view-of-engine-house-701454"
+      }
+    ],
+    "contentUpdatedAt": "2026-09-11T22:51:05Z"
+  }
+}
