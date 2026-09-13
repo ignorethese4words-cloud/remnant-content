@@ -1,0 +1,40 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-BIG-MOON-MINE",
+    "name": "Big Moon Mine",
+    "location": "Boulder County",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T17:10:00-06:00",
+    "overview": [
+      "Big Moon Mine is a documented historic mine in Boulder County near Nederland and Rollinsville. USGS-derived topographic mapping preserves the named mine at approximately 39.903876, -105.528887, providing a defensible identification point without implying present-day access or surviving open workings."
+    ],
+    "timeline": [],
+    "moreHistory": [
+      "The mapped Big Moon Mine is identified as an inactive gold, silver, and lead mine on the Nederland, Colorado topographic quadrangle. The retained evidence supports the mine's identity and location, while operator chronology, production totals, and present condition remain unstated where the available sources do not establish them."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.9038761,
+      "longitude": -105.5288871
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS-derived Big Moon Mine topographic feature record",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/big-moon-mine-1685006/"
+      },
+      {
+        "title": "Nederland, Colorado US Topo map index",
+        "url": "https://mapstore.mytopo.com/products/ustopo_colorado_nederland"
+      }
+    ]
+  }
+}
