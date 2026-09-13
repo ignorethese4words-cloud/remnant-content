@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "61",
-  "generatedAt": "2026-09-13T13:51:34.060Z",
+  "version": "62",
+  "generatedAt": "2026-09-13T13:54:09.632Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -2730,6 +2730,63 @@
         {
           "title": "USGS/GNIS-derived Livingston Mine topographic record",
           "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/livingston-mine-1683708/"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-INGRAM-MINE",
+      "name": "Ingram Mine",
+      "location": "Salina / Gold Hill Mining District",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-13T19:35:00-06:00",
+      "overview": [
+        "Ingram Mine is a documented historic gold mine near Salina in Boulder County's Gold Hill Mining District.",
+        "Federal mineral reporting and Boulder County historical records trace the mine from its nineteenth-century development through renewed work in the 1930s."
+      ],
+      "timeline": [
+        {
+          "year": "1871",
+          "text": "Boulder County historical research records the Ingram as one of the mines discovered near the future Salina camp before the settlement was formally established."
+        },
+        {
+          "year": "1905",
+          "text": "Federal mineral reporting listed the Ingram among Boulder County's Gold Hill-area mines near Salina."
+        },
+        {
+          "year": "1934-1939",
+          "text": "Historic Boulder records document renewed work at the Ingram, including shaft development and photographs of miners and surface structures."
+        }
+      ],
+      "moreHistory": [
+        "Local historical documentation places the Ingram in the Salina mining landscape and records renewed development during the 1930s, including work reaching substantial depth.",
+        "The Carnegie Library for Local History preserves multiple photographs and drawings tied specifically to the Ingram Mine. Those materials were retained as research evidence, but the photographic rights statements were not treated as sufficiently clear for redistribution in the app.",
+        "A USGS/GNIS-derived named-mine point at approximately 40.0599859, -105.3788825 is used as the historic mine-level identification anchor without claiming that a surviving shaft collar has been field surveyed."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 40.0599859,
+        "longitude": -105.3788825
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey — Mineral Resources of the United States, 1905",
+          "url": "https://apps.usgs.gov/minerals-information-archives/mineral-resources-1893-1933/mr-1905.pdf"
+        },
+        {
+          "title": "Carnegie Library for Local History — Ingram Mine (Salina, Colo.), BHS 219-4-15",
+          "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A26106"
+        },
+        {
+          "title": "USGS/GNIS-derived Ingram Mine topographic record",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/ingram-mine-1683699/"
         }
       ]
     }
