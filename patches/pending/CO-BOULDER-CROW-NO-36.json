@@ -1,0 +1,56 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-CROW-NO-36",
+    "name": "Crow No. 36",
+    "location": "Nederland / Boulder County Tungsten Mining District",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-13T14:10:00Z",
+    "overview": [
+      "Crow No. 36 is a documented historic tungsten mine in the Nederland-area Boulder County tungsten district.",
+      "Colorado Geological Survey records place the named working in Section 12, Township 1 South, Range 73 West, across Colorado 119 and the gulch east of Mud Lake, and document a shaft with underground drifts."
+    ],
+    "timeline": [
+      {
+        "year": "Historic tungsten era",
+        "text": "Crow No. 36 was developed as an underground tungsten mine in the Nederland-area district and became one of the district's more productive small mines."
+      },
+      {
+        "year": "1960 documentation",
+        "text": "Colorado's tungsten-mine inventory recorded a 50-foot shaft, drifts on a network of small veins, and unusually high-grade ferberite concentrate from the property."
+      }
+    ],
+    "moreHistory": [
+      "Colorado Geological Survey MI-04 places Crow No. 36 across Colorado 119 and the gulch east of Mud Lake. It reports production of less than 10,000 tungsten units, a 50-foot shaft with drifts, and coarse crystalline ferberite concentrate reported at 70 to 74 percent.",
+      "The mine remains a named feature on Nederland-area U.S. Geological Survey topographic mapping, providing an independent geographic cross-check for the historic working.",
+      "For identification, the USGS/GNIS-derived named mine locality at approximately 39.9627648, -105.5099978 is used together with the Colorado Geological Survey's bounded location description. The point is a historic mine-level anchor, not a claim that a surviving shaft collar has been field surveyed or is safe to approach."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.9627648,
+      "longitude": -105.5099978
+    },
+    "sourceReferences": [
+      {
+        "title": "Colorado Geological Survey MI-04 — Tungsten Mines of Colorado",
+        "url": "https://coloradogeologicalsurvey.org/publications/tungsten-mines-colorado/"
+      },
+      {
+        "title": "USGS/GNIS-derived Crow Number Thirty-six Mine topographic record",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/crow-number-thirty-six-mine-1684950/"
+      },
+      {
+        "title": "USGS Nederland topographic mapping — Crow Number Thirty-six Mine",
+        "url": "https://mapstore.mytopo.com/products/ustopo_colorado_nederland"
+      }
+    ]
+  }
+}
