@@ -3,28 +3,88 @@
   "id": "colorado-logan",
   "county": "Logan County",
   "state": "Colorado",
-  "version": "3",
-  "generatedAt": "2026-09-07T20:24:27.191Z",
+  "version": "4",
+  "generatedAt": "2026-09-14T19:04:24.963Z",
   "sites": [
     {
       "id": "CO-LOGAN-STERLING-UP-RAILROAD-DEPOT",
       "name": "Sterling Union Pacific Railroad Depot",
       "location": "113 N. Front St., Sterling",
       "county": "Logan County",
+      "state": "Colorado",
       "category": "Railroad Depot",
       "componentType": "Railroad Depot",
-      "appReady": false,
-      "betaVisible": false,
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-14T14:20:00Z",
       "overview": [
-        "A surviving 1902 Union Pacific railroad depot in Sterling."
+        "Built in 1902, the Sterling Union Pacific Railroad Depot is a substantial surviving railroad station associated with Sterling's growth as an important Union Pacific community in northeastern Colorado.",
+        "The depot's Romanesque Revival design reflects the railroad's investment in a prominent passenger facility, while its later preservation and relocation kept the historic building in Sterling after railroad use ended."
       ],
-      "timeline": [],
-      "moreHistory": [],
-      "displayImages": [],
+      "timeline": [
+        {
+          "year": "1902",
+          "text": "Union Pacific constructed the Sterling depot, a prominent Romanesque Revival station reflecting the city's importance on the railroad system."
+        },
+        {
+          "year": "1983",
+          "text": "Railroad use of the depot ended."
+        },
+        {
+          "year": "1984",
+          "text": "The City of Sterling relocated the depot to preserve the building."
+        },
+        {
+          "year": "1986",
+          "text": "The Sterling Union Pacific Railroad Depot was listed in the National Register of Historic Places."
+        }
+      ],
+      "moreHistory": [
+        "History Colorado identifies the 1902 Sterling depot as an unusually impressive station whose Romanesque Revival treatment reflected Sterling's importance on the Union Pacific system.",
+        "National Register records identify the property as the Sterling Union Pacific Railroad Depot, also known as the Sterling Depot, at 113 N. Front St. The building is significant for transportation history and architecture.",
+        "The coordinate used here identifies the preserved depot at its present Sterling location. Because the depot was relocated after railroad service ended, this point should not be interpreted as the exact original trackside footprint."
+      ],
+      "displayImages": [
+        {
+          "id": "sterling-up-depot-hero",
+          "title": "Sterling Union Pacific Railroad Depot",
+          "label": "SITE • HISTORIC DEPOT",
+          "source": {
+            "uri": "https://upload.wikimedia.org/wikipedia/commons/7/78/Sterling_Colorado_Union_Pacific_Railroad_Depot.JPG"
+          },
+          "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/7/78/Sterling_Colorado_Union_Pacific_Railroad_Depot.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sterling_Colorado_Union_Pacific_Railroad_Depot.JPG",
+          "sourceNote": "Exact-site photograph of the Sterling Union Pacific Railroad Depot at 113 North Front Street, photographed by Jeffrey Beall on July 29, 2011.",
+          "rights": "CC BY-SA 3.0 — Jeffrey Beall",
+          "mediaStatus": "PACKAGED"
+        }
+      ],
+      "mediaSearchStatus": "FOUND_USABLE_MEDIA",
       "coordinates": {
         "latitude": 40.624722,
         "longitude": -103.204167
-      }
+      },
+      "sourceReferences": [
+        {
+          "title": "Railroads in Colorado, 1858-1948 — Sterling Union Pacific Railroad Depot",
+          "publisher": "History Colorado",
+          "url": "https://www.historycolorado.org/railroads-colorado-1858-1948",
+          "note": "Identifies the Sterling depot as a 1902 Romanesque Revival building reflecting Sterling's importance on the Union Pacific system."
+        },
+        {
+          "title": "National Register of Historic Places — Sterling Union Pacific Railroad Depot",
+          "publisher": "National Park Service",
+          "url": "https://www.nps.gov/state/co/list.htm?program=all",
+          "note": "Confirms the Sterling Union Pacific Railroad Depot is listed in the National Register of Historic Places."
+        },
+        {
+          "title": "Sterling Colorado Union Pacific Railroad Depot.JPG",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Sterling_Colorado_Union_Pacific_Railroad_Depot.JPG",
+          "note": "Exact-site photograph at 113 North Front Street, own work by Jeffrey Beall, licensed CC BY-SA 3.0."
+        }
+      ]
     }
   ]
 }
