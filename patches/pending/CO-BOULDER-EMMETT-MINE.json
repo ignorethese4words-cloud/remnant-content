@@ -1,0 +1,72 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-EMMETT-MINE",
+    "name": "Emmett Mine",
+    "location": "Little James Creek / Jamestown Mining District",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-14T06:54:16Z",
+    "overview": [
+      "The Emmett Mine was one of the major fluorspar producers in Boulder County's Jamestown Mining District, about a mile northwest of Jamestown on the south side of Little James Creek.",
+      "Federal geologic reports document unusually deep underground development and sustained twentieth-century fluorspar production, making Emmett suitable for full visitor history rather than identification-only treatment."
+    ],
+    "timeline": [
+      {
+        "year": "1940s",
+        "text": "The Jamestown fluorspar industry expanded sharply during World War II, and federal reports documented the Emmett among the district's important producing mines."
+      },
+      {
+        "year": "1950",
+        "text": "USGS reported the Emmett being operated by H. M. Williamson and Son under lease from the Boulder Fluorspar and Radium Company."
+      },
+      {
+        "year": "1940-1956",
+        "text": "Later USGS synthesis records Harry Williamson and Son producing fluorspar mainly from the Emmett Mine, with lesser production from the Argo and Blue Jay mines."
+      },
+      {
+        "year": "By the early 1970s",
+        "text": "USGS described the Emmett as closed after having been developed to roughly 1,000 feet depth."
+      }
+    ],
+    "moreHistory": [
+      "USGS describes the Emmett workings as a roughly 1,000-foot vertical shaft connected to a crosscut tunnel and ten levels, with the shaft collar lying in a large open cut. Several upper levels were already inaccessible when federal geologists examined the mine.",
+      "The mine followed a large fluorite vein in Silver Plume Granite. Federal reporting describes the vein as several feet to tens of feet wide and more than 200 feet long, and identifies Emmett as one of the Jamestown area's largest fluorspar producers.",
+      "A federal 1944 Jamestown report includes dedicated geologic maps and sections of the Emmett Mine and Afterthought Tunnel, providing component-level evidence for the mine's identity and workings. The retained mine-level coordinate is treated as an identification point rather than a claim that a surviving shaft collar has been field-surveyed by Remnant."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.12637,
+      "longitude": -105.39999
+    },
+    "sourceReferences": [
+      {
+        "title": "U.S. Geological Survey — Fluorspar Deposits of the Jamestown District, Boulder County, Colorado (OFR 44-56)",
+        "url": "https://pubs.usgs.gov/of/1944/0056/report.pdf",
+        "note": "Federal district report with dedicated geologic maps and sections for the Emmett Mine and Afterthought Tunnel."
+      },
+      {
+        "title": "U.S. Geological Survey — Trace Elements Investigation 59",
+        "url": "https://pubs.usgs.gov/tei/059/report.pdf",
+        "note": "Federal report describing Emmett's location, operator, workings, geology, and role as a major Jamestown fluorspar producer."
+      },
+      {
+        "title": "U.S. Geological Survey Professional Paper 933 — Fluorspar Deposits of the Western United States",
+        "url": "https://pubs.usgs.gov/pp/0933/report.pdf",
+        "note": "Later federal synthesis documenting Emmett production history and approximately 1,000-foot development depth."
+      },
+      {
+        "title": "USGS/GNIS-derived Emmit Mine feature record",
+        "url": "https://www.mindat.org/feature-5576831.html",
+        "note": "Preserves the Boulder County mapped mine-level location near 40.12637, -105.39999; used as an identification anchor, not a field-surveyed shaft collar."
+      }
+    ]
+  }
+}
