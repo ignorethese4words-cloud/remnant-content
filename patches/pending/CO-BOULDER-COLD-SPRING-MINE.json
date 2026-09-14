@@ -1,0 +1,73 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-COLD-SPRING-MINE",
+    "name": "Cold Spring Mine",
+    "location": "Trevarton Gulch / Boulder County Tungsten Mining District near Nederland",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-14T07:53:42Z",
+    "overview": [
+      "Cold Spring Mine was a major historic tungsten producer in Boulder County's tungsten district, about two miles northeast of Nederland in Trevarton Gulch.",
+      "Colorado mining records document deep multi-level workings, substantial twentieth-century tungsten production, and renewed federal-supported exploration during the 1950s."
+    ],
+    "timeline": [
+      {
+        "year": "By 1935",
+        "text": "Colorado's tungsten-mine inventory recorded 101,586 units of production from ore averaging 7.1 percent and estimated that total production ultimately exceeded 200,000 units."
+      },
+      {
+        "year": "1951-1954",
+        "text": "The mine was reopened under the Defense Minerals Exploration Administration, with extensive core drilling and additional underground development."
+      },
+      {
+        "year": "1961",
+        "text": "A Colorado Supreme Court decision described Cold Spring Tungsten, Inc. as owning a tungsten mine and mill near Nederland while pursuing treatment of low-grade tailings."
+      }
+    ],
+    "moreHistory": [
+      "Colorado Geological Survey's Tungsten Mines of Colorado places the Cold Spring workings in Sections 7 and 8, Township 1 South, Range 72 West, in Trevarton Gulch about two miles northeast of Nederland. The state inventory describes two shafts reaching about 480 feet with eight underground levels.",
+      "The same state source records major historic tungsten production and renewed 1950s exploration under the federal DMEA program, showing that Cold Spring was substantially more than a mapped name or minor prospect.",
+      "The Boulder County tungsten-district locality near 39.98333, -105.48333 is used as a defensible mine-level identification point supported by the retained federal/state source trail. It is not presented as a field-surveyed surviving shaft collar or as evidence of current access or safety.",
+      "This tungsten property is distinct from the separate Cold Spring gold-mine locality near Gold Hill; the two names should not be combined."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.98333,
+      "longitude": -105.48333
+    },
+    "sourceReferences": [
+      {
+        "title": "Tungsten Mines of Colorado (MI-04)",
+        "publisher": "Colorado Geological Survey / Colorado State Metal Mining Fund",
+        "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/MI-04.pdf",
+        "note": "Documents Cold Spring in Trevarton Gulch, Sections 7 and 8, T1S R72W, historic production, two 480-foot shafts, eight levels, and 1950s DMEA exploration."
+      },
+      {
+        "title": "Geology and Ore Deposits of the Front Range, Colorado — Professional Paper 223",
+        "publisher": "U.S. Geological Survey",
+        "url": "https://pubs.usgs.gov/publication/pp223",
+        "note": "Federal source trail for the Boulder County tungsten-district Cold Spring property and its mineralization."
+      },
+      {
+        "title": "Tungsten in the United States — Mineral Investigations Resource Map MR-25",
+        "publisher": "U.S. Geological Survey",
+        "url": "https://pubs.usgs.gov/imap/025/",
+        "note": "Retained federal tungsten source trail used with state mine records to identify the Cold Spring tungsten property."
+      },
+      {
+        "title": "Cold Spring Tungsten, Inc. v. American Steel & Iron Works, Inc.",
+        "publisher": "Colorado Supreme Court",
+        "url": "https://law.justia.com/cases/colorado/supreme-court/1961/19144.html",
+        "note": "1961 decision describes Cold Spring Tungsten, Inc. as owning a tungsten mine and mill near Nederland and documents tailings-treatment activity."
+      }
+    ]
+  }
+}
