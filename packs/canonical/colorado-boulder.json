@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "88",
-  "generatedAt": "2026-09-14T11:06:54.720Z",
+  "version": "89",
+  "generatedAt": "2026-09-14T12:09:56.568Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -4276,6 +4276,49 @@
           "note": "1961 decision describes Cold Spring Tungsten, Inc. as owning a tungsten mine and mill near Nederland and documents tailings-treatment activity."
         }
       ]
+    },
+    {
+      "id": "CO-BOULDER-COLUMBIA-MINE",
+      "name": "Columbia Mine",
+      "location": "Niwot Hill / Ward Mining District",
+      "county": "Boulder County",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-14T10:18:13.000Z",
+      "overview": [
+        "The Columbia Mine was one of the best-known gold mines of the Ward Mining District, developed on the prominent Columbia vein near the top of Niwot Hill west of Ward.",
+        "Historic geological and archival sources identify the Columbia among the district's major producers and preserve photographs of its mine buildings, miners, and ore-handling activity from the late nineteenth to early twentieth century."
+      ],
+      "timeline": [
+        {
+          "year": "1861",
+          "text": "The Columbia vein was located during the first years of the Ward mining camp, helping establish the district's early hard-rock mining activity."
+        },
+        {
+          "year": "Late 1800s",
+          "text": "The Columbia became one of the Ward district's most important producing mines and was later associated with the Big Five mining properties."
+        },
+        {
+          "year": "1885-1910",
+          "text": "Joseph B. Sturtevant photographed the Columbia Mine, preserving views of miners, mine buildings, and an ore cart at the property."
+        }
+      ],
+      "moreHistory": [
+        "Historic geological reporting places the Niwot and Columbia mines near the top of Niwot Hill about half a mile west of Ward on the Columbia vein, a major vein system extending eastward across the district.",
+        "The same geological reporting describes the Niwot and Columbia as the greatest gold producers in the Ward district and states that much of the approximately $6 million in output later attributed to the Big Five properties came from these two mines before the Big Five Company was organized.",
+        "Carnegie Library for Local History catalog records identify the Columbia as one of the Big Five mines at Niwot Hill and preserve period photographs of miners and ore-handling activity at the site.",
+        "A USGS/GNIS-derived mapped mine point at approximately 40.03610, -105.53111 is used as a defensible mine-level identification point. Remnant does not represent this point as a field-surveyed surviving shaft or portal collar."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 40.0360976,
+        "longitude": -105.5311101
+      }
     }
   ]
 }
