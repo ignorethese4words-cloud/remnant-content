@@ -3,8 +3,8 @@
   "id": "colorado-jefferson",
   "county": "Jefferson County",
   "state": "Colorado",
-  "version": "10",
-  "generatedAt": "2026-09-14T22:00:44.360Z",
+  "version": "11",
+  "generatedAt": "2026-09-14T23:02:16.105Z",
   "sites": [
     {
       "id": "CO-JEFFERSON-CAMP-GEORGE-WEST",
@@ -465,6 +465,71 @@
           "publisher": "U.S. Geological Survey",
           "url": "https://pubs.usgs.gov/bul/1181c/report.pdf",
           "note": "Peterson (1964), USGS Bulletin 1181-C; cited in the site record as a geologic reference for the locality."
+        }
+      ]
+    },
+    {
+      "id": "CO-JEFFERSON-AUGUSTA-MINE",
+      "name": "Augusta Mine",
+      "location": "Evergreen Mining District near Cub Creek south of Evergreen",
+      "county": "Jefferson County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-14T14:51:00Z",
+      "overview": [
+        "The Augusta Mine, also known as the Augusta Lode Mine, is a historic fluorspar and base-metal mine in Jefferson County's Evergreen Mining District near Cub Creek south of Evergreen.",
+        "Federal and mineral-history sources document the mine as an early lead-zinc-copper prospect that later produced fluorspar from a steep fissure vein in Precambrian crystalline rock."
+      ],
+      "timeline": [
+        {
+          "year": "Early 1900s",
+          "text": "Published USGS history reports that the Augusta workings produced more than 1,000 tons of fluorspar during the early twentieth century after earlier development for lead, zinc, and copper."
+        },
+        {
+          "year": "1943",
+          "text": "Later locality records document limited additional production at the Augusta / Evergreen fluorite deposit in 1943."
+        }
+      ],
+      "moreHistory": [
+        "USGS descriptions place the Augusta workings along a fissure vein south of Evergreen near Cub Creek. The vein strikes northwest and dips steeply southwest through Precambrian hornblende-biotite granite and gneiss.",
+        "Reported minerals and commodities include fluorite, copper and silver minerals, lead and zinc minerals, and minor gold. Historical descriptions note purple and green fluorspar veins and indicate that the old workings later became extensively collapsed.",
+        "The mapped identification point near 39.6175, -105.31722 is used as a defensible site-level reference supported by the USGS MRDS-derived Augusta record and independent mapped-place records. It should not be interpreted as a field-surveyed surviving portal, shaft collar, property boundary, or statement of current access."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.6175,
+        "longitude": -105.31722
+      },
+      "sourceReferences": [
+        {
+          "title": "Fluorspar Deposits in Colorado — Jefferson County, Evergreen area",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/mr/70/report.pdf",
+          "note": "Documents Augusta Mine's early lead-zinc-copper development, more than 1,000 tons of early fluorspar production, fissure-vein geometry, host rock, and collapsed historic workings."
+        },
+        {
+          "title": "Minerals of Colorado: A 100-Year Record — Jefferson County, Augusta Mine",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://digital.library.unt.edu/ark:/67531/metadc958017/m2/1/high_res_d/metadc958017.pdf",
+          "note": "Places Augusta Mine on Cub Creek south of Evergreen and records characteristic minerals including chalcocite, fluorite, sphalerite, and willemite."
+        },
+        {
+          "title": "Augusta Mine — USGS MRDS record 10101840 reproduction",
+          "publisher": "Western Mining History, reproducing U.S. Geological Survey MRDS data",
+          "url": "https://westernmininghistory.com/mine-detail/10101840/",
+          "note": "Preserves the Augusta Mine / Augusta Lode Mine identity, Evergreen District assignment, commodities, elevation, and mine-level reference coordinate."
+        },
+        {
+          "title": "Evergreen Fluorite deposit (Augusta lode; Augusta Mine)",
+          "publisher": "Mindat",
+          "url": "https://www.mindat.org/loc-6214.html",
+          "note": "Cross-checks the Augusta alias, Evergreen district placement, mineral assemblage, approximate site position, and limited 1943 production."
         }
       ]
     }
