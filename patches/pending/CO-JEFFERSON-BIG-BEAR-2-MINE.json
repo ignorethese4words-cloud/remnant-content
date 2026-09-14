@@ -1,0 +1,62 @@
+{
+  "countySlug": "jefferson",
+  "site": {
+    "id": "CO-JEFFERSON-BIG-BEAR-2-MINE",
+    "name": "Big Bear No. 2 Mine",
+    "location": "South Platte Pegmatite District, Jefferson County",
+    "county": "Jefferson County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-14T15:20:00Z",
+    "overview": [
+      "Big Bear No. 2 is a rare-earth-element and feldspar pegmatite mine in Jefferson County's South Platte Pegmatite District. Published records also use the names Big Bear and Little Bear for the locality.",
+      "The deposit is documented as a complex pegmatite worked by two open cuts, with microcline and rare-earth-bearing minerals including xenotime, monazite, gadolinite, allanite and yttrium-bearing fluorite."
+    ],
+    "timeline": [
+      {
+        "year": "1964",
+        "text": "USGS Bulletin 1181-C documented the geology of the Platte Canyon quadrangle, one of the published sources later cited for the Big Bear No. 2 locality."
+      },
+      {
+        "year": "1980",
+        "text": "Colorado Geological Survey Resource Series 11 described the rare-earth pegmatites of the South Platte district, including Big Bear No. 2."
+      }
+    ],
+    "moreHistory": [
+      "Mineral Resources Data System-derived records place Big Bear No. 2 near the head of an unnamed tributary of Spring Creek, about 1.9 miles north-northwest of Long Scraggy Peak, and identify the workings as two open cuts.",
+      "The larger pegmatite is described as having a quartz-microcline-biotite wall zone and microcline-quartz core cut by a replacement unit rich in fluorite, yttrium-bearing fluorite and other rare-earth minerals. A smaller pegmatite to the southeast is described as having a similar replacement unit and amethyst.",
+      "The coordinate shown here is the published mine-location point from the MRDS-derived record and is suitable for identifying the documented locality; it should not be interpreted as a guarantee that every historic excavation or mineralized exposure survives at that exact point today."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.37583,
+      "longitude": -105.21111
+    },
+    "sourceReferences": [
+      {
+        "title": "Big Bear No. 2 Mine — MRDS-derived mine record",
+        "publisher": "Western Mining History / USGS Mineral Resources Data System data",
+        "url": "https://westernmininghistory.com/mine-detail/10087823/",
+        "note": "Provides the primary and alternate site names, Jefferson County and South Platte district identity, published coordinates, commodities, two-open-cut workings description, deposit details, and citations to USGS Bulletin 1181-C and Colorado Geological Survey Resource Series 11."
+      },
+      {
+        "title": "Rare-Earth Pegmatites of the South Platte District, Colorado",
+        "publisher": "Colorado Geological Survey",
+        "url": "https://coloradogeologicalsurvey.org/",
+        "note": "Simmons and Heinrich (1980), Resource Series 11; cited in the site record as a principal deposit reference for Big Bear No. 2."
+      },
+      {
+        "title": "Geology of the Platte Canyon Quadrangle, Colorado",
+        "publisher": "U.S. Geological Survey",
+        "url": "https://pubs.usgs.gov/bul/1181c/report.pdf",
+        "note": "Peterson (1964), USGS Bulletin 1181-C; cited in the site record as a geologic reference for the locality."
+      }
+    ]
+  }
+}
