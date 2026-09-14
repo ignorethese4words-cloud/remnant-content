@@ -1,0 +1,62 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-HOME-RUN-MINE",
+    "name": "Home Run Mine",
+    "location": "Lakewood / Boulder County Tungsten Mining District",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-14T02:17:49Z",
+    "overview": [
+      "The Home Run Mine is a documented historic tungsten mine in Boulder County's tungsten district, north of Sugarloaf Road near Lakewood.",
+      "Colorado Geological Survey records identify the property in the northeast quarter of Section 6, Township 1 South, Range 72 West and describe shallow shafts and surface cuts."
+    ],
+    "timeline": [
+      {
+        "year": "1908",
+        "text": "Colorado Geological Survey's first report documented Home Run ore from the Boulder County tungsten field."
+      },
+      {
+        "year": "World War I era",
+        "text": "Colorado Geological Survey later reported about 100 units of tungsten production from the Home Run property during World War I."
+      }
+    ],
+    "moreHistory": [
+      "Colorado Geological Survey MI-04 records the Home Run Mine north of Sugarloaf Road near Lakewood and identifies Crucible Steel Company of America as the historic owner.",
+      "The same source describes shallow shafts and surface cuts and records horn and crystalline tungsten ore.",
+      "A USGS/MRDS-derived mapped mine point at approximately 39.99306, -105.49167 is used as a defensible mine-level identification anchor; Remnant does not represent that point as a field-surveyed surviving shaft collar."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.993056,
+      "longitude": -105.491667
+    },
+    "sources": [
+      {
+        "title": "MI-04 Tungsten Mines of Colorado",
+        "publisher": "Colorado Geological Survey",
+        "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/MI-04.pdf",
+        "note": "Home Run entry documents location, ownership, World War I production, workings, and ore occurrence."
+      },
+      {
+        "title": "First Report, 1908",
+        "publisher": "Colorado Geological Survey",
+        "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/B-00.pdf",
+        "note": "Documents Home Run tungsten ore in the Boulder County field."
+      },
+      {
+        "title": "USGS/MRDS-derived Home Run mapped locality",
+        "publisher": "U.S. Geological Survey-derived locality data",
+        "url": "https://www.mindat.org/feature-5429234.html",
+        "note": "Nearby-locality listing identifies Home Run at 39°59'35\"N, 105°29'30\"W, used as the mine-level identification anchor."
+      }
+    ]
+  }
+}
