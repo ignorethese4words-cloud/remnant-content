@@ -3,8 +3,8 @@
   "id": "colorado-ouray",
   "county": "Ouray County",
   "state": "Colorado",
-  "version": "6",
-  "generatedAt": "2026-09-14T02:04:18.411Z",
+  "version": "7",
+  "generatedAt": "2026-09-14T03:03:26.738Z",
   "sites": [
     {
       "id": "CO-OURAY-CALLIOPE",
@@ -1040,6 +1040,65 @@
         {
           "title": "Ouray Mining District locality index",
           "url": "https://www.mindat.org/loc-29957.html"
+        }
+      ]
+    },
+    {
+      "id": "CO-OURAY-BAILEY-SHAFT",
+      "name": "Bailey Shaft",
+      "location": "Red Mountain Mining District / Ironton quadrangle",
+      "county": "Ouray County",
+      "state": "Colorado",
+      "category": "Historic Mine Shaft",
+      "componentType": "Shaft / Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-12T21:20:15-06:00",
+      "overview": [
+        "Bailey Shaft is a named inactive gold-and-silver mine feature in Ouray County's Red Mountain mining area, preserved in USGS-derived place and topographic records.",
+        "The mapped mine locality lies on the Ironton quadrangle at approximately 37.90944, -107.69562 and provides a stable location for identifying this historic shaft site."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Bailey Shaft formed part of the dense mine and shaft landscape around Red Mountain and Ironton in the San Juan Mountains."
+        },
+        {
+          "year": "Modern mapping",
+          "text": "USGS-derived topographic and place records retain Bailey Shaft Mine as a named inactive mine feature on the Ironton quadrangle."
+        }
+      ],
+      "moreHistory": [
+        "USGS-derived place data identifies Bailey Shaft Mine in Ouray County as an inactive gold-and-silver mine at about 11,099 feet elevation.",
+        "The Ironton topographic map independently retains Bailey Shaft Mine among the named historic mining features in the surrounding Red Mountain landscape.",
+        "A focused exact-site media search did not locate a rights-cleared reusable photograph of Bailey Shaft; nearby Red Mountain and Ironton images were rejected rather than attached to the wrong site."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 37.9094395,
+        "longitude": -107.6956165
+      },
+      "sourceReferences": [
+        {
+          "title": "Bailey Shaft Mine Topo Map in Ouray County, Colorado",
+          "publisher": "AnyPlaceAmerica / USGS-derived place data",
+          "url": "https://www.anyplaceamerica.com/directory/co/ouray-county-08091/mines/bailey-shaft-mine-1734579/",
+          "note": "Identifies Bailey Shaft Mine in Ouray County as an inactive gold-and-silver mine and provides coordinates 37.9094395, -107.6956165 and elevation 11,099 feet on the Ironton quadrangle."
+        },
+        {
+          "title": "Ironton Colorado US Topo Map",
+          "publisher": "MyTopo / USGS topographic mapping",
+          "url": "https://mapstore.mytopo.com/products/ustopo_colorado_ironton",
+          "note": "Lists Bailey Shaft Mine among the named features on the Ironton USGS topographic map."
+        },
+        {
+          "title": "Ouray County Mines",
+          "publisher": "Ouray County COGenWeb Project",
+          "url": "https://cogenweb.org/ouray/mining/mines.htm",
+          "note": "Lists Bailey Shaft Mine in Ouray County at 37°54'34\"N, 107°41'44\"W on the Ironton quadrangle, elevation 11,099 feet."
         }
       ]
     }
