@@ -1,0 +1,63 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-LADY-FRANKLIN-MINE",
+    "name": "Lady Franklin Mine",
+    "location": "Magnolia Mining District / Eldorado Springs quadrangle",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-14T03:52:26Z",
+    "overview": [
+      "Lady Franklin Mine was a documented gold-and-silver producer in Boulder County's Magnolia Mining District, south of the Gold Hill area.",
+      "Historic Boulder County mining literature counted Lady Franklin among the district's principal mines and reported substantial production, while archival newspaper indexing documents active development and management of the property in the early 1880s."
+    ],
+    "timeline": [
+      {
+        "year": "1880-1881",
+        "text": "Denver Public Library's Western History Subject Index records McAyeal as a Magnolia mine owner who developed and managed the Lady Franklin Mine, citing Rocky Mountain News items from December 1880 and January 1881."
+      },
+      {
+        "year": "Early 20th-century historical summary",
+        "text": "A published history of Boulder County's gold fields listed Lady Franklin among the principal Magnolia District mines and reported gross production of about $100,000."
+      },
+      {
+        "year": "Modern mapping",
+        "text": "USGS-derived Eldorado Springs topographic mapping preserves Lady Franklin Mine as a named Boulder County mine feature."
+      }
+    ],
+    "moreHistory": [
+      "The Magnolia Mining District was one of Boulder County's important tellurium-gold districts. Historical summaries of the district list Lady Franklin alongside mines such as Keystone, Mountain Lion, Kekionga and Magnolia, placing it within the district's documented producing landscape.",
+      "The Boulder County Lady Franklin is distinct from the same-name mine in Custer County. The mapped Boulder County mine-level locality at approximately 39.994431, -105.364993 is used for identification; Remnant does not claim that this point is a field-surveyed surviving shaft or portal.",
+      "A focused exact-site media search did not locate a reusable Lady Franklin Mine photograph with sufficiently clear app-use rights. Wrong-site and ambiguous same-name imagery was rejected rather than attached."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.9944305,
+      "longitude": -105.3649932
+    },
+    "sourceReferences": [
+      {
+        "title": "History and production of the gold fields of Boulder County, Colorado",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/History_and_production_of_the_gold_fields_of_Boulder_County%2C_Colorado_%28IA_historyproductio00monr%29.pdf",
+        "note": "Lists Lady Franklin among principal Magnolia District mines and reports about $100,000 gross production."
+      },
+      {
+        "title": "Denver Public Library Digital Collections — McAyeal Western History Subject Index",
+        "url": "https://digital.denverlibrary.org/nodes/view/1618984",
+        "note": "Indexes 1880-1881 Rocky Mountain News references identifying McAyeal as owner/developer/manager of Lady Franklin Mine in Magnolia, Colorado."
+      },
+      {
+        "title": "USGS-derived Lady Franklin Mine topographic record — Boulder County",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/lady-franklin-mine-1685133/",
+        "note": "Preserves the Boulder County mine feature at 39.9944305, -105.3649932 on the Eldorado Springs quadrangle and distinguishes it geographically from same-name mines elsewhere."
+      }
+    ]
+  }
+}
