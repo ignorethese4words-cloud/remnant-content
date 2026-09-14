@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "84",
-  "generatedAt": "2026-09-14T08:02:51.026Z",
+  "version": "85",
+  "generatedAt": "2026-09-14T09:03:09.007Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -4037,6 +4037,66 @@
           "title": "USGS/GNIS-derived Emmit Mine feature record",
           "url": "https://www.mindat.org/feature-5576831.html",
           "note": "Preserves the Boulder County mapped mine-level location near 40.12637, -105.39999; used as an identification anchor, not a field-surveyed shaft collar."
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-FLOYD-MINE",
+      "name": "Floyd Mine",
+      "location": "Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-14T07:23:55.000Z",
+      "overview": [
+        "The Floyd Mine is a documented historic tungsten mine in Boulder County's tungsten-mining belt west of Boulder.",
+        "Federal-derived mine records identify Floyd as an underground past producer, and USGS-derived topographic indexing places the named mine at approximately 40.001653, -105.381938."
+      ],
+      "timeline": [
+        {
+          "year": "Historic tungsten era",
+          "text": "The Floyd Mine was developed as an underground tungsten property within the Boulder County tungsten district."
+        },
+        {
+          "year": "20th-century federal documentation",
+          "text": "Federal mineral and topographic records retained Floyd as a named past-producing tungsten mine in Boulder County."
+        }
+      ],
+      "moreHistory": [
+        "The Floyd Mine lies within the Boulder County tungsten district, a narrow mining belt that became nationally important after ferberite was recognized as tungsten ore around the turn of the twentieth century.",
+        "Mineral-record data classify Floyd as an underground past producer of tungsten, providing site-specific context beyond the mapped name alone.",
+        "The coordinate used by Remnant is a documented mine-level identification point from USGS-derived topographic feature data. It is suitable for identifying the historic mine site but is not presented as a field-surveyed surviving shaft or portal."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "mediaStatus": "NO_USABLE_MEDIA",
+      "coordinates": {
+        "latitude": 40.0016529,
+        "longitude": -105.3819382
+      },
+      "sources": [
+        {
+          "title": "Geology and ore deposits of the Boulder County tungsten district, Colorado",
+          "publisher": "U.S. Geological Survey",
+          "type": "USGS Professional Paper 245",
+          "url": "https://doi.org/10.3133/pp245"
+        },
+        {
+          "title": "Floyd Mine — USGS-derived topographic feature record",
+          "publisher": "USGS-derived GNIS/topographic data",
+          "type": "Mapped mine feature",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/floyd-mine-1683466/"
+        },
+        {
+          "title": "Floyd — MRDS-derived mineral record",
+          "publisher": "USGS Mineral Resources Data System derivative",
+          "type": "Mineral occurrence / production record",
+          "url": "https://minesnearme.com/colorado/boulder"
         }
       ]
     }
