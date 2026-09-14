@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "81",
-  "generatedAt": "2026-09-14T06:04:45.020Z",
+  "version": "82",
+  "generatedAt": "2026-09-14T06:06:17.472Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -3862,6 +3862,52 @@
           "title": "TopoQuest — Fools Paradise Number One Mine",
           "url": "https://topoquest.com/place/colorado/mine/fools-paradise-number-one-mine/1683667",
           "note": "USGS-derived feature record provides Boulder County identity, Ward quadrangle, and WGS84/NAD83 coordinates 40.036097, -105.513332."
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-GALE-MINE",
+      "name": "Gale Mine",
+      "location": "Boulder County Tungsten Mining District near Nederland",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-14T00:52:27.000Z",
+      "overview": [
+        "The Gale Mine is a documented tungsten property in Boulder County's historic tungsten district near Nederland.",
+        "Federal mineral-exploration records identify the Gale Mine as DMEA docket 3483 and place the property in Section 7, Township 1 South, Range 72 West."
+      ],
+      "timeline": [
+        {
+          "year": "1956",
+          "text": "Federal Defense Minerals Exploration Administration records list Harold and Tommy Williams with the Gale Mine tungsten project under docket 3483; the project was terminated."
+        }
+      ],
+      "moreHistory": [
+        "Colorado Geological Survey mapping retained in the Remnant registry places Gale workings in the northwest quarter of Section 7, Township 1 South, Range 72 West and documents a shaft associated with the property. The location shown here is a historic mine-level reference point rather than a claim of a modern surveyed shaft collar.",
+        "U.S. Geological Survey Data Series 1004 preserves the federal exploration record for the Gale Mine and identifies tungsten as the target commodity."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.9811,
+        "longitude": -105.49805
+      },
+      "sources": [
+        {
+          "title": "U.S. Geological Survey Data Series 1004 — Historical Files from Federal Government Mineral Exploration-Assistance Programs, 1950 to 1974",
+          "url": "https://pubs.usgs.gov/ds/1004/ds1004_bystate.htm",
+          "note": "Lists Gale Mine, Boulder County, Colorado, DMEA docket 3483, tungsten."
+        },
+        {
+          "title": "U.S. Geological Survey Open-File Report 2003-94 — DMEA docket index",
+          "url": "https://pubs.usgs.gov/of/2003/of03-94/of03-94.pdf",
+          "note": "Lists Gale Mine docket 3483, Harold and Tommy Williams, tungsten, 1956, Section 7, T1S R72W."
         }
       ]
     }
