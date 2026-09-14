@@ -1,0 +1,44 @@
+{
+  "countySlug": "dolores",
+  "site": {
+    "id": "CO-DOLORES-AZTEC-MINE",
+    "name": "Aztec Mine",
+    "location": "Pioneer (Rico) District",
+    "county": "Dolores County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-12T11:48:04Z",
+    "overview": [
+      "The Aztec Mine is a historic silver-lead mine in Aztec Gulch north of Rico, one of the early mines of the Pioneer mining district."
+    ],
+    "timeline": [
+      "1875 — The federal mineral record lists discovery of the Aztec deposit.",
+      "1879 — Reported first production; USGS later described the mine as worked intermittently from 1879.",
+      "1895 — About 24 tons of ore were reported, carrying gold, silver, and lead; the federal record lists 1895 as the last production year."
+    ],
+    "moreHistory": [
+      "USGS studies describe the Aztec workings on the north bank of Aztec Gulch, including upper and lower tunnels following the Aztec lode. These are historical workings descriptions and do not imply that any opening remains accessible today."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 37.70278,
+      "longitude": -108.03917
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS MRDS-derived record 10014118 — Aztec Mine",
+        "url": "https://westernmininghistory.com/mine-detail/10014118/"
+      },
+      {
+        "title": "USGS — The Ore Deposits of the Rico Mountains, Colorado (1901)",
+        "url": "https://pubs.usgs.gov/annualreport/02202/report.pdf"
+      }
+    ]
+  }
+}
