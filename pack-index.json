@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-14T21:02:27.309Z",
-  "generatedAt": "2026-09-14T21:02:27.309Z",
+  "contentVersion": "2026-09-14T22:00:44.360Z",
+  "generatedAt": "2026-09-14T22:00:44.360Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -209,11 +209,11 @@
       "id": "colorado-jefferson",
       "county": "Jefferson County",
       "state": "Colorado",
-      "version": "9",
+      "version": "10",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-jefferson.json",
-      "exploreSiteCount": 3,
+      "exploreSiteCount": 4,
       "idOnlySiteCount": 1,
-      "siteCount": 15
+      "siteCount": 16
     },
     {
       "id": "colorado-la-plata",
