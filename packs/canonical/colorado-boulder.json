@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "97",
-  "generatedAt": "2026-09-15T01:59:58.858Z",
+  "version": "98",
+  "generatedAt": "2026-09-15T02:01:59.364Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -4783,6 +4783,69 @@
           "publisher": "AnyPlaceAmerica, using U.S. Geological Survey geographic/topographic data",
           "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/atlantic-mine-1683602/",
           "note": "Corroborates the Boulder County Atlantic Mine locality, gold-and-silver classification, Raymond quadrangle placement, and mapped coordinate."
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-AZTEC-MINE",
+      "name": "Aztec Mine",
+      "location": "Sugarloaf area, Boulder County Tungsten Mining District",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-14T21:48:23Z",
+      "overview": [
+        "Aztec Mine is a historic underground tungsten mine in Boulder County's tungsten-mining district near Sugarloaf.",
+        "Federal mineral-record data classify the property as a past tungsten producer, while historic Boulder-area mapping preserves the Aztec name among the Sugar Loaf district's mine claims."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "The Aztec property was developed as an underground tungsten mine in the Boulder County tungsten district."
+        },
+        {
+          "year": "Early Boulder hydroelectric mapping",
+          "text": "A historic Boulder Hydro-Electric Company pipeline-alignment map preserved by the Carnegie Library for Local History labels the Aztec mine among Sugar Loaf Mining District claims."
+        },
+        {
+          "year": "1953",
+          "text": "U.S. Geological Survey Professional Paper 245 documented the geology and ore deposits of the Boulder County tungsten district, the regional setting in which the Aztec Mine is recorded."
+        }
+      ],
+      "moreHistory": [
+        "USGS-derived mineral inventory data identify Aztec as a tungsten mine with underground workings and past production in Boulder County.",
+        "The historic pipeline-alignment map places Aztec in the Sugar Loaf mining landscape alongside other named mines and claims, providing independent archival confirmation that the Aztec name was attached to a specific Boulder County mining property.",
+        "The mapped mine point near 40.002764, -105.3805493 is a historic site-level reference. It should not be interpreted as a surveyed surviving shaft collar, property boundary, or statement of present-day access."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 40.002764,
+        "longitude": -105.3805493
+      },
+      "sourceReferences": [
+        {
+          "title": "Geology and ore deposits of the Boulder County tungsten district, Colorado — Professional Paper 245",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/publication/pp245",
+          "note": "Authoritative regional geology and mining-history reference for the Boulder County tungsten district."
+        },
+        {
+          "title": "Detail Map of Proposed Pipeline Alignment of the Boulder Hydro-Electric Company",
+          "publisher": "Carnegie Library for Local History, Boulder Public Library",
+          "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A76341",
+          "note": "Historic map metadata identifies Aztec mine among Sugar Loaf Mining District claims."
+        },
+        {
+          "title": "Aztec Mine — USGS/GNIS-derived mapped feature",
+          "publisher": "AnyPlaceAmerica, reproducing USGS topographic/GNIS data",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/aztec-mine-1683421/",
+          "note": "Provides the mapped Boulder County mine point and identifies the locality as a past tungsten mine on the Gold Hill quadrangle."
         }
       ]
     }
