@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "95",
-  "generatedAt": "2026-09-15T00:26:58.054Z",
+  "version": "96",
+  "generatedAt": "2026-09-15T00:59:57.972Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -4665,6 +4665,65 @@
           "publisher": "MyTopo Map Store / USGS quadrangle index",
           "url": "https://mapstore.mytopo.com/products/ustopo_colorado_eldorado-springs",
           "note": "Lists Audophone Mine among named features on the Eldorado Springs USGS quadrangle."
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-ARROW-1-2-3",
+      "name": "Arrow 1, 2, 3",
+      "location": "Boulder County Tungsten Mining District, north and northwest of the Western Star shaft",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine Group",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-14T23:00:00Z",
+      "coordinates": {
+        "latitude": 39.9788889,
+        "longitude": -105.4916667
+      },
+      "overview": [
+        "Arrow 1, 2, 3 was a small tungsten property in Boulder County's tungsten-mining district, developed by a group of shallow shafts north and northwest of the Western Star shaft.",
+        "Colorado's 1960 tungsten inventory records the property as a minor producer owned by Cold Spring Tungsten, Inc."
+      ],
+      "timeline": [
+        {
+          "year": "Historic tungsten-mining era",
+          "text": "The Arrow 1, 2, 3 property was developed by shallow shafts in the Boulder County tungsten district."
+        },
+        {
+          "year": "By 1960",
+          "text": "Colorado's statewide tungsten inventory reported production of less than 500 units, listed Cold Spring Tungsten, Inc. as owner, and named T. J. Henning as the last operator."
+        }
+      ],
+      "moreHistory": [
+        "The 1960 Colorado tungsten inventory places Arrow 1, 2, 3 in the northeast quarter of Section 7, Township 1 South, Range 72 West, north and northwest of the Western Star shaft.",
+        "Published records describe the workings simply as shallow shafts and do not identify a documented ore occurrence or known development potential for the property.",
+        "The mapped locality near 39.97889, -105.49167 is used as a grouped site-level reference for Arrow 1, 2, 3. Several historic workings in this dense mining area share generalized locality points, so the coordinate should not be interpreted as a surveyed surviving shaft collar, property boundary, or statement of present-day access."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "sourceReferences": [
+        {
+          "title": "Tungsten Mines of Colorado",
+          "publisher": "Colorado State Metal Mining Fund / State of Colorado",
+          "url": "https://hermes.cde.state.co.us/islandora/object/co%3A26414/datastream/OBJ/download/Tungsten_mines_of_Colorado.pdf",
+          "note": "Site-specific 1960 inventory entry places Arrow 1, 2, 3 in NE1/4 Sec. 7, T1S R72W; lists Cold Spring Tungsten, Inc. as owner, production under 500 units, shallow-shaft workings, and T. J. Henning as last operator."
+        },
+        {
+          "title": "Arrow 1; 2; 3 Occurrence — Boulder County Tungsten Mining District",
+          "publisher": "Mindat.org / Hudson Institute of Mineralogy",
+          "url": "https://www.mindat.org/loc-134313.html",
+          "note": "Cross-checks Arrow 1; 2; 3 as a named Boulder County tungsten-district locality."
+        },
+        {
+          "title": "USGS-derived locality cross-check for Arrow 1; 2; 3",
+          "publisher": "Mindat mapped locality index",
+          "url": "https://www.mindat.org/feature-5432321.html",
+          "note": "Preserves the grouped locality point near 39°58'44\"N, 105°29'30\"W used as a site-level reference."
         }
       ]
     }
