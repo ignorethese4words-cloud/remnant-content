@@ -1,0 +1,23 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-ALHAMBRA-MINE",
+    "name": "Alhambra Mine",
+    "location": "Caribou / western Boulder County",
+    "county": "Boulder County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-15T01:52:21.000Z",
+    "overview": ["Alhambra Mine is a documented historic Boulder County mine associated with the Caribou-area mining landscape and preserved as a named mine on Nederland-area topographic mapping."],
+    "timeline": [{"year":"1914-1931 documentation period","text":"A Colorado School of Mines mine report documents the Alhambra/Caribou mine in Boulder County."}],
+    "moreHistory": ["USGS-derived place mapping identifies the Boulder County Alhambra Mine at approximately 39.99304, -105.57667. Remnant uses the mapped mine-level locality as the identification point and does not claim that a surviving shaft, adit, or portal has been field-verified.","Colorado School of Mines preserves an Alhambra, Caribou mine report and related archival images. Those files are marked in-copyright with non-commercial use permitted, so they are retained as research evidence but are not packaged for the app."],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {"latitude":39.9930424,"longitude":-105.576667},
+    "sourceReferences": [{"title":"Colorado School of Mines — Alhambra, Caribou mine, Boulder Co., Colorado","url":"https://repository.mines.edu/entities/publication/3fb1353c-67a6-4060-bca6-38412e9d1b3b"},{"title":"Nederland USGS topographic mapping — Alhambra Mine","url":"https://mapstore.mytopo.com/products/ustopo_colorado_nederland"}]
+  }
+}
