@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "94",
-  "generatedAt": "2026-09-15T00:01:49.519Z",
+  "version": "95",
+  "generatedAt": "2026-09-15T00:26:58.054Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -4606,6 +4606,65 @@
         {
           "title": "Gold Hill Mining District locality records — Amzy / Great Sphinx",
           "url": "https://www.mindat.org/loc-24840.html"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-AUDOPHONE-MINE",
+      "name": "Audophone Mine",
+      "location": "Magnolia Mining District / Boulder County, Colorado",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-14T23:22:00Z",
+      "overview": [
+        "Audophone Mine is a documented historic gold-and-silver mine locality in Boulder County's Magnolia-area mining landscape.",
+        "Federal mineral records identify Audophone as a past-producing underground gold mine, and USGS topographic mapping preserves a stable named mine location southwest of Boulder."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "Audophone was developed as an underground gold mine in Boulder County and is retained in federal mineral-resource records as a past producer."
+        },
+        {
+          "year": "USGS mapping era",
+          "text": "The Audophone Mine name was preserved on the Eldorado Springs 1:24,000 topographic quadrangle, providing a durable geographic reference for the historic site."
+        }
+      ],
+      "moreHistory": [
+        "USGS Mineral Resources Data System-derived listings identify Audophone as a Boulder County gold mine developed underground and classified as a past producer; other mapped records also associate silver with the locality.",
+        "USGS-derived geographic mapping places the named Audophone Mine at approximately 39.98360, -105.37416 on the Eldorado Springs quadrangle. This is used as a historic mine-level identification point and does not assert the present condition of a shaft, portal, property boundary, or access route.",
+        "A focused exact-site media search did not establish a rights-cleared photograph that could be confidently tied to Audophone Mine, so no image is attached."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.9835974,
+        "longitude": -105.3741602
+      },
+      "sourceReferences": [
+        {
+          "title": "USGS Mineral Resources Data System-derived Boulder County mine listing — Audophone",
+          "publisher": "Western Mining History / USGS MRDS data",
+          "url": "https://westernmininghistory.com/mine-county/colorado/boulder/",
+          "note": "Retains Audophone among Boulder County MRDS mine records; federal-data derivatives identify gold, underground development, and past-producer status."
+        },
+        {
+          "title": "Audophone Mine Topo Map in Boulder County, Colorado",
+          "publisher": "AnyPlaceAmerica, using U.S. Geological Survey geographic/topographic data",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/audophone-mine-1685112/",
+          "note": "Provides the named Boulder County mine point, gold-and-silver classification, and Eldorado Springs quadrangle placement."
+        },
+        {
+          "title": "Eldorado Springs Colorado US Topo Map",
+          "publisher": "MyTopo Map Store / USGS quadrangle index",
+          "url": "https://mapstore.mytopo.com/products/ustopo_colorado_eldorado-springs",
+          "note": "Lists Audophone Mine among named features on the Eldorado Springs USGS quadrangle."
         }
       ]
     }
