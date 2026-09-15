@@ -1,0 +1,62 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-ATLANTIC-MINE",
+    "name": "Atlantic Mine",
+    "location": "Ward Mining District, Boulder County, Colorado",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-14T23:17:00Z",
+    "overview": [
+      "Atlantic Mine is a documented historic gold-and-silver mine locality in Boulder County's Ward Mining District.",
+      "Boulder-area archival collections preserve the Atlantic name in nineteenth-century Ward mining records, while USGS-derived topographic mapping provides a stable mine-level identification point."
+    ],
+    "timeline": [
+      {
+        "year": "1880-1895",
+        "text": "Boulder County mining ledgers preserve Atlantic Mine in the Ward Mining District during the district's nineteenth-century mining era."
+      },
+      {
+        "year": "1890s",
+        "text": "A surviving Ward mining-district pictorial review in the Carnegie Library for Local History collection includes Atlantic Mine among the mines documented for the district."
+      }
+    ],
+    "moreHistory": [
+      "The Carnegie Library for Local History county-ledger collection identifies Atlantic Mine in the Ward Mining District, establishing a historic Boulder County identity independent of similarly named Atlantic mines elsewhere in Colorado.",
+      "USGS-derived topographic listings place the Boulder County Atlantic Mine at approximately 40.13971, -105.42750 on the Raymond quadrangle and identify it as a gold-and-silver mine. Remnant uses that mapped locality as a site-level identification point, not as a claim that a surviving portal, shaft collar, property boundary, or current access condition has been field-surveyed.",
+      "A focused exact-site media search located archival Ward material but did not establish a direct, reusable exact-site image with sufficiently clear package-ready rights and source metadata, so no image is attached."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.13971,
+      "longitude": -105.4275
+    },
+    "sourceReferences": [
+      {
+        "title": "Boulder County mining records — Atlantic Mine, Ward Mining District",
+        "publisher": "Carnegie Library for Local History, Boulder Public Library District",
+        "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A3396",
+        "note": "Indexes Atlantic mine in the Ward Mining District among Boulder County historic mining records."
+      },
+      {
+        "title": "Wonderful Ward: first annual review [1890-1899]",
+        "publisher": "Carnegie Library for Local History, Boulder Public Library District",
+        "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A3948",
+        "note": "Preserves a nineteenth-century Ward mining-district pictorial review and indexes Atlantic mine among the documented Ward mines."
+      },
+      {
+        "title": "Atlantic Mine Topo Map in Boulder County, Colorado",
+        "publisher": "AnyPlaceAmerica, using U.S. Geological Survey geographic/topographic data",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/atlantic-mine-1683602/",
+        "note": "Corroborates the Boulder County Atlantic Mine locality, gold-and-silver classification, Raymond quadrangle placement, and mapped coordinate."
+      }
+    ]
+  }
+}
