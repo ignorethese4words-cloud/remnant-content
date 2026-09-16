@@ -3,8 +3,8 @@
   "id": "colorado-chaffee",
   "county": "Chaffee County",
   "state": "Colorado",
-  "version": "20",
-  "generatedAt": "2026-09-16T15:46:41.171Z",
+  "version": "21",
+  "generatedAt": "2026-09-16T15:52:37.389Z",
   "sites": [
     {
       "id": "CO-CHAFFEE-ALASKA-MINE",
@@ -1800,6 +1800,83 @@
           "publisher": "History Colorado",
           "url": "https://www.historycolorado.org/railroads-colorado-1858-1948",
           "note": "Identifies the Alpine Tunnel Historic District and its approximately 13 miles of former Denver, South Park and Pacific Railroad grade across the Continental Divide."
+        }
+      ]
+    },
+    {
+      "id": "CO-CHAFFEE-OHIO-COLORADO-SMELTER",
+      "name": "Ohio-Colorado Smelting & Refining Co. Smokestack / Smeltertown",
+      "location": "Smeltertown, Salida vicinity",
+      "county": "Chaffee County",
+      "state": "Colorado",
+      "category": "Smelter / Industrial Mining Infrastructure",
+      "componentType": "Smelter",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-15T03:18:40Z",
+      "overview": [
+        "The Ohio-Colorado Smelting and Refining Company operated a major smelting complex at Smeltertown near Salida from 1902 to 1920. Its surviving 365-foot smokestack, completed in 1917, remains a prominent monument to the Upper Arkansas Valley's mining and ore-processing industry."
+      ],
+      "timeline": [
+        {
+          "year": "1902",
+          "text": "The Ohio-Colorado Smelting and Refining Company began operating its smelter near Salida, using the area's railroad connections to receive ores and fuel from regional mining districts."
+        },
+        {
+          "year": "1916–1917",
+          "text": "Construction of the surviving tall smokestack began in 1916 and was completed in 1917 to disperse smelter fumes farther from surrounding farms and communities."
+        },
+        {
+          "year": "1920",
+          "text": "The Ohio-Colorado smelter closed, leaving the tall stack as the most visible surviving feature of the former industrial complex."
+        },
+        {
+          "year": "1976",
+          "text": "The smokestack was listed in the National Register of Historic Places as an important reminder of the region's mining industry and workers."
+        }
+      ],
+      "moreHistory": [
+        "A 1916 mining-industry paper described the Salida plant as an 80-acre smelting complex beside the Arkansas River, positioned to use the Denver & Rio Grande railroad network serving the San Juan, Crested Butte, Monarch, and Garfield mining areas.",
+        "The surviving stack is built of brick and tile and rises 365 feet. Local preservation efforts saved it from demolition in the 1970s, and the Salida Museum Association became its steward."
+      ],
+      "displayImages": [
+        {
+          "id": "commons-ohio-colorado-smokestack-2011",
+          "title": "Ohio-Colorado Smelting and Refining Company Smokestack",
+          "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ohio-Colorado%20Smelting%20and%20Refining%20Company%20Smokestack.JPG",
+          "source": {
+            "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ohio-Colorado%20Smelting%20and%20Refining%20Company%20Smokestack.JPG"
+          },
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ohio-Colorado_Smelting_and_Refining_Company_Smokestack.JPG",
+          "sourceNote": "Photograph by Jeffrey Beall, taken October 17, 2011; exact Ohio-Colorado smokestack at Smeltertown near Salida.",
+          "rights": "CC BY-SA 3.0; Jeffrey Beall",
+          "mediaStatus": "PACKAGED"
+        }
+      ],
+      "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+      "coordinates": {
+        "latitude": 38.541989,
+        "longitude": -106.020899
+      },
+      "sourceReferences": [
+        {
+          "title": "Directory of Mining-Related Properties in the Colorado State Register of Historic Properties — Ohio-Colorado Smelting & Refining Co. Smokestack / Smeltertown",
+          "publisher": "History Colorado / Colorado historical records",
+          "url": "https://hermes.cde.state.co.us/islandora/object/co%3A1259/datastream/OBJ/download/Directory_of_mining-related_properties_in_the_Colorado_state_register_of_historic_properties.pdf",
+          "note": "Identifies the Chaffee County property, National Register listing, 1917 completion, 365-foot height, and its significance as a monument to the mining industry and workers."
+        },
+        {
+          "title": "Salida Smokestack",
+          "publisher": "Salida Museum",
+          "url": "https://salidamuseum.org/history/salida-smokestack/",
+          "note": "Documents Ohio-Colorado operation from 1902 to 1920, the 1917 365-foot stack, preservation history, and later environmental cleanup."
+        },
+        {
+          "title": "The Salida Smelter",
+          "publisher": "American Institute of Mining, Metallurgical, and Petroleum Engineers archive",
+          "url": "https://onetunnel.org/documents/san-francisco-paper-the-salida-smelter",
+          "note": "Contemporary 1916 description of the Ohio & Colorado plant, its railroad setting, and its 80-acre industrial site beside the Arkansas River."
         }
       ]
     }
