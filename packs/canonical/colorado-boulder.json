@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "102",
-  "generatedAt": "2026-09-16T00:26:40.879Z",
+  "version": "103",
+  "generatedAt": "2026-09-16T00:29:46.132Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -5017,6 +5017,53 @@
         }
       ],
       "contentUpdatedAt": "2026-09-14T21:48:23Z"
+    },
+    {
+      "id": "CO-BOULDER-LAST-CHANCE-MINE",
+      "name": "Last Chance Mine",
+      "location": "Boulder County tungsten district near Nederland",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-14T01:49:45.000Z",
+      "overview": [
+        "The Last Chance Mine is a documented historic mine in Boulder County's tungsten district near Nederland.",
+        "Federal mineral-exploration records identify the Last Chance Lode as a Boulder County tungsten property, while USGS-derived topographic mapping preserves the mine as a named mapped feature."
+      ],
+      "timeline": [
+        {
+          "year": "Mid-20th century",
+          "text": "Federal Defense Minerals Administration records preserved the Last Chance Lode as Boulder County docket 2062, with tungsten listed as the target commodity."
+        }
+      ],
+      "moreHistory": [
+        "The U.S. Geological Survey's historical exploration-assistance index lists the Last Chance Lode in Boulder County under DMA docket 2062 and identifies tungsten as the commodity.",
+        "USGS-derived topographic place data locates the Last Chance Mine at approximately 39.9749869, -105.4997198 on the Tungsten, Colorado quadrangle. Remnant uses that mapped mine-level locality for identification and does not claim that a surviving shaft, adit, or portal has been field-surveyed.",
+        "A focused exact-site media search did not locate a reusable Boulder County Last Chance image with clear rights; photographs of same-name mines near Creede and elsewhere were rejected as wrong-site material."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.9749869,
+        "longitude": -105.4997198
+      },
+      "sources": [
+        {
+          "title": "U.S. Geological Survey Data Series 1004 — Historical Files from Federal Government Mineral Exploration-Assistance Programs, 1950 to 1974",
+          "url": "https://pubs.usgs.gov/ds/1004/ds1004_co.htm",
+          "note": "Lists Last Chance Lode, Boulder County, DMA docket 2062, tungsten."
+        },
+        {
+          "title": "Last Chance Mine Topo Map in Boulder County, Colorado — USGS-derived mapped feature",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/last-chance-mine-1685064/",
+          "note": "Preserves the mapped Last Chance Mine feature at 39.9749869, -105.4997198 on the Tungsten, Colorado USGS quadrangle."
+        }
+      ]
     }
   ]
 }

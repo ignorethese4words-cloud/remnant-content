@@ -1,5 +1,22 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-LAST-CHANCE-MINE",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "103",
+  "packGeneratedAt": "2026-09-16T00:29:46.132Z",
+  "verifiedAt": "2026-09-16T00:29:46.140Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "103",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 104,
+    "exploreSiteCount": 40,
+    "idOnlySiteCount": 64
+  },
   "site": {
     "id": "CO-BOULDER-LAST-CHANCE-MINE",
     "name": "Last Chance Mine",
