@@ -5,6 +5,7 @@ const ROOT = process.cwd();
 const PATCH_DIR = path.join(ROOT, 'patches', 'pending');
 const PACK_DIR = path.join(ROOT, 'packs', 'canonical');
 const INDEX_PATH = path.join(ROOT, 'pack-index.json');
+const VERIFIED_SITE_DIR = path.join(ROOT, 'verified-sites');
 
 function fail(message) {
   console.error(`PUBLIC SITE PATCH MERGE FAILED — ${message}`);
@@ -24,6 +25,61 @@ function isoTime(value) {
   if (!value) return null;
   const t = Date.parse(value);
   return Number.isFinite(t) ? t : null;
+}
+
+function repoPath(file) {
+  return path.relative(ROOT, file).split(path.sep).join('/');
+}
+
+function manifestSnapshot(entry) {
+  return {
+    id: entry.id,
+    county: entry.county,
+    state: entry.state,
+    version: String(entry.version),
+    url: entry.url,
+    siteCount: Number(entry.siteCount),
+    exploreSiteCount: Number(entry.exploreSiteCount),
+    idOnlySiteCount: Number(entry.idOnlySiteCount)
+  };
+}
+
+function writeVerifiedArtifact({ operation, siteId, countySlug, packPath, verifiedPack, verifiedSite, manifestEntry }) {
+  const artifactPath = path.join(VERIFIED_SITE_DIR, `${siteId}.json`);
+  const artifact = {
+    schemaVersion: 1,
+    operation,
+    siteId,
+    countySlug,
+    countyPack: repoPath(packPath),
+    packVersion: String(verifiedPack.version),
+    packGeneratedAt: verifiedPack.generatedAt,
+    verifiedAt: new Date().toISOString(),
+    manifest: manifestSnapshot(manifestEntry),
+    site: operation === 'upsert' ? verifiedSite : null
+  };
+
+  fs.mkdirSync(VERIFIED_SITE_DIR, { recursive: true });
+  fs.writeFileSync(artifactPath, `${JSON.stringify(artifact, null, 2)}\n`, 'utf8');
+
+  const reread = readJson(artifactPath);
+  if (
+    reread.operation !== operation ||
+    reread.siteId !== siteId ||
+    reread.countySlug !== countySlug ||
+    reread.countyPack !== repoPath(packPath) ||
+    reread.manifest?.id !== `colorado-${countySlug}`
+  ) {
+    fail(`verified public artifact identity check failed for ${siteId}`);
+  }
+  if (operation === 'upsert') {
+    if (!reread.site || JSON.stringify(reread.site) !== JSON.stringify(verifiedSite)) {
+      fail(`verified public artifact payload check failed for ${siteId}`);
+    }
+  } else if (reread.site !== null) {
+    fail(`verified public delete artifact must contain site=null for ${siteId}`);
+  }
+  return artifactPath;
 }
 
 function publicText(site) {
@@ -94,6 +150,64 @@ function counts(pack) {
   return { siteCount: pack.sites.length, exploreSiteCount, idOnlySiteCount };
 }
 
+function backfillVerifiedArtifacts(index) {
+  if (!fs.existsSync(PACK_DIR)) return 0;
+
+  const entries = new Map();
+  for (const filename of fs.readdirSync(PACK_DIR).filter((name) => name.endsWith('.json')).sort()) {
+    const packPath = path.join(PACK_DIR, filename);
+    const pack = readJson(packPath);
+    if (!Array.isArray(pack.sites)) fail(`${filename}: public county pack has no sites array`);
+    const countySlug = filename.replace(/^colorado-/, '').replace(/\.json$/, '');
+    const c = counts(pack);
+    const manifestEntry = index.packs.find((p) => p?.id === `colorado-${countySlug}`);
+    const manifestMatches =
+      manifestEntry &&
+      Number(manifestEntry.siteCount) === c.siteCount &&
+      Number(manifestEntry.exploreSiteCount) === c.exploreSiteCount &&
+      Number(manifestEntry.idOnlySiteCount) === c.idOnlySiteCount;
+    if (!manifestMatches) {
+      console.warn(`skip receipt backfill for ${filename}: manifest counts are not verified`);
+      continue;
+    }
+
+    for (const site of pack.sites) {
+      const siteId = site?.id;
+      if (!siteId || typeof siteId !== 'string') fail(`${filename}: cannot backfill public site without a stable ID`);
+      if (entries.has(siteId)) {
+        fail(`cannot backfill duplicate public Site ID ${siteId} across ${entries.get(siteId).filename} and ${filename}`);
+      }
+      entries.set(siteId, { filename, countySlug, packPath, pack, site, manifestEntry });
+    }
+  }
+
+  let written = 0;
+  for (const [siteId, entry] of entries) {
+    const artifactPath = path.join(VERIFIED_SITE_DIR, `${siteId}.json`);
+    let current = null;
+    if (fs.existsSync(artifactPath)) current = readJson(artifactPath);
+    const currentMatches =
+      current?.operation === 'upsert' &&
+      current?.siteId === siteId &&
+      current?.countySlug === entry.countySlug &&
+      current?.countyPack === repoPath(entry.packPath) &&
+      JSON.stringify(current?.site) === JSON.stringify(entry.site);
+    if (currentMatches) continue;
+
+    writeVerifiedArtifact({
+      operation: 'upsert',
+      siteId,
+      countySlug: entry.countySlug,
+      packPath: entry.packPath,
+      verifiedPack: entry.pack,
+      verifiedSite: entry.site,
+      manifestEntry: entry.manifestEntry
+    });
+    written += 1;
+  }
+  return written;
+}
+
 function removeLegacyIds(pack, ids, patchName, currentId) {
   if (!Array.isArray(ids)) return;
   for (const id of ids) {
@@ -105,23 +219,25 @@ function removeLegacyIds(pack, ids, patchName, currentId) {
   }
 }
 
+if (!fs.existsSync(INDEX_PATH)) fail('pack-index.json is missing');
+const index = readJson(INDEX_PATH);
+if (!Array.isArray(index.packs)) fail('pack-index.json has no packs array');
+const backfilled = backfillVerifiedArtifacts(index);
+
 if (!fs.existsSync(PATCH_DIR)) {
-  console.log('PUBLIC SITE PATCH MERGE — no pending patch directory');
+  console.log(`PUBLIC SITE PATCH MERGE — no pending patch directory; ${backfilled} verified artifacts backfilled`);
   process.exit(0);
 }
 
 const patchFiles = fs.readdirSync(PATCH_DIR).filter((name) => name.endsWith('.json')).sort();
 if (patchFiles.length === 0) {
-  console.log('PUBLIC SITE PATCH MERGE — no pending patches');
+  console.log(`PUBLIC SITE PATCH MERGE — no pending patches; ${backfilled} verified artifacts backfilled`);
   process.exit(0);
 }
 
-if (!fs.existsSync(INDEX_PATH)) fail('pack-index.json is missing');
-const index = readJson(INDEX_PATH);
-if (!Array.isArray(index.packs)) fail('pack-index.json has no packs array');
-
 let merged = 0;
 const touched = [];
+const receiptRequests = [];
 
 for (const patchName of patchFiles) {
   const patchPath = path.join(PATCH_DIR, patchName);
@@ -226,6 +342,7 @@ for (const patchName of patchFiles) {
   fs.unlinkSync(patchPath);
   merged += 1;
   touched.push(`${affectedId} -> packs/canonical/colorado-${countySlug}.json`);
+  receiptRequests.push({ operation, siteId: affectedId, countySlug, packPath });
 }
 
 fs.writeFileSync(INDEX_PATH, `${JSON.stringify(index, null, 2)}\n`, 'utf8');
@@ -241,4 +358,39 @@ for (const item of touched) {
   }
 }
 
-console.log(`PUBLIC SITE PATCH MERGE — ${merged} merged; ${touched.join('; ')}`);
+for (const request of receiptRequests) {
+  const pack = readJson(request.packPath);
+  const manifestEntry = verifyIndex.packs.find((p) => p?.id === `colorado-${request.countySlug}`);
+  if (!manifestEntry) fail(`manifest receipt entry missing for colorado-${request.countySlug}`);
+  const c = counts(pack);
+  if (
+    Number(manifestEntry.siteCount) !== c.siteCount ||
+    Number(manifestEntry.exploreSiteCount) !== c.exploreSiteCount ||
+    Number(manifestEntry.idOnlySiteCount) !== c.idOnlySiteCount
+  ) {
+    fail(`manifest receipt counts failed for colorado-${request.countySlug}`);
+  }
+
+  let verifiedSite = null;
+  if (request.operation === 'upsert') {
+    const matches = pack.sites.filter((s) => s?.id === request.siteId);
+    if (matches.length !== 1) fail(`receipt requires exactly one public Site ID ${request.siteId}; found ${matches.length}`);
+    verifiedSite = matches[0];
+    validateSite(verifiedSite, `${request.siteId} receipt reread`);
+  } else if (pack.sites.some((s) => s?.id === request.siteId)) {
+    fail(`delete receipt reread failed for ${request.siteId}`);
+  }
+
+  const artifactPath = writeVerifiedArtifact({
+    operation: request.operation,
+    siteId: request.siteId,
+    countySlug: request.countySlug,
+    packPath: request.packPath,
+    verifiedPack: pack,
+    verifiedSite,
+    manifestEntry
+  });
+  console.log(`PUBLIC SITE RECEIPT — ${request.siteId} -> ${repoPath(artifactPath)}`);
+}
+
+console.log(`PUBLIC SITE PATCH MERGE — ${merged} merged; ${backfilled} artifacts backfilled; ${touched.join('; ')}`);
