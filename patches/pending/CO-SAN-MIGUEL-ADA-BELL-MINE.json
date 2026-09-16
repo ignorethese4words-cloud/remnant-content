@@ -1,0 +1,57 @@
+{
+  "countySlug": "san-miguel",
+  "site": {
+    "id": "CO-SAN-MIGUEL-ADA-BELL-MINE",
+    "name": "Ada Bell Mine",
+    "location": "Lisbon Gap area near the Colorado–Utah border, San Miguel County",
+    "county": "San Miguel County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-16T20:58:26.198Z",
+    "overview": [
+      "Ada Bell Mine is a mapped historic uranium-and-vanadium mine in western San Miguel County near the Colorado–Utah border. The site lies in the Colorado Plateau's Uravan mining region rather than the mountain districts around Telluride."
+    ],
+    "timeline": [
+      {
+        "year": "Historic record",
+        "text": "USGS Mineral Resources Data System record 10119394 identifies the Ada Bell property and lists uranium and vanadium as its commodities."
+      },
+      {
+        "year": "Modern mapping",
+        "text": "The Ada Bell Mine remains a named feature on the USGS Lisbon Gap 7.5-minute topographic quadrangle."
+      }
+    ],
+    "moreHistory": [
+      "The mapped locality provides a defensible site-level identification point. It does not confirm which mine opening or surface feature survives today, and present ownership, access, and ground conditions should be checked locally before any visit."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 38.1511022,
+      "longitude": -109.0309407
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS Mineral Resources Data System — Ada Bell, record 10119394",
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10119394"
+      },
+      {
+        "title": "USGS US Topo — Lisbon Gap, Utah–Colorado, 7.5-minute quadrangle",
+        "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/UT/UT_Lisbon_Gap_20140225_TM_geo.pdf"
+      },
+      {
+        "title": "USGS — Mineral Resources Online Spatial Data Access Tool",
+        "url": "https://www.usgs.gov/tools/mineral-resources-online-spatial-data-access-tool"
+      },
+      {
+        "title": "Mineralienatlas — Ada Bell Mine locality",
+        "url": "https://www.mineralienatlas.de/wiki/LokationGeo?l=66961"
+      }
+    ]
+  }
+}
