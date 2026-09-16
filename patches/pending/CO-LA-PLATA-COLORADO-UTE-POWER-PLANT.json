@@ -1,0 +1,50 @@
+{
+  "countySlug": "la-plata",
+  "site": {
+    "id": "CO-LA-PLATA-COLORADO-UTE-POWER-PLANT",
+    "name": "Colorado Ute Power Plant / Durango Light & Power Building",
+    "location": "14th Street at the Animas River, Durango",
+    "county": "La Plata County",
+    "state": "Colorado",
+    "category": "Historic Power Plant / Industrial Building",
+    "componentType": "Power / Industrial",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-16T11:25:00Z",
+    "overview": [
+      "Completed in 1893, this Mission-style power plant helped supply electricity to Durango and the San Juan mining region. History Colorado identifies it as Colorado's earliest known Mission-style building and an unusual industrial use of the style."
+    ],
+    "timeline": [
+      "1889–1893 — Durango expanded its electric system and completed the present steam-power building at 14th Street and the Animas River.",
+      "1909 — A transmission line from Tacoma brought hydroelectric service to the Durango plant, while lines were extended toward Silverton and nearby mining areas.",
+      "1916–1917 — Major additions installed General Electric turbine-generator equipment and expanded generating capacity.",
+      "1946–1949 — Boilers were converted to gas, and the plant received a west-side expansion and new equipment.",
+      "1972 — After declining demand, the plant was judged impractical to continue operating."
+    ],
+    "moreHistory": [
+      "The National Register nomination ties the plant to the development of Durango and the San Juan mining district. It also documents the building's stepped parapet, bell-tower forms, surviving historic equipment, and rare Mission-style treatment of an industrial facility. The map point identifies the historic building; current interior access and operating conditions should be confirmed locally."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 37.278889,
+      "longitude": -107.879722
+    },
+    "sources": [
+      {
+        "title": "History Colorado — Colorado Ute Power Plant",
+        "sourcePage": "https://www.historycolorado.org/location/colorado-ute-power-plant"
+      },
+      {
+        "title": "National Register of Historic Places Inventory — Colorado Ute Power Plant",
+        "sourcePage": "https://www.durangoco.gov/DocumentCenter/View/10848"
+      },
+      {
+        "title": "Fort Lewis College Center of Southwest Studies — Western Colorado Power Company records",
+        "sourcePage": "https://swcenter.fortlewis.edu/finding_aids/inventory/wcpc.htm"
+      }
+    ]
+  }
+}
