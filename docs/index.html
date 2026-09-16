@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<meta name="theme-color" content="#090909" />
+<title>Remnant Content Dashboard</title>
+<style>
+:root{--bg:#090909;--panel:#141414;--panel2:#1a1a1a;--line:#2a2a2a;--gold:#d6ad52;--gold2:#f0cb72;--text:#f5f5f5;--muted:#999;--good:#8bc796;--warn:#ddb35a}
+*{box-sizing:border-box}html{background:var(--bg)}body{margin:0;background:linear-gradient(180deg,#070707,#0d0d0d 45%,#090909);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;min-height:100vh}.wrap{max-width:1180px;margin:0 auto;padding:20px 14px 50px}.top{display:flex;justify-content:space-between;gap:18px;align-items:flex-end;padding:7px 2px 20px}.brand h1{font-size:29px;letter-spacing:.05em;margin:0}.brand p{margin:5px 0 0;color:var(--gold);font-weight:800;letter-spacing:.09em;font-size:11px;text-transform:uppercase}.sync{font-size:11px;color:var(--muted);text-align:right}.sync b{color:var(--good)}.grid{display:grid;grid-template-columns:repeat(6,1fr);gap:9px}.card{background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:14px;padding:14px;min-height:104px}.card .label{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-weight:800}.card .value{font-size:29px;font-weight:850;margin-top:9px;line-height:1}.card .note{font-size:10px;color:var(--muted);margin-top:8px}.card.highlight{border-color:#5f4a20;box-shadow:inset 0 0 0 1px rgba(214,173,82,.08)}.card.highlight .value{color:var(--gold2)}.section{margin-top:16px;background:rgba(20,20,20,.97);border:1px solid var(--line);border-radius:16px;overflow:hidden}.section-head{padding:15px 17px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:14px;align-items:center}.section h2{font-size:15px;margin:0}.section-head span{font-size:11px;color:var(--muted)}.media-box{padding:17px}.media-line{display:flex;justify-content:space-between;gap:15px;align-items:baseline;margin-bottom:10px}.media-line strong{font-size:21px}.bar{height:11px;border-radius:999px;background:#242424;overflow:hidden}.bar>div{height:100%;background:linear-gradient(90deg,#9b7629,var(--gold2));min-width:0}.media-meta{display:flex;justify-content:space-between;color:var(--muted);font-size:11px;margin-top:8px}.table-wrap{overflow-x:auto}table{width:100%;border-collapse:collapse;min-width:720px}th,td{padding:11px 14px;border-bottom:1px solid #232323;text-align:left;font-size:12px}th{font-size:9px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);background:#111;position:sticky;top:0}tr:last-child td{border-bottom:0}.sub{display:block;color:#747474;font-size:9px;margin-top:3px}.media-cell small{color:var(--muted)}.pill{display:inline-block;border-radius:999px;padding:4px 8px;font-size:9px;font-weight:850;letter-spacing:.04em}.pill.explore{background:rgba(214,173,82,.14);color:var(--gold2);border:1px solid rgba(214,173,82,.32)}.pill.idonly{background:#202020;color:#c7c7c7;border:1px solid #333}.health{display:flex;gap:12px;flex-wrap:wrap;padding:14px 17px;color:var(--muted);font-size:11px}.health b{color:var(--text)}.dot{width:8px;height:8px;border-radius:50%;display:inline-block;margin-right:6px}.footer{color:#666;text-align:center;font-size:10px;margin-top:18px}.loading,.error{padding:50px 18px;text-align:center;color:var(--muted)}.error{color:#dca2a2}.hidden{display:none}
+@media(max-width:980px){.grid{grid-template-columns:repeat(3,1fr)}}@media(max-width:560px){.wrap{padding:15px 9px 34px}.top{align-items:flex-start}.brand h1{font-size:23px}.sync{font-size:9px}.grid{grid-template-columns:repeat(2,1fr)}.card{min-height:94px;padding:12px}.card .value{font-size:26px}.section{border-radius:13px}.section-head{padding:13px}.media-box{padding:13px}table{min-width:650px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div class="brand"><h1>REMNANT</h1><p>Content Dashboard</p></div>
+    <div id="sync" class="sync">Loading live data…</div>
+  </div>
+  <div id="loading" class="loading">Loading published Remnant content…</div>
+  <div id="error" class="error hidden">Dashboard data is temporarily unavailable.</div>
+  <main id="app" class="hidden">
+    <div id="cards" class="grid"></div>
+    <section class="section">
+      <div class="section-head"><h2>Media coverage</h2><span>Published content only</span></div>
+      <div class="media-box">
+        <div class="media-line"><strong id="media-total"></strong><span id="media-pct"></span></div>
+        <div class="bar"><div id="media-bar"></div></div>
+        <div class="media-meta"><span id="media-with"></span><span id="media-without"></span></div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="section-head"><h2>County breakdown</h2><span>Sorted by published locations</span></div>
+      <div class="table-wrap"><table><thead><tr><th>County</th><th>Total</th><th>Explore</th><th>ID-only</th><th>Media</th><th>Explore %</th></tr></thead><tbody id="counties"></tbody></table></div>
+    </section>
+    <section class="section">
+      <div class="section-head"><h2>Recent content updates</h2><span>Latest 12</span></div>
+      <div class="table-wrap"><table><thead><tr><th>Location</th><th>County</th><th>Tier</th><th>Media</th><th>Updated</th></tr></thead><tbody id="recent"></tbody></table></div>
+    </section>
+    <section class="section">
+      <div class="section-head"><h2>Data health</h2><span>GitHub → Supabase</span></div>
+      <div id="health" class="health"></div>
+    </section>
+  </main>
+  <div class="footer">Read-only Remnant dashboard · Verified published content synced to Supabase</div>
+</div>
+<script>
+const API='https://mdwwaxqzzztpcfkfgijr.supabase.co/functions/v1/remnant-dashboard-data';
+const esc=(v)=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
+const fmt=(v)=>{if(!v)return '—'; const d=new Date(v); if(Number.isNaN(d.getTime()))return esc(v); return new Intl.DateTimeFormat('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit',timeZone:'America/Denver',timeZoneName:'short'}).format(d)};
+const pct=(a,b)=>b?((Number(a)/Number(b))*100):0;
+async function load(){
+ try{
+  const r=await fetch(API,{cache:'no-store'}); if(!r.ok) throw new Error('HTTP '+r.status); const d=await r.json();
+  const o=d.overview||{}, counties=d.counties||[], recent=d.recent||[], h=d.health||{};
+  const total=Number(o.total_locations||0), media=Number(o.locations_with_media||0), noMedia=Number(o.locations_without_media||0), mediaPct=pct(media,total);
+  document.getElementById('cards').innerHTML=[
+   ['Published',o.total_locations,'Verified locations',true],
+   ['Explore',o.explore_locations,pct(o.explore_locations,total).toFixed(1)+'% of published'],
+   ['ID-only',o.id_only_locations,'Published identification sites'],
+   ['Counties',o.counties,'Across '+esc(o.states)+' state'],
+   ['With media',media,mediaPct.toFixed(1)+'% coverage'],
+   ['Need media',noMedia,'Published sites without media']
+  ].map(x=>`<div class="card ${x[3]?'highlight':''}"><div class="label">${esc(x[0])}</div><div class="value">${esc(x[1])}</div><div class="note">${x[2]}</div></div>`).join('');
+  document.getElementById('media-total').textContent=`${media} of ${total}`;
+  document.getElementById('media-pct').textContent=mediaPct.toFixed(1)+'%';
+  document.getElementById('media-bar').style.width=mediaPct.toFixed(2)+'%';
+  document.getElementById('media-bar').style.minWidth=media>0?'5px':'0';
+  document.getElementById('media-with').textContent=`${media} with media`;
+  document.getElementById('media-without').textContent=`${noMedia} still need media`;
+  document.getElementById('counties').innerHTML=counties.map(c=>{const cp=pct(c.locations_with_media,c.total_locations);return `<tr><td><strong>${esc(c.county)}</strong><span class="sub">${esc(c.state)}</span></td><td>${esc(c.total_locations)}</td><td>${esc(c.explore_locations)}</td><td>${esc(c.id_only_locations)}</td><td><span class="media-cell">${esc(c.locations_with_media)} <small>(${cp.toFixed(1)}%)</small></span></td><td>${esc(c.explore_percent)}%</td></tr>`}).join('');
+  document.getElementById('recent').innerHTML=recent.map(x=>`<tr><td><strong>${esc(x.location_name)}</strong><span class="sub">${esc(x.site_id)}</span></td><td>${esc(x.county)}</td><td><span class="pill ${String(x.tier).includes('EXPLORE')?'explore':'idonly'}">${esc(x.tier)}</span></td><td>${esc(x.media_count)}</td><td>${fmt(x.content_updated_at)}</td></tr>`).join('');
+  const good=!!h.healthy;
+  document.getElementById('sync').innerHTML=`<b style="color:${good?'var(--good)':'var(--warn)'}">● ${good?'Synced':'Check sync'}</b><br>Last dashboard sync ${fmt(o.latest_dashboard_sync)}`;
+  document.getElementById('health').innerHTML=`<span><i class="dot" style="background:${good?'var(--good)':'var(--warn)'}"></i><b>${esc(h.matching_counties)}/${esc(h.total_counties_checked)}</b> county totals match verified GitHub content</span><span><b>${esc(h.manifest_anomalies)}</b> legacy manifest metadata anomalies tracked separately</span><span>Latest verified receipt: <b>${fmt(o.latest_verified_receipt)}</b></span>`;
+  document.getElementById('loading').classList.add('hidden'); document.getElementById('app').classList.remove('hidden');
+ }catch(e){console.error(e); document.getElementById('loading').classList.add('hidden'); document.getElementById('error').classList.remove('hidden'); document.getElementById('sync').textContent='Unable to load live data';}
+}
+load();
+</script>
+</body>
+</html>
