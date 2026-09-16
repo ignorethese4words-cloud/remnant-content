@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-16T21:41:02.370Z",
-  "generatedAt": "2026-09-16T21:41:02.370Z",
+  "contentVersion": "2026-09-16T23:49:47.371Z",
+  "generatedAt": "2026-09-16T23:49:47.371Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -219,10 +219,10 @@
       "id": "colorado-la-plata",
       "county": "La Plata County",
       "state": "Colorado",
-      "version": "4",
+      "version": "5",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-la-plata.json",
-      "exploreSiteCount": 1,
-      "idOnlySiteCount": 1,
+      "exploreSiteCount": 2,
+      "idOnlySiteCount": 0,
       "siteCount": 2
     },
     {
