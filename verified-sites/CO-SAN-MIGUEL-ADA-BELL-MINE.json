@@ -1,5 +1,22 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-SAN-MIGUEL-ADA-BELL-MINE",
   "countySlug": "san-miguel",
+  "countyPack": "packs/canonical/colorado-san-miguel.json",
+  "packVersion": "4",
+  "packGeneratedAt": "2026-09-16T21:03:08.306Z",
+  "verifiedAt": "2026-09-16T21:03:08.307Z",
+  "manifest": {
+    "id": "colorado-san-miguel",
+    "county": "San Miguel County",
+    "state": "Colorado",
+    "version": "4",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-san-miguel.json",
+    "siteCount": 12,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
   "site": {
     "id": "CO-SAN-MIGUEL-ADA-BELL-MINE",
     "name": "Ada Bell Mine",
