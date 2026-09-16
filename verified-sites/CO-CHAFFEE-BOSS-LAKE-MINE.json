@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-BOSS-LAKE-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.314Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-BOSS-LAKE-MINE",
+    "name": "Boss Lake Mine",
+    "location": "Monarch district",
+    "county": "Chaffee County",
+    "category": "Mine / Stockpile",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Boss Lake is a documented Chaffee County iron mine and magnetite stockpile locality."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.5576,
+      "longitude": -106.3086
+    }
+  }
+}

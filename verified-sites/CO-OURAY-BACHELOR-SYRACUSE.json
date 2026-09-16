@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-BACHELOR-SYRACUSE",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.349Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-BACHELOR-SYRACUSE",
+    "name": "Bachelor–Syracuse Mine Tour",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mine",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B329=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B329&\"\" \"\"&$C329),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&\"&\"$C329),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C329<>\"\"\"\",$C329,\"\"Historic Site\"\")))\"),\"Mine\")",
+    "overview": [
+      "Core research complete.",
+      "USGS identifies the Bachelor Consolidated Mine and the lower Bachelor (Syracuse) tunnel as related workings; federal DMEA records later evaluated Bachelor Mine for lead-zinc, silver, gold, and copper."
+    ],
+    "timeline": [
+      {
+        "year": "1884",
+        "text": "Published origin dates conflict (1884, 1888, early 1890s); no exact discovery year is adopted."
+      },
+      {
+        "year": "1888",
+        "text": "Published origin dates conflict (1884, 1888, early 1890s); no exact discovery year is adopted."
+      },
+      {
+        "year": "2026",
+        "text": "Official site reports the mine tour reopened after the 2026 Gold Mountain Fire."
+      }
+    ],
+    "moreHistory": [
+      "The operator’s documented history identifies Charlie Armstrong, George Hurlburt, and J.",
+      "Frank Sanders as early owners; ore moved down Red Canyon to Bachelor Switch, while the associated Ash camp of about 200 included a mill, school, post office, and band.",
+      "In the 1920s Syracuse, New York investors financed the lower Syracuse Level, which became a major producing working and is the tunnel used by the modern mine tour.",
+      "Component safeguard: keep the original upper Bachelor main workings/portal, Ash camp and mill, Bachelor Switch, lower Syracuse Tunnel/current tour entrance, and later surface visitor facilities as separate linked components.",
+      "Published origin dates conflict (1884, 1888, early 1890s); no exact discovery year is adopted."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

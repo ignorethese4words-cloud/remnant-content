@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-EAGLE-RED-CLIFF-BRIDGE",
+  "countySlug": "eagle",
+  "countyPack": "packs/canonical/colorado-eagle.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-12T21:46:05.195Z",
+  "verifiedAt": "2026-09-16T00:23:17.326Z",
+  "manifest": {
+    "id": "colorado-eagle",
+    "county": "Eagle County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-eagle.json",
+    "siteCount": 10,
+    "exploreSiteCount": 8,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-EAGLE-RED-CLIFF-BRIDGE",
+    "name": "Red Cliff Bridge",
+    "location": "Red Cliff / Eagle River canyon",
+    "county": "Eagle County",
+    "category": "Transportation / Historic Bridge",
+    "componentType": "Steel Deck-Arch Highway Bridge",
+    "overview": [
+      "Historic steel deck-arch highway bridge above the Eagle River canyon near Red Cliff. This basic record is available for Scan identification while the Full Explore page is still being prepared."
+    ],
+    "coordinates": {
+      "latitude": 39.509,
+      "longitude": -106.379
+    },
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

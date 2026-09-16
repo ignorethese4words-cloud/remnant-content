@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-CLINTON-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.314Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-CLINTON-MINE",
+    "name": "Clinton Mine (Chaffee County)",
+    "location": "Monarch district",
+    "county": "Chaffee County",
+    "category": "Underground Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Clinton is a documented Monarch-district mine with early-1880s development and later 1901-1904 production."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.59305,
+      "longitude": -106.27975
+    }
+  }
+}

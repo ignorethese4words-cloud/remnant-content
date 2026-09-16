@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-BLUE-STONE-DEPOSIT",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.314Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-BLUE-STONE-DEPOSIT",
+    "name": "Blue Stone Deposit",
+    "location": "Browns Canyon district",
+    "county": "Chaffee County",
+    "category": "Adit / Shaft / Surface Cuts",
+    "componentType": "Shaft / Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Blue Stone is a federally documented Browns Canyon fluorspar property with a shallow shaft, adit and surface cuts."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.64861,
+      "longitude": -106.075
+    }
+  }
+}

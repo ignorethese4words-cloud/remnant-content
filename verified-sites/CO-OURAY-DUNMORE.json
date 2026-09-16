@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-DUNMORE",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.349Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-DUNMORE",
+    "name": "Dunmore Mine / Dunmore Lode",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mine / Mining Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B346=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B346&\"\" \"\"&$C346),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&\"&\"$C346),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B346&\"\" \"\"&$C346),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C346<>\"\"\"\",$C346,\"\"Historic Site\"\")))\"),\"Mine\")",
+    "overview": [
+      "The Dunmore Mine developed a complex polymetallic lode in the Ouray–Uncompahgre mining district.",
+      "A 1946 USGS-backed study by V."
+    ],
+    "timeline": [
+      {
+        "year": "1946",
+        "text": "A 1946 USGS-backed study by V."
+      }
+    ],
+    "moreHistory": [
+      "Kelley and Caswell Silver describes a persistent fissure zone more than two miles long, averaging nearly 100 feet wide along the Dunmore claim.",
+      "Its productive mineralization included a hematite chimney enclosing a copper shoot, a tungsten chimney, and compound base-metal fissure veins—an unusual combination that helped geologists connect the chimney-style and vein-style deposits of the San Juan Mountains.",
+      "Federal exploration records document renewed interest in the Dunmore and related Yankee Lad claims during the 1950s, including tungsten investigation.",
+      "Modern locality records document aerial-tram-station and cable remnants below the mine, but the exact present condition of every structure has not been independently field-verified.",
+      "Component safeguard: keep the Dunmore workings, the Yankee Lad claim, tramway and terminal remnants, and nearby Red Mountain or Idarado properties as separate linked elements unless claim mapping proves a tighter identity."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-GENESEE-VANDERBILT",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.349Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-GENESEE-VANDERBILT",
+    "name": "Genesee–Vanderbilt Mine",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mine / Mining Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B352=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B352&\"\" \"\"&$C352),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&\"&\"$C352),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B352&\"\" \"\"&$C352),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C352<>\"\"\"\",$C352,\"\"Historic Site\"\")))\"),\"Mine\")",
+    "overview": [
+      "The Genesee–Vanderbilt was a combined Red Mountain mine complex between the Yankee Girl and National Belle properties.",
+      "Local district chronology records the Genesee as located in summer 1882 and the neighboring Vanderbilt in 1883; the Genesee interests acquired the Vanderbilt in 1888, and the workings were combined by early 1889 after the two mines were recognized as developing the same ore body."
+    ],
+    "timeline": [
+      {
+        "year": "1882",
+        "text": "Local district chronology records the Genesee as located in summer 1882 and the neighboring Vanderbilt in 1883; the Genesee interests acquired the Vanderbilt in 1888, and the workings were combined by early 1889 after the two mines were recognized as developing the same ore body."
+      },
+      {
+        "year": "1883",
+        "text": "Local district chronology records the Genesee as located in summer 1882 and the neighboring Vanderbilt in 1883; the Genesee interests acquired the Vanderbilt in 1888, and the workings were combined by early 1889 after the two mines were recognized as developing the same ore body."
+      },
+      {
+        "year": "1888",
+        "text": "Local district chronology records the Genesee as located in summer 1882 and the neighboring Vanderbilt in 1883; the Genesee interests acquired the Vanderbilt in 1888, and the workings were combined by early 1889 after the two mines were recognized as developing the same ore body."
+      },
+      {
+        "year": "1889",
+        "text": "Local district chronology records the Genesee as located in summer 1882 and the neighboring Vanderbilt in 1883; the Genesee interests acquired the Vanderbilt in 1888, and the workings were combined by early 1889 after the two mines were recognized as developing the same ore body."
+      },
+      {
+        "year": "1901",
+        "text": "Sources: USGS Bulletin 182, A Report on the Economic Geology of the Silverton Quadrangle (1901); Fort Lewis College Red Mountain Project; Ouray County Road 31 historical inventory."
+      }
+    ],
+    "moreHistory": [
+      "USGS Bulletin 182 provides the contemporary technical and mapping anchor for the Silverton–Red Mountain mining landscape.",
+      "Historic ore was principally silver-bearing galena, while later locality records also associate the complex with copper, zinc, lead, gold, and silver.",
+      "District sources record renewed activity after the late-1890s revival, but the exact shutdown sequence and lifetime production remain uncertain and no aggregate total is adopted.",
+      "Surviving identification features include large dumps, ore-loading or tram-related remnants, deteriorated buildings, and the disturbed high-alpine mine landscape; uncertain structure functions should remain qualified.",
+      "Component safeguard: keep the original Genesee and Vanderbilt workings, their later combined system, the Joker Tunnel/Idarado connection, Guston townsite, Yankee Girl, and Guston–Robinson as separate linked elements."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

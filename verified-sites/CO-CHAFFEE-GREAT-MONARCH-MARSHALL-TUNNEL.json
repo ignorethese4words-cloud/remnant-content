@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-GREAT-MONARCH-MARSHALL-TUNNEL",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.317Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-GREAT-MONARCH-MARSHALL-TUNNEL",
+    "name": "Great Monarch and Marshall Tunnel",
+    "location": "Monarch Mining District",
+    "county": "Chaffee County",
+    "category": "Tunnel / Mine Complex",
+    "componentType": "Adit / Portal",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Great Monarch is one of the foundational 1878 discoveries of the Monarch district. The mapped Great Monarch mine feature provides a defensible parent Scan anchor while the Marshall Tunnel remains a related component."
+    ],
+    "timeline": [
+      {
+        "year": "1878",
+        "text": "The Great Monarch claim was discovered during the founding period of the Monarch mining district."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.54083,
+      "longitude": -106.30417
+    }
+  }
+}

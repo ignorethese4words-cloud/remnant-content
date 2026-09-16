@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GUNNISON-PITKIN-SCHOOLHOUSE",
+  "countySlug": "gunnison",
+  "countyPack": "packs/canonical/colorado-gunnison.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.330Z",
+  "manifest": {
+    "id": "colorado-gunnison",
+    "county": "Gunnison County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gunnison.json",
+    "siteCount": 15,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 15
+  },
+  "site": {
+    "id": "CO-GUNNISON-PITKIN-SCHOOLHOUSE",
+    "name": "Pitkin Schoolhouse",
+    "location": "800 Main Street, Pitkin",
+    "county": "Gunnison County",
+    "category": "Historic School",
+    "componentType": "Building",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "The Pitkin Schoolhouse is a surviving historic school building at 800 Main Street. State-register documentation identifies the wood-frame building as the only school serving Pitkin and the surrounding area from 1924 until 1962."
+    ],
+    "timeline": [
+      {
+        "year": "1924-1962",
+        "text": "The present Pitkin Schoolhouse served Pitkin and the surrounding area as the community school."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.611331,
+      "longitude": -106.513197
+    }
+  }
+}

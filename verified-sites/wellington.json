@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "wellington",
+  "countySlug": "summit",
+  "countyPack": "packs/canonical/colorado-summit.json",
+  "packVersion": "6",
+  "packGeneratedAt": "2026-09-13T15:41:05.613Z",
+  "verifiedAt": "2026-09-16T00:23:17.354Z",
+  "manifest": {
+    "id": "colorado-summit",
+    "county": "Summit County",
+    "state": "Colorado",
+    "version": "6",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
+    "siteCount": 9,
+    "exploreSiteCount": 4,
+    "idOnlySiteCount": 5
+  },
+  "site": {
+    "id": "wellington",
+    "name": "Wellington Mine",
+    "location": "Breckenridge",
+    "county": "Summit County",
+    "category": "Mine",
+    "componentType": "Mine",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "The Wellington was one of the major hard-rock mining operations in French Gulch east of Breckenridge. Historically separate from the neighboring Oro Mine, the two properties were combined in 1907 as the Wellington-Oro complex.",
+      "The operation is especially useful for understanding changes in mining and milling technology, with extensive underground workings and several generations of ore-processing equipment."
+    ],
+    "timeline": [
+      {
+        "year": "1880s",
+        "text": "Major lode-mining activity developed in French Gulch, including the Wellington and Oro properties."
+      },
+      {
+        "year": "1907",
+        "text": "The previously separate Wellington and Oro mines were combined into the Wellington-Oro operation."
+      },
+      {
+        "year": "1908",
+        "text": "A gravity mill was built to concentrate ore."
+      },
+      {
+        "year": "1912",
+        "text": "A roasting and magnetic-separation plant was constructed for zinc-ore treatment."
+      },
+      {
+        "year": "1927",
+        "text": "Flotation technology replaced the older roasting and magnetic-separation process."
+      },
+      {
+        "year": "1929",
+        "text": "The earlier gravity mill ceased operation."
+      },
+      {
+        "year": "1930s–1970s",
+        "text": "Mining activity continued intermittently after the main historic production period."
+      },
+      {
+        "year": "Modern era",
+        "text": "Treatment facilities address contaminated water draining from historic workings."
+      }
+    ],
+    "moreHistory": [
+      "EPA historical studies describe the Wellington-Oro as the largest lode-mining operation in French Gulch, with more than 12 miles of underground workings.",
+      "The successive milling systems illustrate how operators adapted to changing ore types and metallurgical technology.",
+      "The Wellington and Oro began as separate mines. Their later combination is historically important, but the original identities should not be erased.",
+      "Modern remediation is part of the site’s continuing history and has altered portions of the industrial landscape."
+    ],
+    "displayImages": []
+  }
+}

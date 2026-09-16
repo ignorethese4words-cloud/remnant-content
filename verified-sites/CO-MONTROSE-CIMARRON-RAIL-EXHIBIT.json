@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MONTROSE-CIMARRON-RAIL-EXHIBIT",
+  "countySlug": "montrose",
+  "countyPack": "packs/canonical/colorado-montrose.json",
+  "packVersion": "3",
+  "packGeneratedAt": "2026-09-07T20:24:27.191Z",
+  "verifiedAt": "2026-09-16T00:23:17.336Z",
+  "manifest": {
+    "id": "colorado-montrose",
+    "county": "Montrose County",
+    "state": "Colorado",
+    "version": "3",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-montrose.json",
+    "siteCount": 1,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-MONTROSE-CIMARRON-RAIL-EXHIBIT",
+    "name": "Cimarron Pratt Truss Bridge & Rail Exhibit",
+    "location": "Cimarron",
+    "county": "Montrose County",
+    "category": "Railroad Bridge / Exhibit",
+    "componentType": "Bridge / Trestle",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "A surviving narrow-gauge railroad truss bridge and associated Cimarron rail exhibit."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.45167,
+      "longitude": -107.54972
+    }
+  }
+}

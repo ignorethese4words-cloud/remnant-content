@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LAKE-STUMPTOWN",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
+  "verifiedAt": "2026-09-16T00:23:17.335Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 19,
+    "exploreSiteCount": 15,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "CO-LAKE-STUMPTOWN",
+    "name": "Stumptown Mining Camp",
+    "location": "South Evans Gulch / Leadville",
+    "county": "Lake County",
+    "category": "Mining Camp",
+    "componentType": "Mining Camp / Mine Cluster",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "Stumptown was a mining camp in South Evans Gulch that grew around the mines east of Leadville. Mining History Association material traces its beginning to the 1879 discovery of the Little Ellen Mine and identifies the settlement as an active mining community into the twentieth century.",
+      "The camp is best understood as a cluster: homes and camp structures were surrounded by individual mines including the Little Ellen, Ollie Reed, Favorite, Silent Friend, and nearby tunnel workings."
+    ],
+    "timeline": [
+      {
+        "year": "1879",
+        "text": "Discovery of the Little Ellen Mine helped start the settlement first known as South Evans and later as Stumptown."
+      },
+      {
+        "year": "1880s–1890s",
+        "text": "The camp developed alongside a dense group of mines in South Evans Gulch during Leadville’s major mining era."
+      },
+      {
+        "year": "Early 1900s",
+        "text": "Mining continued around the camp, with several neighboring properties remaining active as ore types and markets changed."
+      },
+      {
+        "year": "1910–1924",
+        "text": "The nearby Silent Friend Mine was an important producer of oxidized zinc ores during this period."
+      },
+      {
+        "year": "By 1930s",
+        "text": "Long-term mining activity declined and the settlement was largely abandoned, while mine ruins and landscape traces remained."
+      },
+      {
+        "year": "Today",
+        "text": "Stumptown survives primarily as a historic mining landscape where camp history and multiple mine sites overlap."
+      }
+    ],
+    "moreHistory": [
+      "Stumptown illustrates how Leadville’s mining camps often formed directly beside groups of producing properties rather than as isolated towns. Workers could live near the mines that employed them, and the camp’s identity was tied closely to activity in South Evans Gulch.",
+      "The Little Ellen discovery is central to the camp’s origin. Later historical interpretation links Stumptown with the Ollie Reed, Favorite, Silent Friend, Little Ellen, Little Bob, and St. Louis Tunnel areas, showing how many separate workings contributed to one community landscape.",
+      "The camp also has a well-known social-history connection: Margaret “Molly” Brown and her husband J. J. Brown lived in the Stumptown area early in their marriage before the family became nationally prominent.",
+      "Remnant treats Stumptown as the parent camp record. Individual mines remain separate components when they have enough evidence to support their own identification record, preventing the camp entry from becoming a catch-all for every ruin in South Evans Gulch."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available"
+  }
+}

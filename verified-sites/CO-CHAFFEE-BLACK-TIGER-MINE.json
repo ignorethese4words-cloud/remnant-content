@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-BLACK-TIGER-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.313Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-BLACK-TIGER-MINE",
+    "name": "Black Tiger Mine",
+    "location": "Monarch Mining District",
+    "county": "Chaffee County",
+    "category": "Underground Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Black Tiger is a documented Monarch-district lead-silver mine. Colorado Geological Survey and USGS mapping provide a defensible site-level Basic Scan anchor without asserting present portal condition."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "Historic federal and Colorado records preserve Black Tiger as a producing Monarch-area lode and mapped mine feature."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.549719,
+      "longitude": -106.289468
+    }
+  }
+}

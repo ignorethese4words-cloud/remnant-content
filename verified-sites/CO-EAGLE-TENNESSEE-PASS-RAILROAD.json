@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-EAGLE-TENNESSEE-PASS-RAILROAD",
+  "countySlug": "eagle",
+  "countyPack": "packs/canonical/colorado-eagle.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-12T21:46:05.195Z",
+  "verifiedAt": "2026-09-16T00:23:17.325Z",
+  "manifest": {
+    "id": "colorado-eagle",
+    "county": "Eagle County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-eagle.json",
+    "siteCount": 10,
+    "exploreSiteCount": 8,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-EAGLE-TENNESSEE-PASS-RAILROAD",
+    "name": "Tennessee Pass D&RG/D&RGW Railroad Tunnel & Summit Complex",
+    "location": "Tennessee Pass",
+    "county": "Eagle County",
+    "category": "Railroad / Tunnel / Mountain Pass Infrastructure",
+    "componentType": "Railroad Summit, Tunnel & Grade Complex",
+    "overview": [
+      "Tennessee Pass carried one of Colorado's most important mountain railroad routes across the Continental Divide. The Denver & Rio Grande first crossed the pass on a steep narrow-gauge line before later tunnels lowered and improved the route.",
+      "The summit complex linked Leadville with Camp Hale, Red Cliff, Minturn, and the Eagle River valley and became a demanding helper district for heavy freight trains."
+    ],
+    "timeline": [
+      {
+        "year": "1881",
+        "text": "The Denver & Rio Grande completed its narrow-gauge railroad over Tennessee Pass."
+      },
+      {
+        "year": "1890",
+        "text": "A tunnel beneath the pass lowered the summit crossing during the transition toward improved and standard-gauge operations."
+      },
+      {
+        "year": "1945",
+        "text": "A second tunnel was completed to replace the earlier bore and modernize the route."
+      },
+      {
+        "year": "Mid-20th century",
+        "text": "Heavy freight and helper-locomotive operations made Tennessee Pass a major operating challenge for the Denver & Rio Grande Western."
+      },
+      {
+        "year": "1964",
+        "text": "Regular passenger service over the route ended."
+      },
+      {
+        "year": "1997",
+        "text": "Regular through freight operations ceased after railroad consolidation shifted traffic to other routes."
+      }
+    ],
+    "features": [
+      {
+        "id": "tennessee-1945-tunnel",
+        "name": "1945 Tennessee Pass Tunnel",
+        "type": "Railroad Tunnel",
+        "confidence": "Confirmed",
+        "note": "The later tunnel became the principal bore beneath the summit."
+      },
+      {
+        "id": "tennessee-old-grade",
+        "name": "1881 Summit Grade",
+        "type": "Railroad Grade",
+        "confidence": "Confirmed",
+        "note": "The original narrow-gauge route crossed higher terrain before tunnel construction."
+      },
+      {
+        "id": "tennessee-station",
+        "name": "Tennessee Pass Summit Station Area",
+        "type": "Railroad Operations",
+        "confidence": "Confirmed",
+        "note": "The summit included operating facilities associated with controlling and supporting mountain railroad traffic."
+      },
+      {
+        "id": "tennessee-helper",
+        "name": "Helper District & Mountain Grade",
+        "type": "Railroad Operations",
+        "confidence": "Confirmed",
+        "note": "Steep grades required helper locomotives and specialized operating practices."
+      }
+    ],
+    "moreHistory": [
+      "The original narrow-gauge route climbed directly over Tennessee Pass, creating a difficult mountain crossing that demanded careful railroad operation.",
+      "The 1890 tunnel reduced the elevation of the crossing, while the 1945 bore reflected another major modernization of a route carrying increasingly heavy trains.",
+      "The west side toward Minturn became famous for steep grades and helper operations. Extra locomotives were used to move heavy freight over the pass, linking the summit closely with the Minturn railroad yard.",
+      "The dormant railroad, tunnel portal, old grades, and summit landscape preserve the engineering story of more than a century of attempts to move rail traffic efficiently across the Continental Divide."
+    ],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.35927,
+      "longitude": -106.31232
+    },
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true,
+    "mediaNotice": "Historic image not available"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GUNNISON-SHEEP-MOUNTAIN-TUNNEL",
+  "countySlug": "gunnison",
+  "countyPack": "packs/canonical/colorado-gunnison.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.330Z",
+  "manifest": {
+    "id": "colorado-gunnison",
+    "county": "Gunnison County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gunnison.json",
+    "siteCount": 15,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 15
+  },
+  "site": {
+    "id": "CO-GUNNISON-SHEEP-MOUNTAIN-TUNNEL",
+    "name": "Sheep Mountain Tunnel",
+    "location": "Crystal / Marble mining area",
+    "county": "Gunnison County",
+    "category": "Historic Mine Tunnel",
+    "componentType": "Adit / Portal",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Sheep Mountain Tunnel was a major Crystal-area mining venture directly tied to the powerhouse now known as Crystal Mill."
+    ],
+    "timeline": [
+      {
+        "year": "1890s",
+        "text": "The Sheep Mountain Tunnel and Mining Company developed the tunnel and used the nearby powerhouse to support underground drilling and ventilation."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.0603,
+      "longitude": -107.0992
+    }
+  }
+}

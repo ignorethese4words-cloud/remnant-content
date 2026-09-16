@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-IDAHO-MINE",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "101",
+  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
+  "verifiedAt": "2026-09-16T00:23:17.305Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "101",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 102,
+    "exploreSiteCount": 39,
+    "idOnlySiteCount": 63
+  },
+  "site": {
+    "id": "CO-BOULDER-IDAHO-MINE",
+    "name": "Idaho Mine",
+    "location": "Caribou Mining District / Idaho Hill",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-13T20:20:00-06:00",
+    "overview": [
+      "Idaho Mine is a documented early silver and gold mine in Boulder County's Caribou Mining District.",
+      "Federal reports record rich silver shipments beginning in 1870 and later describe the Idaho vein, shaft and tunnel workings on Idaho Hill."
+    ],
+    "timeline": [
+      {
+        "year": "1870",
+        "text": "The Idaho was among the veins discovered during the first Caribou silver rush; recorded ore shipments to Black Hawk included very high-grade silver lots."
+      },
+      {
+        "year": "1883",
+        "text": "Historical reporting described an Idaho shaft about 180 feet deep and estimated cumulative production at roughly $7,000 by that date."
+      },
+      {
+        "year": "1898",
+        "text": "The mine was still operating during a period when many silver properties were closed, suggesting that gold contributed materially to the ore value."
+      }
+    ],
+    "moreHistory": [
+      "USGS Professional Paper 94 identifies Idaho as one of the Caribou-area mines operating during the district's rapid 1870s development and preserves assay information for its early silver shipments.",
+      "USGS Bulletin 1030-N places the Idaho mine 400 feet east-southeast of the Silver Point mine and describes a vertical vein reached in the Idaho Tunnel at about 300 feet depth.",
+      "For identification, an approximate mine-level point near 39.981234, -105.574789 is derived from the federal 400-foot east-southeast relation to the USGS/GNIS-mapped Silver Point Mine. It is a historical locality anchor, not a claim that a surviving shaft collar has been field surveyed."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.981234,
+      "longitude": -105.574789
+    },
+    "sourceReferences": [
+      {
+        "title": "U.S. Geological Survey Professional Paper 94 — Economic Geology of Gilpin County and Adjacent Parts of Clear Creek and Boulder Counties, Colorado",
+        "url": "https://pubs.usgs.gov/pp/0094/report.pdf"
+      },
+      {
+        "title": "U.S. Geological Survey Bulletin 1030-N — Geology and Uranium Deposits of the Caribou Area, Boulder County, Colorado",
+        "url": "https://pubs.usgs.gov/bul/1030n/report.pdf"
+      },
+      {
+        "title": "USGS/GNIS-derived Silver Point Mine topographic record",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/silver-point-mine-181100/"
+      }
+    ]
+  }
+}

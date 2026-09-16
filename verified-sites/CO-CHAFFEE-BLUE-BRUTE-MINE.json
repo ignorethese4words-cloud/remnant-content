@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-BLUE-BRUTE-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.313Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-BLUE-BRUTE-MINE",
+    "name": "Blue Brute Mine",
+    "location": "Turret Mining District",
+    "county": "Chaffee County",
+    "category": "Surface Mine / Open Cuts",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Blue Brute is a documented Turret-district beryllium prospect and mine property with two recorded open cuts. The mapped historic working area provides a defensible Basic Scan anchor without asserting current cut condition."
+    ],
+    "timeline": [
+      {
+        "year": "Mid-20th-century exploration era",
+        "text": "Federal DMEA and MRDS records preserve the Blue Brute claims, associated names, and documented open-cut workings."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.62139,
+      "longitude": -105.96559
+    }
+  }
+}

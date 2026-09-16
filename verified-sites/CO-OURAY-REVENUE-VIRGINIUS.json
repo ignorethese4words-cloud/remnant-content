@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-REVENUE-VIRGINIUS",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.351Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-REVENUE-VIRGINIUS",
+    "name": "Revenue–Virginius Mine & Mill Complex",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mine / Mill / Tunnel / Mining Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B434=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B434&\"\" \"\"&$C434),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&\"&\"$C434),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B434&\"\" \"\"&$C434),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C434<>\"\"\"\",$C434,\"\"Historic Site\"\")))\"),\"Adit / Portal\")",
+    "overview": [
+      "The Revenue–Virginius complex joined high-elevation silver-rich workings in Governor Basin to a lower haulage tunnel and mill near Sneffels.",
+      "Mining began in the 1870s, and Albert Reynolds later developed the long Revenue Tunnel so ore from the Virginius system could move by gravity toward the mill rather than being hoisted entirely through the upper workings."
+    ],
+    "timeline": [
+      {
+        "year": "1893",
+        "text": "The operation survived the 1893 silver crash, labor conflict, accidents, and a 1906 underground fire."
+      },
+      {
+        "year": "1906",
+        "text": "The operation survived the 1893 silver crash, labor conflict, accidents, and a 1906 underground fire."
+      },
+      {
+        "year": "1916",
+        "text": "The historic mill was destroyed around 1916, although some later accounts place the fire closer to 1920; the discrepancy remains explicit."
+      },
+      {
+        "year": "1920",
+        "text": "The historic mill was destroyed around 1916, although some later accounts place the fire closer to 1920; the discrepancy remains explicit."
+      },
+      {
+        "year": "1880",
+        "text": "Published production figures conflict in scope: the 14.5-million-ounce figure applies to the Virginius deposit for 1880–1912, while larger totals reported elsewhere appear to describe the broader Revenue–Virginius operation."
+      }
+    ],
+    "moreHistory": [
+      "The operation survived the 1893 silver crash, labor conflict, accidents, and a 1906 underground fire.",
+      "The historic mill was destroyed around 1916, although some later accounts place the fire closer to 1920; the discrepancy remains explicit.",
+      "Later owners repeatedly explored or rehabilitated the property, and modern reports document renewed underground development and milling infrastructure.",
+      "Silver was the principal product, with gold, lead, zinc, and copper also present.",
+      "Published production figures conflict in scope: the 14.5-million-ounce figure applies to the Virginius deposit for 1880–1912, while larger totals reported elsewhere appear to describe the broader Revenue–Virginius operation."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

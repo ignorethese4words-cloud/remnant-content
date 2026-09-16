@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-DELAY-ADIT-LLOYD-SHAFT",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.315Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-DELAY-ADIT-LLOYD-SHAFT",
+    "name": "Delay Adit and Lloyd Shaft",
+    "location": "Browns Canyon Fluorspar District",
+    "county": "Chaffee County",
+    "category": "Adit / Shaft / Prospect Complex",
+    "componentType": "Shaft / Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Delay Adit and Lloyd Shaft are linked but distinct historic workings in the Browns Canyon fluorspar district. Federal mapping provides a defensible site-level anchor for the combined working complex."
+    ],
+    "timeline": [
+      {
+        "year": "Historic fluorspar era",
+        "text": "USGS Professional Paper 626 separately maps the Delay Adit and Lloyd Shaft workings within the Browns Canyon district."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.64167,
+      "longitude": -106.07417
+    }
+  }
+}

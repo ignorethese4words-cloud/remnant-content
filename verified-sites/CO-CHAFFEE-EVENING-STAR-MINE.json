@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-EVENING-STAR-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.316Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-EVENING-STAR-MINE",
+    "name": "Evening Star Mine (Chaffee County)",
+    "location": "Monarch Hill",
+    "county": "Chaffee County",
+    "category": "Underground Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Evening Star is a documented Monarch Hill mine with shaft, adit and extensive underground workings."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.54155,
+      "longitude": -106.29716
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-BANCROFT",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.313Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-BANCROFT",
+    "name": "Bancroft",
+    "location": "Nathrop quadrangle / Chaffee County",
+    "county": "Chaffee County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Bancroft Mine is a distinct named USGS mine feature. The nearby Bancroft Incline is a separate mapped feature and is not conflated with this Basic Scan target."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "USGS 1:24,000 mapping preserves Bancroft Mine as a distinct Chaffee County mine locality."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.644719,
+      "longitude": -106.080849
+    }
+  }
+}

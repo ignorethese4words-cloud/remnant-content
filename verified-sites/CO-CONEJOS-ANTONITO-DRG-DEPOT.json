@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CONEJOS-ANTONITO-DRG-DEPOT",
+  "countySlug": "conejos",
+  "countyPack": "packs/canonical/colorado-conejos.json",
+  "packVersion": "4",
+  "packGeneratedAt": "2026-09-12T17:52:33.137Z",
+  "verifiedAt": "2026-09-16T00:23:17.322Z",
+  "manifest": {
+    "id": "colorado-conejos",
+    "county": "Conejos County",
+    "state": "Colorado",
+    "version": "4",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-conejos.json",
+    "siteCount": 2,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-CONEJOS-ANTONITO-DRG-DEPOT",
+    "name": "Denver & Rio Grande Railroad Antonito Depot",
+    "location": "Front Street, Antonito",
+    "county": "Conejos County",
+    "category": "Railroad Depot",
+    "componentType": "Railroad Depot",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "A surviving 1880 Denver & Rio Grande masonry depot in Antonito."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 37.07005,
+      "longitude": -106.012083
+    }
+  }
+}

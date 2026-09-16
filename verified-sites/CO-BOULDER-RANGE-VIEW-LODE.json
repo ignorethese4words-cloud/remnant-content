@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-RANGE-VIEW-LODE",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "101",
+  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
+  "verifiedAt": "2026-09-16T00:23:17.298Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "101",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 102,
+    "exploreSiteCount": 39,
+    "idOnlySiteCount": 63
+  },
+  "site": {
+    "id": "CO-BOULDER-RANGE-VIEW-LODE",
+    "name": "Range View Lode Mining Claim",
+    "location": "Gordon Gulch",
+    "county": "Boulder County",
+    "category": "Historic Mine / Lode",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Historic tungsten property with documented workings and DMEA-era development."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 40.008042,
+      "longitude": -105.444718
+    }
+  }
+}

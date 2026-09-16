@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-RED-MOUNTAIN-TOLL-ROAD",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.351Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-RED-MOUNTAIN-TOLL-ROAD",
+    "name": "Ouray–Red Mountain Toll Road / Otto Mears Toll Road",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Historic Transportation / Mining Infrastructure",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B430=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B430&\"\" \"\"&$C430),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&\"&\"$C430),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B430&\"\" \"\"&$C430),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C430<>\"\"\"\",$C430,\"\"Historic Site\"\")))\"),\"Historic Route\")",
+    "overview": [
+      "The Ouray–Red Mountain Toll Road was a major wagon-road and stage corridor built through the San Juan mining country under the transportation network associated with Otto Mears.",
+      "Construction proceeded in stages during the early 1880s; Fort Lewis College’s Red Mountain Project records completion of the wagon-road connection serving Ouray, the Red Mountain district, and Silverton in 1885."
+    ],
+    "timeline": [
+      {
+        "year": "1885",
+        "text": "Construction proceeded in stages during the early 1880s; Fort Lewis College’s Red Mountain Project records completion of the wagon-road connection serving Ouray, the Red Mountain district, and Silverton in 1885."
+      },
+      {
+        "year": "1896",
+        "text": "The Library of Congress preserves a period photograph, dated between 1896 and 1910, showing the toll gate near Bear Creek Falls between Ouray and Red Mountain."
+      },
+      {
+        "year": "1910",
+        "text": "The Library of Congress preserves a period photograph, dated between 1896 and 1910, showing the toll gate near Bear Creek Falls between Ouray and Red Mountain."
+      },
+      {
+        "year": "1883",
+        "text": "The exact 1883–1885 construction sequence remains a recorded non-blocking uncertainty."
+      }
+    ],
+    "moreHistory": [
+      "The road carried passengers, supplies, machinery, and ore between Ouray, Ironton, Red Mountain, and regional markets before and alongside the district’s railroad development.",
+      "The Library of Congress preserves a period photograph, dated between 1896 and 1910, showing the toll gate near Bear Creek Falls between Ouray and Red Mountain.",
+      "Much of the corridor was later altered, overlaid, or replaced during state and federal highway development and is now closely associated with U.S.",
+      "550 and the Million Dollar Highway.",
+      "Surviving identification features include rock-cut grades, fragments of earlier roadbed and alignment, retaining or engineering features, and the broader toll-road landscape; modern pavement should not automatically be labeled as untouched nineteenth-century construction."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

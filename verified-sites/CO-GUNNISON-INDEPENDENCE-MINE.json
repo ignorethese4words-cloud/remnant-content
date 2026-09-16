@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GUNNISON-INDEPENDENCE-MINE",
+  "countySlug": "gunnison",
+  "countyPack": "packs/canonical/colorado-gunnison.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.329Z",
+  "manifest": {
+    "id": "colorado-gunnison",
+    "county": "Gunnison County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gunnison.json",
+    "siteCount": 15,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 15
+  },
+  "site": {
+    "id": "CO-GUNNISON-INDEPENDENCE-MINE",
+    "name": "Independence Mine",
+    "location": "Box Canyon Mining District",
+    "county": "Gunnison County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Independence is a principal Box Canyon district gold mine. USGS reporting documents an approximately 80-foot shaft and two lower tunnels beneath the original ore lens, with later district records showing renewed 1930s production."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "USGS Bulletin 380 and later Colorado district records document shaft-and-tunnel development and subsequent production at the Independence mine."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.576667,
+      "longitude": -106.506667
+    }
+  }
+}

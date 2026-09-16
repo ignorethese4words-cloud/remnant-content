@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-GRAND-REPUBLIC-MINE",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "101",
+  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
+  "verifiedAt": "2026-09-16T00:23:17.308Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "101",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 102,
+    "exploreSiteCount": 39,
+    "idOnlySiteCount": 63
+  },
+  "site": {
+    "id": "CO-BOULDER-GRAND-REPUBLIC-MINE",
+    "name": "Grand Republic Mine",
+    "location": "Sunshine Gulch / Gold Hill Mining District",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-14T05:55:00Z",
+    "overview": [
+      "Grand Republic Mine is a documented historic gold-, silver-, and tungsten-producing mine in Sunshine Gulch southeast of Gold Hill.",
+      "Federal and Colorado mining records describe substantial underground development and production, making the site suitable for fuller visitor history rather than identification-only treatment."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "The Grand Republic was developed in the Gold Hill district as a precious-metal mine with an adit, inclined shaft, and multiple drift levels."
+      },
+      {
+        "year": "Early 20th century documentation",
+        "text": "Gold Hill district reporting recorded broad low-grade gold ore bodies at the Grand Republic and identified the mine among the district's established workings."
+      },
+      {
+        "year": "1949",
+        "text": "A U.S. Geological Survey examination documented the surface area and mine dumps; the underground workings were inaccessible during that visit."
+      }
+    ],
+    "moreHistory": [
+      "USGS Trace Elements Investigations Report 59 places the Grand Republic in Sunshine Gulch about 2.75 miles southeast of Gold Hill and summarizes earlier federal work on the property.",
+      "The federal description credits the mine with more than $100,000 in chiefly gold-and-silver output and more than $80,000 in tungsten ore, while documenting about 2,000 feet of workings developed by an adit, inclined shaft, and drifts on several levels.",
+      "Gold Hill district geologic reporting also records wide low-grade gold ore bodies at the Grand Republic. The mapped mine-level coordinate is used for identification; Remnant does not claim that it is a field-surveyed surviving portal or shaft collar."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.0341527,
+      "longitude": -105.3774936
+    },
+    "sourceReferences": [
+      {
+        "title": "U.S. Geological Survey Trace Elements Investigations Report 59 — Grand Republic mine",
+        "url": "https://pubs.usgs.gov/tei/059/report.pdf",
+        "note": "Federal source locating the mine in Sunshine Gulch and summarizing production, workings, geology, and the 1949 examination."
+      },
+      {
+        "title": "Goddard — Preliminary report on the Gold Hill mining district, Boulder County, Colorado",
+        "url": "https://coloscisoc.org/wp-content/uploads/2020/05/CSS_Proc_v14_pp123-139_Gold_Hill-Goddard-pt2.pdf",
+        "note": "District geologic report with site-specific Grand Republic ore-grade and mine references."
+      },
+      {
+        "title": "USGS-derived Gold Hill quadrangle record — Grand Republic Mine",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/grand-republic-mine-178598/",
+        "note": "Preserves the named Boulder County mine feature and mapped mine-level coordinates."
+      }
+    ]
+  }
+}

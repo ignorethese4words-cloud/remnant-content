@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-CRYSTAL-NO-8-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.315Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-CRYSTAL-NO-8-MINE",
+    "name": "Crystal No. 8 Mine",
+    "location": "Trout Creek Pass area",
+    "county": "Chaffee County",
+    "category": "Open Cut / Adit Mine",
+    "componentType": "Adit / Portal",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Crystal No. 8 is a federally documented pegmatite mine developed by a substantial two-level open cut and short adit."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.83361,
+      "longitude": -106.02556
+    }
+  }
+}

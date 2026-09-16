@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GILPIN-COLORADO-CENTRAL-BRANCH",
+  "countySlug": "gilpin",
+  "countyPack": "packs/canonical/colorado-gilpin.json",
+  "packVersion": "6",
+  "packGeneratedAt": "2026-09-12T17:08:55.284Z",
+  "verifiedAt": "2026-09-16T00:23:17.326Z",
+  "manifest": {
+    "id": "colorado-gilpin",
+    "county": "Gilpin County",
+    "state": "Colorado",
+    "version": "6",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gilpin.json",
+    "siteCount": 12,
+    "exploreSiteCount": 2,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-GILPIN-COLORADO-CENTRAL-BRANCH",
+    "name": "Colorado Central / C&S Black Hawk–Central City Railroad Complex",
+    "location": "Black Hawk and Central City, Gilpin County, Colorado",
+    "county": "Gilpin County",
+    "category": "Railroad / Historic Transportation",
+    "componentType": "Railroad Feature",
+    "overview": [
+      "The Colorado Central and later Colorado & Southern railroad linked Black Hawk and Central City through a distinctive switchback route. Existing research supports the surviving right-of-way and railroad service structures as a basic Scan identity."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

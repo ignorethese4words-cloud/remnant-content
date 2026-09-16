@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CLEAR-CREEK-BULLION-KING-MINE",
+  "countySlug": "clear-creek",
+  "countyPack": "packs/canonical/colorado-clear-creek.json",
+  "packVersion": "97",
+  "packGeneratedAt": "2026-09-12T23:00:31.832Z",
+  "verifiedAt": "2026-09-16T00:23:17.321Z",
+  "manifest": {
+    "id": "colorado-clear-creek",
+    "county": "Clear Creek County",
+    "state": "Colorado",
+    "version": "97",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-clear-creek.json",
+    "siteCount": 17,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 16
+  },
+  "site": {
+    "id": "CO-CLEAR-CREEK-BULLION-KING-MINE",
+    "name": "Bullion King Mine",
+    "location": "Idaho Springs district",
+    "county": "Clear Creek County",
+    "category": "Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Bullion King, also recorded as Mayflower, is a documented underground gold-polymetallic past producer in Clear Creek County. Federal records preserve the alias relationship, mapped entrance, 1902–1906 production period, and commodity mix for a defensible Basic Scan record."
+    ],
+    "timeline": [
+      {
+        "year": "1902–1906",
+        "text": "Federal records document production at the Bullion King/Mayflower property during this period."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.74166,
+      "longitude": -105.54587
+    }
+  }
+}

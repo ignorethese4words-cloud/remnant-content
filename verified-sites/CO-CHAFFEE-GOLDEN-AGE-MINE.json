@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-GOLDEN-AGE-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.316Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-GOLDEN-AGE-MINE",
+    "name": "Golden Age Mine",
+    "location": "Monarch Mining District",
+    "county": "Chaffee County",
+    "category": "Underground Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Golden Age is a documented Monarch-district silver-lead mine with state and federal source support. USGS-derived topographic mapping provides a stable Basic Scan anchor."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "Colorado Geological Survey and USGS records preserve Golden Age as a named Monarch-district producer."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.5716636,
+      "longitude": -106.2978012
+    }
+  }
+}

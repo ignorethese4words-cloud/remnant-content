@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-THIRTY-SIX-THIRTY-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.319Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-THIRTY-SIX-THIRTY-MINE",
+    "name": "Thirty-Six-Thirty Mine",
+    "location": "Garfield quadrangle",
+    "county": "Chaffee County",
+    "category": "Underground Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Thirty-Six-Thirty is a named Chaffee County lead-silver mine preserved in state and federal mine records. USGS topographic place mapping provides a stable Basic Scan anchor."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "Colorado Geological Survey and federal records preserve Thirty-Six-Thirty as an underground lead-silver producer."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.6233299,
+      "longitude": -106.3150236
+    }
+  }
+}

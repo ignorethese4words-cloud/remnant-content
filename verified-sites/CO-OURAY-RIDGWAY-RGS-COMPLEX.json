@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-RIDGWAY-RGS-COMPLEX",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.352Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-RIDGWAY-RGS-COMPLEX",
+    "name": "Ridgway Rio Grande Southern Railroad Yard & Depot Complex",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Railroad / Industrial Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B435=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B435&\"\" \"\"&$C435),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&\"&\"$C435),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B435&\"\" \"\"&$C435),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C435<>\"\"\"\",$C435,\"\"Historic Site\"\")))\"),\"Railroad Depot\")",
+    "overview": [
+      "Ridgway was the headquarters and northern terminal of the Rio Grande Southern, which began building from the town around 1890 toward Telluride, Ophir, Rico, and Durango.",
+      "The historic operating complex combined a passenger-and-freight depot, corporate and dispatch functions, a five-bay roundhouse, 50-foot turntable, boiler house, coaling structures, blacksmith and paint shops, sand and ice houses, and associated yard tracks."
+    ],
+    "timeline": [
+      {
+        "year": "1890",
+        "text": "Ridgway was the headquarters and northern terminal of the Rio Grande Southern, which began building from the town around 1890 toward Telluride, Ophir, Rico, and Durango."
+      }
+    ],
+    "moreHistory": [
+      "The original depot survives after relocation, while the present museum area includes modern interpretive or reconstructed railroad features that must not be described as entirely original 1890 fabric.",
+      "Treat the yard, shops, roundhouse footprint, moved depot, and museum interpretation as related but distinct components.",
+      "No cleared period overview image is confirmed; use the approved 'Historic image not available' placeholder rather than museum-controlled archival imagery."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

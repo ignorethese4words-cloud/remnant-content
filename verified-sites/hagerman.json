@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "hagerman",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
+  "verifiedAt": "2026-09-16T00:23:17.333Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 19,
+    "exploreSiteCount": 15,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "hagerman",
+    "name": "Hagerman Trestle",
+    "location": "Hagerman Pass / Leadville",
+    "county": "Lake County",
+    "category": "Railroad",
+    "componentType": "Trestle",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "The Hagerman Trestle was part of the Colorado Midland railroad’s difficult high-elevation route across the mountains west of Leadville. The railroad landscape around Hagerman Pass required major engineering works to overcome steep grades, snow, and rugged terrain.",
+      "The trestle should be understood as one component of the broader Colorado Midland route rather than as an isolated structure."
+    ],
+    "timeline": [
+      {
+        "year": "1880s",
+        "text": "The Colorado Midland developed its high-country route west of Leadville as part of the railroad’s push across the Continental Divide."
+      },
+      {
+        "year": "Railroad era",
+        "text": "Large timber trestles, cuts, grades, snow-control work, and tunnel infrastructure were used to carry trains through the Hagerman Pass landscape."
+      },
+      {
+        "year": "1890s",
+        "text": "Period imagery documented the dramatic railroad engineering around Hagerman Pass, including trestle and snow-operation scenes."
+      },
+      {
+        "year": "After abandonment",
+        "text": "The original railroad infrastructure fell out of use, but portions of the grade and structural remains continued to mark the former route."
+      },
+      {
+        "year": "Today",
+        "text": "The surviving railroad landscape helps interpret the engineering challenge of operating a mountain railroad at very high elevation."
+      }
+    ],
+    "moreHistory": [
+      "Hagerman Pass presented severe operating problems: heavy winter snow, steep mountain terrain, high elevation, and the need to maintain a workable railroad grade.",
+      "The trestle was one of several engineering elements in the route. Tunnel approaches, grade, cuts, fills, snow-control operations, and other structures should be interpreted as related components.",
+      "The Library of Congress preserves a rights-cleared historical image of Colorado Midland snow-plow operations at Hagerman Pass. That image provides operating-era railroad context, but it should not be captioned as a direct photograph of the trestle unless the structure is actually shown.",
+      "A separate W.H. Jackson catalog reference documents that a trestle-specific historical view existed, further supporting the importance of the structure within the Hagerman route."
+    ],
+    "displayImages": [],
+    "features": [
+      {
+        "id": "hag-trestle",
+        "name": "Hagerman Trestle",
+        "type": "Railroad Structure",
+        "confidence": "Confirmed",
+        "note": "A major timber railroad structure associated with the Colorado Midland mountain route."
+      },
+      {
+        "id": "hag-grade",
+        "name": "Colorado Midland Grade",
+        "type": "Railroad Grade",
+        "confidence": "Confirmed",
+        "note": "The trestle is part of the broader high-elevation railroad grade."
+      },
+      {
+        "id": "hag-snow",
+        "name": "Snow-Operation Landscape",
+        "type": "Railroad Operations",
+        "confidence": "Confirmed",
+        "note": "Historic imagery documents the extreme snow conditions faced by railroad crews at Hagerman Pass."
+      }
+    ],
+    "mediaNotice": "Historic image not available"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LINCOLN-HUGO-UP-ROUNDHOUSE",
+  "countySlug": "lincoln",
+  "countyPack": "packs/canonical/colorado-lincoln.json",
+  "packVersion": "4",
+  "packGeneratedAt": "2026-09-14T18:43:18.527Z",
+  "verifiedAt": "2026-09-16T00:23:17.336Z",
+  "manifest": {
+    "id": "colorado-lincoln",
+    "county": "Lincoln County",
+    "state": "Colorado",
+    "version": "4",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lincoln.json",
+    "siteCount": 1,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-LINCOLN-HUGO-UP-ROUNDHOUSE",
+    "name": "Hugo Union Pacific Railroad Roundhouse",
+    "location": "Hugo",
+    "county": "Lincoln County",
+    "state": "Colorado",
+    "category": "Railroad Maintenance Complex",
+    "componentType": "Railroad Feature",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-14T13:13:08Z",
+    "overview": [
+      "The Hugo Union Pacific Railroad Roundhouse is a surviving railroad-maintenance building on Colorado's eastern plains. Built in 1909, it supported locomotive servicing at Hugo on the former Kansas Pacific route that became part of the Union Pacific system.",
+      "The brick roundhouse is a rare surviving example of this building type in Colorado and remains closely tied to Hugo's history as a railroad division and service point."
+    ],
+    "timeline": [
+      {
+        "year": "1909",
+        "text": "The present Hugo roundhouse was constructed to service locomotives at the Hugo railroad division point."
+      },
+      {
+        "year": "1909–early 1950s",
+        "text": "The roundhouse served railroad operations at Hugo for decades as passenger and freight traffic moved across eastern Colorado."
+      },
+      {
+        "year": "1997",
+        "text": "The property was listed in the Colorado State Register of Historic Properties."
+      },
+      {
+        "year": "2002",
+        "text": "Colorado Preservation, Inc. listed the roundhouse among Colorado's Most Endangered Places, beginning a long-running preservation effort."
+      },
+      {
+        "year": "21st century",
+        "text": "Preservation work has repaired major structural damage and restored portions of the roof, windows, doors, and masonry while the building remains a prominent historic landmark in Hugo."
+      }
+    ],
+    "moreHistory": [
+      "History Colorado identifies the property as site 5LN.195 and gives a stable mapped location in Hugo. Its significance comes from its association with Union Pacific railroad operation and maintenance in eastern Colorado.",
+      "Preservation sources describe the roundhouse as an unusually intact surviving railroad roundhouse. Its eight-stall form and brick construction preserve the physical layout of a facility built for servicing steam-era locomotives.",
+      "The roundhouse was part of a larger railroad-service landscape that once included a turntable and other support facilities. The surviving building should therefore be understood as the principal remnant of a broader railroad-maintenance complex rather than as an isolated structure."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.133785,
+      "longitude": -103.474544
+    },
+    "sourceReferences": [
+      {
+        "title": "Hugo Union Pacific Railroad Roundhouse 5LN.195 — History Colorado",
+        "url": "https://www.historycolorado.org/taxonomy/term/2853",
+        "note": "State historic-property record confirming the 1909 roundhouse, railroad association, and mapped coordinates."
+      },
+      {
+        "title": "Hugo Roundhouse — Colorado Preservation, Inc.",
+        "url": "https://www.coloradopreservation.org/endangered-places/endangered-places-archives/hugo-roundhouse/",
+        "note": "Preservation history, construction date, significance, and rehabilitation context."
+      },
+      {
+        "title": "Hugo Roundhouse Timeline — Roundhouse Preservation, Inc.",
+        "url": "https://www.hugo-roundhouse.org/timeline",
+        "note": "Site-specific operating chronology and architectural context from the preservation organization."
+      }
+    ],
+    "features": [
+      {
+        "id": "hugo-roundhouse-building",
+        "name": "Eight-stall brick roundhouse",
+        "type": "Railroad Roundhouse",
+        "confidence": "Confirmed",
+        "note": "The surviving roundhouse is the principal historic structure at the site."
+      }
+    ]
+  }
+}

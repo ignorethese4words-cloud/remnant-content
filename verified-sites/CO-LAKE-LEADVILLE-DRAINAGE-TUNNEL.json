@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LAKE-LEADVILLE-DRAINAGE-TUNNEL",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
+  "verifiedAt": "2026-09-16T00:23:17.333Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 19,
+    "exploreSiteCount": 15,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "CO-LAKE-LEADVILLE-DRAINAGE-TUNNEL",
+    "name": "Leadville Mine Drainage Tunnel / LMDT",
+    "location": "Leadville mining district",
+    "county": "Lake County",
+    "category": "Mining Infrastructure / Federal Engineering / Environmental History",
+    "componentType": "Two-Mile Mine-Drainage Tunnel / Treatment-Plant System",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "The Leadville Mine Drainage Tunnel is a major federal engineering feature built beneath the Leadville mining district to lower groundwater in underground workings and improve access to mineral reserves. It later became a central part of the district’s water-treatment and environmental history.",
+      "The tunnel, outlet, treatment plant, connected mine workings, and monitoring locations are related components and should not be treated as a single visible structure."
+    ],
+    "timeline": [
+      {
+        "year": "1943–1945",
+        "text": "The U.S. Bureau of Mines constructed the first section of the tunnel during World War II to drain mine workings and improve mineral access."
+      },
+      {
+        "year": "1950–1952",
+        "text": "The tunnel was extended during renewed Korean War demand for metals."
+      },
+      {
+        "year": "1959",
+        "text": "The U.S. Bureau of Reclamation acquired the tunnel."
+      },
+      {
+        "year": "1992",
+        "text": "A modern treatment plant was commissioned to treat metal-bearing tunnel discharge before it entered the Arkansas River headwaters."
+      },
+      {
+        "year": "Today",
+        "text": "The tunnel and treatment system remain important parts of the environmental and engineering history of the Leadville district."
+      }
+    ],
+    "moreHistory": [
+      "Federal sources describe the LMDT as approximately two miles long. USGS studies documented substantial lowering of mine-water levels after tunnel drainage began.",
+      "The tunnel was later considered as a possible water source for the Fryingpan-Arkansas Project, but existing water-rights claims prevented that use.",
+      "Because mine drainage contains dissolved metals, treatment of the discharge became a long-term federal responsibility and an important chapter in the post-mining history of the district."
+    ],
+    "displayImages": [],
+    "features": [
+      {
+        "id": "lmdt-tunnel",
+        "name": "Leadville Mine Drainage Tunnel",
+        "type": "Mine Drainage / Engineering",
+        "confidence": "Confirmed",
+        "note": "The underground tunnel is the principal drainage feature beneath the historic mining district."
+      },
+      {
+        "id": "lmdt-treatment",
+        "name": "Water Treatment System",
+        "type": "Environmental Infrastructure",
+        "confidence": "Confirmed",
+        "note": "The modern treatment system addresses metal-bearing drainage from the historic mine network."
+      }
+    ],
+    "coordinates": {
+      "latitude": 39.2747115,
+      "longitude": -106.2880795
+    },
+    "mediaNotice": "Historic image not available"
+  }
+}

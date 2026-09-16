@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GRAND-MOFFAT-TUNNEL-WEST-PORTAL",
+  "countySlug": "grand",
+  "countyPack": "packs/canonical/colorado-grand.json",
+  "packVersion": "2",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.328Z",
+  "manifest": {
+    "id": "colorado-grand",
+    "county": "Grand County",
+    "state": "Colorado",
+    "version": "2",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-grand.json",
+    "siteCount": 5,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 5
+  },
+  "site": {
+    "id": "CO-GRAND-MOFFAT-TUNNEL-WEST-PORTAL",
+    "name": "Moffat Tunnel West Portal / West Portal Construction Camp",
+    "location": "Winter Park",
+    "county": "Grand County",
+    "category": "Railroad / Tunnel / Construction Camp",
+    "componentType": "Adit / Portal",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "The Moffat Tunnel West Portal is the verified Grand County western entrance to the historic Moffat railroad tunnel near Winter Park."
+    ],
+    "timeline": [
+      {
+        "year": "1923–1928",
+        "text": "Construction culminated in the completed Moffat Tunnel and railroad service through the Continental Divide."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.8875,
+      "longitude": -105.76222
+    }
+  }
+}

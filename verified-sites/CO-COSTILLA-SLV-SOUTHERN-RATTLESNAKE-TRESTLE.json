@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-COSTILLA-SLV-SOUTHERN-RATTLESNAKE-TRESTLE",
+  "countySlug": "costilla",
+  "countyPack": "packs/canonical/colorado-costilla.json",
+  "packVersion": "5",
+  "packGeneratedAt": "2026-09-13T08:03:28.465Z",
+  "verifiedAt": "2026-09-16T00:23:17.323Z",
+  "manifest": {
+    "id": "colorado-costilla",
+    "county": "Costilla County",
+    "state": "Colorado",
+    "version": "5",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-costilla.json",
+    "siteCount": 2,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-COSTILLA-SLV-SOUTHERN-RATTLESNAKE-TRESTLE",
+    "name": "San Luis Valley Southern Rattlesnake Trestle",
+    "location": "County Road 12, Blanca vicinity",
+    "county": "Costilla County",
+    "state": "Colorado",
+    "category": "Railroad Trestle / Timber Bridge",
+    "componentType": "Bridge / Trestle",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-12T14:49:00-06:00",
+    "overview": [
+      "The San Luis Valley Southern Rattlesnake Trestle is a surviving 1910 timber railroad trestle south of Blanca in Costilla County. It was built to carry the San Luis Valley Southern Railway across Rattlesnake Canyon and is the only remaining trestle from that railroad.",
+      "The structure was later used as a county vehicular crossing before a replacement crossing was built in 1983."
+    ],
+    "timeline": [
+      {
+        "year": "1910",
+        "text": "The trestle was built across Rattlesnake Canyon for the San Luis Valley Southern Railway."
+      },
+      {
+        "year": "1939",
+        "text": "Regular freight and passenger service over the trestle ended."
+      },
+      {
+        "year": "1957",
+        "text": "After abandonment of this portion of the rail line, Costilla County repurposed the trestle as a vehicular bridge."
+      },
+      {
+        "year": "1983",
+        "text": "A replacement crossing was built and the trestle was taken out of vehicular use."
+      },
+      {
+        "year": "2004",
+        "text": "The trestle was listed in the National Register of Historic Places."
+      }
+    ],
+    "moreHistory": [
+      "The trestle is a timber-stringer standard-gauge bridge built as a twelve-span, two-story frame structure across Rattlesnake Canyon. Historic documentation identifies it as one of the most significant surviving physical reminders of the San Luis Valley Southern Railway and of early twentieth-century railroad development tied to agricultural settlement in the region.",
+      "The surviving structure itself remains the principal historic feature at the site."
+    ],
+    "displayImages": [
+      {
+        "id": "slv-rattlesnake-trestle-2012-beall",
+        "title": "San Luis Valley Southern Railway Trestle, 2012",
+        "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/San_Luis_Valley_Southern_Railway_Trestle_(7546995934).jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Luis_Valley_Southern_Railway_Trestle_(7546995934).jpg",
+        "sourceNote": "Modern photograph of the exact San Luis Valley Southern Railway Rattlesnake Trestle near Blanca, photographed June 8, 2012 by Jeffrey Beall.",
+        "rights": "CC BY-SA 2.0 — Jeffrey Beall",
+        "mediaStatus": "PACKAGED"
+      }
+    ],
+    "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+    "coordinates": {
+      "latitude": 37.38667,
+      "longitude": -105.5475
+    },
+    "sourceReferences": [
+      {
+        "title": "History Colorado — San Luis Valley Southern Railway Trestle",
+        "url": "https://historycoloradodev.exemplifi.io/location/san-luis-valley-southern-railway-trestle"
+      },
+      {
+        "title": "National Register of Historic Places — San Luis Southern Railway Trestle nomination",
+        "url": "https://npgallery.nps.gov/GetAsset/fb84a052-a558-4b01-8697-a5f5149065e9"
+      },
+      {
+        "title": "Sangre de Cristo National Heritage Area — Rattlesnake Trestle",
+        "url": "https://sangreheritage.org/historic-peoples-and-places/"
+      },
+      {
+        "title": "Wikimedia Commons — San Luis Valley Southern Railway Trestle (7546995934).jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:San_Luis_Valley_Southern_Railway_Trestle_(7546995934).jpg"
+      }
+    ]
+  }
+}

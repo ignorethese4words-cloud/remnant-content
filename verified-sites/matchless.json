@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "matchless",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
+  "verifiedAt": "2026-09-16T00:23:17.334Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 19,
+    "exploreSiteCount": 15,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "matchless",
+    "name": "Matchless Mine",
+    "location": "Leadville",
+    "county": "Lake County",
+    "category": "Mine",
+    "componentType": "Mine",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "The Matchless Mine is one of Leadville’s best-known historic silver properties, important both for its role in the mining industry and for its association with Horace Tabor and Elizabeth “Baby Doe” Tabor.",
+      "The surviving complex preserves recognizable mine infrastructure that helps explain underground extraction, surface hoisting, ore handling, and support functions."
+    ],
+    "timeline": [
+      {
+        "year": "1879",
+        "text": "The Matchless property became associated with Horace Tabor during Leadville’s rapid silver boom."
+      },
+      {
+        "year": "1880s",
+        "text": "The mine operated during Leadville’s major silver-production era and became part of Tabor’s mining fortune."
+      },
+      {
+        "year": "1893",
+        "text": "The national silver crisis badly damaged Leadville’s silver economy and Tabor’s finances."
+      },
+      {
+        "year": "1899",
+        "text": "Horace Tabor died after the collapse of much of his former fortune."
+      },
+      {
+        "year": "1901–1935",
+        "text": "Baby Doe Tabor remained closely associated with the property."
+      },
+      {
+        "year": "Today",
+        "text": "Surviving mine buildings and equipment make the Matchless one of the most recognizable historic mining complexes in Leadville."
+      }
+    ],
+    "moreHistory": [
+      "History Colorado recognizes the Matchless for both industrial and social significance.",
+      "The complex includes the No. 6 shaft area, headframe and hoisting infrastructure, a powder magazine, cabin, and other surface features.",
+      "The Tabor story turned the mine into a symbol of both the extraordinary wealth and the volatility of Colorado’s silver era.",
+      "Baby Doe’s long association with the property helped preserve the Matchless in public memory well after the mine’s peak industrial period."
+    ],
+    "displayImages": [],
+    "features": [
+      {
+        "id": "match-shaft",
+        "name": "No. 6 Shaft and Headframe Area",
+        "type": "Mine Working",
+        "confidence": "Confirmed",
+        "note": "A central surviving component of the surface complex."
+      },
+      {
+        "id": "match-hoist",
+        "name": "Hoisting Infrastructure",
+        "type": "Mine Machinery / Structure",
+        "confidence": "Confirmed",
+        "note": "The hoisting system illustrates movement between surface and underground workings."
+      },
+      {
+        "id": "match-powder",
+        "name": "Powder Magazine",
+        "type": "Support Structure",
+        "confidence": "Confirmed",
+        "note": "A distinct support component of mine operations."
+      },
+      {
+        "id": "match-cabin",
+        "name": "Historic Cabin",
+        "type": "Support / Residential Structure",
+        "confidence": "Confirmed",
+        "note": "The cabin contributes to the social history of the property and its Tabor association."
+      }
+    ],
+    "mediaNotice": "Historic image not available"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-IRONTON",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.350Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-IRONTON",
+    "name": "Ironton Mining Town",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mining Town",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B424=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B424&\"\" \"\"&$C424),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&\"&\"$C424),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B424&\"\" \"\"&$C424),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C424<>\"\"\"\",$C424,\"\"Historic Site\"\")))\"),\"Town / Camp\")",
+    "overview": [
+      "Core research complete.",
+      "Ouray County Historical Society documentation establishes Ironton’s March 1883 founding, more than 100 buildings constructed in 1883, seasonal mid-1880s population of roughly 200 in winter to nearly 1,000 in summer, and its role as the Red Mountain Mining District’s supply and transportation center."
+    ],
+    "timeline": [
+      {
+        "year": "1883",
+        "text": "Ouray County Historical Society documentation establishes Ironton’s March 1883 founding, more than 100 buildings constructed in 1883, seasonal mid-1880s population of roughly 200 in winter to nearly 1,000 in summer, and its role as the Red Mountain Mining District’s supply and transportation center."
+      },
+      {
+        "year": "1889",
+        "text": "Otto Mears’ Silverton Railroad reached the Ironton Valley in 1889; by 1890 the town had a permanent population of about 350, utilities, graded streets, plank walks, school, churches, saloons, and other businesses."
+      },
+      {
+        "year": "1890",
+        "text": "Otto Mears’ Silverton Railroad reached the Ironton Valley in 1889; by 1890 the town had a permanent population of about 350, utilities, graded streets, plank walks, school, churches, saloons, and other businesses."
+      },
+      {
+        "year": "1900",
+        "text": "Silver decline reduced population to 71 in 1900 and 26 in 1910; later district activity revived for base metals and was consolidated under Idarado before closure in 1978."
+      },
+      {
+        "year": "1910",
+        "text": "Silver decline reduced population to 71 in 1900 and 26 in 1910; later district activity revived for base metals and was consolidated under Idarado before closure in 1978."
+      }
+    ],
+    "moreHistory": [
+      "Otto Mears’ Silverton Railroad reached the Ironton Valley in 1889; by 1890 the town had a permanent population of about 350, utilities, graded streets, plank walks, school, churches, saloons, and other businesses.",
+      "Silver decline reduced population to 71 in 1900 and 26 in 1910; later district activity revived for base metals and was consolidated under Idarado before closure in 1978.",
+      "Ouray County records identify several surviving town houses and formal townsite abandonment action in 1975.",
+      "Scan/component safeguard: keep the Ironton residential townsite and vanished northern business district separate from Guston, Red Mountain Town, the Silverton Railroad corridor, Larson Brothers Mine, Idarado workings, and other individual mines.",
+      "Exact business inventory and every building footprint remain non-blocking uncertainties."
+    ],
+    "displayImages": [
+      {
+        "id": "ironton-town-2014",
+        "title": "Ironton townsite",
+        "label": "",
+        "source": {
+          "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ironton_Ghost_Town_COLO.jpg"
+        },
+        "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ironton_Ghost_Town_COLO.jpg",
+        "sourceNote": "John Fowler, 2014, Wikimedia Commons. CC BY 2.0.",
+        "credit": "John Fowler / Wikimedia Commons. CC BY 2.0."
+      },
+      {
+        "id": "ironton-town-2012",
+        "title": "Ironton, Colorado",
+        "label": "",
+        "source": {
+          "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ironton%2C_Colorado_%287575397600%29.jpg"
+        },
+        "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ironton%2C_Colorado_%287575397600%29.jpg",
+        "sourceNote": "John Fowler, 2012, Wikimedia Commons. CC BY 2.0.",
+        "credit": "John Fowler / Wikimedia Commons. CC BY 2.0."
+      },
+      {
+        "id": "ironton-building-2009",
+        "title": "Surviving building at Ironton",
+        "label": "",
+        "source": {
+          "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ironton_Ghost_town_2_%283760576908%29.jpg"
+        },
+        "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ironton_Ghost_town_2_%283760576908%29.jpg",
+        "sourceNote": "Sandy Horvath-Dori, 2009, Wikimedia Commons. CC BY 2.0.",
+        "credit": "Sandy Horvath-Dori / Wikimedia Commons. CC BY 2.0."
+      }
+    ],
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

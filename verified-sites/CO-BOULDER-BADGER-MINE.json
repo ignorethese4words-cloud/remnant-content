@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-BADGER-MINE",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "101",
+  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
+  "verifiedAt": "2026-09-16T00:23:17.311Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "101",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 102,
+    "exploreSiteCount": 39,
+    "idOnlySiteCount": 63
+  },
+  "site": {
+    "id": "CO-BOULDER-BADGER-MINE",
+    "name": "Badger Mine",
+    "location": "Boulder County near Jamestown, Colorado",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-14T22:17:05Z",
+    "overview": [
+      "Badger Mine is a documented historic mine locality in Boulder County, mapped near Jamestown on the Boulder USGS quadrangle.",
+      "County archival records identify a Badger mine in Boulder County mining records from the late nineteenth century, while modern Colorado mining records show renewed prospecting activity under the Badger Mine name in 2013."
+    ],
+    "timeline": [
+      {
+        "year": "1880–1895",
+        "text": "Boulder County surveyor records preserved by the Carnegie Library for Local History index a Badger mine in the county's historic mining records."
+      },
+      {
+        "year": "2013",
+        "text": "Colorado's Division of Reclamation, Mining and Safety received a hard-rock prospecting notice for a Boulder County project named Badger Mine, filed as NOI P-2013-019."
+      }
+    ],
+    "moreHistory": [
+      "The mapped mine locality is recorded at approximately 40.10999, -105.35860 and is identified as an inactive fluorine mine in geographic records derived from U.S. Geological Survey mapping.",
+      "Historic source indexing and modern locality databases use differing district labels for Badger Mine, so this entry uses the more certain Boulder County and mapped-site identification rather than presenting a disputed historic district label as settled fact. The coordinate is a site-level identification point and not a statement about current access, ownership, or the condition of individual mine workings."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.1099856,
+      "longitude": -105.358604
+    },
+    "sourceReferences": [
+      {
+        "title": "County ledger",
+        "publisher": "Carnegie Library for Local History, Boulder Public Library District",
+        "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A3396",
+        "note": "Indexes Badger mine among Boulder County historic mining records and preserves the archival county-ledger context."
+      },
+      {
+        "title": "Badger Mine — Notice of Intent P-2013-019",
+        "publisher": "Colorado Division of Reclamation, Mining and Safety",
+        "url": "https://dnrweblink.state.co.us/DRMSSearch/0/edoc/1120068/2016-01-11_PERMIT%20FILE%20-%20P2013019.pdf",
+        "note": "Official state record identifying a Badger Mine prospecting project in Boulder County and documenting modern prospecting activity."
+      },
+      {
+        "title": "Badger Mine Topographic Locality",
+        "publisher": "AnyPlaceAmerica, using U.S. Geological Survey geographic/topographic data",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/badger-mine-1683805/",
+        "note": "Supports the mapped Boulder County mine locality, coordinates, elevation, quadrangle, and inactive fluorine-mine classification."
+      }
+    ]
+  }
+}

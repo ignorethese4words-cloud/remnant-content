@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-COLUMBINE-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.315Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-COLUMBINE-MINE",
+    "name": "Columbine Mine (Chaffee County)",
+    "location": "Granite quadrangle / Chaffee County",
+    "county": "Chaffee County",
+    "category": "Underground Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "The Chaffee County Columbine Mine is independently mapped as a named mine locality. The locality is used for Basic Scan without asserting a surviving open portal or current working condition."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "USGS/GNIS-derived mapping preserves Columbine Mine as a distinct Chaffee County mine locality."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.0327708,
+      "longitude": -106.3597468
+    }
+  }
+}

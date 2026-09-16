@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-CLEORA-NO-2-PROSPECT",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.314Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-CLEORA-NO-2-PROSPECT",
+    "name": "Cleora No. 2 Prospect",
+    "location": "Cleora Mining District / Longfellow Gulch",
+    "county": "Chaffee County",
+    "category": "Adit / Prospect",
+    "componentType": "Adit / Portal",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Cleora No. 2 is a federally documented prospect developed by a 150-foot adit on the east side of Longfellow Gulch. The mapped historic adit location provides a defensible Basic Scan anchor."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "USGS/MRDS documentation records a 150-foot adit at the Cleora No. 2 prospect."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.6575,
+      "longitude": -105.942222
+    }
+  }
+}

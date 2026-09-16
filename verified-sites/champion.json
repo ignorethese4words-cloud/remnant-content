@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "champion",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
+  "verifiedAt": "2026-09-16T00:23:17.333Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 19,
+    "exploreSiteCount": 15,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "champion",
+    "name": "Champion Mill",
+    "location": "Halfmoon Valley / Leadville",
+    "county": "Lake County",
+    "category": "Mill",
+    "componentType": "Mill",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "Champion Mill was the processing end of the Mount Champion mining system west of Leadville. Ore moved from the high-elevation mine to the mill by a long aerial tramway, making the surviving mill, tram towers, and upper mine workings parts of one connected industrial landscape.",
+      "Period mining literature describes the mill at roughly 12,000 feet elevation and the mine above 13,000 feet. The operation treated gold-bearing sulphide ore that could also carry silver, copper, and lead values before concentrates or selected high-grade ore were sent toward Leadville smelters."
+    ],
+    "timeline": [
+      {
+        "year": "1881",
+        "text": "The Mount Champion property was discovered, although substantial development came later."
+      },
+      {
+        "year": "1907",
+        "text": "The Mount Champion Mining Company acquired the property and began major development of the mine, mill, and aerial-tram system."
+      },
+      {
+        "year": "1910",
+        "text": "The Mount Champion Mining Company was incorporated during the period when the operation was being developed into a substantial mine-and-mill complex."
+      },
+      {
+        "year": "1912–1918",
+        "text": "The operation entered its principal production period. The aerial tram carried ore from the high mine workings to the mill in Halfmoon Valley."
+      },
+      {
+        "year": "1917",
+        "text": "Engineering and Mining Journal published a technical account of practice at the Mount Champion mill, documenting the unusually high-elevation operating conditions and the connected mine-to-mill tramway."
+      },
+      {
+        "year": "1918–1919",
+        "text": "Regular production ended as transportation and operating economics made continued shipment and treatment unprofitable."
+      },
+      {
+        "year": "1937–1940",
+        "text": "The property saw a brief later reopening before shutting down again."
+      },
+      {
+        "year": "Today",
+        "text": "The large mill structure and surviving pieces of the aerial-tram landscape remain strong visual evidence of how the remote mine and processing plant functioned together."
+      }
+    ],
+    "moreHistory": [
+      "The Champion site is best understood as a system rather than as one building. The mine occupied the high slopes of Mount Champion, while the mill stood far below in Halfmoon Valley. An aerial tram roughly 6,100 feet long linked the two, allowing ore to move across terrain that would have made wagon haulage extremely difficult.",
+      "A Mining History Association account describes the underground mine as three drift tunnels totaling about 10,000 feet of workings, with roughly thirty men employed underground during the principal operating period. The same account describes sixteen men working at the mill.",
+      "The mill used a multi-stage crushing and concentration process. Documented equipment included jaw and disc crushers, screens, a ball mill and tube mill, classifiers, amalgamating copper plates, a thickener, concentrating tables, an elevator, and additional gravity-concentration equipment. This machinery explains why the surviving structure was so large: it housed a sequence of processing steps rather than a single crusher.",
+      "Ore from the Mount Champion workings contained values chiefly in sulphides. Gold was important, with smaller silver values and occasional copper and lead. Selected high-grade ore could bypass some milling and be shipped toward Leadville smelters, while lower-grade material was concentrated at the mill before shipment.",
+      "The tramway is one of the defining features of the Champion complex. Historical descriptions note that it crossed very high terrain and used numerous wooden towers to carry buckets between the mine and mill. The surviving towers and tram-related remains are therefore not separate curiosities; they are evidence of the transportation system that made the mill practical.",
+      "Champion also illustrates the economic limits of remote high-country mining. Even with mechanized milling and aerial transport, the operation depended on the cost of moving ore and concentrates onward to Leadville. When those costs outweighed the value recovered, the main production period ended.",
+      "For Remnant identification, the mill should remain distinct from the upper Champion Mine workings while still being linked to them as components of the same historic operation. The mill, tramway, and mine tell different parts of the same extraction-to-processing story."
+    ],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.1375,
+      "longitude": -106.503889
+    },
+    "mediaNotice": "Historic image not available"
+  }
+}

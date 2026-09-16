@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-BUCKHORN-TUNNEL",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.314Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-BUCKHORN-TUNNEL",
+    "name": "Buckhorn Tunnel",
+    "location": "Chaffee County",
+    "county": "Chaffee County",
+    "category": "Underground Tunnel / Mine",
+    "componentType": "Adit / Portal",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Buckhorn Tunnel is tied to a specific mapped underground working and federal Mine Map Repository record. The historical tunnel location supports Basic Scan without asserting current portal condition."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "Federal mine-map records preserve Buckhorn Tunnel as a specific underground working in Chaffee County."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.76139,
+      "longitude": -106.39389
+    }
+  }
+}

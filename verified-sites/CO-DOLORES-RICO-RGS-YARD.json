@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-DOLORES-RICO-RGS-YARD",
+  "countySlug": "dolores",
+  "countyPack": "packs/canonical/colorado-dolores.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T01:05:03.470Z",
+  "verifiedAt": "2026-09-16T00:23:17.323Z",
+  "manifest": {
+    "id": "colorado-dolores",
+    "county": "Dolores County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-dolores.json",
+    "siteCount": 9,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "CO-DOLORES-RICO-RGS-YARD",
+    "name": "Rico Rio Grande Southern Railroad Yard & Enginehouse Complex",
+    "location": "Rico, Dolores County, Colorado",
+    "county": "Dolores County",
+    "category": "Railroad / Industrial Archaeological Complex",
+    "componentType": "Railroad Feature",
+    "overview": [
+      "The Rico Rio Grande Southern yard and enginehouse complex served mining traffic through the Rico district. Existing research supports the surviving archaeological railroad landscape as a basic Scan identity."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-ROOSE-TUNNEL",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "101",
+  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
+  "verifiedAt": "2026-09-16T00:23:17.298Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "101",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 102,
+    "exploreSiteCount": 39,
+    "idOnlySiteCount": 63
+  },
+  "site": {
+    "id": "CO-BOULDER-ROOSE-TUNNEL",
+    "name": "Roose Tunnel",
+    "location": "Nederland area",
+    "county": "Boulder County",
+    "category": "Historic Mine Tunnel",
+    "componentType": "Adit / Portal",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Historic named tungsten tunnel represented in federal exploration records and mapped place data."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.96249,
+      "longitude": -105.51166
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-SENORITA",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.352Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-SENORITA",
+    "name": "Señorita Mine / Senorita Mine",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mine",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B436=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B436&\"\" \"\"&$C436),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&\"&\"$C436),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B436&\"\" \"\"&$C436),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C436<>\"\"\"\",$C436,\"\"Historic Site\"\")))\"),\"Mine\")",
+    "overview": [
+      "The Señorita (Senorita) Mine is a distinct underground lead-silver replacement mine in the Paquin Mining District on Carbonate Hill.",
+      "USGS Professional Paper 1753 gives the mine its own plan and sectional mapping, confirming a developed underground system rather than a generic district prospect."
+    ],
+    "timeline": [
+      {
+        "year": "1905",
+        "text": "Archival/maps: USGS PP1753 Plate 7; USGS Bulletin 260 (1905); Burbank 1940 USGS Bulletin 906-E; New Mexico Bureau of Geology mineral-symposium publications; Rosemeyer 2007 Paquin district mineralogy."
+      },
+      {
+        "year": "1940",
+        "text": "Archival/maps: USGS PP1753 Plate 7; USGS Bulletin 260 (1905); Burbank 1940 USGS Bulletin 906-E; New Mexico Bureau of Geology mineral-symposium publications; Rosemeyer 2007 Paquin district mineralogy."
+      },
+      {
+        "year": "2007",
+        "text": "Archival/maps: USGS PP1753 Plate 7; USGS Bulletin 260 (1905); Burbank 1940 USGS Bulletin 906-E; New Mexico Bureau of Geology mineral-symposium publications; Rosemeyer 2007 Paquin district mineralogy."
+      }
+    ],
+    "moreHistory": [
+      "Its primary ore formed as galena- and tetrahedrite-bearing replacement bodies in sedimentary rocks beside steep mineralized veins, with quartz-barite gangue; oxidation later produced a varied suite of secondary copper, lead, zinc, and silver minerals.",
+      "Keep the Señorita separate from the nearby Black Girl and Slide workings and link it to the broader Paquin/Carbonate Hill district only as a parent relationship.",
+      "Public interpretation should identify dumps and the disturbed mine landscape without inventing unverified surviving buildings, workings, production totals, or exact operating dates.",
+      "Do not provide entry guidance or encourage approach to underground openings.",
+      "Historic image not available."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

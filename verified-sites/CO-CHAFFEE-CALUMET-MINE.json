@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-CALUMET-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.314Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-CALUMET-MINE",
+    "name": "Calumet Mine",
+    "location": "Turret / Calumet area",
+    "county": "Chaffee County",
+    "category": "Mine / Shaft / Adit / Open Cuts",
+    "componentType": "Shaft / Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Calumet is a major historic Chaffee County iron mine with extensive documented workings and a strong railroad/company-town history. The federal MRDS main-entrance location provides a defensible Basic Scan anchor."
+    ],
+    "timeline": [
+      {
+        "year": "1881–1899",
+        "text": "Calumet shipped iron ore over the Denver & Rio Grande branch and supplied Colorado Coal and Iron / CF&I before declining ore quality led to closure."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.63737,
+      "longitude": -105.94785
+    }
+  }
+}

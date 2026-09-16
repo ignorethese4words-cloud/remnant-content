@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GUNNISON-AUGUSTA-MINE",
+  "countySlug": "gunnison",
+  "countyPack": "packs/canonical/colorado-gunnison.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.328Z",
+  "manifest": {
+    "id": "colorado-gunnison",
+    "county": "Gunnison County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gunnison.json",
+    "siteCount": 15,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 15
+  },
+  "site": {
+    "id": "CO-GUNNISON-AUGUSTA-MINE",
+    "name": "Augusta Mine",
+    "location": "Poverty Gulch",
+    "county": "Gunnison County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Augusta was the principal Poverty Gulch producer during the 1880s and is preserved as a named mine locality."
+    ],
+    "timeline": [
+      {
+        "year": "1880s",
+        "text": "Augusta operated as a major high-elevation silver-era mine in Poverty Gulch."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.96472,
+      "longitude": -107.09778
+    }
+  }
+}

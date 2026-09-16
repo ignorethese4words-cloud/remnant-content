@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-ROUTT-HAYDEN-DEPOT",
+  "countySlug": "routt",
+  "countyPack": "packs/canonical/colorado-routt.json",
+  "packVersion": "3",
+  "packGeneratedAt": "2026-09-07T20:24:27.192Z",
+  "verifiedAt": "2026-09-16T00:23:17.353Z",
+  "manifest": {
+    "id": "colorado-routt",
+    "county": "Routt County",
+    "state": "Colorado",
+    "version": "3",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-routt.json",
+    "siteCount": 1,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-ROUTT-HAYDEN-DEPOT",
+    "name": "Hayden Denver & Salt Lake Railroad Depot",
+    "location": "300 W. Pearl St., Hayden",
+    "county": "Routt County",
+    "category": "Railroad Depot",
+    "componentType": "Railroad Depot",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "A surviving Denver & Salt Lake Railroad depot in Hayden."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 40.496389,
+      "longitude": -107.26
+    }
+  }
+}

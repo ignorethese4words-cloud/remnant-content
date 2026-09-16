@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "little-jonny",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
+  "verifiedAt": "2026-09-16T00:23:17.333Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 19,
+    "exploreSiteCount": 15,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "little-jonny",
+    "name": "Ibex / Little Jonny Mine",
+    "location": "Breece Hill / Leadville",
+    "county": "Lake County",
+    "category": "Mine",
+    "componentType": "Mine",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "The Little Jonny was a major gold-producing working within the broader Ibex property on Breece Hill in the Leadville district.",
+      "Remnant preserves the relationship between the Little Jonny working and the Ibex property while keeping the individual mine component identifiable."
+    ],
+    "timeline": [
+      {
+        "year": "1890s",
+        "text": "Major development expanded the Ibex / Little Jonny workings during Leadville’s later gold-producing period."
+      },
+      {
+        "year": "1893–1923",
+        "text": "USGS historical mapping records substantial gold production from the Ibex / Little Jonny operation during this period."
+      },
+      {
+        "year": "1898",
+        "text": "Historical records document a Denver & Rio Grande railroad connection serving the Ibex operation."
+      },
+      {
+        "year": "20th century",
+        "text": "The property remained part of the heavily developed Breece Hill mining landscape."
+      }
+    ],
+    "moreHistory": [
+      "USGS and Colorado mining-history sources identify the Little Jonny as a significant gold-development component of the Ibex property.",
+      "The property is also associated with J.J. Brown management in the broader historical record, linking the industrial history of Breece Hill with well-known Leadville personalities.",
+      "The 1898 railroad connection illustrates how large mine properties depended on transportation infrastructure for ore, supplies, and equipment."
+    ],
+    "displayImages": [],
+    "production": {
+      "summary": "Historical federal sources describe substantial gold production from the Ibex / Little Jonny operation between 1893 and 1923. Exact totals should be shown only when a source-specific figure is entered into the registry.",
+      "commodities": [
+        {
+          "name": "Gold",
+          "period": "Substantial production documented for 1893–1923"
+        }
+      ],
+      "note": "The current app text intentionally avoids inventing an exact production total where the registry summary does not provide one."
+    },
+    "mediaNotice": "Historic image not available"
+  }
+}

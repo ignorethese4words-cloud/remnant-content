@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GUNNISON-BLACK-QUEEN-MINE",
+  "countySlug": "gunnison",
+  "countyPack": "packs/canonical/colorado-gunnison.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.329Z",
+  "manifest": {
+    "id": "colorado-gunnison",
+    "county": "Gunnison County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gunnison.json",
+    "siteCount": 15,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 15
+  },
+  "site": {
+    "id": "CO-GUNNISON-BLACK-QUEEN-MINE",
+    "name": "Black Queen Mine",
+    "location": "Crystal / Marble mining area",
+    "county": "Gunnison County",
+    "category": "Historic Mine",
+    "componentType": "Shaft / Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Black Queen was a productive Crystal-area silver mine represented by a documented shaft and related workings."
+    ],
+    "timeline": [
+      {
+        "year": "Late 19th century",
+        "text": "Black Queen formed part of the productive mining landscape serving Crystal and Sheep Mountain."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.04972,
+      "longitude": -107.11694
+    }
+  }
+}

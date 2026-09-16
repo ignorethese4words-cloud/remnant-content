@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LA-PLATA-COLORADO-UTE-POWER-PLANT",
+  "countySlug": "la-plata",
+  "countyPack": "packs/canonical/colorado-la-plata.json",
+  "packVersion": "4",
+  "packGeneratedAt": "2026-09-13T22:03:51.831Z",
+  "verifiedAt": "2026-09-16T00:23:17.332Z",
+  "manifest": {
+    "id": "colorado-la-plata",
+    "county": "La Plata County",
+    "state": "Colorado",
+    "version": "4",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-la-plata.json",
+    "siteCount": 2,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-LA-PLATA-COLORADO-UTE-POWER-PLANT",
+    "name": "Colorado Ute Power Plant / Durango Light & Power Building",
+    "location": "14th St. and Animas River, Durango",
+    "county": "La Plata County",
+    "category": "Historic Power Plant",
+    "componentType": "Power / Industrial",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "A surviving 1893 industrial power plant building in Durango."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 37.278889,
+      "longitude": -107.879722
+    }
+  }
+}

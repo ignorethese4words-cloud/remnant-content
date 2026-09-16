@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GUNNISON-FOREST-HILL-MINE",
+  "countySlug": "gunnison",
+  "countyPack": "packs/canonical/colorado-gunnison.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.329Z",
+  "manifest": {
+    "id": "colorado-gunnison",
+    "county": "Gunnison County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gunnison.json",
+    "siteCount": 15,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 15
+  },
+  "site": {
+    "id": "CO-GUNNISON-FOREST-HILL-MINE",
+    "name": "Forest Hill Mine",
+    "location": "Gunnison County",
+    "county": "Gunnison County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Forest Hill is a documented Gunnison County polymetallic mine with repeated federal exploration work in the 1960s."
+    ],
+    "timeline": [
+      {
+        "year": "1962-1967",
+        "text": "Federal exploration-assistance projects evaluated Forest Hill for precious and base-metal mineralization."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.92333,
+      "longitude": -106.64083
+    }
+  }
+}

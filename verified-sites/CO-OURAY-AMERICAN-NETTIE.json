@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-AMERICAN-NETTIE",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.337Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-AMERICAN-NETTIE",
+    "name": "American Nettie Mine / American-Nettie Group",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mine / Mining Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B323=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B323&\"\" \"\"&$C323),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&\"&\"$C323),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B323&\"\" \"\"&$C323),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C323<>\"\"\"\",$C323,\"\"Historic Site\"\")))\"),\"Mine\")",
+    "overview": [
+      "The American Nettie Mine was one of the defining gold operations of the Ouray–Uncompahgre district.",
+      "USGS district history places the exceptionally rich discovery in 1889 and identifies the American Nettie and adjoining properties as the source of most of the district’s gold, helping sustain Ouray after the 1893 collapse of silver mining."
+    ],
+    "timeline": [
+      {
+        "year": "1889",
+        "text": "USGS district history places the exceptionally rich discovery in 1889 and identifies the American Nettie and adjoining properties as the source of most of the district’s gold, helping sustain Ouray after the 1893 collapse of silver mining."
+      },
+      {
+        "year": "1893",
+        "text": "USGS district history places the exceptionally rich discovery in 1889 and identifies the American Nettie and adjoining properties as the source of most of the district’s gold, helping sustain Ouray after the 1893 collapse of silver mining."
+      },
+      {
+        "year": "1900",
+        "text": "Surviving structures and openings must not be inferred solely from the circa-1900 view."
+      },
+      {
+        "year": "1898",
+        "text": "American-Nettie mine, Ouray,” 1898–1905, LC-DIG-ppmsca-17858; rights advisory states no known restrictions on publication."
+      },
+      {
+        "year": "1905",
+        "text": "American-Nettie mine, Ouray,” 1898–1905, LC-DIG-ppmsca-17858; rights advisory states no known restrictions on publication."
+      }
+    ],
+    "moreHistory": [
+      "USGS Professional Paper 1753 maps the American Nettie Group in dedicated plan and section plates, documenting an extensive underground system on Gold Hill.",
+      "Gold was the principal historic commodity; silver, lead, zinc, and copper also occur in records for the broader group.",
+      "The often-cited roughly 200,000 ounces is a district-wide figure, not a mine-specific lifetime total, and must not be assigned solely to the American Nettie.",
+      "Component safeguard: treat the American Nettie Group as the parent complex; keep individually mapped shafts, adits, tramway features, and adjoining Gold Hill properties as linked components unless claim mapping proves equivalence.",
+      "Surviving structures and openings must not be inferred solely from the circa-1900 view."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

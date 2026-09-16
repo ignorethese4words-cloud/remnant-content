@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GILPIN-GREGORY-BOBTAIL-GUNNELL",
+  "countySlug": "gilpin",
+  "countyPack": "packs/canonical/colorado-gilpin.json",
+  "packVersion": "6",
+  "packGeneratedAt": "2026-09-12T17:08:55.284Z",
+  "verifiedAt": "2026-09-16T00:23:17.327Z",
+  "manifest": {
+    "id": "colorado-gilpin",
+    "county": "Gilpin County",
+    "state": "Colorado",
+    "version": "6",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gilpin.json",
+    "siteCount": 12,
+    "exploreSiteCount": 2,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-GILPIN-GREGORY-BOBTAIL-GUNNELL",
+    "name": "Gregory–Bobtail–Gunnell Gold Discovery & Mine Landscape",
+    "location": "Gregory Gulch area, Gilpin County, Colorado",
+    "county": "Gilpin County",
+    "category": "Mine / Mill / Mining Landscape",
+    "componentType": "Mill / Processing",
+    "overview": [
+      "The Gregory–Bobtail–Gunnell landscape encompasses the documented 1859 hard-rock gold discovery area and major mine, mill, transport, and tailings remains. Existing research supports the landscape as a basic Scan identity."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

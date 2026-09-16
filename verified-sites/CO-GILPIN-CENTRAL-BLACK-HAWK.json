@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GILPIN-CENTRAL-BLACK-HAWK",
+  "countySlug": "gilpin",
+  "countyPack": "packs/canonical/colorado-gilpin.json",
+  "packVersion": "6",
+  "packGeneratedAt": "2026-09-12T17:08:55.284Z",
+  "verifiedAt": "2026-09-16T00:23:17.327Z",
+  "manifest": {
+    "id": "colorado-gilpin",
+    "county": "Gilpin County",
+    "state": "Colorado",
+    "version": "6",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gilpin.json",
+    "siteCount": 12,
+    "exploreSiteCount": 2,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-GILPIN-CENTRAL-BLACK-HAWK",
+    "name": "Central City–Black Hawk Mining District",
+    "location": "Central City, Black Hawk, and Nevadaville, Gilpin County, Colorado",
+    "county": "Gilpin County",
+    "category": "Mining District",
+    "componentType": "Historic District",
+    "overview": [
+      "Central City, Black Hawk, and Nevadaville form the principal surviving settlements of the historic Gregory mining district, where the 1859 gold rush developed into a mature hard-rock mining and milling region.",
+      "The district preserves commercial, residential, civic, mining, milling, and transportation resources. Individual mines, mills, tramways, railroads, and town components remain related but should not be conflated."
+    ],
+    "timeline": [
+      {
+        "year": "1859",
+        "text": "Gold discoveries in Gregory Gulch triggered rapid settlement and the growth of Central City, Black Hawk, Nevadaville, and nearby mining camps."
+      },
+      {
+        "year": "1860s–1870s",
+        "text": "Short-lived placer mining gave way to underground lode mining, while mills, smelters, transportation systems, and substantial town buildings expanded."
+      },
+      {
+        "year": "1859–1918",
+        "text": "The district evolved from boom camps into established industrial towns serving one of the Rocky Mountain West’s most important early mining regions."
+      },
+      {
+        "year": "July 4, 1961",
+        "text": "The Central City–Black Hawk area received National Historic Landmark designation for its nationally important mining-frontier history."
+      },
+      {
+        "year": "Today",
+        "text": "Historic town fabric and surrounding mining landscapes preserve the connected story of extraction, processing, transportation, commerce, and community life."
+      }
+    ],
+    "moreHistory": [
+      "National Park Service documentation treats the district as a prototypical Rocky Mountain mining-frontier settlement. Its significance rests on both the gold industry and the urban communities that supported it.",
+      "Central City, Black Hawk, and Nevadaville developed different roles within the same mining system. Black Hawk concentrated much of the milling and transportation activity, while Central City became a major commercial and civic center; Nevadaville retained its own mining-camp identity.",
+      "The landmark district does not encompass every surviving mine, mill, dump, tramway grade, or railroad feature in the surrounding hills. Remnant therefore preserves major industrial components as linked but distinct records.",
+      "Observe historic buildings and mining remnants only from lawful areas. Mine openings, unstable structures, dumps, and industrial remains may be hazardous and are not entry locations."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "features": [
+      {
+        "id": "gilpin-central-city",
+        "name": "Central City Historic Core",
+        "type": "Mining Town / Commercial and Civic Center",
+        "confidence": "Confirmed",
+        "note": "Substantial historic commercial, civic, residential, and mining-related resources survive within the district."
+      },
+      {
+        "id": "gilpin-black-hawk",
+        "name": "Black Hawk Industrial and Town Core",
+        "type": "Milling / Transportation / Town Landscape",
+        "confidence": "Confirmed",
+        "note": "Historic town fabric and industrial relationships document Black Hawk’s role in milling and transportation."
+      },
+      {
+        "id": "gilpin-nevadaville",
+        "name": "Nevadaville",
+        "type": "Mining Camp / Townsite",
+        "confidence": "Confirmed",
+        "note": "Nevadaville is a distinct settlement component within the larger landmark district and also retains its own Remnant record."
+      }
+    ],
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

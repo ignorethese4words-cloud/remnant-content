@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-EAGLE-HOLY-CROSS-CITY",
+  "countySlug": "eagle",
+  "countyPack": "packs/canonical/colorado-eagle.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-12T21:46:05.195Z",
+  "verifiedAt": "2026-09-16T00:23:17.325Z",
+  "manifest": {
+    "id": "colorado-eagle",
+    "county": "Eagle County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-eagle.json",
+    "siteCount": 10,
+    "exploreSiteCount": 8,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-EAGLE-HOLY-CROSS-CITY",
+    "name": "Holy Cross City Mining Camp & Mill Complex",
+    "location": "Holy Cross Mining District",
+    "county": "Eagle County",
+    "category": "Ghost Town / Mining Camp / Mill Complex",
+    "componentType": "High-Altitude Gold Camp & Mill Complex",
+    "overview": [
+      "Holy Cross City was a high-elevation gold-mining camp that developed rapidly after discoveries in the Holy Cross Mining District in 1880.",
+      "The settlement combined cabins, businesses, mine-support services, and ore-processing infrastructure in an alpine setting above 11,000 feet."
+    ],
+    "timeline": [
+      {
+        "year": "1880",
+        "text": "Gold-bearing quartz discoveries triggered organization of the Holy Cross Mining District and rapid development of Holy Cross City."
+      },
+      {
+        "year": "1881",
+        "text": "The camp expanded quickly, with dozens of buildings and active investment in mines and milling."
+      },
+      {
+        "year": "1882",
+        "text": "The population reached roughly 200 during the peak of the boom."
+      },
+      {
+        "year": "1883",
+        "text": "Weak ore economics undermined major company investment and accelerated the camp's decline."
+      },
+      {
+        "year": "1884",
+        "text": "Holy Cross City was already becoming a ghost town, although limited mining continued later."
+      }
+    ],
+    "features": [
+      {
+        "id": "holy-cross-town",
+        "name": "Holy Cross City Townsite",
+        "type": "Mining Camp",
+        "confidence": "Confirmed",
+        "note": "Cabin and building remains mark the high-elevation settlement."
+      },
+      {
+        "id": "holy-cross-mill",
+        "name": "Mill & Ore-Processing Area",
+        "type": "Ore Processing",
+        "confidence": "Confirmed",
+        "note": "Mill ruins and industrial features document local attempts to process district ore."
+      },
+      {
+        "id": "holy-cross-mining",
+        "name": "Surrounding Mine Workings",
+        "type": "Mining Landscape",
+        "confidence": "Confirmed",
+        "note": "Claims and workings around the camp formed the economic basis of the settlement."
+      }
+    ],
+    "moreHistory": [
+      "The camp grew with unusual speed after 1880. Contemporary descriptions and later county histories record a compact high-country community with stores, saloons, an assay office, blacksmith, boarding facilities, and rows of miners' cabins.",
+      "Gold was the principal attraction, although silver mineralization was also reported. The district supported numerous claims whose promise drew substantial outside investment.",
+      "An experimental ore-transport flume attempted to connect mining and processing activity between Holy Cross City and Gold Park, but engineering and ore-quality problems limited the venture.",
+      "The remaining cabins, mill ruins, roads, and mining features create one of Eagle County's strongest surviving high-alpine mining-camp landscapes."
+    ],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.414987,
+      "longitude": -106.478085
+    },
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true,
+    "mediaNotice": "Historic image not available"
+  }
+}

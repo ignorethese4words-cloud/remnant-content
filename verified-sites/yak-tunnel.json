@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "yak-tunnel",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
+  "verifiedAt": "2026-09-16T00:23:17.335Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 19,
+    "exploreSiteCount": 15,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "yak-tunnel",
+    "name": "Yak Tunnel / California Gulch Yak Tunnel",
+    "location": "California Gulch / Leadville",
+    "county": "Lake County",
+    "category": "Mining Infrastructure / Environmental History",
+    "componentType": "Mine-Drainage / Exploration Tunnel / Connected Underground Workings",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.23582329,
+      "longitude": -106.2708565
+    },
+    "mediaNotice": "Historic image not available"
+  }
+}

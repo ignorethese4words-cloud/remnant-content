@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-MOUNTAIN-TOP",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.351Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-MOUNTAIN-TOP",
+    "name": "Mountain Top Mine / Mountain Top-Terrible No. 3 Complex",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mine / Mining Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B426=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B426&\"\" \"\"&$C426),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&\"&\"$C426),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B426&\"\" \"\"&$C426),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C426<>\"\"\"\",$C426,\"\"Historic Site\"\")))\"),\"Mine\")",
+    "overview": [
+      "The Mountain Top Mine is a high-altitude hard-rock complex in Governor Basin within the Sneffels mining district.",
+      "Federal Office of Minerals Exploration docket 6524 treats Mountain Top and Terrible No."
+    ],
+    "timeline": [
+      {
+        "year": "1919",
+        "text": "A repeatedly cited 1919 underground-mill account remains unverified from its original source and is excluded from public claims; do not label collapsed buildings as a mill without stronger evidence."
+      }
+    ],
+    "moreHistory": [
+      "3 together as a silver property, establishing their linked operating identity.",
+      "The Mountain Top system is described in mining-locality records as two major adits with several miles of underground development and silver-bearing lead-zinc-gold mineralization.",
+      "Surviving identification features include waste-rock dumps, portal areas, rail/tipple remnants, machinery, and deteriorated mine-camp structures within a heavily disturbed alpine mining landscape.",
+      "Component safeguard: keep the upper and lower Mountain Top workings, Terrible No.",
+      "3, nearby Governor Basin mines, camp structures, and transport features as separate linked elements rather than one point."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

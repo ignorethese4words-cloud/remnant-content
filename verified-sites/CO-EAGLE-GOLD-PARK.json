@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-EAGLE-GOLD-PARK",
+  "countySlug": "eagle",
+  "countyPack": "packs/canonical/colorado-eagle.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-12T21:46:05.195Z",
+  "verifiedAt": "2026-09-16T00:23:17.325Z",
+  "manifest": {
+    "id": "colorado-eagle",
+    "county": "Eagle County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-eagle.json",
+    "siteCount": 10,
+    "exploreSiteCount": 8,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-EAGLE-GOLD-PARK",
+    "name": "Gold Park Mining Camp & Mill Complex",
+    "location": "Holy Cross Mining District",
+    "county": "Eagle County",
+    "category": "Ghost Town / Mining Camp / Mill Complex",
+    "componentType": "Mining Camp & Ore-Processing Complex",
+    "overview": [
+      "Gold Park was one of the two principal camps of the Holy Cross Mining District during the short-lived gold boom of the early 1880s.",
+      "The settlement supported mining and milling activity along the Homestake Creek area and was connected with Holy Cross City through an ambitious ore-transport system."
+    ],
+    "timeline": [
+      {
+        "year": "1880",
+        "text": "Historic mapping identified Gold Park as mining activity accelerated in the Holy Cross district."
+      },
+      {
+        "year": "1881",
+        "text": "A post office was established and the Gold Park Mining & Milling Company organized with extensive claim holdings."
+      },
+      {
+        "year": "1881–1882",
+        "text": "The camp expanded and two mills operated or were developed to serve surrounding mines."
+      },
+      {
+        "year": "1883",
+        "text": "Poor ore economics undermined the principal company venture and investment declined."
+      },
+      {
+        "year": "1884 onward",
+        "text": "The district rapidly contracted, leaving Gold Park as a short-lived mining camp and industrial landscape."
+      }
+    ],
+    "features": [
+      {
+        "id": "gold-park-town",
+        "name": "Gold Park Townsite",
+        "type": "Mining Camp",
+        "confidence": "Confirmed",
+        "note": "The former camp was a principal settlement of the Holy Cross Mining District."
+      },
+      {
+        "id": "gold-park-mills",
+        "name": "Mill Sites",
+        "type": "Ore Processing",
+        "confidence": "Confirmed",
+        "note": "Historic sources describe two mills associated with the camp."
+      },
+      {
+        "id": "gold-park-flume",
+        "name": "Ore-Flume Landscape",
+        "type": "Mining Infrastructure",
+        "confidence": "Confirmed",
+        "note": "An experimental transport system was developed between the Holy Cross City and Gold Park area."
+      }
+    ],
+    "moreHistory": [
+      "Gold Park briefly became larger than nearby Holy Cross City and served as a center for ambitious mining-company development in the district.",
+      "The Gold Park Mining & Milling Company controlled numerous claims on French Mountain and invested in ore-processing and transportation infrastructure.",
+      "One of the district's more unusual experiments was a long flume intended to move crushed ore between the Holy Cross City and Gold Park area. Grade and design problems limited its usefulness.",
+      "The collapse of the principal company effort after only a few years illustrates how quickly a high-country mining boom could rise and fall when ore failed to meet expectations."
+    ],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.40554,
+      "longitude": -106.43336
+    },
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true,
+    "mediaNotice": "Historic image not available"
+  }
+}

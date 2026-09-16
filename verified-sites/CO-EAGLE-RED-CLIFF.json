@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-EAGLE-RED-CLIFF",
+  "countySlug": "eagle",
+  "countyPack": "packs/canonical/colorado-eagle.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-12T21:46:05.195Z",
+  "verifiedAt": "2026-09-16T00:23:17.325Z",
+  "manifest": {
+    "id": "colorado-eagle",
+    "county": "Eagle County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-eagle.json",
+    "siteCount": 10,
+    "exploreSiteCount": 8,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-EAGLE-RED-CLIFF",
+    "name": "Red Cliff Mining Town & Railroad Complex",
+    "location": "Eagle River Valley",
+    "county": "Eagle County",
+    "category": "Mining Town / Railroad / Mining District",
+    "componentType": "Mining Town & Railroad Gateway",
+    "overview": [
+      "Red Cliff developed in 1879 as a mining settlement at the base of Battle Mountain and became the principal early community serving the surrounding silver and gold mines.",
+      "Its role expanded when the Denver & Rio Grande railroad reached the town, connecting local mines with Leadville and regional ore markets."
+    ],
+    "timeline": [
+      {
+        "year": "1879",
+        "text": "Red Cliff was founded as mining expanded around Battle Mountain."
+      },
+      {
+        "year": "1883",
+        "text": "Red Cliff became the county seat when Eagle County was created, and the Denver & Rio Grande railroad reached the community."
+      },
+      {
+        "year": "1884",
+        "text": "A.H. Fulford's Ben Butler gold discovery helped renew interest in the surrounding district."
+      },
+      {
+        "year": "1880s–1890s",
+        "text": "Mining, railroad traffic, ore handling, and local businesses supported a busy canyon community."
+      },
+      {
+        "year": "20th century",
+        "text": "Red Cliff remained a transportation and service community as nearby mining increasingly centered on the Gilman/Eagle Mine system."
+      }
+    ],
+    "features": [
+      {
+        "id": "red-cliff-town",
+        "name": "Historic Town Core",
+        "type": "Mining Town",
+        "confidence": "Confirmed",
+        "note": "The town's historic street pattern and surviving buildings retain its mining-era setting."
+      },
+      {
+        "id": "red-cliff-rail",
+        "name": "Railroad Corridor & Station Landscape",
+        "type": "Railroad",
+        "confidence": "Confirmed",
+        "note": "The former D&RG corridor connected Red Cliff with Leadville, Minturn, and the Battle Mountain mines."
+      },
+      {
+        "id": "red-cliff-mining",
+        "name": "Battle Mountain Mining Landscape",
+        "type": "Mining District",
+        "confidence": "Confirmed",
+        "note": "Historic mines and industrial features rise above the town on Battle Mountain."
+      }
+    ],
+    "moreHistory": [
+      "Red Cliff's canyon location made it a natural gateway to Battle Mountain. Miners, merchants, rail workers, and ore traffic passed through the town as nearby properties developed.",
+      "The railroad transformed the settlement by providing dependable passenger, freight, telegraph, and ore-shipping connections. This helped integrate Battle Mountain production with Leadville and the wider Colorado mining economy.",
+      "Gold discoveries during the mid-1880s added another phase to a district that had begun with strong silver expectations. Period accounts describe substantial gold and total ore values during this revival.",
+      "Although mining later shifted toward the consolidated Gilman/Eagle Mine system, Red Cliff retained the physical character of an early railroad and mining town."
+    ],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.509,
+      "longitude": -106.37
+    },
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true,
+    "mediaNotice": "Historic image not available"
+  }
+}

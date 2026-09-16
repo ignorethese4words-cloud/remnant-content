@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-EL-PASO-CALHAN-ROCK-ISLAND-DEPOT",
+  "countySlug": "el-paso",
+  "countyPack": "packs/canonical/colorado-el-paso.json",
+  "packVersion": "3",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.326Z",
+  "manifest": {
+    "id": "colorado-el-paso",
+    "county": "El Paso County",
+    "state": "Colorado",
+    "version": "3",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-el-paso.json",
+    "siteCount": 2,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-EL-PASO-CALHAN-ROCK-ISLAND-DEPOT",
+    "name": "Calhan Rock Island Railroad Depot",
+    "location": "Calhan",
+    "county": "El Paso County",
+    "category": "Railroad Depot",
+    "componentType": "Railroad Depot",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "A surviving 1906 Rock Island railroad depot in Calhan."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.0383,
+      "longitude": -104.299
+    }
+  }
+}

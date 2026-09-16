@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-GRAND-VIEW-MINE",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "101",
+  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
+  "verifiedAt": "2026-09-16T00:23:17.306Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "101",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 102,
+    "exploreSiteCount": 39,
+    "idOnlySiteCount": 63
+  },
+  "site": {
+    "id": "CO-BOULDER-GRAND-VIEW-MINE",
+    "name": "Grand View Mine",
+    "location": "Ridge between Salina and Sunshine, Boulder County",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-13T02:53:23-06:00",
+    "overview": [
+      "Grand View Mine is a documented historic mine in Boulder County, located on the ridge between Salina and Sunshine.",
+      "Federal mineral records identify Grand View as a past producer associated with tungsten and gold, while historic USGS topographic mapping preserves the mine as a named locality."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "Grand View was developed as part of Boulder County's hard-rock mining landscape and is recorded in the federal Mineral Resources Data System as a past-producing mine."
+      },
+      {
+        "year": "1980s mapping",
+        "text": "USGS topographic mapping continued to preserve Grand View Mine as a named mine locality in the Boulder quadrangle."
+      }
+    ],
+    "moreHistory": [
+      "The Mineral Resources Data System record for Grand View lists tungsten and gold and places the mine on the ridge between Salina and Sunshine in Boulder County.",
+      "The MRDS position is documented as an estimated historic mine location derived from published mining references, so it is best treated as a mine-locality point rather than a surveyed surviving opening."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.05734,
+      "longitude": -105.37227
+    },
+    "sourceReferences": [
+      {
+        "title": "Grand View — USGS Mineral Resources Data System record 10108359",
+        "publisher": "USGS MRDS mirror",
+        "url": "https://www.qvyshift.com/mrds/show-mrds.php?dep_id=10108359"
+      },
+      {
+        "title": "Grand View Mine — historic USGS topographic map listing",
+        "publisher": "OldMapsOnline / United States Geological Survey",
+        "url": "https://www.oldmapsonline.org/de/maps/a850ab1b-d239-433e-9e7d-ec0ffbc7842f"
+      }
+    ]
+  }
+}

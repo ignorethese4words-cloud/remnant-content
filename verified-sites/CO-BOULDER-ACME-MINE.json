@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-ACME-MINE",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "101",
+  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
+  "verifiedAt": "2026-09-16T00:23:17.299Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "101",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 102,
+    "exploreSiteCount": 39,
+    "idOnlySiteCount": 63
+  },
+  "site": {
+    "id": "CO-BOULDER-ACME-MINE",
+    "name": "Acme Mine",
+    "location": "Louisville",
+    "county": "Boulder County",
+    "category": "Historic Coal Mine",
+    "componentType": "Mine",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-08T02:45:00.000Z",
+    "overview": [
+      "The Acme Mine was a major Louisville-area coal mine that operated from the late nineteenth century into 1928 and helped shape the town's industrial landscape.",
+      "Historic state and local records document deep shaft workings, company housing, railroad service, and repeated subsidence effects beneath Louisville."
+    ],
+    "timeline": [
+      {
+        "year": "1890s",
+        "text": "The Acme Mine entered operation in Louisville during the expansion of Boulder County's northern coal field."
+      },
+      {
+        "year": "1903-1904",
+        "text": "Colorado's coal-mine inspector described the Acme as a two-shaft mine about 190 feet deep, connected to the Colorado & Southern Railroad."
+      },
+      {
+        "year": "1911",
+        "text": "Rocky Mountain Fuel Company acquired the Acme and operated it through its final years."
+      },
+      {
+        "year": "1922",
+        "text": "Industrial Commission records document 81 Acme employees in a wage case involving Rocky Mountain Fuel Company."
+      },
+      {
+        "year": "1928",
+        "text": "The Acme Mine closed after decades of coal production beneath and around Louisville."
+      }
+    ],
+    "moreHistory": [
+      "Colorado mine-inspector records describe a main shaft and air shaft serving a roughly six-foot coal seam, with the main shaft divided for hoisting, pipe lines, and emergency access.",
+      "Local historical records preserve 1911 photographs of the Rocky Mountain Fuel Company's Acme Mine and company houses, confirming the mine's substantial surface plant and community setting.",
+      "Historic Louisville research also documents subsidence associated with Acme workings beneath the town, showing how the mine's underground footprint affected the later urban landscape.",
+      "For Remnant identification, the USGS/GNIS mine point at approximately 39.98193, -105.13665 is used as the documented mine-level anchor rather than claiming a surviving shaft collar has been field-surveyed."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.9819296,
+      "longitude": -105.136652
+    }
+  }
+}

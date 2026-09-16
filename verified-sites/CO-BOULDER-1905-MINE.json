@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-1905-MINE",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "101",
+  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
+  "verifiedAt": "2026-09-16T00:23:17.293Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "101",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 102,
+    "exploreSiteCount": 39,
+    "idOnlySiteCount": 63
+  },
+  "site": {
+    "id": "CO-BOULDER-1905-MINE",
+    "name": "1905 Mine",
+    "location": "Hurricane Hill / Boulder County Tungsten Mining District",
+    "county": "Boulder County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-08T02:31:05.365Z",
+    "overview": [
+      "The 1905 Mine was a small but documented tungsten producer beside Hurricane Hill Road in the Boulder County tungsten district.",
+      "USGS records place the mine 825 feet south 25 degrees west of the Vasco No. 1 shaft and describe shaft workings associated with a ferberite-bearing vein along the Hurricane Hill breccia reef."
+    ],
+    "timeline": [
+      {
+        "year": "Before 1916",
+        "text": "USGS indicates the mine may have produced tungsten before the surviving detailed production records begin."
+      },
+      {
+        "year": "1916-1918",
+        "text": "The mine was productive during the World War I tungsten boom. Incomplete USGS records document about 250 units of WO3 from ore averaging 12.9 percent WO3."
+      },
+      {
+        "year": "After 1918",
+        "text": "USGS reported no known later production and estimated that total historic output may have exceeded 1,000 units of WO3."
+      }
+    ],
+    "moreHistory": [
+      "U.S. Geological Survey Professional Paper 245 describes the 1905 Mine at roughly 8,550 feet elevation beside Hurricane Hill Road. The documented position is relative to the Vasco No. 1 shaft, which provides a defensible historic mine-level Scan anchor while avoiding a claim that the exact shaft collar has been surveyed by Remnant.",
+      "The mine was developed by shaft workings that USGS believed were probably no more than about 150 feet deep. The vein lies in the hanging wall of the Hurricane Hill breccia reef, striking roughly northeast and dipping northwest through aplite and granite.",
+      "USGS attributes the property to Gold, Silver, & Tungsten, Inc. during the documented production period. The retained production figures are incomplete, so Remnant presents them as reported historical estimates rather than precise lifetime totals."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.973771,
+      "longitude": -105.484022
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GILPIN-BATES-HUNTER-GOLDEN-GILPIN",
+  "countySlug": "gilpin",
+  "countyPack": "packs/canonical/colorado-gilpin.json",
+  "packVersion": "6",
+  "packGeneratedAt": "2026-09-12T17:08:55.284Z",
+  "verifiedAt": "2026-09-16T00:23:17.326Z",
+  "manifest": {
+    "id": "colorado-gilpin",
+    "county": "Gilpin County",
+    "state": "Colorado",
+    "version": "6",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gilpin.json",
+    "siteCount": 12,
+    "exploreSiteCount": 2,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-GILPIN-BATES-HUNTER-GOLDEN-GILPIN",
+    "name": "Bates–Hunter Mine & Golden Gilpin Mill Complex",
+    "location": "Central City and Black Hawk area, Gilpin County, Colorado",
+    "county": "Gilpin County",
+    "category": "Mine / Mill Complex",
+    "componentType": "Mill / Processing",
+    "overview": [
+      "The Bates–Hunter Mine and Golden Gilpin Mill form a documented mine-and-processing complex associated with the Central City and Black Hawk mining district. The surviving shaft headframe and mill support a stable basic Scan identity."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

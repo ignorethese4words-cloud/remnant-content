@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-LIENHART-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.318Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-LIENHART-MINE",
+    "name": "Lienhart Mine",
+    "location": "Mount Harvard / Morris Creek area",
+    "county": "Chaffee County",
+    "category": "Mine / Adit",
+    "componentType": "Adit / Portal",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Lienhart is a well-documented polymetallic mine with a dedicated Colorado Geological Survey site report and identified adit, waste-rock, and tailings components. USGS place mapping provides a stable parent anchor."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "The Lienhart property, also known by several Mount Harvard-related names, was developed by an adit and associated surface mine features."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.93777,
+      "longitude": -106.25474
+    }
+  }
+}

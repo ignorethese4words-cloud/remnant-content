@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-FORT-PEABODY",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.349Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-FORT-PEABODY",
+    "name": "Fort Peabody / Imogene Pass Guardhouse",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Military / Labor Conflict",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B418=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B418&\"\" \"\"&$C418),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&\"&\"$C418),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B418&\"\" \"\"&$C418),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C418<>\"\"\"\",$C418,\"\"Historic Site\"\")))\"),\"Military Site\")",
+    "overview": [
+      "Fort Peabody is a rare surviving Colorado National Guard redoubt associated with the state’s hard-rock labor conflict of 1903–1904.",
+      "History Colorado records that a local Guard unit constructed the position in early 1904 at more than 13,000 feet near the Ouray–San Miguel county line."
+    ],
+    "timeline": [
+      {
+        "year": "1903",
+        "text": "Fort Peabody is a rare surviving Colorado National Guard redoubt associated with the state’s hard-rock labor conflict of 1903–1904."
+      },
+      {
+        "year": "1904",
+        "text": "Fort Peabody is a rare surviving Colorado National Guard redoubt associated with the state’s hard-rock labor conflict of 1903–1904."
+      },
+      {
+        "year": "2005",
+        "text": "The site was listed in the National Register of Historic Places in 2005 for its military, industrial, and social-history significance, with 1904 identified as its significant year."
+      },
+      {
+        "year": "2010",
+        "text": "A San Miguel County preservation account records a Colt rapid-fire gun at the post and later restoration/preservation work on the surviving guardhouse in 2010 under county/GMUG National Forest direction."
+      }
+    ],
+    "moreHistory": [
+      "The defensive site consisted of a small wooden guardhouse, a flag mount, and a stone emplacement described in period and preservation sources as a sniper or rapid-fire-gun position.",
+      "Troops occupied the fortification until martial law was revoked in June 1904.",
+      "The site was listed in the National Register of Historic Places in 2005 for its military, industrial, and social-history significance, with 1904 identified as its significant year.",
+      "San Miguel County preservation records document later stabilization and continuing maintenance of the surviving resource.",
+      "Component safeguard: treat the guardhouse, flag-mount location, stone defensive emplacement, and surrounding National Register site as parts of one Fort Peabody complex rather than separate discovery locations."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

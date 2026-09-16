@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GARFIELD-GLENWOOD-HYDRO-PLANT",
+  "countySlug": "garfield",
+  "countyPack": "packs/canonical/colorado-garfield.json",
+  "packVersion": "3",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.326Z",
+  "manifest": {
+    "id": "colorado-garfield",
+    "county": "Garfield County",
+    "state": "Colorado",
+    "version": "3",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-garfield.json",
+    "siteCount": 2,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-GARFIELD-GLENWOOD-HYDRO-PLANT",
+    "name": "Glenwood Springs Hydroelectric Plant",
+    "location": "601 6th St., Glenwood Springs",
+    "county": "Garfield County",
+    "category": "Hydroelectric Plant",
+    "componentType": "Power / Industrial",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "A surviving historic hydroelectric plant building in Glenwood Springs."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.550278,
+      "longitude": -107.320556
+    }
+  }
+}

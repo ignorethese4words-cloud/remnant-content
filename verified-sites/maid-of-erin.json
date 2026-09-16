@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "maid-of-erin",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
+  "verifiedAt": "2026-09-16T00:23:17.334Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 19,
+    "exploreSiteCount": 15,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "maid-of-erin",
+    "name": "Maid of Erin Mine",
+    "location": "Leadville",
+    "county": "Lake County",
+    "category": "Mine",
+    "componentType": "Mine",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "The Maid of Erin was one of the named mines in Leadville’s dense Carbonate Hill mining landscape. Its history overlaps with neighboring properties but the mine remains a distinct Remnant site.",
+      "The property is useful for understanding how Leadville’s mines changed through operating, leasing, dump-processing, and later environmental-remediation periods."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "The Maid of Erin operated as part of the heavily developed Carbonate Hill district."
+      },
+      {
+        "year": "Later operations",
+        "text": "Historical property records document leasing and later processing of mine-dump material."
+      },
+      {
+        "year": "1997",
+        "text": "EPA historic-property documentation records consolidation and remediation of waste associated with Maid of Erin, Wolftone, and Mahala areas."
+      },
+      {
+        "year": "Today",
+        "text": "The site is interpreted as a distinct mine component within a tightly packed historic and remediated mining landscape."
+      }
+    ],
+    "moreHistory": [
+      "EPA California Gulch documentation provides unusually useful information because it preserves both operating history and later changes to the physical mining landscape.",
+      "Maid of Erin should not be merged with Wolftone or other nearby Carbonate Hill properties simply because their histories and remediation areas overlap.",
+      "USGS Leadville district studies provide the larger geologic and ore-deposit framework needed to understand why so many mines were concentrated in this area."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available"
+  }
+}

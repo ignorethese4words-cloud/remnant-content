@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LARIMER-GREAT-WESTERN-EFFLUENT-FLUME",
+  "countySlug": "larimer",
+  "countyPack": "packs/canonical/colorado-larimer.json",
+  "packVersion": "3",
+  "packGeneratedAt": "2026-09-07T20:24:27.191Z",
+  "verifiedAt": "2026-09-16T00:23:17.335Z",
+  "manifest": {
+    "id": "colorado-larimer",
+    "county": "Larimer County",
+    "state": "Colorado",
+    "version": "3",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-larimer.json",
+    "siteCount": 1,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-LARIMER-GREAT-WESTERN-EFFLUENT-FLUME",
+    "name": "Great Western Sugar Effluent Flume & Bridge",
+    "location": "Fort Collins",
+    "county": "Larimer County",
+    "category": "Industrial Flume / Bridge",
+    "componentType": "Bridge / Trestle",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "A surviving suspension bridge and flume associated with Great Western Sugar."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 40.5784,
+      "longitude": -105.0453
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MESA-CALAMITY-CAMP",
+  "countySlug": "mesa",
+  "countyPack": "packs/canonical/colorado-mesa.json",
+  "packVersion": "3",
+  "packGeneratedAt": "2026-09-07T20:24:27.191Z",
+  "verifiedAt": "2026-09-16T00:23:17.336Z",
+  "manifest": {
+    "id": "colorado-mesa",
+    "county": "Mesa County",
+    "state": "Colorado",
+    "version": "3",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mesa.json",
+    "siteCount": 1,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-MESA-CALAMITY-CAMP",
+    "name": "Calamity Camp Uranium-Mining Structures",
+    "location": "Calamity Mesa",
+    "county": "Mesa County",
+    "category": "Uranium Mining Camp",
+    "componentType": "Town / Camp",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "A surviving historic uranium-mining camp complex on Calamity Mesa."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.61208,
+      "longitude": -108.85284
+    }
+  }
+}

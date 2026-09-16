@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-BE-TRUE-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.313Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-BE-TRUE-MINE",
+    "name": "Be True Mine",
+    "location": "Buena Vista West area",
+    "county": "Chaffee County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Be True is a federally mapped Chaffee County uranium mine and past-producer locality. The named USGS mine feature supplies a stable Basic Scan anchor while uncertain operator, production, and surviving-remnant details remain unasserted."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "USGS-derived Buena Vista West mapping and federal mine records preserve Be True as a named uranium mine and past producer."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.83,
+      "longitude": -106.13
+    }
+  }
+}

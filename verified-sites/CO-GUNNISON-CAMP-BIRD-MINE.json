@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GUNNISON-CAMP-BIRD-MINE",
+  "countySlug": "gunnison",
+  "countyPack": "packs/canonical/colorado-gunnison.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.329Z",
+  "manifest": {
+    "id": "colorado-gunnison",
+    "county": "Gunnison County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gunnison.json",
+    "siteCount": 15,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 15
+  },
+  "site": {
+    "id": "CO-GUNNISON-CAMP-BIRD-MINE",
+    "name": "Camp Bird Mine (Box Canyon District)",
+    "location": "Box Canyon Mining District",
+    "county": "Gunnison County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Camp Bird is a distinct Gunnison County Box Canyon gold mine, separate from the famous Ouray County Camp Bird. Federal district reporting documents a two-compartment shaft, free-milling quartz ore, and wagon haulage to a 10-stamp mill below Bowerman."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "USGS Bulletin 380 documents the Gunnison County Camp Bird mine in the Box Canyon district with shaft development and ore treatment associated with Bowerman."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.568889,
+      "longitude": -106.519444
+    }
+  }
+}

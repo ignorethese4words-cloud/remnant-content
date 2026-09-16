@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-OURAY-DRGW-RAIL",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.337Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-OURAY-DRGW-RAIL",
+    "name": "Ouray D&RG / D&RGW Railroad Depot & Ore-Loading Complex",
+    "location": "Ouray",
+    "county": "Ouray County",
+    "category": "Railroad / Mining Transportation",
+    "componentType": "Railroad Depot",
+    "overview": [
+      "Historic D&RG/D&RGW terminal and ore-loading corridor; do not imply the depot survives."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

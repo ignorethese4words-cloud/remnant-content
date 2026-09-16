@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-DOLORES-RICO-ARGENTINE-ST-LOUIS",
+  "countySlug": "dolores",
+  "countyPack": "packs/canonical/colorado-dolores.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T01:05:03.470Z",
+  "verifiedAt": "2026-09-16T00:23:17.324Z",
+  "manifest": {
+    "id": "colorado-dolores",
+    "county": "Dolores County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-dolores.json",
+    "siteCount": 9,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "CO-DOLORES-RICO-ARGENTINE-ST-LOUIS",
+    "name": "Rico-Argentine Mine & St. Louis Tunnel Complex",
+    "location": "Rico mining district, Dolores County, Colorado",
+    "county": "Dolores County",
+    "category": "Mine / Tunnel / Industrial Remediation Complex",
+    "componentType": "Adit / Portal",
+    "overview": [
+      "The Rico-Argentine Mine and St. Louis Tunnel form a documented interconnected mining and tunnel complex in the Rico district. Existing research supports the visible industrial and remediation landscape as a basic Scan identity."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CLEAR-CREEK-BRIGHTON-MINE",
+  "countySlug": "clear-creek",
+  "countyPack": "packs/canonical/colorado-clear-creek.json",
+  "packVersion": "97",
+  "packGeneratedAt": "2026-09-12T23:00:31.832Z",
+  "verifiedAt": "2026-09-16T00:23:17.320Z",
+  "manifest": {
+    "id": "colorado-clear-creek",
+    "county": "Clear Creek County",
+    "state": "Colorado",
+    "version": "97",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-clear-creek.json",
+    "siteCount": 17,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 16
+  },
+  "site": {
+    "id": "CO-CLEAR-CREEK-BRIGHTON-MINE",
+    "name": "Brighton Mine",
+    "location": "Freeland-Lamartine district",
+    "county": "Clear Creek County",
+    "category": "Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Brighton Mine is a documented Freeland-Lamartine underground mine with a long early-20th-century operating span and recorded gold, silver, lead, copper, and zinc production. The federal mine record provides a stable Basic Scan anchor without requiring any claim about present-day remnants."
+    ],
+    "timeline": [
+      {
+        "year": "1903–1952",
+        "text": "Federal records document sustained work and production at Brighton during the early and mid-20th century."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.7606,
+      "longitude": -105.5233
+    }
+  }
+}

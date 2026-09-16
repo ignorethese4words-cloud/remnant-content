@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GILPIN-HIDEE",
+  "countySlug": "gilpin",
+  "countyPack": "packs/canonical/colorado-gilpin.json",
+  "packVersion": "6",
+  "packGeneratedAt": "2026-09-12T17:08:55.284Z",
+  "verifiedAt": "2026-09-16T00:23:17.327Z",
+  "manifest": {
+    "id": "colorado-gilpin",
+    "county": "Gilpin County",
+    "state": "Colorado",
+    "version": "6",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gilpin.json",
+    "siteCount": 12,
+    "exploreSiteCount": 2,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-GILPIN-HIDEE",
+    "name": "Hidee Gold Mine",
+    "location": "Virginia Canyon / Glory Hole area near Central City, Gilpin County, Colorado",
+    "county": "Gilpin County",
+    "category": "Mine",
+    "componentType": "Mine",
+    "overview": [
+      "The Hidee Gold Mine is a documented underground gold mine in the Virginia Canyon–Glory Hole area of the Central City–Black Hawk mining district.",
+      "Its surviving underground workings and later educational use provide a recognizable example of the narrow-vein hard-rock mining that shaped Gilpin County."
+    ],
+    "timeline": [
+      {
+        "year": "Late 19th century",
+        "text": "The Hidee property was developed within the established Virginia Canyon gold-mining landscape near Central City and Black Hawk."
+      },
+      {
+        "year": "1896",
+        "text": "Historical summaries record submission of the Hidee property for a mineral patent during its early mining era."
+      },
+      {
+        "year": "1980s",
+        "text": "A walk-in opening was developed for educational interpretation of local mining history and geology."
+      },
+      {
+        "year": "Since 1988",
+        "text": "Mine supporters and operators have continued interpreting mining methods, geology, and the history of the Central City–Black Hawk district."
+      },
+      {
+        "year": "Today",
+        "text": "The documented mine workings remain the defining identification feature of the Hidee property."
+      }
+    ],
+    "moreHistory": [
+      "The Hidee belongs to the broader Virginia Canyon and Glory Hole mining landscape but should not be represented by generic photographs or claims from unrelated Central City mines.",
+      "Gold-bearing pyritic ore is central to the mine’s identity. Reported exceptionally rich assay values describe selected samples and should not be treated as an average ore grade or life-of-mine production total.",
+      "The present interpretive operation is a later layer in the property’s history. It preserves the mine identity while explaining both historic and modern mining practices.",
+      "This entry is informational, not access authorization. Conditions and operating arrangements can change, and mine openings should never be entered except through an authorized operation."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "features": [
+      {
+        "id": "hidee-workings",
+        "name": "Hidee Underground Workings",
+        "type": "Gold Mine",
+        "confidence": "Confirmed",
+        "note": "The documented workings are the mine’s primary surviving identification feature."
+      },
+      {
+        "id": "hidee-virginia-canyon",
+        "name": "Virginia Canyon Mining Context",
+        "type": "Mining Landscape",
+        "confidence": "Confirmed",
+        "note": "The Hidee is part of the larger Virginia Canyon–Glory Hole mining area but remains a distinct property."
+      }
+    ],
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

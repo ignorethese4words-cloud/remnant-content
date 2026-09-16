@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-NATIONAL-BELLE",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.351Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-NATIONAL-BELLE",
+    "name": "National Belle Mine / National Bell Mine",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mine / Mining Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B427=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B427&\"\" \"\"&$C427),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&\"&\"$C427),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B427&\"\" \"\"&$C427),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C427<>\"\"\"\",$C427,\"\"Historic Site\"\")))\"),\"Mine\")",
+    "overview": [
+      "The National Belle—also documented as the National Bell—was one of the defining mines of the Red Mountain district and a major anchor for Red Mountain Town.",
+      "Society of Economic Geologists research records that the mine became famous in 1883 when miners encountered the first of several ore-lined caverns or “great pockets.” The mineralized pockets included silver- and copper-bearing sulfides and sulfosalts with lead-zinc minerals and quartz-barite gangue, helping drive investment and settlement around the mine."
+    ],
+    "timeline": [
+      {
+        "year": "1988",
+        "text": "Sources: Society of Economic Geologists Guidebook 3, “Great Pockets: the National Belle mine” (1988); Fort Lewis College Red Mountain Project."
+      }
+    ],
+    "moreHistory": [
+      "Fort Lewis College’s Red Mountain Project confirms that the developing town shifted toward the National Belle as the toll-road and Silverton Railroad corridor took shape.",
+      "Surviving identification features include the shaft/headframe area, dumps, structural remnants, and the adjoining but distinct Red Mountain townsite and railroad landscape.",
+      "Component safeguard: keep the National Belle mine/shaft, Red Mountain Town, Silverton Railroad facilities, nearby Yankee Girl/Guston/Genesee workings, and later district consolidation as separate linked records.",
+      "Published production totals vary widely and are not adopted; exact discovery attribution and shutdown/reopening chronology remain non-blocking uncertainties.",
+      "Do not provide entry guidance or encourage approach to the shaft or unstable ruins."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

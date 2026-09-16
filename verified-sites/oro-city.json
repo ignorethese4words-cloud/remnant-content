@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "oro-city",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
+  "verifiedAt": "2026-09-16T00:23:17.334Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 19,
+    "exploreSiteCount": 15,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "oro-city",
+    "name": "Oro City & California Gulch Placer Diggings",
+    "location": "Leadville / California Gulch",
+    "county": "Lake County",
+    "category": "Mining Camp / Placer",
+    "componentType": "Camp / Placer",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "Oro City and the California Gulch placer diggings represent the early gold-rush phase of the Leadville story, before the district became famous for later hard-rock silver, lead, zinc, and gold mining.",
+      "Remnant distinguishes old Oro City, later Oro City components, and the placer-mining landscape instead of treating the entire gulch as one undifferentiated site."
+    ],
+    "timeline": [
+      {
+        "year": "1860",
+        "text": "Gold discoveries in California Gulch triggered rapid placer mining and settlement in the Leadville area."
+      },
+      {
+        "year": "Early placer era",
+        "text": "Oro City developed around the booming gulch while miners worked stream gravels and other placer deposits."
+      },
+      {
+        "year": "Later 19th century",
+        "text": "As easy placer deposits declined, the district’s economic focus shifted toward hard-rock mining and new communities."
+      },
+      {
+        "year": "1878",
+        "text": "W.G. Chamberlain photographed hydraulic mining in California Gulch, preserving a rights-cleared image of the placer landscape."
+      }
+    ],
+    "moreHistory": [
+      "USGS historic mapping distinguishes multiple Oro City place references and the broader placer landscape, which is why Remnant keeps these components separate.",
+      "The California Gulch placer story is important because it explains the first major mining rush that preceded Leadville’s better-known carbonate-ore boom.",
+      "The cleared 1878 Library of Congress stereograph provides direct historical evidence of hydraulic placer mining in California Gulch."
+    ],
+    "displayImages": [
+      {
+        "id": "california-gulch-1878",
+        "title": "Hydraulic mining in California Gulch — 1878",
+        "label": "",
+        "source": {
+          "uri": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c10000/3c10800/3c10833v.jpg"
+        },
+        "sourceNote": "Library of Congress stereograph by W. G. Chamberlain. Rights advisory: no known restrictions on publication."
+      }
+    ]
+  }
+}

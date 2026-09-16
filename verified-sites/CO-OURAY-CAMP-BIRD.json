@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-CAMP-BIRD",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.349Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-CAMP-BIRD",
+    "name": "Camp Bird Mine & Mill",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mine / Mill",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B334=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B334&\"\" \"\"&$C334),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&\"&\"$C334),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B334&\"\" \"\"&$C334),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C334<>\"\"\"\",$C334,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+    "overview": [
+      "Camp Bird was one of the best-known hard-rock mining complexes in the Ouray mining region, combining extensive underground workings with mills, tramways, support buildings, and a large industrial landscape.",
+      "Gold and silver dominated the mine's historic value, with copper and lead also recovered during its long operating history."
+    ],
+    "timeline": [
+      {
+        "year": "1877",
+        "text": "The earliest claims later incorporated into the Camp Bird property were staked."
+      },
+      {
+        "year": "1896",
+        "text": "Thomas F. Walsh consolidated claims into the Camp Bird Mining Company and developed the property as a major operation."
+      },
+      {
+        "year": "1900",
+        "text": "A long aerial tram was built to move ore from the high mine to a lower stamp mill."
+      },
+      {
+        "year": "1906",
+        "text": "A fire destroyed the mill and a larger replacement followed."
+      },
+      {
+        "year": "1916",
+        "text": "A long haulage and drainage tunnel linked deep workings to the mill."
+      },
+      {
+        "year": "1960",
+        "text": "A 500-ton-per-day mill was completed during a later modernization period."
+      },
+      {
+        "year": "1977",
+        "text": "Regular mining operations ceased after decades of intermittent production and redevelopment."
+      }
+    ],
+    "moreHistory": [
+      "Mine portals, high-country workings, tram and transport features, mill sites, tailings, and later remediation areas are linked components of one large complex."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

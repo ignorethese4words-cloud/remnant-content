@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-JEFFERSON-SCHWARTZWALDER-RALSTON",
+  "countySlug": "jefferson",
+  "countyPack": "packs/canonical/colorado-jefferson.json",
+  "packVersion": "12",
+  "packGeneratedAt": "2026-09-15T13:53:40.772Z",
+  "verifiedAt": "2026-09-16T00:23:17.331Z",
+  "manifest": {
+    "id": "colorado-jefferson",
+    "county": "Jefferson County",
+    "state": "Colorado",
+    "version": "12",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-jefferson.json",
+    "siteCount": 18,
+    "exploreSiteCount": 6,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-JEFFERSON-SCHWARTZWALDER-RALSTON",
+    "name": "Schwartzwalder Mine & Ralston Buttes Uranium Complex",
+    "location": "Ralston Buttes, Jefferson County, Colorado",
+    "county": "Jefferson County",
+    "category": "Uranium Mine / Mining District / Remediation Complex",
+    "componentType": "Mine",
+    "overview": [
+      "The Schwartzwalder Mine anchors the Ralston Buttes uranium complex, identified by its documented production history, mine workings, and remediation landscape."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

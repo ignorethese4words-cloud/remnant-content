@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GRAND-ARIZOBA-MINE",
+  "countySlug": "grand",
+  "countyPack": "packs/canonical/colorado-grand.json",
+  "packVersion": "2",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.328Z",
+  "manifest": {
+    "id": "colorado-grand",
+    "county": "Grand County",
+    "state": "Colorado",
+    "version": "2",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-grand.json",
+    "siteCount": 5,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 5
+  },
+  "site": {
+    "id": "CO-GRAND-ARIZOBA-MINE",
+    "name": "Arizoba Mine",
+    "location": "Blue Ridge Mining District",
+    "county": "Grand County",
+    "category": "Mine / Prospect",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Arizoba Mine is a named historic copper mine preserved on USGS-derived King Creek mapping in Grand County."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "USGS-derived mapping preserves Arizoba as a named inactive copper mine."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.957763,
+      "longitude": -106.271416
+    }
+  }
+}

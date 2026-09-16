@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-FAIR-DAY-MINE",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "101",
+  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
+  "verifiedAt": "2026-09-16T00:23:17.307Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "101",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 102,
+    "exploreSiteCount": 39,
+    "idOnlySiteCount": 63
+  },
+  "site": {
+    "id": "CO-BOULDER-FAIR-DAY-MINE",
+    "name": "Fair Day Mine",
+    "location": "Jamestown Mining District / Overland Mountain",
+    "county": "Boulder County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-13T16:20:05.000Z",
+    "overview": [
+      "The Fair Day Mine was Boulder County's most productive uranium mine and is a well-documented part of the Jamestown Mining District west of Jamestown.",
+      "Federal and Colorado geological reports trace uranium discovery at the Fair Day claim to 1955, underground development beginning in the late 1950s, and later work at both upper and lower mine levels on Overland Mountain."
+    ],
+    "timeline": [
+      {
+        "year": "1955",
+        "text": "Autunite and torbernite were identified in northeast-trending fractures on the Fair Day claim, establishing the uranium discovery at the mine site."
+      },
+      {
+        "year": "1956",
+        "text": "Diamond-core drilling during the fall and winter intersected a significant shallow uranium ore body."
+      },
+      {
+        "year": "1957",
+        "text": "An inclined shaft was sunk and production of uranium ore began."
+      },
+      {
+        "year": "1959",
+        "text": "USGS described an inclined shaft about 120 feet long, roughly 1,100 feet of drifts and crosscuts, and four stopes."
+      },
+      {
+        "year": "Later development",
+        "text": "A lower adit was subsequently driven several hundred feet below the upper workings, creating another major mine level documented by later Colorado Geological Survey work."
+      }
+    ],
+    "moreHistory": [
+      "USGS Bulletin 1159 identifies the Fair Day as the most productive uranium mine in Boulder County and places the historic upper workings about two miles west of Jamestown on the south side of Overland Mountain.",
+      "The Colorado Geological Survey later documented the lower Fair Day portal in detail while studying the site's geology, mining history, and environmental setting. Its report places the lower portal in Section 26, Township 2 North, Range 72 West, with the upper inclined-shaft workings higher on the mountain.",
+      "The retained mine-level coordinate marks the documented Fair Day Mine locality on Overland Mountain. The historic operation included multiple workings at different elevations, so visitors should treat the point as a mine-locality reference rather than a surveyed entrance to any particular opening."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.1202634,
+      "longitude": -105.4933312
+    },
+    "sourceReferences": [
+      {
+        "title": "U.S. Geological Survey Bulletin 1159 — Geology of Uranium and Associated Ore Deposits, Central Part of the Front Range Mineral Belt, Colorado",
+        "url": "https://pubs.usgs.gov/bul/1159/report.pdf"
+      },
+      {
+        "title": "Colorado Geological Survey Open-File Report 00-10 — History, Geology, and Environmental Setting of the Lower Fair Day Mine",
+        "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/OF-00-10.pdf"
+      },
+      {
+        "title": "Fair Day Mine mapped locality — USGS/GNIS-derived place record",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/fair-day-mine-1683600/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GILPIN-APEX-PINE-DISTRICT",
+  "countySlug": "gilpin",
+  "countyPack": "packs/canonical/colorado-gilpin.json",
+  "packVersion": "6",
+  "packGeneratedAt": "2026-09-12T17:08:55.284Z",
+  "verifiedAt": "2026-09-16T00:23:17.326Z",
+  "manifest": {
+    "id": "colorado-gilpin",
+    "county": "Gilpin County",
+    "state": "Colorado",
+    "version": "6",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gilpin.json",
+    "siteCount": 12,
+    "exploreSiteCount": 2,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-GILPIN-APEX-PINE-DISTRICT",
+    "name": "Apex Mining Camp & Pine–Kingston–Apex District",
+    "location": "Apex and Pine Creek area, Gilpin County, Colorado",
+    "county": "Gilpin County",
+    "category": "Ghost Town / Mining District",
+    "componentType": "Town / Camp",
+    "overview": [
+      "Apex is a documented historic mining camp within the Pine–Kingston–Apex district. Existing research supports the surviving buildings, foundations, and mine landscape as a basic Scan identity."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

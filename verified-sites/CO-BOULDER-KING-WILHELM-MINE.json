@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-KING-WILHELM-MINE",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "101",
+  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
+  "verifiedAt": "2026-09-16T00:23:17.310Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "101",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 102,
+    "exploreSiteCount": 39,
+    "idOnlySiteCount": 63
+  },
+  "site": {
+    "id": "CO-BOULDER-KING-WILHELM-MINE",
+    "name": "King Wilhelm Mine",
+    "location": "Jamestown Mining District / Boulder quadrangle",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-14T04:52:03Z",
+    "overview": [
+      "King Wilhelm Mine is a documented historic gold-and-silver mine in Boulder County's Jamestown Mining District, preserved as a named mine on Boulder-area topographic mapping.",
+      "Geologic literature on Boulder County telluride ores records a distinctive mineral assemblage at King Wilhelm that includes native gold, petzite, chalcopyrite, molybdenite, pyrite and sphalerite, giving the site useful context beyond simple name-and-location identification."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "King Wilhelm operated within the Jamestown district's gold-and-silver mining landscape. Available mapped records preserve the mine as an inactive historic working."
+      },
+      {
+        "year": "1969",
+        "text": "The Geological Society of America memoir Telluride Ores of Boulder County, Colorado documented King Wilhelm among Boulder County telluride-ore localities and recorded its mineral assemblage."
+      },
+      {
+        "year": "Modern mapping",
+        "text": "USGS-derived Boulder quadrangle mapping preserves a mine-level locality near 40.111652, -105.349159 for King Wilhelm."
+      }
+    ],
+    "moreHistory": [
+      "The mine lies in the Jamestown Mining District, part of Boulder County's historically important precious-metal mining region. Modern locality records identify King Wilhelm as an inactive gold-and-silver mine at roughly 6,972 feet elevation.",
+      "Published Boulder County telluride-ore research records native gold and petzite at King Wilhelm together with chalcopyrite, molybdenite, pyrite and sphalerite. Remnant uses that source as site-specific geologic context without inferring unsupported production figures or exact operating dates.",
+      "The mapped mine-level point is used for identification only. Remnant does not claim that the coordinate is a field-surveyed surviving portal, shaft collar or other specific opening."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.1116523,
+      "longitude": -105.3491592
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS-derived Boulder quadrangle record — King Wilhelm Mine",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/king-wilhelm-mine-1683855/",
+        "note": "Preserves the named Boulder County mine feature, mapped mine-level coordinates, elevation, and inactive gold-and-silver classification."
+      },
+      {
+        "title": "Kelly & Goddard (1969), Telluride Ores of Boulder County, Colorado, GSA Memoir 109",
+        "url": "https://doi.org/10.1130/MEM109",
+        "note": "Site-specific geologic reference recording King Wilhelm mineralization including native gold, petzite, chalcopyrite, molybdenite, pyrite and sphalerite."
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GILPIN-PERIGO-GOLD-DIRT",
+  "countySlug": "gilpin",
+  "countyPack": "packs/canonical/colorado-gilpin.json",
+  "packVersion": "6",
+  "packGeneratedAt": "2026-09-12T17:08:55.284Z",
+  "verifiedAt": "2026-09-16T00:23:17.327Z",
+  "manifest": {
+    "id": "colorado-gilpin",
+    "county": "Gilpin County",
+    "state": "Colorado",
+    "version": "6",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gilpin.json",
+    "siteCount": 12,
+    "exploreSiteCount": 2,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-GILPIN-PERIGO-GOLD-DIRT",
+    "name": "Perigo / Gold Dirt–Gamble Gulch Mining District & Ghost Camps",
+    "location": "Gamble Gulch and Perigo area, Gilpin County, Colorado",
+    "county": "Gilpin County",
+    "category": "Ghost Town / Mining District",
+    "componentType": "Town / Camp",
+    "overview": [
+      "Perigo and Gold Dirt were successive mining camps within the documented Gamble Gulch district. Surviving foundations, mine workings, dumps, mill sites, and the altered mining landscape support a basic Scan identity."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

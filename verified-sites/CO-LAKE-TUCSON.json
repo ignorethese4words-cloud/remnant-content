@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LAKE-TUCSON",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
+  "verifiedAt": "2026-09-16T00:23:17.335Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 19,
+    "exploreSiteCount": 15,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "CO-LAKE-TUCSON",
+    "name": "Tucson Mine Ruins",
+    "location": "Iron Hill / Leadville",
+    "county": "Lake County",
+    "category": "Mine",
+    "componentType": "Underground Mine / Shaft Complex",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "The Tucson Mine was a substantial Iron Hill operation in the Leadville district. Historic accounts describe deep shaft development and later mining of silver, lead, zinc, and zinc-carbonate ores, while surviving heavy foundations and ore-handling remains indicate the scale of the surface plant.",
+      "The Tucson should be interpreted as one mine within the broader Iron Silver Mining Company landscape, not as a label for every nearby Iron Hill working."
+    ],
+    "timeline": [
+      {
+        "year": "Late 1800s",
+        "text": "The Tucson became one of the developed Iron Hill workings as Leadville operators expanded underground through shafts and inclines."
+      },
+      {
+        "year": "Early 1900s",
+        "text": "The Tucson shaft reached roughly 1,100 feet, reflecting substantial underground development."
+      },
+      {
+        "year": "1910",
+        "text": "Historic mining literature reported very high-grade silver assays from lower levels of the mine."
+      },
+      {
+        "year": "1912–1918",
+        "text": "Considerable mining continued, with lead- and zinc-sulfide ores forming an important part of production."
+      },
+      {
+        "year": "1918–1926",
+        "text": "Several attempts were made to reopen or sustain the property, but none produced a lasting revival."
+      },
+      {
+        "year": "1940",
+        "text": "The upper part of the shaft was reopened to reach a remaining zinc-carbonate, or smithsonite, ore body."
+      },
+      {
+        "year": "Today",
+        "text": "Large ore-bin remnants, dumps, and heavy hoist foundations remain useful identification clues for the former mine complex."
+      }
+    ],
+    "moreHistory": [
+      "Iron Hill was one of Leadville’s major mining zones. The Tucson developed within a dense group of Iron Silver Mining Company properties where separate shafts and claims tapped related but locally complex ore bodies.",
+      "Historical descriptions of the Tucson emphasize the depth of the shaft and the changing character of the ore. Silver-rich material was reported from deeper levels, while lead and zinc sulfides became important during the 1910s.",
+      "The 1940 reopening targeted smithsonite, a zinc carbonate left from earlier mining. That episode shows how operators repeatedly reconsidered old workings when metal prices, processing methods, or knowledge of remaining ore changed.",
+      "Surviving surface features are especially useful for identification. Large ore-storage remnants and substantial concrete hoist foundations indicate that Tucson was not a minor prospect; it required heavy equipment to move ore and workers through a deep shaft system.",
+      "For Remnant, nearby Iron Hill mines should remain separate records. Shared ownership or underground relationships do not mean every surviving ruin belongs to the Tucson Mine."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available"
+  }
+}

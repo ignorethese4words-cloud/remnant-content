@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-BERYL-LODE-MINE",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "101",
+  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
+  "verifiedAt": "2026-09-16T00:23:17.303Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "101",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 102,
+    "exploreSiteCount": 39,
+    "idOnlySiteCount": 63
+  },
+  "site": {
+    "id": "CO-BOULDER-BERYL-LODE-MINE",
+    "name": "Beryl Lode Mine",
+    "location": "Left Hand Creek Mining District, Boulder County",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-12T23:51:00Z",
+    "overview": [
+      "Beryl Lode Mine, formerly known as the Lehman mine, is a historic pegmatite working in Boulder County's Left Hand Creek mining district. Federal geological reports document beryl, feldspar, mica and other pegmatite minerals at the property, with workings cut into the north side of Left Hand Creek."
+    ],
+    "timeline": [
+      {
+        "year": "World War I era",
+        "text": "The Beryl Lode produced small amounts of beryl and mica, but later studies found the deposit had limited economic reserves."
+      },
+      {
+        "year": "1947",
+        "text": "U.S. Geological Survey work examined the former Lehman mine and documented two adits totaling about 100 feet, a glory hole and several trenches."
+      }
+    ],
+    "moreHistory": [
+      "USGS reporting places the Beryl Lode in section 27, Township 2 North, Range 71 West, along the north side of Left Hand Creek. The pegmatite was described as roughly 300 feet long and 75 feet wide where exposed, with quartz, potash feldspar, garnet, beryl, cleavelandite and other minerals. The mine was one of several small pegmatite workings in the district and was notable for containing beryl, although published studies concluded that its mica and feldspar reserves were small."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.10943,
+      "longitude": -105.3327697
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS Trace Elements Investigation 59 — Beryl Lode mine",
+        "url": "https://pubs.usgs.gov/tei/059/report.pdf"
+      },
+      {
+        "title": "USGS Professional Paper 227 — Colorado Pegmatites, Boulder County",
+        "url": "https://pubs.usgs.gov/pp/0227/report.pdf"
+      },
+      {
+        "title": "USGS-derived Beryl Lode Claim Mine topographic feature record",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/beryl-lode-claim-mine-1683914/"
+      },
+      {
+        "title": "Beryl Lode (Lehman mine) locality record",
+        "url": "https://www.mindat.org/loc-69039.html"
+      }
+    ]
+  }
+}

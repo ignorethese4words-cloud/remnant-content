@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-EAGLE-FULFORD-CAMP",
+  "countySlug": "eagle",
+  "countyPack": "packs/canonical/colorado-eagle.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-12T21:46:05.195Z",
+  "verifiedAt": "2026-09-16T00:23:17.325Z",
+  "manifest": {
+    "id": "colorado-eagle",
+    "county": "Eagle County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-eagle.json",
+    "siteCount": 10,
+    "exploreSiteCount": 8,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-EAGLE-FULFORD-CAMP",
+    "name": "Fulford / Nolan's Creek Mining Camp",
+    "location": "Upper Brush Creek",
+    "county": "Eagle County",
+    "category": "Ghost Town / Mining Camp / Mining District",
+    "componentType": "Gold-Mining Camp & District",
+    "overview": [
+      "Fulford grew in the high country of upper Brush Creek during the late-nineteenth-century gold rush to the Nolan Creek and New York Mountain area.",
+      "The camp supported prospectors, miners, businesses, transportation, and hundreds of claims, becoming the principal settlement for a rugged mountain mining district."
+    ],
+    "timeline": [
+      {
+        "year": "1887",
+        "text": "Gold discoveries and mining activity intensified around New York Mountain, and historic mapping identified Camp Fulford."
+      },
+      {
+        "year": "1889–1891",
+        "text": "The settlement expanded as promoters and miners developed roads, claims, and mine-support services."
+      },
+      {
+        "year": "1891",
+        "text": "Arthur H. Fulford, a major promoter of the district, died in an avalanche."
+      },
+      {
+        "year": "1890s",
+        "text": "Gold mining sustained the camp through the decade, although regional financial disruptions affected investment."
+      },
+      {
+        "year": "Early 1900s",
+        "text": "Mining continued intermittently as activity shifted among the district's stronger properties."
+      }
+    ],
+    "features": [
+      {
+        "id": "fulford-townsite",
+        "name": "Fulford Townsite",
+        "type": "Mining Camp",
+        "confidence": "Confirmed",
+        "note": "The historic camp occupied the upper Brush Creek mining district and supported nearby gold mines."
+      },
+      {
+        "id": "fulford-remnants",
+        "name": "Cabin & Camp Remnants",
+        "type": "Historic Structures",
+        "confidence": "Confirmed",
+        "note": "Surviving and collapsed building remains mark portions of the former settlement."
+      },
+      {
+        "id": "fulford-mining-landscape",
+        "name": "Mining District Landscape",
+        "type": "Mining Landscape",
+        "confidence": "Confirmed",
+        "note": "Mine workings, roads, dumps, and related features surround the camp."
+      }
+    ],
+    "moreHistory": [
+      "Fulford was one of several names associated with mining settlement in the district, including Nolan Camp and Camp Fulford. Development accelerated as gold discoveries drew miners and capital into the upper Brush Creek country.",
+      "Arthur H. Fulford played an important role in promoting the district and improving access before his death in 1891. His name became closely associated with the camp that survived him.",
+      "The surrounding district contained numerous claims and mines, with the Polar Star becoming one of the better-known producers. The settlement functioned as the service center for this wider mining landscape.",
+      "Today the camp is best understood as a whole landscape of townsite remains, mining features, and mountain terrain rather than as a collection of isolated buildings."
+    ],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.514985,
+      "longitude": -106.656423
+    },
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true,
+    "mediaNotice": "Historic image not available"
+  }
+}

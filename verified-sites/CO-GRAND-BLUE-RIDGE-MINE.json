@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GRAND-BLUE-RIDGE-MINE",
+  "countySlug": "grand",
+  "countyPack": "packs/canonical/colorado-grand.json",
+  "packVersion": "2",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.328Z",
+  "manifest": {
+    "id": "colorado-grand",
+    "county": "Grand County",
+    "state": "Colorado",
+    "version": "2",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-grand.json",
+    "siteCount": 5,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 5
+  },
+  "site": {
+    "id": "CO-GRAND-BLUE-RIDGE-MINE",
+    "name": "Blue Ridge Mine",
+    "location": "Grand County",
+    "county": "Grand County",
+    "category": "Mine / Prospect",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Blue Ridge Mine is a federally recorded Grand County copper site with a stable mapped mine location."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "USGS MRDS preserves Blue Ridge as a named copper mine locality."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 40.0075,
+      "longitude": -106.3053
+    }
+  }
+}

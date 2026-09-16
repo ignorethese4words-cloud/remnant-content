@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-FUTURITY-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.316Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-FUTURITY-MINE",
+    "name": "Futurity Mine",
+    "location": "Futurity–Bassam Ridge area",
+    "county": "Chaffee County",
+    "category": "Underground Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Futurity is a documented Chaffee County copper-gold-silver mine associated with the Futurity–Bassam Ridge mining landscape. USGS-derived topographic locality data provides a stable mine-level Scan anchor."
+    ],
+    "timeline": [
+      {
+        "year": "Early 1900s",
+        "text": "State mining records document Futurity as a copper-producing property with gold and silver context."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.7499964,
+      "longitude": -106.1672408
+    }
+  }
+}

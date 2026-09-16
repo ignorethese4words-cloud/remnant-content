@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GUNNISON-8TH-STREET-SCHOOL",
+  "countySlug": "gunnison",
+  "countyPack": "packs/canonical/colorado-gunnison.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.328Z",
+  "manifest": {
+    "id": "colorado-gunnison",
+    "county": "Gunnison County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gunnison.json",
+    "siteCount": 15,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 15
+  },
+  "site": {
+    "id": "CO-GUNNISON-8TH-STREET-SCHOOL",
+    "name": "8th Street School / West Gunnison Schoolhouse",
+    "location": "Gunnison",
+    "county": "Gunnison County",
+    "category": "Historic School",
+    "componentType": "Building",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "The surviving West Gunnison schoolhouse is the city's oldest standing public building and provides a clear Basic Scan identification target."
+    ],
+    "timeline": [
+      {
+        "year": "1881",
+        "text": "The surviving brick schoolhouse dates to Gunnison's early public-school era."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.5459,
+      "longitude": -106.9289
+    }
+  }
+}

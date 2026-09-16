@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-GRAND-VIEW",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.317Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-GRAND-VIEW",
+    "name": "Grand View Mine",
+    "location": "Cleora Mining District",
+    "county": "Chaffee County",
+    "category": "Mine / Adit Complex",
+    "componentType": "Adit / Portal",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Grand View is a documented Cleora-district mine complex developed by multiple adits and a shaft. The federal mine-complex locality provides a defensible Basic Scan anchor without asserting a currently open portal."
+    ],
+    "timeline": [
+      {
+        "year": "1890–1905",
+        "text": "Federal records identify Grand View as a small copper-gold-tungsten operation discovered and first produced in 1890, with last recorded production in 1905."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.5172,
+      "longitude": -105.9391
+    }
+  }
+}

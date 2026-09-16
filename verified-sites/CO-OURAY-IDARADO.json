@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-IDARADO",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.350Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-IDARADO",
+    "name": "Idarado Mine / Treasury Tunnel–Pandora Complex",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mine / Mill / Tunnel / Mining Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B423=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B423&\"\" \"\"&$C423),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&\"&\"$C423),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B423&\"\" \"\"&$C423),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C423<>\"\"\"\",$C423,\"\"Historic Site\"\")))\"),\"Adit / Portal\")",
+    "overview": [
+      "Idarado was a large, interconnected mine-and-mill system spanning the mountains between Red Mountain Valley in Ouray County and the Pandora millsite above Telluride in San Miguel County.",
+      "The Idarado Mining Company formed in 1939 by consolidating earlier properties."
+    ],
+    "timeline": [
+      {
+        "year": "1939",
+        "text": "The Idarado Mining Company formed in 1939 by consolidating earlier properties."
+      },
+      {
+        "year": "1943",
+        "text": "Wartime development extended the Treasury Tunnel toward the Black Bear vein in 1943–1944, and a 250-ton-per-day mill began treating development ore on the Red Mountain side in 1945."
+      },
+      {
+        "year": "1944",
+        "text": "Wartime development extended the Treasury Tunnel toward the Black Bear vein in 1943–1944, and a 250-ton-per-day mill began treating development ore on the Red Mountain side in 1945."
+      },
+      {
+        "year": "1945",
+        "text": "Wartime development extended the Treasury Tunnel toward the Black Bear vein in 1943–1944, and a 250-ton-per-day mill began treating development ore on the Red Mountain side in 1945."
+      },
+      {
+        "year": "1953",
+        "text": "After Idarado acquired Telluride Mines in 1953, it rebuilt and expanded the Pandora plant; by 1956 ore moved through the connected underground haulage system for processing at Pandora."
+      }
+    ],
+    "moreHistory": [
+      "Wartime development extended the Treasury Tunnel toward the Black Bear vein in 1943–1944, and a 250-ton-per-day mill began treating development ore on the Red Mountain side in 1945.",
+      "After Idarado acquired Telluride Mines in 1953, it rebuilt and expanded the Pandora plant; by 1956 ore moved through the connected underground haulage system for processing at Pandora.",
+      "The mine produced zinc, lead, copper, silver, and gold and ceased operation in 1978.",
+      "Later court-supervised remediation reshaped tailings, drainage, and portions of the industrial landscape, so present ground forms should not be interpreted as unchanged mining-era features.",
+      "Component safeguard: treat Red Mountain’s Treasury portal/yard and former millsite, the high-country underground network, and Telluride’s Mill Level and Meldrum portals, Pandora millsite, support buildings, and tailings as linked parts of one parent complex."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-EAGLE-GILMAN-EAGLE-MINE",
+  "countySlug": "eagle",
+  "countyPack": "packs/canonical/colorado-eagle.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-12T21:46:05.195Z",
+  "verifiedAt": "2026-09-16T00:23:17.325Z",
+  "manifest": {
+    "id": "colorado-eagle",
+    "county": "Eagle County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-eagle.json",
+    "siteCount": 10,
+    "exploreSiteCount": 8,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-EAGLE-GILMAN-EAGLE-MINE",
+    "name": "Gilman / Eagle Mine & Company Town Complex",
+    "location": "Battle Mountain",
+    "county": "Eagle County",
+    "category": "Ghost Town / Company Town / Mine / Mining Complex",
+    "componentType": "Company Town & Integrated Underground Mine-Mill Complex",
+    "overview": [
+      "Gilman and the Eagle Mine formed one of Colorado's most important integrated base-metal mining complexes. The company town stood high on Battle Mountain above the Eagle River, while extensive underground workings and industrial facilities connected the mountain to the canyon below.",
+      "The district became especially important for zinc, while also producing silver, copper, lead, and gold during a long period of operation."
+    ],
+    "timeline": [
+      {
+        "year": "1879–1880s",
+        "text": "Mining developed on Battle Mountain as prospectors opened early silver and base-metal workings."
+      },
+      {
+        "year": "1912",
+        "text": "Empire Zinc began consolidating properties that would become part of the modern Eagle Mine system."
+      },
+      {
+        "year": "1918 onward",
+        "text": "Most of the district's productive replacement deposits were increasingly worked through the Eagle Mine."
+      },
+      {
+        "year": "1929",
+        "text": "An underground mill was constructed as the integrated mine system expanded."
+      },
+      {
+        "year": "1930s–1970s",
+        "text": "The operation became a major Colorado zinc producer while continuing to recover other metals."
+      },
+      {
+        "year": "1977–1984",
+        "text": "Most zinc operations ended in 1977; remaining mining ceased by 1984 and the mine flooded."
+      },
+      {
+        "year": "1986 onward",
+        "text": "The Eagle Mine entered the federal Superfund program, followed by extensive cleanup and remediation."
+      }
+    ],
+    "features": [
+      {
+        "id": "gilman-town",
+        "name": "Gilman Company Town",
+        "type": "Company Town",
+        "confidence": "Confirmed",
+        "note": "The former company town remains a highly visible concentration of historic buildings on Battle Mountain."
+      },
+      {
+        "id": "eagle-workings",
+        "name": "Eagle Mine Workings",
+        "type": "Underground Mine",
+        "confidence": "Confirmed",
+        "note": "The mine system ultimately included many miles of interconnected underground workings."
+      },
+      {
+        "id": "gilman-industrial",
+        "name": "Mine, Mill & Ore-Handling Landscape",
+        "type": "Mining Infrastructure",
+        "confidence": "Confirmed",
+        "note": "Surface and underground facilities connected the mine with canyon-level processing and transportation."
+      },
+      {
+        "id": "gilman-remediation",
+        "name": "Remediated Mining Landscape",
+        "type": "Environmental History",
+        "confidence": "Confirmed",
+        "note": "Tailings, waste-rock areas, and treatment systems document the site's later environmental history."
+      }
+    ],
+    "moreHistory": [
+      "Mining on Battle Mountain evolved from numerous earlier claims into a consolidated industrial system. Empire Zinc and later operators connected older workings through the Eagle Mine, transforming the district into a large-scale underground operation.",
+      "USGS studies describe the Gilman district as Colorado's leading historic zinc source. Through 1972, reported production of zinc, silver, copper, lead, and gold was valued at about $328 million in period dollars, with most of that value produced after 1930.",
+      "The company town developed alongside the mine and contained housing and community facilities for workers and their families. Its position above the Eagle River created one of Colorado's most dramatic mining-town settings.",
+      "Closure in the 1980s was followed by extensive environmental work. The modern landscape therefore reflects both a century of mining and decades of water-quality, waste-rock, and tailings remediation."
+    ],
+    "displayImages": [],
+    "production": {
+      "summary": "Gilman became one of Colorado's most important zinc-producing districts while also producing silver, copper, lead, and gold.",
+      "commodities": [
+        {
+          "name": "Zinc"
+        },
+        {
+          "name": "Silver"
+        },
+        {
+          "name": "Copper"
+        },
+        {
+          "name": "Lead"
+        },
+        {
+          "name": "Gold"
+        }
+      ]
+    },
+    "coordinates": {
+      "latitude": 39.532764,
+      "longitude": -106.393918
+    },
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true,
+    "mediaNotice": "Historic image not available"
+  }
+}

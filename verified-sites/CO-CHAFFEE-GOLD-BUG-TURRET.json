@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-GOLD-BUG-TURRET",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.316Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-GOLD-BUG-TURRET",
+    "name": "Gold Bug Mine (Turret District)",
+    "location": "Turret district",
+    "county": "Chaffee County",
+    "category": "Shaft / Mine",
+    "componentType": "Shaft / Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Gold Bug is a documented Turret-district gold-silver mine with a deep shaft and substantial historic dump."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.64028,
+      "longitude": -105.97667
+    }
+  }
+}

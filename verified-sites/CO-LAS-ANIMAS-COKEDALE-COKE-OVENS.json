@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LAS-ANIMAS-COKEDALE-COKE-OVENS",
+  "countySlug": "las-animas",
+  "countyPack": "packs/canonical/colorado-las-animas.json",
+  "packVersion": "3",
+  "packGeneratedAt": "2026-09-07T20:24:27.191Z",
+  "verifiedAt": "2026-09-16T00:23:17.335Z",
+  "manifest": {
+    "id": "colorado-las-animas",
+    "county": "Las Animas County",
+    "state": "Colorado",
+    "version": "3",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-las-animas.json",
+    "siteCount": 1,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-LAS-ANIMAS-COKEDALE-COKE-OVENS",
+    "name": "Cokedale Mine & Coke Ovens Historic District",
+    "location": "Cokedale",
+    "county": "Las Animas County",
+    "category": "Coal Mine / Coke Ovens Historic District",
+    "componentType": "Mill / Processing",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "A surviving coal-company town and coke-oven landscape at Cokedale."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 37.139013,
+      "longitude": -104.612575
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-GUSTON",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.350Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-GUSTON",
+    "name": "Guston Mining Camp / Townsite",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Ghost Town / Mining Camp",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B421=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B421&\"\" \"\"&$C421),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&\"&\"$C421),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B421&\"\" \"\"&$C421),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C421<>\"\"\"\",$C421,\"\"Historic Site\"\")))\"),\"Town / Camp\")",
+    "overview": [
+      "Guston was a dispersed high-altitude mining camp in the Red Mountain district rather than a formally gridded town.",
+      "Scan identification should use the broad historic camp landscape around the Guston/Robinson workings and former Silverton Railroad corridor."
+    ],
+    "timeline": [
+      {
+        "year": "1881",
+        "text": "Timeline: ore discoveries around the Guston area date to 1881–1882; secondary syntheses place settlement growth from 1883 and rapid development in the later 1880s."
+      },
+      {
+        "year": "1882",
+        "text": "Timeline: ore discoveries around the Guston area date to 1881–1882; secondary syntheses place settlement growth from 1883 and rapid development in the later 1880s."
+      },
+      {
+        "year": "1883",
+        "text": "Timeline: ore discoveries around the Guston area date to 1881–1882; secondary syntheses place settlement growth from 1883 and rapid development in the later 1880s."
+      },
+      {
+        "year": "1889",
+        "text": "The Silverton Railroad reached the Guston area by 1889."
+      },
+      {
+        "year": "1892",
+        "text": "Postal records summarized by secondary mining-history sources place a Guston post office at 1892–1898; the camp peaked around the early 1890s and sharply declined after the 1893 silver crisis and mine shutdowns by the late 1890s."
+      }
+    ],
+    "moreHistory": [
+      "Keep the Yankee Girl, Genesee-Vanderbilt and other nearby mines as separate linked components.",
+      "Remains are scattered and altered; identify only from established public viewpoints or public areas, without implying permission to enter mine workings, ruins, or private parcels."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

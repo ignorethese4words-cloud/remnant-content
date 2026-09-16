@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "royal-tiger",
+  "countySlug": "summit",
+  "countyPack": "packs/canonical/colorado-summit.json",
+  "packVersion": "6",
+  "packGeneratedAt": "2026-09-13T15:41:05.613Z",
+  "verifiedAt": "2026-09-16T00:23:17.354Z",
+  "manifest": {
+    "id": "colorado-summit",
+    "county": "Summit County",
+    "state": "Colorado",
+    "version": "6",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
+    "siteCount": 9,
+    "exploreSiteCount": 4,
+    "idOnlySiteCount": 5
+  },
+  "site": {
+    "id": "royal-tiger",
+    "name": "Royal Tiger Mine Group",
+    "location": "Swan River / Tiger",
+    "county": "Summit County",
+    "category": "Mine / Mill",
+    "componentType": "Mine & Mill",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.52309,
+      "longitude": -105.9617
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-JEFFERSON-BERYL-ORES-MILL",
+  "countySlug": "jefferson",
+  "countyPack": "packs/canonical/colorado-jefferson.json",
+  "packVersion": "12",
+  "packGeneratedAt": "2026-09-15T13:53:40.772Z",
+  "verifiedAt": "2026-09-16T00:23:17.332Z",
+  "manifest": {
+    "id": "colorado-jefferson",
+    "county": "Jefferson County",
+    "state": "Colorado",
+    "version": "12",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-jefferson.json",
+    "siteCount": 18,
+    "exploreSiteCount": 6,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-JEFFERSON-BERYL-ORES-MILL",
+    "name": "Beryl Ores Mill",
+    "location": "Arvada-area beryl and mica processing plant, Jefferson County",
+    "county": "Jefferson County",
+    "state": "Colorado",
+    "category": "Historic Mill / Processing Site",
+    "componentType": "Mill / Processing",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-14T18:50:00Z",
+    "overview": [
+      "Beryl Ores Mill was a Jefferson County mineral-processing plant operated by Beryl Ores, Inc. near Arvada, where beryl and mica ores were purchased and processed during the mid-twentieth century.",
+      "Colorado Bureau of Mines annual reports document the plant as part of Jefferson County's mineral industry in the late 1950s and early 1960s, while later federal records identify Beryl Ores Company as a Colorado location associated with beryllium handling."
+    ],
+    "timeline": [
+      {
+        "year": "1958",
+        "text": "The Colorado Bureau of Mines reported that Beryl Ores, Inc. processed beryl and mica ores at its plant near Arvada."
+      },
+      {
+        "year": "1959",
+        "text": "The state mining report noted that Beryl Ores, Inc. near Arvada purchased beryl and mica ore from operations in Jefferson and surrounding counties."
+      },
+      {
+        "year": "1961",
+        "text": "The Colorado Bureau of Mines again recorded the Beryl Ores Company in Arvada purchasing and processing beryl ore."
+      },
+      {
+        "year": "1968",
+        "text": "A federal beryllium emissions inventory listed Beryl Ores Company in Arvada among Colorado companies dealing in beryllium and beryllium alloys."
+      }
+    ],
+    "moreHistory": [
+      "Federal mineral-record data preserve the plant as Beryl Ores Mill, also rendered as Beryllium Ores Mill, with Beryl Ores Company identified as owner-operator and beryllium as the primary commodity.",
+      "The federal mineral record places the plant across portions of Sections 17 and 18, Township 2 South, Range 69 West, and provides a site-level reference point near 39.8777, -105.1438. That point is used as the mapped location of the historic processing site and should not be interpreted as a surveyed surviving structure or a statement of present-day access.",
+      "Later federal occupational records continued to identify Beryl Ores Company in Colorado, showing that the company name remained associated with beryllium-related industrial activity after the period documented by the state mining reports."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.8777,
+      "longitude": -105.1438
+    },
+    "sourceReferences": [
+      {
+        "title": "Annual Report for the Year 1958",
+        "publisher": "Colorado Bureau of Mines",
+        "url": "https://spl.cde.state.co.us/artemis/nrserials/nr92001internet/nr920011958internet.pdf",
+        "note": "Documents Beryl Ores, Inc. processing beryl and mica ores at its plant near Arvada in 1958."
+      },
+      {
+        "title": "Annual Report for the Year 1959",
+        "publisher": "Colorado Bureau of Mines",
+        "url": "https://spl.cde.state.co.us/artemis/nrserials/nr92001internet/nr920011959internet.pdf",
+        "note": "Documents Beryl Ores, Inc. purchasing beryl and mica ore from Jefferson and surrounding counties."
+      },
+      {
+        "title": "Annual Report for the Year 1961",
+        "publisher": "Colorado Bureau of Mines",
+        "url": "https://spl.cde.state.co.us/artemis/nrserials/nr92001internet/nr920011961internet.pdf",
+        "note": "Documents continued purchase and processing of beryl ore by Beryl Ores Company in Arvada."
+      },
+      {
+        "title": "National Inventory of Sources and Emissions: Beryllium — 1968",
+        "publisher": "U.S. Environmental Protection Agency archive",
+        "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9100CO7B.TXT",
+        "note": "Lists Beryl Ores Company in Arvada among Colorado companies dealing in beryllium and beryllium alloys."
+      },
+      {
+        "title": "Beryllium Ores Mill — USGS MRDS record 10288429 reproduction",
+        "publisher": "The Diggings, reproducing U.S. Geological Survey mineral-record data",
+        "url": "https://thediggings.com/mines/usgs10288429",
+        "note": "Preserves the federal plant identity, Beryl Ores Company ownership, beryllium commodity, township-range placement, and site-level reference coordinate."
+      },
+      {
+        "title": "U.S. Locations Where Beryllium Was Used or Detected — GAO-01-476R",
+        "publisher": "U.S. General Accounting Office",
+        "url": "https://www.gao.gov/assets/gao-01-476r.pdf",
+        "note": "Lists Beryl Ores Company, Incorporated among Colorado locations where OSHA data detected beryllium."
+      }
+    ]
+  }
+}

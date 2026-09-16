@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-ATLANTIC-MOUND-INDEPENDENCE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.313Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-ATLANTIC-MOUND-INDEPENDENCE",
+    "name": "Atlantic / Mound / Independence",
+    "location": "South Cottonwood Creek / Chaffee County",
+    "county": "Chaffee County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Atlantic, Mound, and Independence are linked historical names for the same South Cottonwood mining property. The USGS-mapped Mound Mine feature provides a defensible site-level Basic Scan anchor."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "Federal and locality records preserve Atlantic, Mound, and Independence as linked names for the same Chaffee County mining property."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.783329,
+      "longitude": -106.283911
+    }
+  }
+}

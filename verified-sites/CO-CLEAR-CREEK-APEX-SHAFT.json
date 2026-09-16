@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CLEAR-CREEK-APEX-SHAFT",
+  "countySlug": "clear-creek",
+  "countyPack": "packs/canonical/colorado-clear-creek.json",
+  "packVersion": "97",
+  "packGeneratedAt": "2026-09-12T23:00:31.832Z",
+  "verifiedAt": "2026-09-16T00:23:17.320Z",
+  "manifest": {
+    "id": "colorado-clear-creek",
+    "county": "Clear Creek County",
+    "state": "Colorado",
+    "version": "97",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-clear-creek.json",
+    "siteCount": 17,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 16
+  },
+  "site": {
+    "id": "CO-CLEAR-CREEK-APEX-SHAFT",
+    "name": "Apex Shaft",
+    "location": "Idaho Springs / Central City district",
+    "county": "Clear Creek County",
+    "category": "Shaft / Mine",
+    "componentType": "Shaft / Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Apex Shaft is a distinct underground gold past-producer locality in Clear Creek County. Federal mine records and mapped shaft data provide a stable Basic Scan anchor while site-specific operator and production chronology remain incomplete."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "USGS and MRDS records preserve Apex Shaft as a named underground gold mine and past producer."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.7283,
+      "longitude": -105.5631
+    }
+  }
+}

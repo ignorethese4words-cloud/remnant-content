@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "chrysolite",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
+  "verifiedAt": "2026-09-16T00:23:17.333Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 19,
+    "exploreSiteCount": 15,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "chrysolite",
+    "name": "Chrysolite Mine",
+    "location": "Fryer Hill / Leadville",
+    "county": "Lake County",
+    "category": "Mine",
+    "componentType": "Historic Silver-Lead Mine",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "Chrysolite was one of the famous Fryer Hill mines that helped define Leadville’s late-1870s silver boom. Government mining reports place it among the important carbonate-ore workings on Fryer Hill, where rich lead-silver deposits were developed beneath a complex sequence of porphyry, limestone, and quartzite.",
+      "The mine is historically tied to Horace Tabor’s rise during the Leadville boom, but Remnant treats Chrysolite as its own mine rather than as an extension of the nearby Matchless or Little Pittsburg properties."
+    ],
+    "timeline": [
+      {
+        "year": "Late 1870s",
+        "text": "Chrysolite emerged during the first rush of major carbonate discoveries on Fryer Hill as Leadville’s silver boom accelerated."
+      },
+      {
+        "year": "1880s",
+        "text": "The mine became one of the significant Fryer Hill producers documented in federal mining reports and detailed geological mapping."
+      },
+      {
+        "year": "1890s",
+        "text": "Leadville mining continued through changing metal markets; government accounts record work on Chrysolite dumps as operators sought value from previously mined material."
+      },
+      {
+        "year": "Early 1900s",
+        "text": "Federal geological work documented the Chrysolite workings in detail, including the Roberts and Clark shaft areas and the complicated Fryer Hill ore geology."
+      },
+      {
+        "year": "Today",
+        "text": "Chrysolite remains an important reference point for interpreting Fryer Hill and the dense cluster of historic Leadville mines."
+      }
+    ],
+    "moreHistory": [
+      "Fryer Hill was one of the most intensely developed parts of the Leadville district. Chrysolite worked the same broad carbonate-ore environment that made neighboring mines famous, but each property followed its own shafts, stopes, faults, and ore bodies.",
+      "USGS and earlier federal mining reports describe Fryer Hill as geologically complicated. Sheets of white and gray porphyry cut and displaced the favorable limestone units, and miners had to follow irregular replacement bodies rather than a simple vein.",
+      "Historic federal mapping specifically documents Chrysolite mine workings and later shaft development. Those records make the mine useful for understanding how Leadville operators used shafts and underground levels to chase ore through a difficult three-dimensional geologic setting.",
+      "Chrysolite is also part of the Horace Tabor story. Period and later mining histories connect Tabor with the property during the same extraordinary boom that produced fortunes from Little Pittsburg and other Fryer Hill mines.",
+      "For Remnant, Chrysolite should remain a separate site from Matchless, Little Pittsburg, and the broader Leadville district. The close spacing of those properties is part of the story: a relatively small hill contained numerous independently operated mines competing for access to rich carbonate ore."
+    ],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.2553,
+      "longitude": -106.2764
+    },
+    "mediaNotice": "Historic image not available"
+  }
+}

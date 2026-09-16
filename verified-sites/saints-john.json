@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "saints-john",
+  "countySlug": "summit",
+  "countyPack": "packs/canonical/colorado-summit.json",
+  "packVersion": "6",
+  "packGeneratedAt": "2026-09-13T15:41:05.613Z",
+  "verifiedAt": "2026-09-16T00:23:17.354Z",
+  "manifest": {
+    "id": "colorado-summit",
+    "county": "Summit County",
+    "state": "Colorado",
+    "version": "6",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
+    "siteCount": 9,
+    "exploreSiteCount": 4,
+    "idOnlySiteCount": 5
+  },
+  "site": {
+    "id": "saints-john",
+    "name": "Saints John Mine & Mill",
+    "location": "Montezuma",
+    "county": "Summit County",
+    "category": "Mine / Mill",
+    "componentType": "Mine & Mill",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "A historic mine-and-mill complex near Montezuma with extensive collapsed timber, masonry, waste-rock, and industrial remains. The surviving landscape helps distinguish the mine workings from the mill and other industrial components."
+    ],
+    "timeline": [
+      {
+        "year": "Historic operation",
+        "text": "Saints John developed as an important silver-lead-zinc mining complex in the Montezuma district."
+      },
+      {
+        "year": "Today",
+        "text": "Surviving ruins and field documentation help interpret the relationship between the mine workings, mill, and industrial remains."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "features": [
+      {
+        "id": "sj-mill-ruins",
+        "name": "Mill / Industrial Ruins",
+        "type": "Major Site Component",
+        "confidence": "Probable",
+        "note": "The surviving collapsed timber and masonry are consistent with the documented Saints John industrial complex; individual building functions are still being resolved."
+      },
+      {
+        "id": "sj-mine-workings",
+        "name": "Mine Workings",
+        "type": "Underground / Surface Mining Components",
+        "confidence": "Confirmed",
+        "note": "The broader Saints John property includes mine workings on the surrounding mountain in addition to the mill and industrial remains."
+      }
+    ],
+    "coordinates": {
+      "latitude": 39.57,
+      "longitude": -105.87778
+    }
+  }
+}

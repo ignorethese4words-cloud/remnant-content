@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GUNNISON-SMITH-OPERA-HOUSE",
+  "countySlug": "gunnison",
+  "countyPack": "packs/canonical/colorado-gunnison.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.330Z",
+  "manifest": {
+    "id": "colorado-gunnison",
+    "county": "Gunnison County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gunnison.json",
+    "siteCount": 15,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 15
+  },
+  "site": {
+    "id": "CO-GUNNISON-SMITH-OPERA-HOUSE",
+    "name": "Smith Opera House / Grand Apartments",
+    "location": "114 N. Boulevard St., Gunnison",
+    "county": "Gunnison County",
+    "category": "Historic Opera House / Commercial Building",
+    "componentType": "Historic Building",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "A surviving 1882 building that briefly housed the Smith Opera House before long adaptive reuse."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.544943,
+      "longitude": -106.932979
+    }
+  }
+}

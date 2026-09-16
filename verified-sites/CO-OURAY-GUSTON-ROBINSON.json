@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-GUSTON-ROBINSON",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.350Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-GUSTON-ROBINSON",
+    "name": "Guston–Robinson Mine Complex",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mine / Mining Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B422=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B422&\"\" \"\"&$C422),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&\"&\"$C422),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B422&\"\" \"\"&$C422),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C422<>\"\"\"\",$C422,\"\"Historic Site\"\")))\"),\"Mine\")",
+    "overview": [
+      "The Guston–Robinson entry represents adjoining major mine workings in the Red Mountain district, not proof that every Guston and Robinson claim or opening was always one legal property.",
+      "Development accelerated during the 1882 Red Mountain boom associated with John Robinson and his partners, and the mines helped support the nearby Guston camp."
+    ],
+    "timeline": [
+      {
+        "year": "1882",
+        "text": "Development accelerated during the 1882 Red Mountain boom associated with John Robinson and his partners, and the mines helped support the nearby Guston camp."
+      },
+      {
+        "year": "1900",
+        "text": "USGS Bulletin 182 provides a contemporary technical and mapping anchor for the district, while a USGS photograph dated September 14, 1900 records the Robinson, Guston, and Yankee Girl mine landscape together."
+      },
+      {
+        "year": "1893",
+        "text": "The 1893 silver collapse curtailed operations, and early-twentieth-century work sought to drain and reach adjoining mines at depth through the Joker Tunnel."
+      },
+      {
+        "year": "1885",
+        "text": "A period-reported 1885 production value is not treated as an audited lifetime total, and no aggregate total is adopted."
+      },
+      {
+        "year": "1901",
+        "text": "Sources: USGS Bulletin 182, A Report on the Economic Geology of the Silverton Quadrangle (1901); Fort Lewis College Red Mountain Project; USGS 1900 Guston mine-landscape photograph record."
+      }
+    ],
+    "moreHistory": [
+      "USGS Bulletin 182 provides a contemporary technical and mapping anchor for the district, while a USGS photograph dated September 14, 1900 records the Robinson, Guston, and Yankee Girl mine landscape together.",
+      "Historic production centered on silver- and lead-bearing ore, with gold and copper also associated with later district activity.",
+      "The 1893 silver collapse curtailed operations, and early-twentieth-century work sought to drain and reach adjoining mines at depth through the Joker Tunnel.",
+      "Surviving identification features include large dumps, mine-building ruins, structural remnants, and the steep disturbed mining landscape above Guston.",
+      "Component safeguard: keep the Guston and Robinson workings, Guston townsite, Yankee Girl, Orphan Boy, the Joker Tunnel, and later Idarado connections as separate linked elements."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

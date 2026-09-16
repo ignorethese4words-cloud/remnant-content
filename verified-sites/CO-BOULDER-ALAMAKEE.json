@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-ALAMAKEE",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "101",
+  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
+  "verifiedAt": "2026-09-16T00:23:17.294Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "101",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 102,
+    "exploreSiteCount": 39,
+    "idOnlySiteCount": 63
+  },
+  "site": {
+    "id": "CO-BOULDER-ALAMAKEE",
+    "name": "Alamakee",
+    "location": "Gold Hill Mining District",
+    "county": "Boulder County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-08T07:31:00.000Z",
+    "overview": [
+      "Alamakee was one of the original mining discoveries at Gold Hill and is documented in federal mining history and historic Boulder-area archival records."
+    ],
+    "timeline": [
+      {
+        "year": "Early Gold Hill mining era",
+        "text": "Federal mining history identifies Alamakee among the original discoveries at Gold Hill."
+      },
+      {
+        "year": "1895",
+        "text": "A surviving Boulder Historical Society/Carnegie Library photograph identifies the Alamakee Mine in the Gold Hill landscape."
+      }
+    ],
+    "moreHistory": [
+      "USGS mining history documents the Alamakee name at Gold Hill, while mapped locality evidence provides a stable mine-level identification anchor near 40.06611, -105.40472.",
+      "The known 1895 archival photograph is retained as research evidence, but its item-level reuse basis is not sufficiently clear for Remnant packaging. It is therefore not shipped in the app."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.06611,
+      "longitude": -105.40472
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-GRIZZLY-BEAR",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.350Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-GRIZZLY-BEAR",
+    "name": "Grizzly Bear Mine",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mine / Mining Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B420=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B420&\"\" \"\"&$C420),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&\"&\"$C420),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B420&\"\" \"\"&$C420),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C420<>\"\"\"\",$C420,\"\"Historic Site\"\")))\"),\"Mine\")",
+    "overview": [
+      "The Grizzly Bear Mine was located in 1875 in the Bear Creek section of the Ouray Mining District and developed principally as a gold-silver property.",
+      "New Mexico Bureau of Geology research reports almost $1 million in period ore value from 1875 through 1910."
+    ],
+    "timeline": [
+      {
+        "year": "1875",
+        "text": "The Grizzly Bear Mine was located in 1875 in the Bear Creek section of the Ouray Mining District and developed principally as a gold-silver property."
+      },
+      {
+        "year": "1910",
+        "text": "New Mexico Bureau of Geology research reports almost $1 million in period ore value from 1875 through 1910."
+      },
+      {
+        "year": "1896",
+        "text": "A major 1896–1900 development campaign improved the mine road, added a boarding house, and extended several tunnels by hundreds of feet, illustrating the transportation and infrastructure challenges of this steep canyon setting."
+      },
+      {
+        "year": "1900",
+        "text": "A major 1896–1900 development campaign improved the mine road, added a boarding house, and extended several tunnels by hundreds of feet, illustrating the transportation and infrastructure challenges of this steep canyon setting."
+      },
+      {
+        "year": "1995",
+        "text": "Sources: New Mexico Bureau of Geology and Mineral Resources, Barbara Muntyan, “The history and minerals of the Grizzly Bear mine, Ouray, Colorado” (1995); USGS/MRDS locality record; Ouray Trails current-site description."
+      }
+    ],
+    "moreHistory": [
+      "A major 1896–1900 development campaign improved the mine road, added a boarding house, and extended several tunnels by hundreds of feet, illustrating the transportation and infrastructure challenges of this steep canyon setting.",
+      "Surviving identification features include scattered mine machinery, collapsed structural remains, dumps, and the disturbed mine landscape; do not reconstruct intact buildings from these remnants.",
+      "Keep the historic mine workings, the related Bear Creek transportation corridor, and any later haulage-tunnel development as separate linked components.",
+      "The reported dollar figure is a historical period value, not a modern valuation.",
+      "No unsupported lifetime tonnage is stated."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

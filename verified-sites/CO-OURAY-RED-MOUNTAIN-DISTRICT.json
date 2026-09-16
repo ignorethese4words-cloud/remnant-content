@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-RED-MOUNTAIN-DISTRICT",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.351Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-RED-MOUNTAIN-DISTRICT",
+    "name": "Red Mountain Mining District",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Mining District / Ghost Towns / Railroad / Mining Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B432=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B432&\"\" \"\"&$C432),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&\"&\"$C432),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B432&\"\" \"\"&$C432),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C432<>\"\"\"\",$C432,\"\"Historic Site\"\")))\"),\"Railroad Feature\")",
+    "overview": [
+      "Red Mountain Mining District is a high-altitude industrial landscape centered on Red Mountain Pass and spanning portions of Ouray and San Juan Counties.",
+      "Mining intensified in the late 1870s and 1880s around rich breccia-pipe, chimney, and vein deposits carrying silver, gold, lead, zinc, and copper."
+    ],
+    "timeline": [
+      {
+        "year": "1885",
+        "text": "A wagon road connected the district by 1885, and the Silverton Railroad traversed it by 1889."
+      },
+      {
+        "year": "1889",
+        "text": "A wagon road connected the district by 1885, and the Silverton Railroad traversed it by 1889."
+      },
+      {
+        "year": "1890",
+        "text": "Carpenter, 'Miners in the Red Mountain Mining District,' circa 1889–1890, History Colorado; public domain in the United States."
+      },
+      {
+        "year": "2026",
+        "text": "G3 closed 2026-08-21: use an interpretive parent-district envelope centered on Red Mountain Pass and the US 550 / Red Mountain Creek–Mineral Creek corridor, from northern Ironton Park south through the Red Mountains toward Chattanooga/Mineral Creek and Mount Abram, and west to the divide above Red Mountain Creek."
+      },
+      {
+        "year": "1882",
+        "text": "Timeline: intensive exploration/mining developed in the late 1870s–1880s; Red Mountain was one of the original Ouray County mining districts recognized in 1882."
+      }
+    ],
+    "moreHistory": [
+      "The boom supported Red Mountain Town/Rogersville, Guston, Ironton, Chattanooga/Sweetville, and other camps.",
+      "A wagon road connected the district by 1885, and the Silverton Railroad traversed it by 1889.",
+      "Surviving features include headframes, mine and mill ruins, cabins and boardinghouses, dumps, rail grades, road traces, flumes, and townsites.",
+      "Treat the district as parent context and preserve named towns, mines, roads, and railroad features as separate linked records.",
+      "Do not provide directions into workings, unstable structures, or restricted parcels."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}

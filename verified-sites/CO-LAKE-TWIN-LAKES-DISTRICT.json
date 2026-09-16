@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LAKE-TWIN-LAKES-DISTRICT",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
+  "verifiedAt": "2026-09-16T00:23:17.335Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 19,
+    "exploreSiteCount": 15,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "CO-LAKE-TWIN-LAKES-DISTRICT",
+    "name": "Twin Lakes Historic District / Historic Twin Lakes Village",
+    "location": "Twin Lakes",
+    "county": "Lake County",
+    "category": "Historic Village / Mining-Era Community",
+    "componentType": "Late-19th-Century Mountain Village / Historic District",
+    "appReady": true,
+    "betaVisible": true,
+    "overview": [
+      "Twin Lakes Historic District preserves one of Lake County’s best surviving late-nineteenth-century mountain villages. Its compact collection of historic buildings reflects the community that served travelers, residents, miners, and visitors moving through the Upper Arkansas and Independence Pass region.",
+      "The district is separate from the Interlaken Resort complex across the lake. Remnant treats Twin Lakes as the historic village parent record while preserving individual buildings for possible future sub-site expansion."
+    ],
+    "timeline": [
+      {
+        "year": "1860s–1870s",
+        "text": "Twin Lakes was already recognized as a mountain destination and transportation setting during the early mining era; surviving historic photography documents the landscape by the 1870s."
+      },
+      {
+        "year": "1880s–1890s",
+        "text": "Most principal contributing buildings associated with the historic district date from the final two decades of the nineteenth century."
+      },
+      {
+        "year": "Mining era",
+        "text": "The village served a regional network of mining, transportation, lodging, commerce, fishing, and mountain travel rather than functioning as a single mine camp."
+      },
+      {
+        "year": "Later 1900s",
+        "text": "The village retained enough historic fabric to preserve a recognizable nineteenth-century mountain-community character."
+      },
+      {
+        "year": "Today",
+        "text": "The historic district remains identifiable through its concentration of log buildings, gabled roofs, village-scale setting, and relationship to Twin Lakes and the surrounding mountains."
+      }
+    ],
+    "moreHistory": [
+      "History Colorado describes Twin Lakes as one of the best remaining examples of a late-1800s Colorado mountain village. Many of the principal contributing buildings are log construction with gabled roofs, giving the district a coherent visual character.",
+      "Twin Lakes occupied an important position between the Upper Arkansas Valley and routes crossing the high country. Its history therefore mixes mining-era transportation and commerce with lodging, tourism, fishing, and community life.",
+      "Early landscape photographs are valuable evidence because they show that Twin Lakes had already become a recognized destination during the nineteenth century. They provide context for the village even when a photograph does not identify one specific surviving building.",
+      "Interlaken Resort is historically related but physically and functionally separate. Keeping the two records distinct prevents the resort’s development history from being incorrectly assigned to the Twin Lakes village.",
+      "For Remnant, the district works best as a parent community record. Individual houses or commercial buildings are not part of the current app scope, but their research can remain available for possible future sub-sites."
+    ],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.0820493,
+      "longitude": -106.38228
+    },
+    "mediaNotice": "Historic image not available"
+  }
+}

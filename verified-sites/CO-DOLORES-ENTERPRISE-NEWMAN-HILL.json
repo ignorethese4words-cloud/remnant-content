@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-DOLORES-ENTERPRISE-NEWMAN-HILL",
+  "countySlug": "dolores",
+  "countyPack": "packs/canonical/colorado-dolores.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T01:05:03.470Z",
+  "verifiedAt": "2026-09-16T00:23:17.323Z",
+  "manifest": {
+    "id": "colorado-dolores",
+    "county": "Dolores County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-dolores.json",
+    "siteCount": 9,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 4
+  },
+  "site": {
+    "id": "CO-DOLORES-ENTERPRISE-NEWMAN-HILL",
+    "name": "Enterprise Mine & Newman Hill Silver Complex",
+    "location": "Rico mining district, Dolores County, Colorado",
+    "county": "Dolores County",
+    "category": "Mine / Mining Landscape",
+    "componentType": "Mine",
+    "overview": [
+      "The Enterprise Mine and Newman Hill workings form a documented major silver-mining complex in the Rico district and contributed prominently to the district's 1893 production peak. Existing research supports the complex as a basic Scan identity."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

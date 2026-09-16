@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-BEN-BOLTS-PAYMASTER",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.313Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-BEN-BOLTS-PAYMASTER",
+    "name": "Ben Bolts Paymaster",
+    "location": "Monarch district",
+    "county": "Chaffee County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Ben Bolts Paymaster is a mapped Monarch-district silver mine and past-producer locality. Federal mapping and mine records support the identity and location for Basic Scan while richer operating history and present-day workings remain unasserted."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "USGS-derived Garfield quadrangle mapping preserves Ben Bolts Paymaster as a named inactive silver mine in the Monarch district."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.55,
+      "longitude": -106.31725
+    }
+  }
+}

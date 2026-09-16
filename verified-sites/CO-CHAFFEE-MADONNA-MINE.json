@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-MADONNA-MINE",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.318Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-MADONNA-MINE",
+    "name": "Madonna Mine",
+    "location": "Monarch Mining District",
+    "county": "Chaffee County",
+    "category": "Adit / Mine Complex",
+    "componentType": "Adit / Portal",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Madonna is one of the principal historic mines of the Monarch district, with extensive multi-level workings and major zinc/lead-silver production. USGS topographic locality data provides a stable parent-mine Scan anchor."
+    ],
+    "timeline": [
+      {
+        "year": "1878–1930",
+        "text": "Madonna was discovered in 1878 and became one of the Monarch district's principal long-running producers."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.529441,
+      "longitude": -106.307246
+    }
+  }
+}

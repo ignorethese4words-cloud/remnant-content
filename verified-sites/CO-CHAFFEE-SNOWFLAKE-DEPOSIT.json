@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-SNOWFLAKE-DEPOSIT",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "19",
+  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
+  "verifiedAt": "2026-09-16T00:23:17.319Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "19",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 71,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-SNOWFLAKE-DEPOSIT",
+    "name": "Snowflake Deposit",
+    "location": "Browns Canyon Mining District",
+    "county": "Chaffee County",
+    "category": "Adit / Incline",
+    "componentType": "Adit / Portal",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Snowflake is a federally documented Browns Canyon fluorspar deposit developed by an adit and incline. USGS deposit mapping provides a stable Basic Scan anchor."
+    ],
+    "timeline": [
+      {
+        "year": "Historic fluorspar era",
+        "text": "USGS Professional Paper 626 documented Snowflake and its adit/incline workings within the Browns Canyon fluorspar district."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.63861,
+      "longitude": -106.07639
+    }
+  }
+}

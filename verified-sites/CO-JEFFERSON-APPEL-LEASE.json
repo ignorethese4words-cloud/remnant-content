@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-JEFFERSON-APPEL-LEASE",
+  "countySlug": "jefferson",
+  "countyPack": "packs/canonical/colorado-jefferson.json",
+  "packVersion": "12",
+  "packGeneratedAt": "2026-09-15T13:53:40.772Z",
+  "verifiedAt": "2026-09-16T00:23:17.332Z",
+  "manifest": {
+    "id": "colorado-jefferson",
+    "county": "Jefferson County",
+    "state": "Colorado",
+    "version": "12",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-jefferson.json",
+    "siteCount": 18,
+    "exploreSiteCount": 6,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-JEFFERSON-APPEL-LEASE",
+    "name": "Appel Lease",
+    "location": "Lower Clear Creek Area, Jefferson County",
+    "county": "Jefferson County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-14T16:19:13Z",
+    "overview": [
+      "Appel Lease is a documented historic uranium lease/locality in Jefferson County's Lower Clear Creek Area. Federal U.S. Geological Survey reporting lists the Appel lease among Jefferson County uranium vein deposits."
+    ],
+    "timeline": [],
+    "moreHistory": [
+      "Current desk sources establish the Appel Lease name, uranium association, Lower Clear Creek Area placement, and a defensible mapped site-level reference point, but do not provide enough reliable site-specific chronology, production, operator, or workings history for a fuller interpretive profile.",
+      "The mapped point near 39.71861, -105.26667 is used only as a site-level identification reference. It should not be interpreted as a field-surveyed surviving portal, shaft collar, property boundary, or statement of current access."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.718611,
+      "longitude": -105.266667
+    },
+    "sourceReferences": [
+      {
+        "title": "U.S. Geological Survey Bulletin 1159 — Jefferson County uranium vein deposits table",
+        "publisher": "U.S. Geological Survey",
+        "url": "https://pubs.usgs.gov/bul/1159/report.pdf",
+        "note": "Lists Appel lease among uranium vein deposits in Jefferson County, Colorado."
+      },
+      {
+        "title": "Appel Lease, Lower Clear Creek Area, Jefferson County, Colorado",
+        "publisher": "Mindat",
+        "url": "https://www.mindat.org/locentry-1127369.html",
+        "note": "Cross-checks the Appel Lease identity, Lower Clear Creek Area placement, uranium commodity association, and mapped locality context."
+      },
+      {
+        "title": "Jefferson County, Colorado Mines — MRDS-derived county inventory",
+        "publisher": "Western Mining History / U.S. Geological Survey MRDS data",
+        "url": "https://westernmininghistory.com/mine-county/colorado/jefferson/",
+        "note": "Independent MRDS-derived inventory cross-check for the Appel Lease name in Jefferson County."
+      }
+    ]
+  }
+}

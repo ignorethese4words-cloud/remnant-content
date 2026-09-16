@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CLEAR-CREEK-ALMADEN-MINE",
+  "countySlug": "clear-creek",
+  "countyPack": "packs/canonical/colorado-clear-creek.json",
+  "packVersion": "97",
+  "packGeneratedAt": "2026-09-12T23:00:31.832Z",
+  "verifiedAt": "2026-09-16T00:23:17.320Z",
+  "manifest": {
+    "id": "colorado-clear-creek",
+    "county": "Clear Creek County",
+    "state": "Colorado",
+    "version": "97",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-clear-creek.json",
+    "siteCount": 17,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 16
+  },
+  "site": {
+    "id": "CO-CLEAR-CREEK-ALMADEN-MINE",
+    "name": "Almaden Mine",
+    "location": "Fall River",
+    "county": "Clear Creek County",
+    "category": "Mine",
+    "componentType": "Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Almaden Mine is a documented underground mine on the southwest side of Fall River. USGS studies describe two principal drift adits and a shaft, including workings on the Colorado No. 1 or Blazing Star vein, providing a defensible Basic Scan identity without asserting present-day access or condition."
+    ],
+    "timeline": [
+      {
+        "year": "1906–1963",
+        "text": "Federal and Colorado School of Mines records document the Almaden property across multiple studies, including early mine reports and later USGS investigations of its polymetallic and uranium-bearing veins."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 39.78443,
+      "longitude": -105.585
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-GUNNISON-RAYMOND-MINE",
+  "countySlug": "gunnison",
+  "countyPack": "packs/canonical/colorado-gunnison.json",
+  "packVersion": "8",
+  "packGeneratedAt": "2026-09-07T20:24:27.189Z",
+  "verifiedAt": "2026-09-16T00:23:17.330Z",
+  "manifest": {
+    "id": "colorado-gunnison",
+    "county": "Gunnison County",
+    "state": "Colorado",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gunnison.json",
+    "siteCount": 15,
+    "exploreSiteCount": 0,
+    "idOnlySiteCount": 15
+  },
+  "site": {
+    "id": "CO-GUNNISON-RAYMOND-MINE",
+    "name": "Raymond Mine",
+    "location": "Gold Brick district",
+    "county": "Gunnison County",
+    "category": "Historic Mine",
+    "componentType": "Adit / Mine",
+    "appReady": false,
+    "betaVisible": false,
+    "overview": [
+      "Raymond was one of the larger Gold Brick district producers and was developed by a long adit cutting multiple veins."
+    ],
+    "timeline": [
+      {
+        "year": "Historic mining era",
+        "text": "Raymond developed an adit system extending roughly 3,000 feet through several mineralized veins."
+      }
+    ],
+    "moreHistory": [],
+    "displayImages": [],
+    "coordinates": {
+      "latitude": 38.62056,
+      "longitude": -106.58306
+    }
+  }
+}

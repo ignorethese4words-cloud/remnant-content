@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-SNEFFELS-TOWNSITE",
+  "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "7",
+  "packGeneratedAt": "2026-09-14T03:03:26.738Z",
+  "verifiedAt": "2026-09-16T00:23:17.352Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "7",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 31,
+    "exploreSiteCount": 20,
+    "idOnlySiteCount": 2
+  },
+  "site": {
+    "id": "CO-OURAY-SNEFFELS-TOWNSITE",
+    "name": "Sneffels / Mount Sneffels Mining Townsite",
+    "location": "Ouray County, Colorado",
+    "county": "Ouray County",
+    "category": "Ghost Town / Mining Camp / Mill Town",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B437=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B437&\"\" \"\"&$C437),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&\"&\"$C437),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B437&\"\" \"\"&$C437),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C437<>\"\"\"\",$C437,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+    "overview": [
+      "Sneffels—also known historically as Mount Sneffels and, in early accounts, Porters—was a high-elevation mining and milling settlement serving the Sneffels district southwest of Ouray.",
+      "The camp developed in the mid-1870s, received a post office under the name Mount Sneffels in 1879, and was renamed Sneffels in 1895."
+    ],
+    "timeline": [
+      {
+        "year": "1879",
+        "text": "The camp developed in the mid-1870s, received a post office under the name Mount Sneffels in 1879, and was renamed Sneffels in 1895."
+      },
+      {
+        "year": "1895",
+        "text": "The camp developed in the mid-1870s, received a post office under the name Mount Sneffels in 1879, and was renamed Sneffels in 1895."
+      },
+      {
+        "year": "1875",
+        "text": "Timeline: settlement developed in the mid-1870s; secondary town histories place initial settlement about 1875; a post office was established in 1879 as Mount Sneffels and renamed Sneffels in 1895."
+      },
+      {
+        "year": "2026",
+        "text": "G3 closed 2026-08-21."
+      }
+    ],
+    "moreHistory": [
+      "Its importance increased when construction of the Revenue Tunnel and mill concentrated freight, workers, supplies, and ore processing in the valley.",
+      "Historic photographs document a compact settlement of log and frame buildings, a store and post office, livery and freight activity, worker housing, and major mill structures nearby.",
+      "Mining and milling contraction eventually removed most of that built environment.",
+      "Current identification should rely on the broader townsite landscape—foundations, scattered ruins, road and creek relationships, and the immediately adjacent mining-industrial setting—rather than implying that all photographed buildings survive.",
+      "Component safeguard: keep the Sneffels townsite distinct from the Revenue–Virginius and Atlas mine-and-mill complexes; treat individual commercial, residential, freight, and post-office structures as subordinate townsite components unless future expansion warrants separate records."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "state": "Colorado",
+    "appReady": true,
+    "betaVisible": true
+  }
+}
