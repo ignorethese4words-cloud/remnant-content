@@ -36,7 +36,8 @@ jobs:
       - name: Commit merged public county packs and manifest
         shell: bash
         run: |
-          git add packs/canonical pack-index.json patches/pending verified-sites
+          git add packs/canonical pack-index.json verified-sites
+          if [ -d patches/pending ]; then git add -A patches/pending; fi
           if git diff --cached --quiet; then
             echo "No merged public county-pack changes to commit."
             exit 0
