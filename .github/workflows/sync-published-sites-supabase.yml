@@ -1,0 +1,41 @@
+name: Sync Published Sites to Supabase
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'verified-sites/*.json'
+      - 'scripts/sync-published-sites-to-supabase.mjs'
+      - '.github/workflows/sync-published-sites-supabase.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: remnant-supabase-published-sync
+  cancel-in-progress: false
+
+jobs:
+  sync-published-sites:
+    runs-on: ubuntu-latest
+    env:
+      SUPABASE_URL: https://mdwwaxqzzztpcfkfgijr.supabase.co
+      SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Supabase secret not configured yet
+        if: ${{ env.SUPABASE_SECRET_KEY == '' }}
+        run: echo 'SUPABASE_SECRET_KEY is not configured; dashboard sync skipped.'
+
+      - name: Sync verified published sites to Supabase
+        if: ${{ env.SUPABASE_SECRET_KEY != '' }}
+        run: node scripts/sync-published-sites-to-supabase.mjs
