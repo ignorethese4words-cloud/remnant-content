@@ -3,8 +3,8 @@
   "id": "colorado-lake",
   "county": "Lake County",
   "state": "Colorado",
-  "version": "10",
-  "generatedAt": "2026-09-16T11:06:25.830Z",
+  "version": "11",
+  "generatedAt": "2026-09-16T11:09:08.665Z",
   "sites": [
     {
       "id": "CO-LAKE-BLACK-CLOUD",
@@ -979,6 +979,76 @@
           "publisher": "Weekly Register-Call via Colorado Historic Newspapers Collection",
           "url": "https://www.coloradohistoricnewspapers.org/?a=d&d=WRC18800116-01.2.31",
           "note": "The January 16, 1880 weekly ore-output report lists the Agassiz among Leadville mines contributing ore."
+        }
+      ]
+    },
+    {
+      "id": "CO-LAKE-ADAMS-SHAFT",
+      "name": "Adams Shaft",
+      "location": "Leadville mining district, north of Leadville",
+      "county": "Lake County",
+      "state": "Colorado",
+      "category": "Historic Mine Shaft",
+      "componentType": "Shaft / Mine",
+      "componentDetail": "Deep Mine Shaft / Wolftone-Area Underground Workings",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-16T10:47:35Z",
+      "overview": [
+        "Adams Shaft is a documented historic mine shaft in the Leadville mining district, mapped north of Leadville near the Matchless and Wolftone-area workings.",
+        "Period reporting described the shaft at about 460 feet deep in 1886. Later district reporting shows it remained part of the underground mining network, and a 1949 U.S. Bureau of Mines investigation specifically included Adams among the Leadville shafts examined, mapped, and sampled."
+      ],
+      "timeline": [
+        {
+          "year": "1886",
+          "text": "The Carbonate Chronicle reported the Adams shaft at about 460 feet deep, alongside the neighboring Result shaft."
+        },
+        {
+          "year": "1911",
+          "text": "Leadville district reporting said the Adams shaft would be used to carry on mining work as zinc deposits developed through the Wolftone shaft extended into adjoining workings."
+        },
+        {
+          "year": "1949",
+          "text": "U.S. Bureau of Mines Report of Investigations 4518 included Adams Shaft in its examination, mapping, and sampling of Leadville mine shafts and underground workings."
+        }
+      ],
+      "moreHistory": [
+        "Adams Shaft belonged to Leadville's dense network of underground workings rather than to the unrelated Hub Gulch adit previously described in the registry.",
+        "The mapped identification point at approximately 39.250545, -106.273635 corresponds to the named Adams Shaft shown in USGS-derived topographic data. It is a site-level historic identification point, not a field survey of present shaft conditions.",
+        "Historic mine workings can be unstable and dangerous. Visitors should remain on lawful public routes, respect closures and private property, and never enter or approach an open shaft."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.250545,
+        "longitude": -106.273635
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey Professional Paper 148 — Geology and ore deposits of the Leadville mining district, Colorado",
+          "url": "https://www.usgs.gov/publications/geology-and-ore-deposits-leadville-mining-district-colorado"
+        },
+        {
+          "title": "U.S. Bureau of Mines Report of Investigations 4518 — Examination, mapping, and sampling of mine shafts and underground workings, Leadville, Lake County, Colorado",
+          "url": "https://www.onetunnel.org/documents/ri-4518-examination-mapping-and-sampling-of-mine-shafts-and-underground-workings-leadville-lake-county-colo-"
+        },
+        {
+          "title": "Bureau of Mines publications index — Adams Shaft investigation in RI 4518",
+          "url": "https://www.fischer-tropsch.org/DOE/DOE_reports/295062/pb_295062-19-A.pdf"
+        },
+        {
+          "title": "Carbonate Chronicle, March 1, 1886 — Adams Shaft depth report",
+          "url": "https://www.coloradohistoricnewspapers.org/?a=d&d=CCL18860301-01.2.68"
+        },
+        {
+          "title": "Herald Democrat, January 1, 1911 — Adams Shaft in Wolftone-area mining work",
+          "url": "https://www.coloradohistoricnewspapers.org/?a=d&d=THD19110101-01.2.60"
+        },
+        {
+          "title": "USGS-derived topographic feature coordinates for Adams Shaft",
+          "url": "https://www.topoquest.com/"
         }
       ]
     }

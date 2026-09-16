@@ -1,5 +1,22 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LAKE-ADAMS-SHAFT",
   "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "11",
+  "packGeneratedAt": "2026-09-16T11:09:08.665Z",
+  "verifiedAt": "2026-09-16T11:09:08.668Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "11",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 21,
+    "exploreSiteCount": 17,
+    "idOnlySiteCount": 4
+  },
   "site": {
     "id": "CO-LAKE-ADAMS-SHAFT",
     "name": "Adams Shaft",
