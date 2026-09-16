@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-JEFFERSON-ASCENSION-MINE",
+  "countySlug": "jefferson",
+  "countyPack": "packs/canonical/colorado-jefferson.json",
+  "packVersion": "13",
+  "packGeneratedAt": "2026-09-16T21:41:02.370Z",
+  "verifiedAt": "2026-09-16T21:41:02.372Z",
+  "manifest": {
+    "id": "colorado-jefferson",
+    "county": "Jefferson County",
+    "state": "Colorado",
+    "version": "13",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-jefferson.json",
+    "siteCount": 19,
+    "exploreSiteCount": 7,
+    "idOnlySiteCount": 1
+  },
+  "site": {
+    "id": "CO-JEFFERSON-ASCENSION-MINE",
+    "name": "Ascension Mine",
+    "location": "Ralston Buttes Mining District near Tucker Gulch, Jefferson County",
+    "county": "Jefferson County",
+    "state": "Colorado",
+    "category": "Historic Uranium Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-16T05:56:37Z",
+    "overview": [
+      "Ascension Mine, also recorded as the Nair Prospect and Nare Lease, was a small uranium producer in Jefferson County's Ralston Buttes district. The mine was discovered in 1955 and produced intermittently from 1956 through 1972."
+    ],
+    "timeline": [
+      {
+        "date": "1955",
+        "title": "Discovery",
+        "description": "The mineralized vein was discovered in place, and the site entered federal mineral records as the Ascension Mine."
+      },
+      {
+        "date": "1956",
+        "title": "Production begins",
+        "description": "Recorded uranium production began in 1956; the documented ore grade was approximately 0.23 percent U3O8."
+      },
+      {
+        "date": "1960–1963",
+        "title": "Intermittent district production",
+        "description": "USGS district records identify the Ascension Mine as contributing production during 1960 through 1963."
+      },
+      {
+        "date": "1972",
+        "title": "Last recorded production",
+        "description": "The final documented production year was 1972, when Cotter Corporation was listed as the owner."
+      }
+    ],
+    "moreHistory": [
+      "The mine exploited a uranium-bearing vein in the Ralston Buttes district. Federal records list uranium as the primary commodity, with copper and lead also present.",
+      "USGS Professional Paper 520 includes a geologic map and sections for the Ascension Mine area. Later mineral study of a historic Ascension sample identified quartz, uraninite, pyrite, and possible thorianite.",
+      "The mapped point lies near Tucker Gulch and represents the documented mine site. Historical mine ground can be unstable or contaminated, and this record does not establish public access or safe entry."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.77971,
+      "longitude": -105.29086
+    },
+    "sourceReferences": [
+      {
+        "title": "Ascension Mine — MRDS 10107989",
+        "publisher": "USGS Mineral Resources Data System mirror",
+        "url": "https://www.qvyshift.com/mrds/10107989",
+        "note": "Retains the primary identity, Nair Prospect and Nare Lease aliases, coordinates, Tucker Gulch location description, commodities, production period, ownership, and related MRDS record."
+      },
+      {
+        "title": "Geology and Uranium Deposits of the Ralston Buttes District, Jefferson County, Colorado",
+        "publisher": "U.S. Geological Survey",
+        "url": "https://pubs.usgs.gov/pp/0520/report.pdf",
+        "note": "USGS Professional Paper 520 documents the district and includes dedicated geologic mapping and sections for the Ascension Mine area."
+      },
+      {
+        "title": "Geologic map and sections of the Ascension Mine area",
+        "publisher": "U.S. Geological Survey",
+        "url": "https://pubs.usgs.gov/pp/0520/plate-6.pdf",
+        "note": "Official USGS plate 6 maps the Ascension Mine area in the Ralston Buttes district."
+      },
+      {
+        "title": "A mid-1950s collection of uranium ore samples from Colorado and Utah",
+        "publisher": "New Mexico Geological Society / New Mexico Bureau of Geology and Mineral Resources",
+        "url": "https://geoinfo.nmt.edu/museum/nmms/abstracts/2021/2021-NMMS_p22.pdf",
+        "note": "Identifies MRDS 10107989 as a producing Ralston Buttes uranium mine and reports mineral analysis of a historic Ascension Mine pitchblende sample."
+      }
+    ]
+  }
+}
