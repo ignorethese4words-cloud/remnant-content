@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-ALPINE-TUNNEL",
+  "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packVersion": "20",
+  "packGeneratedAt": "2026-09-16T15:46:41.171Z",
+  "verifiedAt": "2026-09-16T15:46:41.174Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "version": "20",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 72,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 71
+  },
+  "site": {
+    "id": "CO-CHAFFEE-ALPINE-TUNNEL",
+    "name": "Alpine Tunnel East Portal & Railroad Grade",
+    "location": "Alpine Tunnel Historic District / Hancock approach",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "category": "Railroad",
+    "componentType": "Adit / Portal",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-14T22:52:30Z",
+    "coordinates": {
+      "latitude": 38.6489,
+      "longitude": -106.3633
+    },
+    "overview": [
+      "The Alpine Tunnel was the centerpiece of a Denver, South Park and Pacific Railroad route across the Continental Divide, linking the eastern approach from Hancock with the western approach toward Quartz.",
+      "The National Register-listed historic district preserves the railroad grade and associated features across roughly 13 miles, while the tunnel itself extends 1,772 feet beneath the divide."
+    ],
+    "timeline": [
+      {
+        "year": "1879-1881",
+        "text": "Construction crews built the high-elevation railroad approach and excavated the Alpine Tunnel beneath the Continental Divide."
+      },
+      {
+        "year": "1880s-1910",
+        "text": "The Denver, South Park and Pacific and successor railroads used the Alpine Tunnel route as part of their mountain transportation network."
+      },
+      {
+        "year": "1910",
+        "text": "Railroad use of the Alpine Tunnel route ended after roughly three decades of operation."
+      },
+      {
+        "year": "Historic preservation era",
+        "text": "The Alpine Tunnel, railroad grade, station area, and related resources were recognized together as the Alpine Tunnel Historic District."
+      }
+    ],
+    "moreHistory": [
+      "National Register documentation describes the Alpine Tunnel Historic District as 13.3 contiguous miles following the former Denver, South Park and Pacific Railroad right-of-way across Chaffee and Gunnison counties.",
+      "The tunnel runs 1,772 feet beneath Altman Pass. Its eastern approach curves inside the portal before the bore continues toward the Continental Divide; the tunnel was built with a slight grade to provide drainage toward both portals.",
+      "The historic district includes much more than the bore itself, preserving the railbed and associated railroad landscape. This Remnant entry focuses on the Chaffee County east-portal and railroad-grade side of that larger district.",
+      "Historic documentation records substantial collapse within the tunnel, including a section that sealed the eastern portal. The location should be understood as a historic railroad landscape rather than an invitation to enter underground workings."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "sourceReferences": [
+      {
+        "title": "Alpine Tunnel Historic District — National Register of Historic Places registration documentation",
+        "publisher": "National Park Service",
+        "url": "https://npgallery.nps.gov/GetAsset/a48685ad-dd89-44ca-aec2-a24a6a8f6221",
+        "note": "Documents the 13.3-mile district, the 1,772-foot tunnel, railroad right-of-way, tunnel construction details, associated resources, and physical condition."
+      },
+      {
+        "title": "Alpine Tunnel Historic District 5GN.2598 / 5CF.838",
+        "publisher": "History Colorado",
+        "url": "https://www.historycolorado.org/media/6684",
+        "note": "State historic-resource record for the Alpine Tunnel Historic District spanning Gunnison and Chaffee counties."
+      },
+      {
+        "title": "Railroads in Colorado, 1858-1948",
+        "publisher": "History Colorado",
+        "url": "https://www.historycolorado.org/railroads-colorado-1858-1948",
+        "note": "Identifies the Alpine Tunnel Historic District and its approximately 13 miles of former Denver, South Park and Pacific Railroad grade across the Continental Divide."
+      }
+    ]
+  }
+}
