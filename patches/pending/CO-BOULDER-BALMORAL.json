@@ -1,0 +1,72 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-BALMORAL",
+    "name": "Balmoral",
+    "location": "About 900 feet east of Boulder Falls, Boulder County Tungsten Mining District",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "coordinates": {
+      "latitude": 40.00667,
+      "longitude": -105.39806
+    },
+    "overview": [
+      "The Balmoral Mine was a historic tungsten mine in Boulder County, about 900 feet east of Boulder Falls.",
+      "State and federal mining records document production, two connected shafts, multiple underground levels, and development on the Balmoral and Smith veins."
+    ],
+    "timeline": [
+      {
+        "year": "1918",
+        "text": "A detailed mine map of the Balmoral property was prepared for the Colorado Tungsten Corporation, documenting the property during the World War I-era tungsten-mining period."
+      },
+      {
+        "year": "1933",
+        "text": "USGS Professional Paper 245 records the mine as owned by Mrs. Washburn of Sugar Loaf and being worked by Hurlburt and Vant."
+      },
+      {
+        "year": "1960",
+        "text": "Colorado's Tungsten Mines of Colorado inventory reported about 1,500 units of production and summarized the mine's shafts, levels, veins, and remaining exploration potential."
+      }
+    ],
+    "moreHistory": [
+      "The 1960 Colorado mine inventory places Balmoral in the southwest quarter of Section 36, Township 1 North, Range 72 West, about 900 feet east of Boulder Falls. It describes an inclined main shaft with levels at 16, 39, and 79 feet and a second shaft about 70 feet northeast that connected with the 39-foot level; both shafts were reported caved by that time.",
+      "USGS Professional Paper 245 reports that a stope at the shaft on the first level was said to have produced about $16,000 worth of ore, while another stope to the southwest yielded lower-grade material. Published records identify mineralization on the Balmoral and Smith veins.",
+      "The mapped identification point near 40.00667, -105.39806 is used as a site-level reference consistent with published Boulder County tungsten-district locality records and the documented position east of Boulder Falls. It should not be interpreted as a field-surveyed surviving shaft collar, property boundary, or statement of current access."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "sourceReferences": [
+      {
+        "title": "Tungsten Mines of Colorado — Balmoral",
+        "publisher": "Colorado State Metal Mining Fund / Colorado Geological Survey archive",
+        "url": "https://hermes.cde.state.co.us/islandora/object/co%3A26414/datastream/OBJ/download/Tungsten_mines_of_Colorado.pdf",
+        "note": "Provides the Balmoral location, owner, production estimate, shaft and level configuration, vein names, and map-source references."
+      },
+      {
+        "title": "Geology and Ore Deposits of the Boulder County Tungsten District, Colorado — Professional Paper 245",
+        "publisher": "U.S. Geological Survey",
+        "url": "https://pubs.usgs.gov/pp/0245/report.pdf",
+        "note": "Provides Balmoral's location east of Boulder Falls, workings reference, ownership/operation in 1933, and site-specific production history."
+      },
+      {
+        "title": "Balmoral mine of the Colorado Tungsten Corporation",
+        "publisher": "Colorado School of Mines, Arthur Lakes Library",
+        "url": "https://hdl.handle.net/11124/171111",
+        "note": "Preserves a 1918 three-sheet mine map for the Balmoral property in Boulder County."
+      },
+      {
+        "title": "Lookout Occurrence — Balmoral locality cross-reference",
+        "publisher": "Mindat",
+        "url": "https://www.mindat.org/loc-134313.html",
+        "note": "Cross-checks Balmoral within the Boulder County Tungsten Mining District and supports the site-level locality point used for identification."
+      }
+    ],
+    "contentUpdatedAt": "2026-09-14T21:48:23Z"
+  }
+}
