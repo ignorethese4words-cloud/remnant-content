@@ -3,8 +3,8 @@
   "id": "colorado-park",
   "county": "Park County",
   "state": "Colorado",
-  "version": "3",
-  "generatedAt": "2026-09-13T23:58:34.855Z",
+  "version": "4",
+  "generatedAt": "2026-09-16T21:04:24.223Z",
   "sites": [
     {
       "id": "CO-PARK-JEFFERSON-DSPP-DEPOT",
@@ -70,6 +70,64 @@
         {
           "title": "USGS MRDS-derived Abel Mineral Land Prospect locality reference",
           "url": "https://www.mindat.org/loc-50072.html"
+        }
+      ]
+    },
+    {
+      "id": "CO-PARK-ALLEGHENY-PLACER",
+      "name": "Allegheny Placer",
+      "location": "Mosquito Pass area near the Park–Lake county line",
+      "county": "Park County",
+      "state": "Colorado",
+      "category": "Historic Placer Mine",
+      "componentType": "Placer / Mining Landscape",
+      "componentDetail": "High-Elevation Gold-Uranium Placer Landscape",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-16T16:39:28Z",
+      "overview": [
+        "Allegheny Placer is a named high-elevation placer site near Mosquito Pass, recorded in Park County and preserved on U.S. Geological Survey mapping of the Leadville and Climax area.",
+        "Federal mineral-resource records classify it as a past producer associated with gold and uranium. The mapped point represents the documented placer landscape rather than one precisely surveyed surviving cut, shaft, or item of equipment."
+      ],
+      "timeline": [
+        {
+          "year": "1957",
+          "text": "U.S. Geological Survey Professional Paper 235 published detailed Leadville-area mapping that labels the site as the Alleghany Placer."
+        },
+        {
+          "year": "1983",
+          "text": "A U.S. Bureau of Mines reporter entered the Allegheny Placer in the federal Mineral Resources Data System as a Park County past producer associated with gold and uranium."
+        }
+      ],
+      "moreHistory": [
+        "The site lies close to the Park–Lake county line in the Mosquito Pass area. Federal mineral-resource records place the Allegheny Placer in Park County, while some modern map services may assign nearby features differently because of the boundary.",
+        "The identification point at approximately 39.27721, -106.18308 is a landscape-level anchor for the named placer. It does not establish the condition, exact extent, or accessibility of surviving workings.",
+        "High-elevation mine and placer terrain can contain unstable excavations and sudden weather hazards. Stay on lawful public routes, respect closures and private property, and do not enter abandoned workings."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.27721,
+        "longitude": -106.18308
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey Professional Paper 235, Plate 3 — Leadville area map labeling Alleghany Placer",
+          "url": "https://pubs.usgs.gov/pp/0235/plate-03.pdf"
+        },
+        {
+          "title": "USGS Mineral Resources Data System — Allegheny Placer record 10143204",
+          "url": "https://mrdata.usgs.gov/mrds/"
+        },
+        {
+          "title": "MRDS-derived Allegheny Placer record 10143204",
+          "url": "https://www.qvyshift.com/mrds/10143204"
+        },
+        {
+          "title": "USGS Climax 7.5-minute topographic map index",
+          "url": "https://mapstore.mytopo.com/products/ustopo_colorado_climax"
         }
       ]
     }

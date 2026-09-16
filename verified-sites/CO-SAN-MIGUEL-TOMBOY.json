@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-SAN-MIGUEL-TOMBOY",
+  "countySlug": "san-miguel",
+  "countyPack": "packs/canonical/colorado-san-miguel.json",
+  "packVersion": "4",
+  "packGeneratedAt": "2026-09-16T21:03:08.306Z",
+  "verifiedAt": "2026-09-16T21:04:24.222Z",
+  "manifest": {
+    "id": "colorado-san-miguel",
+    "county": "San Miguel County",
+    "state": "Colorado",
+    "version": "4",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-san-miguel.json",
+    "siteCount": 12,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-SAN-MIGUEL-TOMBOY",
+    "name": "Tomboy Mine & Ghost Town",
+    "location": "Tomboy Basin above Telluride, San Miguel County, Colorado",
+    "county": "San Miguel County",
+    "category": "Mine / Ghost Town",
+    "componentType": "Mine / Town Complex",
+    "overview": [
+      "Tomboy is a documented historic mine and mining settlement in Tomboy Basin above Telluride. Federal mining records and county documentation support the basin, mine workings, and townsite as a basic Scan identity."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

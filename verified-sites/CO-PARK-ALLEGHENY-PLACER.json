@@ -1,5 +1,22 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-PARK-ALLEGHENY-PLACER",
   "countySlug": "park",
+  "countyPack": "packs/canonical/colorado-park.json",
+  "packVersion": "4",
+  "packGeneratedAt": "2026-09-16T21:04:24.223Z",
+  "verifiedAt": "2026-09-16T21:04:24.224Z",
+  "manifest": {
+    "id": "colorado-park",
+    "county": "Park County",
+    "state": "Colorado",
+    "version": "4",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-park.json",
+    "siteCount": 3,
+    "exploreSiteCount": 2,
+    "idOnlySiteCount": 1
+  },
   "site": {
     "id": "CO-PARK-ALLEGHENY-PLACER",
     "name": "Allegheny Placer",
