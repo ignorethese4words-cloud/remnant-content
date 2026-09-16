@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "103",
-  "generatedAt": "2026-09-16T00:29:46.132Z",
+  "version": "104",
+  "generatedAt": "2026-09-16T01:04:10.445Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -5062,6 +5062,59 @@
           "title": "Last Chance Mine Topo Map in Boulder County, Colorado — USGS-derived mapped feature",
           "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/last-chance-mine-1685064/",
           "note": "Preserves the mapped Last Chance Mine feature at 39.9749869, -105.4997198 on the Tungsten, Colorado USGS quadrangle."
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-TUNGSTEN-DISTRICT",
+      "name": "Boulder County Tungsten District & Tungsten Ghost Town",
+      "location": "Nederland / Barker Reservoir area",
+      "county": "Boulder County",
+      "category": "Mining District / Ghost Town",
+      "componentType": "Town / Camp",
+      "componentDetail": "Mining District / Ghost Town",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-15T11:34:00.000Z",
+      "overview": [
+        "The Boulder County tungsten district became one of the most important tungsten-producing areas in the United States after ferberite mining began around 1900 west of Boulder.",
+        "The boom supported the settlement of Tungsten near present-day Barker Reservoir and tied the Nederland area to a nationally important strategic-metal industry during the early twentieth century."
+      ],
+      "timeline": [
+        {
+          "year": "1900",
+          "text": "USGS histories place the beginning of major tungsten mining in the Boulder County district around 1900."
+        },
+        {
+          "year": "1900s-1918",
+          "text": "Ferberite production expanded rapidly, and the district became a leading U.S. tungsten source during the World War I era."
+        },
+        {
+          "year": "After World War I",
+          "text": "Tungsten mining declined sharply after wartime demand fell, contributing to the decline of mining communities in the upper Boulder Creek watershed."
+        }
+      ],
+      "moreHistory": [
+        "U.S. Geological Survey Professional Paper 245 documents the geology, claims, mines, and ore deposits of the Boulder County tungsten district and preserves detailed mapping of the district around Nederland and Barker Reservoir.",
+        "Boulder County historical interpretation identifies the former town of Tungsten near the area now occupied by Barker Reservoir and describes tungsten as one of the county's major historic mining industries.",
+        "This Remnant location represents the broader historic mining district and ghost-town landscape rather than a single tunnel portal or mine opening."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.9614,
+        "longitude": -105.5108
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey Professional Paper 245 — Geology and ore deposits of the Boulder County tungsten district, Colorado",
+          "url": "https://pubs.usgs.gov/pp/0245/report.pdf"
+        },
+        {
+          "title": "Boulder County Nederland Mining Museum FAQs",
+          "url": "https://assets.bouldercounty.gov/wp-content/uploads/2021/02/nmm-faq.pdf"
         }
       ]
     }

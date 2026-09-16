@@ -1,5 +1,22 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-TUNGSTEN-DISTRICT",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "104",
+  "packGeneratedAt": "2026-09-16T01:04:10.445Z",
+  "verifiedAt": "2026-09-16T01:04:10.453Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "104",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 105,
+    "exploreSiteCount": 41,
+    "idOnlySiteCount": 64
+  },
   "site": {
     "id": "CO-BOULDER-TUNGSTEN-DISTRICT",
     "name": "Boulder County Tungsten District & Tungsten Ghost Town",
