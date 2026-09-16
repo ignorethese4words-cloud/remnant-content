@@ -3,8 +3,8 @@
   "id": "colorado-lake",
   "county": "Lake County",
   "state": "Colorado",
-  "version": "9",
-  "generatedAt": "2026-09-14T17:06:12.221Z",
+  "version": "10",
+  "generatedAt": "2026-09-16T11:06:25.830Z",
   "sites": [
     {
       "id": "CO-LAKE-BLACK-CLOUD",
@@ -918,6 +918,67 @@
           "publisher": "The Engineering and Mining Journal",
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_Engineering_and_Mining_Journal_1895-08-03-_Vol_60_Iss_5_%28IA_sim_engineering-and-mining-journal_1895-08-03_60_5%29.pdf",
           "note": "Contemporary mining report stating that the Agwalt Mining Company, headed by Tingley S. Wood, had driven the tunnel about 3,300 feet toward the Little Johnny ore chute and planned diamond-drill exploration."
+        }
+      ]
+    },
+    {
+      "id": "CO-LAKE-AGASSIZ-MINE",
+      "name": "Agassiz Mine",
+      "location": "Fryer Hill, Leadville Mining District, Lake County",
+      "county": "Lake County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-16T11:05:00Z",
+      "overview": [
+        "Agassiz Mine is a documented historic underground mine on Fryer Hill in the Leadville mining district. A USGS Mineral Resources Data System record places the site near 39.24833, -106.27111 and classifies the patented property as a past producer with zinc recorded as a commodity."
+      ],
+      "timeline": [
+        {
+          "date": "1880",
+          "event": "A Leadville newspaper's weekly ore-output report listed the Agassiz among producing mines."
+        },
+        {
+          "date": "1886",
+          "event": "The U.S. Geological Survey's Geology and Mining Industry of Leadville documented the district and mapped mining on Fryer Hill."
+        },
+        {
+          "date": "1927",
+          "event": "USGS Professional Paper 148 provided a later comprehensive account of Leadville geology and ore deposits and is retained in the federal Agassiz mine record's bibliography."
+        }
+      ],
+      "moreHistory": [
+        "The reviewed evidence consistently places the Agassiz on Fryer Hill in the Leadville district. The federal mine record identifies a patented, underground, past-producing property and supplies a specific mapped site point.",
+        "Available sources do not establish a dependable operator chronology, production total, detailed workings description, or present condition. The mapped point is a historic site-level reference and should not be treated as a surveyed safe or accessible opening."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.24833,
+        "longitude": -106.27111
+      },
+      "sourceReferences": [
+        {
+          "title": "Agassiz Mine",
+          "publisher": "Western Mining History / USGS MRDS-derived record",
+          "url": "https://westernmininghistory.com/mine-detail/10288091/",
+          "note": "Retains USGS MRDS record 10288091 for the Lake County Agassiz Mine, including its Leadville district location, mapped point, zinc commodity, patented holding, underground operation, past-producer status, and citations to USGS Professional Papers 148 and 235."
+        },
+        {
+          "title": "Geology and ore deposits of the Leadville mining district, Colorado",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://www.usgs.gov/publications/geology-and-ore-deposits-leadville-mining-district-colorado",
+          "note": "Official USGS publication page for Professional Paper 148, a source retained in the federal Agassiz mine record and accompanied by detailed district plates."
+        },
+        {
+          "title": "Leadville's Ore Output",
+          "publisher": "Weekly Register-Call via Colorado Historic Newspapers Collection",
+          "url": "https://www.coloradohistoricnewspapers.org/?a=d&d=WRC18800116-01.2.31",
+          "note": "The January 16, 1880 weekly ore-output report lists the Agassiz among Leadville mines contributing ore."
         }
       ]
     }
