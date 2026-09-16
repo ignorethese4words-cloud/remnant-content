@@ -3,8 +3,8 @@
   "id": "colorado-park",
   "county": "Park County",
   "state": "Colorado",
-  "version": "4",
-  "generatedAt": "2026-09-16T21:04:24.223Z",
+  "version": "5",
+  "generatedAt": "2026-09-16T21:05:36.627Z",
   "sites": [
     {
       "id": "CO-PARK-JEFFERSON-DSPP-DEPOT",
@@ -128,6 +128,64 @@
         {
           "title": "USGS Climax 7.5-minute topographic map index",
           "url": "https://mapstore.mytopo.com/products/ustopo_colorado_climax"
+        }
+      ]
+    },
+    {
+      "id": "CO-PARK-AMERICAN-FLAG",
+      "name": "American Flag",
+      "location": "Alma mining district near Alma",
+      "county": "Park County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "componentDetail": "Lead-Zinc Mine / Uranium Reconnaissance Site",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-16T16:35:48Z",
+      "overview": [
+        "American Flag is a named historic mine near Alma in Park County, preserved on U.S. Geological Survey topographic mapping.",
+        "Federal records place this Park County mine in the Alma area and identify lead and zinc as its principal commodities. The site was also examined during U.S. Geological Survey uranium-reconnaissance work conducted across the Colorado Front Range and adjacent areas from 1947 through 1951."
+      ],
+      "timeline": [
+        {
+          "year": "1947–1951",
+          "text": "U.S. Geological Survey reconnaissance for uranium in the Colorado Front Range and adjacent areas included the American Flag mine among the properties examined."
+        },
+        {
+          "year": "1956",
+          "text": "The reconnaissance results were published as U.S. Geological Survey Trace Elements Investigations Report 59."
+        }
+      ],
+      "moreHistory": [
+        "The Park County American Flag is a distinct Alma-area mine. It should not be confused with the separate American Flag Mine in Chaffee County's Turret district or with similarly named mines in other states.",
+        "The mapped point at approximately 39.28999, -106.08752 is used as the historic mine-level identification point. It does not confirm the condition or accessibility of surviving workings.",
+        "Historic mine workings can be unstable and dangerous. Remain on lawful public routes, respect closures and private property, and never enter an abandoned mine."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.28999,
+        "longitude": -106.08752
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey — Reconnaissance investigations for uranium in the Colorado Front Range and adjacent areas, 1947–1951 (TEI 59)",
+          "url": "https://pubs.usgs.gov/publication/tei59"
+        },
+        {
+          "title": "U.S. Geological Survey Trace Elements Investigations Report 59",
+          "url": "https://pubs.usgs.gov/tei/059/report.pdf"
+        },
+        {
+          "title": "USGS Alma 7.5-minute topographic map — American Flag Mine feature",
+          "url": "https://www.topoquest.com/map.php?lat=39.28999&lon=-106.08752&datum=nad83&zoom=4"
+        },
+        {
+          "title": "MRDS-derived American Flag Mine record near Alma, Park County",
+          "url": "https://thediggings.com/mines"
         }
       ]
     }

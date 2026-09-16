@@ -1,5 +1,22 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-PARK-AMERICAN-FLAG",
   "countySlug": "park",
+  "countyPack": "packs/canonical/colorado-park.json",
+  "packVersion": "5",
+  "packGeneratedAt": "2026-09-16T21:05:36.627Z",
+  "verifiedAt": "2026-09-16T21:05:36.628Z",
+  "manifest": {
+    "id": "colorado-park",
+    "county": "Park County",
+    "state": "Colorado",
+    "version": "5",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-park.json",
+    "siteCount": 4,
+    "exploreSiteCount": 3,
+    "idOnlySiteCount": 1
+  },
   "site": {
     "id": "CO-PARK-AMERICAN-FLAG",
     "name": "American Flag",

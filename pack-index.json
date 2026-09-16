@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-16T21:04:24.223Z",
-  "generatedAt": "2026-09-16T21:04:24.223Z",
+  "contentVersion": "2026-09-16T21:05:36.627Z",
+  "generatedAt": "2026-09-16T21:05:36.627Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -349,11 +349,11 @@
       "id": "colorado-park",
       "county": "Park County",
       "state": "Colorado",
-      "version": "4",
+      "version": "5",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-park.json",
-      "exploreSiteCount": 2,
+      "exploreSiteCount": 3,
       "idOnlySiteCount": 1,
-      "siteCount": 3
+      "siteCount": 4
     },
     {
       "id": "colorado-pitkin",
