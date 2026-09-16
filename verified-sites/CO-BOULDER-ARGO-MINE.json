@@ -1,5 +1,22 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-ARGO-MINE",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packVersion": "106",
+  "packGeneratedAt": "2026-09-16T06:03:41.948Z",
+  "verifiedAt": "2026-09-16T06:03:41.956Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "version": "106",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 106,
+    "exploreSiteCount": 43,
+    "idOnlySiteCount": 63
+  },
   "site": {
     "id": "CO-BOULDER-ARGO-MINE",
     "name": "Argo Mine",
