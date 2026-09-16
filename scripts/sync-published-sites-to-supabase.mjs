@@ -1,4 +1,4 @@
-// Dashboard sync trigger note: safe no-op comment used to verify GitHub → Supabase automation.
+// Dashboard sync for verified public Remnant receipts.
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
@@ -15,34 +15,43 @@ const headers = {
   'Content-Type': 'application/json',
 };
 
+function resolveTier(site) {
+  if (site?.tier === 'EXPLORE' || site?.tier === 'ID ONLY') return site.tier;
+  // Legacy verified receipts predate the explicit tier field. Their published
+  // flags are authoritative enough to recover the same public tier.
+  if (site?.appReady === true && site?.betaVisible === true) return 'EXPLORE';
+  if (site?.appReady === false && site?.betaVisible === false) return 'ID ONLY';
+  return null;
+}
+
 function toPublishedRow(receipt, receiptPath) {
   const site = receipt.site;
   const manifest = receipt.manifest ?? {};
-  if (!site?.id || !site?.name || !site?.county || !site?.tier) {
+  const tier = resolveTier(site);
+  const county = site?.county ?? manifest.county ?? null;
+
+  if (!site?.id || !site?.name || !county || !tier) {
     throw new Error(`Malformed upsert receipt: ${receiptPath}`);
-  }
-  if (!['ID ONLY', 'EXPLORE'].includes(site.tier)) {
-    throw new Error(`Unsupported published tier ${site.tier} in ${receiptPath}`);
   }
 
   return {
     site_id: site.id,
     location_name: site.name,
-    county: site.county,
+    county,
     state: manifest.state ?? 'Colorado',
     category: site.category ?? null,
     component_type: site.componentType ?? null,
-    tier: site.tier,
+    tier,
     latitude: site.coordinates?.latitude ?? null,
     longitude: site.coordinates?.longitude ?? null,
-    app_ready: Boolean(site.appReady),
-    beta_visible: Boolean(site.betaVisible),
+    app_ready: tier === 'EXPLORE',
+    beta_visible: tier === 'EXPLORE',
     media_search_status: site.mediaSearchStatus ?? null,
     media_count: Array.isArray(site.displayImages) ? site.displayImages.length : 0,
     content_updated_at: site.contentUpdatedAt ?? null,
-    published_verified_at: receipt.verifiedAt,
-    county_slug: receipt.countySlug,
-    county_pack: receipt.countyPack,
+    published_verified_at: receipt.verifiedAt ?? null,
+    county_slug: receipt.countySlug ?? null,
+    county_pack: receipt.countyPack ?? null,
     pack_version: receipt.packVersion ?? null,
     pack_generated_at: receipt.packGeneratedAt ?? null,
     manifest_site_count: manifest.siteCount ?? null,
