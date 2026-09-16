@@ -1,0 +1,70 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-ARGO-MINE",
+    "name": "Argo Mine",
+    "location": "Little James Creek northwest of Jamestown",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "componentDetail": "Gold-Silver and Fluorspar Mine / Reclaimed Mine Site",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-16T05:35:20Z",
+    "overview": [
+      "The Argo Mine northwest of Jamestown began as the Kismet Mine in 1875, when it was worked for gold and silver. The name changed to Argo after the operation's first four years.",
+      "Later work focused on fluorspar, and federal geologists documented a vertical shaft with five levels. The identification point marks the documented mine site on the north side of Little James Creek, not a representation of current underground conditions."
+    ],
+    "timeline": [
+      {
+        "year": "1875",
+        "text": "Boulder County history records the opening of the Kismet Mine for gold and silver."
+      },
+      {
+        "year": "1879",
+        "text": "After four years under the Kismet name, the property became known as the Argo Mine."
+      },
+      {
+        "year": "1956",
+        "text": "A U.S. Geological Survey investigation documented the Argo's vertical shaft and five mine levels while studying Jamestown-area fluorspar deposits."
+      },
+      {
+        "year": "2006-2010",
+        "text": "EPA and Boulder County undertook brownfields cleanup of the 13.7-acre mine site to reduce metal-bearing runoff into Little James Creek."
+      }
+    ],
+    "moreHistory": [
+      "The Boulder County Argo Mine is distinct from the better-known Argo Tunnel and Mill at Idaho Springs in Clear Creek County.",
+      "USGS mapping places this Argo Mine in section 13, Township 2 North, Range 72 West, on the north side of Little James Creek about a mile northwest of Jamestown.",
+      "EPA identified copper, iron, zinc, and magnesium loading from waste rock and soils at the former mine. Cleanup included mine-waste management, revegetation, erosion control, and passive water treatment planning.",
+      "The former mine site is managed as Boulder County open space. Historic workings and reclaimed ground can remain hazardous; this entry does not imply public access or permission to enter."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.129708,
+      "longitude": -105.40055
+    },
+    "sourceReferences": [
+      {
+        "title": "U.S. Geological Survey Trace Elements Investigations Report 59 — Geology and mineralogy of the Jamestown district, Boulder County, Colorado",
+        "url": "https://pubs.usgs.gov/tei/059/report.pdf"
+      },
+      {
+        "title": "Boulder County Mining Tour — Argo Mine",
+        "url": "https://storymaps.arcgis.com/stories/f7505c1ec46d437294f64ad0793a418c"
+      },
+      {
+        "title": "U.S. EPA Region 8 — 2006 Brownfields cleanup grant for the Argo Mine",
+        "url": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/af69310c922666718525716f007d020d.html"
+      },
+      {
+        "title": "Lefthand Watershed mining-source characterization report (2004)",
+        "url": "https://hermes.cde.state.co.us/islandora/object/co%3A23221/datastream/OBJ/download/Characterization_and_prioritization_of_mining-related_metal_sources_in_the_streams_and_streambed_sediments_of_the_Lefthand_Creek_Watershed__Northwestern_Boulder_County__Colorado__2002-2003.pdf"
+      }
+    ]
+  }
+}
