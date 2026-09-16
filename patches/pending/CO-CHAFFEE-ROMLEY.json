@@ -1,0 +1,67 @@
+{
+  "countySlug": "chaffee",
+  "site": {
+    "id": "CO-CHAFFEE-ROMLEY",
+    "name": "Romley Mining Camp & Tram Terminal",
+    "location": "Romley / Chalk Creek district",
+    "county": "Chaffee County",
+    "category": "Mining Camp / Tramway",
+    "componentType": "Tramway",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-15T05:17:54Z",
+    "overview": [
+      "Romley was a mining and railroad camp in the upper Chalk Creek district that became an important transfer point for ore from the Mary Murphy Mine. Its surviving tram terminal represents the cable-tram system that carried ore from workings high on Chrysolite Mountain to the railroad and processing facilities below."
+    ],
+    "timeline": [
+      {
+        "year": "1880s",
+        "text": "Railroad development through upper Chalk Creek connected the mining camps of St. Elmo, Romley, and Hancock with outside markets and smelters."
+      },
+      {
+        "year": "ca. 1891",
+        "text": "A nearly 5,000-foot aerial tramway was built to move Mary Murphy ore down to Romley, where it could be transferred for processing and shipment."
+      },
+      {
+        "year": "1925-1926",
+        "text": "Full-time Mary Murphy production ended in 1925, and railroad service through the area was dismantled soon afterward as mining activity declined."
+      },
+      {
+        "year": "1984",
+        "text": "The Historic American Engineering Record documented surviving Mary Murphy mining and tramway structures, including the Romley terminal."
+      }
+    ],
+    "moreHistory": [
+      "Chaffee County historic-resource research identifies the Mary Murphy as the Chalk Creek district's most productive mine and describes its 4,996-foot single-cable aerial tramway. Ninety-six ore buckets, each with roughly 200-pound capacity, could move about 128 tons to the loading switch in a 24-hour period.",
+      "The Romley terminal is a rare surviving lower terminal associated with the Mary Murphy tramway. It linked mountain mining operations with the railroad transportation network that made large-scale production in the remote district practical."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 38.668111,
+      "longitude": -106.348999
+    },
+    "sourceReferences": [
+      {
+        "title": "Chaffee County Historic Resource Survey Report",
+        "publisher": "Chaffee County / Greater Arkansas River Nature Association",
+        "url": "https://garna.org/wp-content/uploads/2013/08/Chaffee-County-Historic-Resource-Survey-Report-2013.pdf",
+        "note": "Documents Romley and the Chalk Creek mining district, identifies the Mary Murphy as the district's leading producer, and describes the 4,996-foot aerial tramway, its bucket capacity, and ore-handling rate."
+      },
+      {
+        "title": "Mary Murphy Tramway Romley Terminal",
+        "publisher": "History Colorado",
+        "url": "https://www.historycolorado.org/taxonomy/term/460",
+        "note": "State historic-preservation material identifies the Mary Murphy Tramway Romley Terminal and summarizes the mine's early development and significance."
+      },
+      {
+        "title": "Mary Murphy Group MRDS record",
+        "publisher": "U.S. Geological Survey MRDS data via Western Mining History",
+        "url": "https://westernmininghistory.com/mine-detail/10017155/",
+        "note": "Preserves federal mineral-resource data for the Mary Murphy Group in the Chalk Creek district, including its major commodities and historic production record."
+      }
+    ]
+  }
+}
