@@ -1,3 +1,4 @@
+// Dashboard sync trigger note: safe no-op comment used to verify GitHub → Supabase automation.
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
