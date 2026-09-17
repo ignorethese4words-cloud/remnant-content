@@ -3,8 +3,8 @@
   "id": "colorado-ouray",
   "county": "Ouray County",
   "state": "Colorado",
-  "version": "10",
-  "generatedAt": "2026-09-17T02:06:28.843Z",
+  "version": "11",
+  "generatedAt": "2026-09-17T02:09:03.212Z",
   "sites": [
     {
       "id": "CO-OURAY-CALLIOPE",
@@ -1237,6 +1237,53 @@
           "publisher": "U.S. Geological Survey (map indexed by Pastmaps)",
           "url": "https://pastmaps.com/map/ironton-ouray-county-co-usgs-topo-1955-p1990",
           "note": "The USGS Ironton topographic map retains Bankers Tunnel among the named mine and tunnel features."
+        }
+      ]
+    },
+    {
+      "id": "CO-OURAY-ALBANY-MINE",
+      "name": "Albany Mine",
+      "location": "Albany Gulch / Ironton area, Red Mountain Mining District",
+      "county": "Ouray County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-15T10:56:17-06:00",
+      "overview": [
+        "Albany Mine is a named historic mine in Ouray County's Red Mountain mining landscape near Albany Gulch and Ironton. USGS-derived topographic and place records identify the mine at approximately 37.946384, -107.662560 on the Ironton quadrangle."
+      ],
+      "timeline": [],
+      "moreHistory": [
+        "Available mine-specific evidence securely supports the Albany Mine name, Ouray County identity, mapped location, and its placement in the historic mining landscape near Ironton. A focused review did not establish a reliable mine-specific operating chronology, ownership history, production record, or surviving-condition description, so those details are left unstated."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 37.9463838,
+        "longitude": -107.6625602
+      },
+      "sourceReferences": [
+        {
+          "title": "Albany Mine Topo Map in Ouray County, Colorado",
+          "publisher": "AnyPlaceAmerica / USGS-derived place data",
+          "url": "https://www.anyplaceamerica.com/directory/co/ouray-county-08091/mines/albany-mine-1734576/",
+          "note": "Identifies Albany Mine as an inactive gold-and-silver mine in Ouray County at 37.9463838, -107.6625602, elevation 9,931 feet, on the Ironton quadrangle."
+        },
+        {
+          "title": "Ouray County Mines",
+          "publisher": "Ouray County COGenWeb Project",
+          "url": "https://cogenweb.org/ouray/mining/mines.htm",
+          "note": "Independently lists Albany Mine in Ouray County at 37°56'47\"N, 107°39'45\"W on the Ironton quadrangle, elevation 9,931 feet."
+        },
+        {
+          "title": "Ironton Colorado US Topo Map",
+          "publisher": "MyTopo / USGS topographic mapping",
+          "url": "https://mapstore.mytopo.com/products/ustopo_colorado_ironton",
+          "note": "Lists Albany Mine among the named features on the Ironton USGS topographic map."
         }
       ]
     }
