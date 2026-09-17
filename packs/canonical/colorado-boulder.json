@@ -3,8 +3,8 @@
   "id": "colorado-boulder",
   "county": "Boulder County",
   "state": "Colorado",
-  "version": "107",
-  "generatedAt": "2026-09-16T11:04:49.560Z",
+  "version": "108",
+  "generatedAt": "2026-09-17T17:00:33.936Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -5256,6 +5256,60 @@
         {
           "title": "MRDS-derived Lucky Strike (Last Nickel) locality record",
           "url": "https://www.mindat.org/loc-110232.html"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-CONGO-CHIEF-MINE",
+      "name": "Congo Chief Mine",
+      "location": "Caribou district northeast of Nederland",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "componentDetail": "Patented Silver Lode Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-17T02:41:01Z",
+      "overview": [
+        "Congo Chief Mine is a named historic silver mine in Boulder County's Caribou mining area, northeast of Nederland.",
+        "The mine is preserved on U.S. Geological Survey topographic mapping. Federal securities records identify the Congo Chief lode as patented Survey No. 20305 and document a 2005 purchase of the mine property."
+      ],
+      "timeline": [
+        {
+          "year": "Historic period",
+          "text": "The Congo Chief lode became a patented mining property recorded as Boulder County Survey No. 20305."
+        },
+        {
+          "year": "2005",
+          "text": "A public company filing recorded the purchase of the Congo Chief Mine and surrounding property from the estate of Jack Snyder for $280,000."
+        }
+      ],
+      "moreHistory": [
+        "The patented Congo Chief lode contains approximately 20.66 acres and lies within portions of Sections 4 and 5, Township 1 South, Range 73 West of the Sixth Principal Meridian.",
+        "The mapped mine locality at approximately 39.99304, -105.57667 provides a defensible historic mine-level identification point. It does not confirm the position or condition of a surviving portal, shaft collar, or other working.",
+        "Mining property and access conditions can change. Remain on lawful public routes, respect private property and closures, and never enter abandoned workings."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.9930424,
+        "longitude": -105.576667
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey topoView — Nederland quadrangle and Congo Chief Mine locality",
+          "url": "https://ngmdb.usgs.gov/topoview/viewer/#15/39.99304/-105.57667"
+        },
+        {
+          "title": "U.S. Securities and Exchange Commission — Calais Resources Congo Chief Mine acquisition filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1044650/000095013405023813/d31535e8vk.htm"
+        },
+        {
+          "title": "U.S. Securities and Exchange Commission — Caribou Property agreement describing the Congo Chief Mine",
+          "url": "https://www.sec.gov/Archives/edgar/data/938113/000114420409064613/v168889_ex10-1.htm"
         }
       ]
     }
