@@ -1,5 +1,22 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-BANKERS-TUNNEL",
   "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "10",
+  "packGeneratedAt": "2026-09-17T02:06:28.843Z",
+  "verifiedAt": "2026-09-17T02:06:28.855Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "10",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 33,
+    "exploreSiteCount": 21,
+    "idOnlySiteCount": 3
+  },
   "site": {
     "id": "CO-OURAY-BANKERS-TUNNEL",
     "name": "Bankers Tunnel",
