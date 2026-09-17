@@ -3,8 +3,8 @@
   "id": "colorado-ouray",
   "county": "Ouray County",
   "state": "Colorado",
-  "version": "7",
-  "generatedAt": "2026-09-14T03:03:26.738Z",
+  "version": "8",
+  "generatedAt": "2026-09-17T00:13:41.027Z",
   "sites": [
     {
       "id": "CO-OURAY-CALLIOPE",
@@ -237,40 +237,68 @@
     {
       "id": "CO-OURAY-BACHELOR-SYRACUSE",
       "name": "Bachelor–Syracuse Mine Tour",
-      "location": "Ouray County, Colorado",
+      "location": "Gold Hill north of Ouray, Ouray County",
       "county": "Ouray County",
-      "category": "Mine",
-      "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B329=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B329&\"\" \"\"&$C329),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&\"&\"$C329),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B329&\"\" \"\"&$C329),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C329<>\"\"\"\",$C329,\"\"Historic Site\"\")))\"),\"Mine\")",
+      "state": "Colorado",
+      "category": "Historic Mine and Mine Tour",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-16T14:24:00Z",
       "overview": [
-        "Core research complete.",
-        "USGS identifies the Bachelor Consolidated Mine and the lower Bachelor (Syracuse) tunnel as related workings; federal DMEA records later evaluated Bachelor Mine for lead-zinc, silver, gold, and copper."
+        "The Bachelor–Syracuse is a historic precious-metal mine on Gold Hill north of Ouray. The modern visitor entrance uses the lower Syracuse Level, one part of a larger Bachelor mining system that also included older upper workings and the nearby mining settlement known as Ash."
       ],
       "timeline": [
         {
-          "year": "1884",
-          "text": "Published origin dates conflict (1884, 1888, early 1890s); no exact discovery year is adopted."
+          "year": "1884–1890s",
+          "text": "Historical references place the beginning of the Bachelor Mine in the 1880s. Charlie Armstrong, George Hurlburt, and J. Frank Sanders were early owners, and rich ore supported intensive development even through the silver-price collapse of 1893."
         },
         {
-          "year": "1888",
-          "text": "Published origin dates conflict (1884, 1888, early 1890s); no exact discovery year is adopted."
+          "year": "1920s",
+          "text": "Investors from Syracuse, New York financed the lower Syracuse Level. The tunnel became an important producing and access working and later became the underground route used for public mine tours."
         },
         {
-          "year": "2026",
-          "text": "Official site reports the mine tour reopened after the 2026 Gold Mountain Fire."
+          "year": "1951",
+          "text": "Federal Defense Minerals Administration records list the Bachelor Mine in Ouray County as a lead-zinc, silver, gold, and copper property under Bachelor Development Company."
+        },
+        {
+          "year": "Modern era",
+          "text": "The property has continued as a tourist mine. Colorado mining regulators have documented the Bachelor Mine as an underground operation that also supports public mine tours."
         }
       ],
       "moreHistory": [
-        "The operator’s documented history identifies Charlie Armstrong, George Hurlburt, and J.",
-        "Frank Sanders as early owners; ore moved down Red Canyon to Bachelor Switch, while the associated Ash camp of about 200 included a mill, school, post office, and band.",
-        "In the 1920s Syracuse, New York investors financed the lower Syracuse Level, which became a major producing working and is the tunnel used by the modern mine tour.",
-        "Component safeguard: keep the original upper Bachelor main workings/portal, Ash camp and mill, Bachelor Switch, lower Syracuse Tunnel/current tour entrance, and later surface visitor facilities as separate linked components.",
-        "Published origin dates conflict (1884, 1888, early 1890s); no exact discovery year is adopted."
+        "The Bachelor property was more than one opening. Ore from the upper mine moved down Red Canyon toward Bachelor Switch, while the settlement of Ash developed near the mine with a mill, school, post office, and band. The lower Syracuse Level is a distinct component of that larger system and is the most appropriate visitor-facing identification point for the modern Bachelor–Syracuse Mine Tour. Published sources disagree on the exact discovery year, so this record does not assign a more precise origin date than the 1880s."
       ],
       "displayImages": [],
       "mediaNotice": "Historic image not available",
-      "state": "Colorado",
-      "appReady": true,
-      "betaVisible": true
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 38.05922,
+        "longitude": -107.67823
+      },
+      "sourceReferences": [
+        {
+          "title": "Bachelor Syracuse Mine Tour — History",
+          "url": "https://bachelorsyracusemine.com/about-us/"
+        },
+        {
+          "title": "USGS Data Series 1004 — Historical Files from Federal Government Mineral Exploration-Assistance Programs, Colorado",
+          "url": "https://pubs.usgs.gov/ds/1004/ds1004_co.htm"
+        },
+        {
+          "title": "USGS Open-File Report 2003-94 — Defense Minerals Exploration Administration docket index",
+          "url": "https://pubs.usgs.gov/of/2003/of03-94/of03-94.pdf"
+        },
+        {
+          "title": "Colorado Division of Reclamation, Mining and Safety — Bachelor Mine 2019 inspection report",
+          "url": "https://dnrweblink.state.co.us/DRMSSearch/0/edoc/1290239/2019-10-24_INSPECTION%20-%20M1980170.pdf"
+        },
+        {
+          "title": "Colorado Geological Survey — Colorado Mining History Resource Guide",
+          "url": "https://hermes.cde.state.co.us/islandora/object/co%3A26212/datastream/OBJ/download/Colorado_mining_history___resource_guide.pdf"
+        }
+      ]
     },
     {
       "id": "CO-OURAY-CAMP-BIRD",
