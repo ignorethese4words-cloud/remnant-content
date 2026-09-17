@@ -1,0 +1,66 @@
+{
+  "countySlug": "ouray",
+  "site": {
+    "id": "CO-OURAY-AMERICAN-LEAD-ZINC-MILL",
+    "name": "American Lead and Zinc Mill",
+    "location": "east side of the Uncompahgre River, about 2.5 miles north of downtown Ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "category": "Historic Mill / Ore Processing",
+    "componentType": "Mill / Processing",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-15T14:52:38-06:00",
+    "overview": [
+      "The American Lead and Zinc Mill was a historic ore-processing site north of Ouray on the east side of the Uncompahgre River. Federal environmental records document that a mill was built and began operating here in 1930 and ceased operations in 1952.",
+      "The mill stood on a topographic bench roughly 500 feet above the river. Milling tailings were deposited in nearby ravines and on the bench, and the former mill area later became the subject of federal cleanup actions."
+    ],
+    "timeline": [
+      {
+        "year": "1930",
+        "text": "A mill was constructed and first operated at the site."
+      },
+      {
+        "year": "1952",
+        "text": "Mill operations ceased."
+      },
+      {
+        "year": "Modern cleanup era",
+        "text": "EPA undertook response actions addressing releases or threatened releases associated with the former mill and tailings areas."
+      }
+    ],
+    "moreHistory": [
+      "EPA records place the former mill on the east side of the Uncompahgre River roughly 2.5 miles north of downtown Ouray and describe tailings disposal in ravines near the mill and across the topographic bench.",
+      "The site is separately retained in USGS-derived topographic place records as American Lead and Zinc Mill on the Ouray quadrangle, supporting a distinct mill-site identity rather than a nearby mine record.",
+      "EPA's Superfund site database identifies American Lead and Zinc Mill in Ouray County under site ID CON000802649; it is not listed on the National Priorities List."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 38.0549931,
+      "longitude": -107.6864487
+    },
+    "sourceReferences": [
+      {
+        "title": "Administrative Settlement Agreement for American Lead & Zinc Mill Site",
+        "publisher": "U.S. Environmental Protection Agency, Region 8",
+        "url": "https://yosemite.epa.gov/OA/RHC/EPAAdmin.nsf/Filings/2AC01D71417D758385257BA5001BCAFF/$File/CERCLA0820130004%20SETTLEMENT.pdf",
+        "note": "Documents the Ouray County site location, construction and first operation in 1930, closure in 1952, the mill's topographic-bench setting, tailings disposal areas, and EPA response actions."
+      },
+      {
+        "title": "Superfund Site Profile — American Lead and Zinc Mill",
+        "publisher": "U.S. Environmental Protection Agency",
+        "url": "https://cumulis.epa.gov/supercpad/CurSites/allsppsiterslt.cfm?Start=2001&sortby=site",
+        "note": "Identifies American Lead and Zinc Mill, Ouray, Colorado, as EPA site CON000802649 and not on the NPL."
+      },
+      {
+        "title": "American Lead and Zinc Mill Topo Map in Ouray County, Colorado",
+        "publisher": "TopoZone / USGS-derived topographic place data",
+        "url": "https://www.topozone.com/colorado/ouray-co/locale/american-lead-and-zinc-mill/",
+        "note": "Retains the named mill locality on the Ouray USGS quadrangle at 38.0549931, -107.6864487, elevation approximately 7,723 feet."
+      }
+    ]
+  }
+}
