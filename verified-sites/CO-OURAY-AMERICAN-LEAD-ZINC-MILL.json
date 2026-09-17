@@ -1,5 +1,22 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-OURAY-AMERICAN-LEAD-ZINC-MILL",
   "countySlug": "ouray",
+  "countyPack": "packs/canonical/colorado-ouray.json",
+  "packVersion": "9",
+  "packGeneratedAt": "2026-09-17T00:41:00.546Z",
+  "verifiedAt": "2026-09-17T00:41:00.561Z",
+  "manifest": {
+    "id": "colorado-ouray",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "version": "9",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
+    "siteCount": 32,
+    "exploreSiteCount": 21,
+    "idOnlySiteCount": 2
+  },
   "site": {
     "id": "CO-OURAY-AMERICAN-LEAD-ZINC-MILL",
     "name": "American Lead and Zinc Mill",
