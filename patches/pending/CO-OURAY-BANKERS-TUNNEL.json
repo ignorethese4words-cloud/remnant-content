@@ -1,0 +1,50 @@
+{
+  "countySlug": "ouray",
+  "site": {
+    "id": "CO-OURAY-BANKERS-TUNNEL",
+    "name": "Bankers Tunnel",
+    "location": "Imogene Basin / Sneffels Mining District",
+    "county": "Ouray County",
+    "state": "Colorado",
+    "category": "Historic Mine Tunnel",
+    "componentType": "Adit / Portal",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-15T13:47:00-06:00",
+    "overview": [
+      "Bankers Tunnel is a named historic mine tunnel in Imogene Basin in Ouray County's Sneffels mining district. USGS-derived topographic records preserve the tunnel as a distinct mapped mining feature on the Ironton quadrangle at approximately 37.95722, -107.71867."
+    ],
+    "timeline": [],
+    "moreHistory": [
+      "The retained evidence securely supports the Bankers Tunnel name, its Imogene Basin identity, and its mapped tunnel locality. A focused review did not establish a reliable tunnel-specific operating chronology, ownership history, production record, or documented surviving portal condition, so those details are left unstated rather than inferred from nearby mines with similar names."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 37.9572165,
+      "longitude": -107.7186719
+    },
+    "sourceReferences": [
+      {
+        "title": "Ouray County Mines — Bankers Tunnel",
+        "publisher": "Ouray County COGenWeb Project / USGS-derived geographic listing",
+        "url": "https://cogenweb.org/ouray/mining/mines.htm",
+        "note": "Lists Bankers Tunnel in Ouray County at 37°57'26\"N, 107°43'07\"W on the Ironton quadrangle, elevation 11,352 feet."
+      },
+      {
+        "title": "Bankers Tunnel Topo Map in Ouray County, Colorado",
+        "publisher": "AnyPlaceAmerica / USGS-derived topographic place data",
+        "url": "https://www.anyplaceamerica.com/directory/co/ouray-county-08091/mines/bankers-tunnel-187202/",
+        "note": "Identifies Bankers Tunnel as a named mine feature at 37.9572165, -107.7186719 on the Ironton USGS quadrangle."
+      },
+      {
+        "title": "Ironton USGS topographic map — 1955 map edition",
+        "publisher": "U.S. Geological Survey (map indexed by Pastmaps)",
+        "url": "https://pastmaps.com/map/ironton-ouray-county-co-usgs-topo-1955-p1990",
+        "note": "The USGS Ironton topographic map retains Bankers Tunnel among the named mine and tunnel features."
+      }
+    ]
+  }
+}
