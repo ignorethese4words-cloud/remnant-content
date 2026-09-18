@@ -1,0 +1,37 @@
+{
+  "countySlug": "lake",
+  "site": {
+    "id": "CO-LAKE-AETNA-MINE",
+    "name": "Aetna Mine",
+    "location": "Carbonate Hill, Leadville Mining District, Lake County",
+    "county": "Lake County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-16T06:10:00Z",
+    "overview": [
+      "Aetna Mine is a documented historic underground mine on Carbonate Hill in the Leadville mining district. The USGS Mineral Resources Data System records an ore-body reference point near 39.24471, -106.28144 and classifies the patented property as a past producer with zinc recorded as a commodity."
+    ],
+    "timeline": [
+      {"date":"1886","event":"A Leadville newspaper retrospective identified the Aetna among lodes on the southwestern part of Carbonate Hill."},
+      {"date":"1927","event":"The U.S. Geological Survey's Professional Paper 148 documented the geology and ore deposits of the Leadville district; that report is retained in the later federal mine record's bibliography."},
+      {"date":"1983","event":"The U.S. Bureau of Mines reported the Aetna record that was later updated within the USGS Mineral Resources Data System."}
+    ],
+    "moreHistory": [
+      "The reviewed evidence consistently places the Aetna in the Leadville district on Carbonate Hill, not at Longfellow Gulch. The federal mine record identifies an underground, patented, past-producing property and supplies a specific ore-body coordinate.",
+      "Available desk sources do not establish a dependable production total, operator chronology, detailed workings description, or present condition. The mapped point is a historic site-level reference and should not be treated as a surveyed safe or accessible opening."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {"latitude":39.24471,"longitude":-106.28144},
+    "sourceReferences": [
+      {"title":"Aetna Mine (MRDS 10142364)","publisher":"USGS Mineral Resources Data System mirror","url":"https://www.qvyshift.com/mrds/10142364","note":"Preserves the federal record's ore-body coordinate, Leadville district assignment, zinc commodity, underground operation, past-producer status, patented holding, and citations to USGS Professional Papers 148 and 235."},
+      {"title":"Geology and ore deposits of the Leadville mining district, Colorado","publisher":"U.S. Geological Survey","url":"https://www.usgs.gov/publications/geology-and-ore-deposits-leadville-mining-district-colorado","note":"Official USGS publication page for Professional Paper 148, a source retained in the Aetna federal mine record and accompanied by district plates."},
+      {"title":"Retrospection","publisher":"Carbonate Chronicle via Colorado Historic Newspapers Collection","url":"https://www.coloradohistoricnewspapers.org/?a=d&d=CCL18860301-01.2.68","note":"The March 1, 1886 Leadville retrospective identifies the Aetna among lodes on the southwestern part of Carbonate Hill."}
+    ]
+  }
+}
