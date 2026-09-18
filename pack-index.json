@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-09-18T01:09:14.573Z",
-  "generatedAt": "2026-09-18T01:09:14.573Z",
+  "contentVersion": "2026-09-18T14:13:56.915Z",
+  "generatedAt": "2026-09-18T14:13:56.915Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -229,11 +229,11 @@
       "id": "colorado-lake",
       "county": "Lake County",
       "state": "Colorado",
-      "version": "12",
+      "version": "13",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
       "exploreSiteCount": 18,
-      "idOnlySiteCount": 4,
-      "siteCount": 22
+      "idOnlySiteCount": 5,
+      "siteCount": 23
     },
     {
       "id": "colorado-larimer",

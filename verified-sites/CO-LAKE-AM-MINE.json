@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LAKE-AM-MINE",
+  "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packVersion": "13",
+  "packGeneratedAt": "2026-09-18T14:13:56.915Z",
+  "verifiedAt": "2026-09-18T14:13:56.918Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "version": "13",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 23,
+    "exploreSiteCount": 18,
+    "idOnlySiteCount": 5
+  },
+  "site": {
+    "id": "CO-LAKE-AM-MINE",
+    "name": "A M Mine",
+    "location": "Leadville North quadrangle, northwest of Leadville",
+    "county": "Lake County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-16T15:57:25.804Z",
+    "overview": [
+      "A M Mine is a named historic mine locality northwest of Leadville in Lake County, preserved on Leadville North quadrangle mapping."
+    ],
+    "timeline": [],
+    "moreHistory": [
+      "The mapped point at approximately 39.253601, -106.289190 is used to identify the historic mine locality. It does not establish the position or present condition of any surviving shaft, portal, or underground working, and it does not imply public access."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.253601,
+      "longitude": -106.28919
+    },
+    "sourceReferences": [
+      {
+        "title": "Leadville North Colorado US Topo Map — named features including A M Mine",
+        "url": "https://mapstore.mytopo.com/products/ustopo_colorado_leadville-north"
+      },
+      {
+        "title": "U.S. Geological Survey Scientific Investigations Map 3400 — Geologic map of the Leadville North 7.5-minute quadrangle",
+        "url": "https://www.usgs.gov/maps/geologic-map-leadville-north-75-quadrangle-eagle-and-lake-counties-colorado"
+      },
+      {
+        "title": "USGS MRDS-derived Lake County mine index — A M Mine",
+        "url": "https://westernmininghistory.com/mine-county/colorado/lake/"
+      }
+    ]
+  }
+}
