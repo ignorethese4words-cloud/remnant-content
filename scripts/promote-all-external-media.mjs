@@ -104,8 +104,7 @@ for (const filename of fs.readdirSync(PACK_DIR).filter((f) => f.endsWith('.json'
 for (const county of changedCounties) {
   const entry = (index.packs || []).find((p) => p.county === county);
   if (!entry) continue;
-  entry.version = Number(entry.version || 0) + 1;
-  entry.packId = String(entry.packId || '').replace(/-v\d+$/i, '') + `-v${entry.version}`;
+  entry.generatedAt = new Date().toISOString();
 }
 
 if (changedCounties.size) {
