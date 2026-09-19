@@ -4,45 +4,47 @@
   "siteId": "CO-BOULDER-AJAX-COAL-MINE",
   "countySlug": "boulder",
   "countyPack": "packs/canonical/colorado-boulder.json",
-  "packVersion": "101",
-  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
-  "verifiedAt": "2026-09-16T00:23:17.300Z",
+  "packGeneratedAt": "2026-09-19T17:03:09.976Z",
+  "verifiedAt": "2026-09-19T17:03:09.983Z",
   "manifest": {
     "id": "colorado-boulder",
     "county": "Boulder County",
     "state": "Colorado",
-    "version": "101",
+    "generatedAt": "2026-09-19T17:03:09.976Z",
     "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
-    "siteCount": 102,
-    "exploreSiteCount": 39,
-    "idOnlySiteCount": 63
+    "siteCount": 108,
+    "exploreSiteCount": 46,
+    "idOnlySiteCount": 62
   },
   "site": {
     "id": "CO-BOULDER-AJAX-COAL-MINE",
     "name": "Ajax Mine",
-    "location": "Louisville / Harney-Lastoka area",
+    "location": "Louisville coal field",
     "county": "Boulder County",
-    "category": "Historic Mine",
+    "category": "Historic Coal Mine",
     "componentType": "Mine",
-    "appReady": false,
-    "betaVisible": false,
-    "contentUpdatedAt": "2026-09-08T07:31:00.000Z",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-19T15:39:00.000Z",
     "overview": [
-      "Ajax Mine is a documented inactive coal mine in Boulder County's Louisville-area coal field. Boulder County historical material retains the Ajax name in the Harney-Lastoka mining landscape, while mapped place data provides a stable mine-level location for identification."
+      "The Ajax Mine was a coal mine southwest of early Louisville. City historical research identifies Mahlon V. “Ajax” Johnson as its operator and shows that the mine influenced nearby town development during Louisville's coal-mining era.",
+      "In 1889 Johnson proposed a new community called Ajaxville near the mine. He later changed course, and in 1890 platted Johnson's First Addition for miners, tying the Ajax operation directly to Louisville's residential growth."
     ],
     "timeline": [
       {
-        "year": "1890",
-        "text": "Boulder County's retained Harney-Lastoka historical research identifies the Ajax coal mine as established in 1890."
+        "year": "1889",
+        "text": "Contemporary newspaper accounts summarized by the Louisville Historical Museum describe Mahlon “Ajax” Johnson's proposal for an 'Ajaxville' development near the Ajax Mine he controlled."
       },
       {
-        "year": "Historic coal-mining era",
-        "text": "The mine formed part of the Louisville-area coal landscape that shaped local settlement and employment."
+        "year": "1890",
+        "text": "Johnson platted Johnson's First Addition for miners. Louisville's historic residential context identifies him as the operator of the Ajax Mine southwest of the original town."
       }
     ],
     "moreHistory": [
-      "A mapped mine point at approximately 39.977763, -105.136652 is retained as a defensible historic mine-level Scan anchor. Remnant does not represent that point as a field-surveyed surviving shaft collar.",
-      "A focused media search did not locate a reusable exact-site Ajax photograph; similarly named Ajax mines elsewhere in Colorado were rejected as wrong-site material."
+      "The Ajax Mine is part of the Louisville-area coal landscape that shaped settlement, employment and neighborhood development in eastern Boulder County.",
+      "Louisville's historic context places the mine southwest of the original town in what is now green space between East and West Lois Drive.",
+      "A mapped historic mine locality near 39.977763, -105.136652 provides a defensible identification point. Remnant does not represent it as a field-surveyed surviving shaft or opening."
     ],
     "displayImages": [],
     "mediaNotice": "Historic image not available",
@@ -50,6 +52,20 @@
     "coordinates": {
       "latitude": 39.977763,
       "longitude": -105.136652
-    }
+    },
+    "sourceReferences": [
+      {
+        "title": "City of Louisville — Residential Historic Context",
+        "url": "https://www.louisvilleco.gov/home/showpublisheddocument/22206/636831728336330000"
+      },
+      {
+        "title": "Louisville Historical Museum — The Louisville Historian",
+        "url": "https://www.louisvilleco.gov/home/showpublisheddocument/36080/637967628287230000"
+      },
+      {
+        "title": "USGS Louisville quadrangle-derived Ajax Mine locality",
+        "url": "https://www.topoquest.com/place/colorado/mine/ajax-mine/1685161"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentVersion": "2026-09-18T14:13:56.915Z",
-  "generatedAt": "2026-09-19T15:37:57.108Z",
+  "generatedAt": "2026-09-19T17:03:09.976Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -21,9 +21,10 @@
       "state": "Colorado",
       "version": "108",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
-      "exploreSiteCount": 45,
-      "idOnlySiteCount": 63,
-      "siteCount": 108
+      "exploreSiteCount": 46,
+      "idOnlySiteCount": 62,
+      "siteCount": 108,
+      "generatedAt": "2026-09-19T17:03:09.976Z"
     },
     {
       "id": "colorado-broomfield",
