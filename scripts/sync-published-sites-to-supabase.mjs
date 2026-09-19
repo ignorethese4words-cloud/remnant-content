@@ -52,7 +52,7 @@ function toPublishedRow(receipt, receiptPath) {
     published_verified_at: receipt.verifiedAt ?? null,
     county_slug: receipt.countySlug ?? null,
     county_pack: receipt.countyPack ?? null,
-    pack_version: receipt.packVersion ?? null,
+    pack_version: null, // versioning intentionally disabled during development
     pack_generated_at: receipt.packGeneratedAt ?? null,
     manifest_site_count: manifest.siteCount ?? null,
     manifest_explore_count: manifest.exploreSiteCount ?? null,
