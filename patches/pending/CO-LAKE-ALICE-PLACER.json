@@ -1,0 +1,42 @@
+{
+  "countySlug": "lake",
+  "site": {
+    "id": "CO-LAKE-ALICE-PLACER",
+    "name": "Alice Placer Mine",
+    "location": "Leadville Mining District, Lake County",
+    "county": "Lake County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-16T06:03:00Z",
+    "overview": [
+      "Alice Placer Mine is a documented historic mining site in Lake County's Leadville mining landscape. A USGS MRDS-derived record places the named site at approximately 39.2500, -106.2772 and classifies it as a past-producing underground zinc property."
+    ],
+    "timeline": [],
+    "moreHistory": [
+      "The reviewed evidence supports the Alice Placer Mine name, Lake County identity, zinc commodity, patented-holding status, underground operation classification, past-producer status, and a mapped site-level point.",
+      "A focused source review did not establish a reliable operator chronology, production record, workings description, or present condition. The mapped point identifies the documented mine site; it should not be treated as a surveyed surviving opening or as proof of an extensive placer-workings landscape."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {"latitude":39.25,"longitude":-106.2772},
+    "sourceReferences": [
+      {
+        "title":"Alice Placer Mine",
+        "publisher":"Western Mining History / USGS MRDS-derived record",
+        "url":"https://westernmininghistory.com/mine-detail/10166992/",
+        "note":"Retains USGS MRDS record 10166992 for Alice Placer Mine in Lake County, recording zinc, patented-holding status, an underground operation, past-producer status, and the mapped site location."
+      },
+      {
+        "title":"Alice Placer Mine, Lake County, Colorado",
+        "publisher":"Mineralienatlas",
+        "url":"https://www.mineralienatlas.de/wiki/LokationGeo?lang=en&nodeid=70888",
+        "note":"Provides an independent location index for the named Lake County mine near the USGS MRDS-derived point."
+      }
+    ]
+  }
+}
