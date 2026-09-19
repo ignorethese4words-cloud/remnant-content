@@ -1,0 +1,73 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-JAMESTOWN-DISTRICT",
+    "name": "Jamestown / Central Mining & Fluorspar District",
+    "location": "Jamestown and the Central Mining District",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Mining Town / Mining District",
+    "componentType": "Town / Camp",
+    "componentDetail": "Historic Jamestown community and Central mining district, associated first with precious-metal mining and later with nationally significant fluorspar production.",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-19T17:02:00Z",
+    "overview": [
+      "Jamestown grew within the Central mining district of Boulder County, where miners worked gold, gold-telluride, and lead-silver deposits before fluorspar became the district's defining twentieth-century mineral product.",
+      "The district is important because its mining history spans two distinct eras: the Front Range precious-metal rush and the later development of fluorspar, the commercial ore of fluorine."
+    ],
+    "timeline": [
+      {
+        "year": "Late 1800s",
+        "text": "Mining around Jamestown focused on precious-metal veins, including gold, gold-telluride, and lead-silver deposits."
+      },
+      {
+        "year": "Before 1940",
+        "text": "Precious-metal production remained the district's principal mining story, supported by numerous mines and mineralized veins around the settlement."
+      },
+      {
+        "year": "After 1940",
+        "text": "Fluorspar production became the district's dominant mineral industry, and Jamestown was recognized as a major fluorspar-producing district."
+      },
+      {
+        "year": "1950",
+        "text": "The U.S. Geological Survey's Front Range synthesis documented Jamestown's geology and ore deposits as part of the region's mineral history."
+      },
+      {
+        "year": "1973",
+        "text": "A specialist Economic Geology study examined fluid inclusions in the district's fluorspar and gold deposits, reflecting Jamestown's continuing scientific importance."
+      }
+    ],
+    "moreHistory": [
+      "Jamestown's ore deposits formed in a complex mineralized setting rather than at a single mine. The district-level record therefore represents the historic community and the surrounding network of workings.",
+      "The Remnant map point is a representative identification point for the Jamestown community and Central mining district. It is not a surveyed mine opening and does not imply that any workings are safe or open to the public.",
+      "Historic mine workings can be unstable and may cross private land. View the landscape from public routes and never enter shafts, adits, or fenced sites."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.117,
+      "longitude": -105.389
+    },
+    "sourceReferences": [
+      {
+        "title": "U.S. Geological Survey Professional Paper 223 — Geology and Ore Deposits of the Front Range, Colorado",
+        "url": "https://pubs.usgs.gov/publication/pp223"
+      },
+      {
+        "title": "Economic Geology — Fluid-Inclusion Studies of the Fluorspar and Gold Deposits, Jamestown District, Colorado",
+        "url": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/68/8/1247/18468/Fluid-Inclusion-Studies-of-the-Fluorspar-and-Gold"
+      },
+      {
+        "title": "U.S. Census Bureau — Gazetteer Files",
+        "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html"
+      },
+      {
+        "title": "Town of Jamestown, Colorado",
+        "url": "https://www.jamestownco.org/"
+      }
+    ]
+  }
+}
