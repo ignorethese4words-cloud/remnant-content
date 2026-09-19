@@ -4,7 +4,7 @@
   "county": "Boulder County",
   "state": "Colorado",
   "version": "108",
-  "generatedAt": "2026-09-19T17:03:09.976Z",
+  "generatedAt": "2026-09-19T17:04:31.010Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -130,33 +130,50 @@
       "county": "Boulder County",
       "category": "Historic Mine Tunnel",
       "componentType": "Adit / Portal",
-      "appReady": false,
-      "betaVisible": false,
-      "contentUpdatedAt": "2026-09-08T07:31:00.000Z",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-19T13:56:00.000Z",
       "overview": [
-        "Alaska Tunnel is a named historic tunnel locality in Boulder County's Ward Mining District, preserved in federal/MRDS-derived mineral locality records."
+        "Alaska Tunnel is a documented historic mining tunnel in Boulder County's Ward Mining District. Colorado's State Bureau of Mines reported in 1901–1902 that the tunnel at Camp Talcott was actively being driven while the company's other properties also received development work.",
+        "Later archival records connect the Alaska Tunnel with the Alaska Gold Mines Corporation and Ward Consolidated Mines Company, preserving a site-specific record of continued mining promotion and development into the twentieth century."
       ],
       "timeline": [
         {
-          "year": "Historic mining era",
-          "text": "The Alaska Tunnel was developed within the Ward district's dense network of underground mine and tunnel workings."
+          "year": "1901–1902",
+          "text": "Colorado's State Bureau of Mines reported that the Alaska Tunnel at Camp Talcott was 'driving ahead' while associated company properties received annual development work."
         },
         {
-          "year": "Modern mapping",
-          "text": "Mineral-locality mapping preserves Alaska Tunnel near the Tarbox/Smoky Gold United workings cluster."
+          "year": "1928–1939",
+          "text": "Printed materials preserved by the Carnegie Library for Local History document the Alaska Gold Mines Corporation and identify the Alaska Tunnel in the Ward Mining District."
         }
       ],
       "moreHistory": [
-        "The mapped locality near 40.07333, -105.50667 provides a defensible historic tunnel-level Scan anchor without claiming that Remnant has field-surveyed a surviving portal opening.",
-        "A focused exact-site media search did not verify a publishable Alaska Tunnel photograph; nearby Ward-district imagery was rejected rather than assigned to the wrong tunnel."
+        "The Alaska Tunnel belongs to the dense historic underground workings of the Ward district, an important Boulder County gold-mining area.",
+        "Modern mineral-locality mapping places the Alaska Tunnel near 40.0733, -105.5072. Remnant uses this documented tunnel locality as the identification point and does not claim that the coordinate is a field-surveyed surviving portal opening.",
+        "Archival Alaska Gold Mines Corporation materials survive in the A. A. Paddock collection at the Carnegie Library for Local History, providing direct documentary evidence linking the tunnel to twentieth-century mining promotion in Boulder County."
       ],
       "displayImages": [],
       "mediaNotice": "Historic image not available",
       "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "coordinates": {
-        "latitude": 40.07333,
-        "longitude": -105.50667
-      }
+        "latitude": 40.0733194,
+        "longitude": -105.5072204
+      },
+      "sourceReferences": [
+        {
+          "title": "Colorado State Bureau of Mines — Report for the Years 1901–1902",
+          "url": "https://spl.cde.state.co.us/artemis/nrserials/nr92001internet/nr92001190102internet.pdf"
+        },
+        {
+          "title": "Carnegie Library for Local History — Alaska Gold Mines Corp. printed materials, 1928–[1939]",
+          "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A47993"
+        },
+        {
+          "title": "USGS-derived Alaska Tunnel locality / Ward quadrangle",
+          "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/alaska-tunnel-1683651/"
+        }
+      ]
     },
     {
       "id": "CO-BOULDER-ALICE-MINE",
