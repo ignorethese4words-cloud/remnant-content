@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-JAMESTOWN-DISTRICT",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packGeneratedAt": "2026-09-19T22:02:05.392Z",
+  "verifiedAt": "2026-09-19T22:02:05.397Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-19T22:02:05.392Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 110,
+    "exploreSiteCount": 49,
+    "idOnlySiteCount": 61
+  },
   "site": {
     "id": "CO-BOULDER-JAMESTOWN-DISTRICT",
     "name": "Jamestown / Central Mining & Fluorspar District",
