@@ -4,7 +4,7 @@
   "county": "Boulder County",
   "state": "Colorado",
   "version": "108",
-  "generatedAt": "2026-09-19T17:04:31.010Z",
+  "generatedAt": "2026-09-19T22:00:38.865Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -5344,6 +5344,76 @@
         {
           "title": "U.S. Securities and Exchange Commission — Caribou Property agreement describing the Congo Chief Mine",
           "url": "https://www.sec.gov/Archives/edgar/data/938113/000114420409064613/v168889_ex10-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-GOLD-HILL",
+      "name": "Gold Hill Mining Town",
+      "location": "Gold Hill",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Mining Town",
+      "componentType": "Town / Camp",
+      "componentDetail": "Historic Gold Hill mining camp and continuously occupied mountain community associated with the 1859 Gold Run discovery and the surrounding Gold Hill mining area.",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-19T17:06:23Z",
+      "overview": [
+        "Gold Hill arose after the January 1859 discovery of gold at Gold Run. Boulder County identifies it as Colorado's oldest continuously occupied mining town, while History Colorado describes it as one of the state's earliest mining camps.",
+        "The community became the center of a wider mining area where fissure veins produced chiefly gold ore, including gold-telluride veins, alongside sulfide veins carrying pyritic gold and silver-lead ores."
+      ],
+      "timeline": [
+        {
+          "year": "January 1859",
+          "text": "Gold discovered at Gold Run led to the rise of the Gold Hill mining camp."
+        },
+        {
+          "year": "1859",
+          "text": "Gold Hill organized as one of Colorado's earliest mining camps and began developing as a permanent mountain community."
+        },
+        {
+          "year": "Late 1800s",
+          "text": "Mining expanded through the surrounding Gold Hill area, where fissure veins supplied gold-bearing ore and some silver-lead ore."
+        },
+        {
+          "year": "1955",
+          "text": "A U.S. Geological Survey reconnaissance documented the area's gold-telluride and sulfide veins while assessing small radioactive-mineral occurrences."
+        },
+        {
+          "year": "1989",
+          "text": "The Gold Hill Historic District was listed in the National Register of Historic Places for its mining-era settlement and architectural significance."
+        }
+      ],
+      "moreHistory": [
+        "Gold Hill's importance is broader than any single shaft or claim. The historic district preserves the settlement pattern of a nineteenth-century metal-mining community that continued to be occupied after the first rush.",
+        "The Remnant map point is a representative identification point within the historic Gold Hill community. It is not a surveyed mine opening and does not indicate public access to any workings.",
+        "Gold Hill remains a living community. Respect residents, private property, seasonal road conditions, and all closures; never enter abandoned shafts, adits, or fenced mining areas."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 40.0633019,
+        "longitude": -105.4096183
+      },
+      "sourceReferences": [
+        {
+          "title": "Boulder County — Unincorporated Towns & Communities: Gold Hill",
+          "url": "https://bouldercounty.gov/government/about-boulder-county/unincorporated-towns/"
+        },
+        {
+          "title": "History Colorado — Gold Hill Historic District",
+          "url": "https://www.historycolorado.org/location/gold-hill-historic-district"
+        },
+        {
+          "title": "U.S. Geological Survey — Reconnaissance for radioactivity in the Gold Hill mining area, Boulder County, Colorado",
+          "url": "https://www.usgs.gov/publications/reconnaissance-radioactivity-gold-hill-mining-area-boulder-county-colorado"
+        },
+        {
+          "title": "National Park Service — Gold Hill Historic District National Register nomination",
+          "url": "https://npgallery.nps.gov/GetAsset/e5349831-0299-4c7a-8f21-156acda67216"
         }
       ]
     }

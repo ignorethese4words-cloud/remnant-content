@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-GOLD-HILL",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packGeneratedAt": "2026-09-19T22:00:38.865Z",
+  "verifiedAt": "2026-09-19T22:00:38.873Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-19T22:00:38.865Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 109,
+    "exploreSiteCount": 48,
+    "idOnlySiteCount": 61
+  },
   "site": {
     "id": "CO-BOULDER-GOLD-HILL",
     "name": "Gold Hill Mining Town",
