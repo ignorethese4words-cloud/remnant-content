@@ -36,7 +36,7 @@ function manifestSnapshot(entry) {
     id: entry.id,
     county: entry.county,
     state: entry.state,
-    version: String(entry.version),
+    generatedAt: entry.generatedAt,
     url: entry.url,
     siteCount: Number(entry.siteCount),
     exploreSiteCount: Number(entry.exploreSiteCount),
@@ -52,7 +52,6 @@ function writeVerifiedArtifact({ operation, siteId, countySlug, packPath, verifi
     siteId,
     countySlug,
     countyPack: repoPath(packPath),
-    packVersion: String(verifiedPack.version),
     packGeneratedAt: verifiedPack.generatedAt,
     verifiedAt: new Date().toISOString(),
     manifest: manifestSnapshot(manifestEntry),
@@ -119,7 +118,28 @@ function validateSite(site, patchName) {
     if (!hasTimeline && !hasMoreHistory) fail(`${patchName}: EXPLORE requires meaningful historical content for ${site.id}`);
   }
 
-  const forbidden = /\b(?:G(?:10|[1-9])|work queue|queue status|worker(?: 1| 2)?|staging|debug|package management|scan anchor|for remnant identification|remnant identification|queued for app update)\b/i;
+  if (Array.isArray(site.timeline)) {
+    for (const item of site.timeline) {
+      if (
+        !item ||
+        typeof item !== 'object' ||
+        typeof item.year !== 'string' ||
+        !item.year.trim() ||
+        typeof item.text !== 'string' ||
+        !item.text.trim()
+      ) {
+        fail(`${patchName}: timeline items must use non-empty year/text fields for ${site.id}`);
+      }
+    }
+  }
+
+  if (site.tier === 'EXPLORE') {
+    if (!Array.isArray(site.sourceReferences) || !site.sourceReferences.some((source) => source?.title && source?.url)) {
+      fail(`${patchName}: EXPLORE requires retained sourceReferences for ${site.id}`);
+    }
+  }
+
+  const forbidden = /\b(?:G(?:10|[1-9])|work queue|queue status|worker(?: 1| 2| 3)?|staging|debug|package management|scan anchor|for remnant identification|remnant identification|queued for app update|registry|receipt|pipeline)\b/i;
   if (forbidden.test(publicText(site))) fail(`${patchName}: public-facing content contains internal workflow language for ${site.id}`);
 
   if (!Array.isArray(site.displayImages)) fail(`${patchName}: displayImages must be an array`);
@@ -240,7 +260,10 @@ const touched = [];
 const receiptRequests = [];
 
 for (const patchName of patchFiles) {
-  const patchPath = path.join(PATCH_DIR, patchName);
+  let rollbackPack = null;
+  let rollbackIndex = JSON.stringify(index);
+  try {
+    const patchPath = path.join(PATCH_DIR, patchName);
   const patch = readJson(patchPath);
   const countySlug = patch?.countySlug;
   const operation = patch?.operation ?? 'upsert';
@@ -250,6 +273,11 @@ for (const patchName of patchFiles) {
   if (operation === 'upsert') validateSite(site, patchName);
 
   const packPath = path.join(PACK_DIR, `colorado-${countySlug}.json`);
+  rollbackPack = {
+    path: packPath,
+    existed: fs.existsSync(packPath),
+    content: fs.existsSync(packPath) ? fs.readFileSync(packPath) : null
+  };
   let pack;
   if (fs.existsSync(packPath)) {
     pack = readJson(packPath);
@@ -299,8 +327,8 @@ for (const patchName of patchFiles) {
     affectedId = site.id;
   }
 
-  const oldVersion = Number.parseInt(String(pack.version ?? '0'), 10);
-  pack.version = String(Number.isFinite(oldVersion) ? oldVersion + 1 : 1);
+  // Numbered pack versions are frozen during active development.
+  // County freshness is tracked by generatedAt; site freshness by contentUpdatedAt.
   const now = new Date().toISOString();
   pack.generatedAt = now;
   fs.mkdirSync(PACK_DIR, { recursive: true });
@@ -331,18 +359,28 @@ for (const patchName of patchFiles) {
   }
   entry.county = countyLabel;
   entry.state = 'Colorado';
-  entry.version = String(verifyPack.version);
   entry.url = `https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-${countySlug}.json`;
+  entry.generatedAt = now;
   entry.exploreSiteCount = c.exploreSiteCount;
   entry.idOnlySiteCount = c.idOnlySiteCount;
   entry.siteCount = c.siteCount;
   index.generatedAt = now;
-  index.contentVersion = now;
 
   fs.unlinkSync(patchPath);
   merged += 1;
   touched.push(`${affectedId} -> packs/canonical/colorado-${countySlug}.json`);
   receiptRequests.push({ operation, siteId: affectedId, countySlug, packPath });
+  } catch (error) {
+    process.exitCode = 1;
+    if (rollbackPack) {
+      if (rollbackPack.existed) fs.writeFileSync(rollbackPack.path, rollbackPack.content);
+      else if (fs.existsSync(rollbackPack.path)) fs.unlinkSync(rollbackPack.path);
+    }
+    const restoredIndex = JSON.parse(rollbackIndex);
+    Object.keys(index).forEach((key) => delete index[key]);
+    Object.assign(index, restoredIndex);
+    console.error(`PUBLIC SITE PATCH SKIPPED — ${patchName}: ${error instanceof Error ? error.message : String(error)}`);
+  }
 }
 
 fs.writeFileSync(INDEX_PATH, `${JSON.stringify(index, null, 2)}\n`, 'utf8');
