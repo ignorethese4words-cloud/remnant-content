@@ -35,9 +35,11 @@ jobs:
           node-version: '20'
 
       - name: Merge and validate pending public site patches
+        id: merge
         run: node scripts/merge-site-patches.mjs
 
       - name: Commit merged public county packs and manifest
+        if: ${{ always() && steps.merge.outcome != 'skipped' }}
         shell: bash
         run: |
           git add packs/canonical pack-index.json verified-sites
@@ -50,7 +52,8 @@ jobs:
           git config user.name "remnant-publisher-bot"
           git config user.email "actions@users.noreply.github.com"
           git commit -m "Merge verified Remnant public site patch"
-          git push
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
 
       - name: Supabase secret not configured
         if: ${{ env.SUPABASE_SECRET_KEY == '' }}
