@@ -4,7 +4,7 @@
   "county": "Gunnison County",
   "state": "Colorado",
   "version": "8",
-  "generatedAt": "2026-09-07T20:24:27.189Z",
+  "generatedAt": "2026-09-19T22:27:53.182Z",
   "sites": [
     {
       "id": "CO-GUNNISON-8TH-STREET-SCHOOL",
@@ -229,56 +229,6 @@
       "coordinates": {
         "latitude": 38.576667,
         "longitude": -106.506667
-      }
-    },
-    {
-      "id": "CO-GUNNISON-KEYSTONE-MINE",
-      "name": "Keystone Mine",
-      "location": "Crested Butte / Mount Emmons area",
-      "county": "Gunnison County",
-      "category": "Historic Mine",
-      "componentType": "Adit / Mine",
-      "appReady": false,
-      "betaVisible": false,
-      "overview": [
-        "Keystone is a documented Gunnison County lead-zinc-copper mine with a mapped mine locality and mid-century federal exploration record."
-      ],
-      "timeline": [
-        {
-          "year": "1959-1967",
-          "text": "Federal exploration records document work at Keystone for lead, zinc, copper, and silver."
-        }
-      ],
-      "moreHistory": [],
-      "displayImages": [],
-      "coordinates": {
-        "latitude": 38.8686,
-        "longitude": -107.03894
-      }
-    },
-    {
-      "id": "CO-GUNNISON-LUCKY-STRIKE-MINE-CHANCE",
-      "name": "Lucky Strike Mine (Chance Area)",
-      "location": "Green Mountain / Gold Basin-Iris area",
-      "county": "Gunnison County",
-      "category": "Historic Mine",
-      "componentType": "Mine",
-      "appReady": false,
-      "betaVisible": false,
-      "overview": [
-        "Lucky Strike is a documented Gunnison County gold-led polymetallic producer with a traceable patented-claim group."
-      ],
-      "timeline": [
-        {
-          "year": "Historic mining era",
-          "text": "The Lucky Strike property incorporated several documented patented claims in the Green Mountain mining area."
-        }
-      ],
-      "moreHistory": [],
-      "displayImages": [],
-      "coordinates": {
-        "latitude": 38.43111,
-        "longitude": -106.85306
       }
     },
     {

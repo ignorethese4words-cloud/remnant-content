@@ -1,40 +1,20 @@
 {
   "schemaVersion": 1,
-  "operation": "upsert",
+  "operation": "delete",
   "siteId": "CO-BOULDER-STEEL-PLATE-MINE",
   "countySlug": "boulder",
   "countyPack": "packs/canonical/colorado-boulder.json",
-  "packVersion": "101",
-  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
-  "verifiedAt": "2026-09-16T00:23:17.298Z",
+  "packGeneratedAt": "2026-09-19T22:27:53.082Z",
+  "verifiedAt": "2026-09-19T22:27:53.248Z",
   "manifest": {
     "id": "colorado-boulder",
     "county": "Boulder County",
     "state": "Colorado",
-    "version": "101",
+    "generatedAt": "2026-09-19T22:27:53.082Z",
     "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
-    "siteCount": 102,
-    "exploreSiteCount": 39,
-    "idOnlySiteCount": 63
+    "siteCount": 109,
+    "exploreSiteCount": 50,
+    "idOnlySiteCount": 59
   },
-  "site": {
-    "id": "CO-BOULDER-STEEL-PLATE-MINE",
-    "name": "Steel Plate Mine",
-    "location": "Grand Island / Boulder County Tungsten Mining District",
-    "county": "Boulder County",
-    "category": "Historic Mine",
-    "componentType": "Mine",
-    "appReady": false,
-    "betaVisible": false,
-    "overview": [
-      "Historic Steel Plate tungsten mine documented in federal exploration records and mapped mine data."
-    ],
-    "timeline": [],
-    "moreHistory": [],
-    "displayImages": [],
-    "coordinates": {
-      "latitude": 39.98221,
-      "longitude": -105.48666
-    }
-  }
+  "site": null
 }

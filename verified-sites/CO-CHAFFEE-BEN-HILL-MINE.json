@@ -1,40 +1,20 @@
 {
   "schemaVersion": 1,
-  "operation": "upsert",
+  "operation": "delete",
   "siteId": "CO-CHAFFEE-BEN-HILL-MINE",
   "countySlug": "chaffee",
   "countyPack": "packs/canonical/colorado-chaffee.json",
-  "packVersion": "19",
-  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
-  "verifiedAt": "2026-09-16T00:23:17.313Z",
+  "packGeneratedAt": "2026-09-19T22:27:53.141Z",
+  "verifiedAt": "2026-09-19T22:27:53.250Z",
   "manifest": {
     "id": "colorado-chaffee",
     "county": "Chaffee County",
     "state": "Colorado",
-    "version": "19",
+    "generatedAt": "2026-09-19T22:27:53.141Z",
     "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
-    "siteCount": 71,
-    "exploreSiteCount": 0,
-    "idOnlySiteCount": 71
+    "siteCount": 60,
+    "exploreSiteCount": 3,
+    "idOnlySiteCount": 57
   },
-  "site": {
-    "id": "CO-CHAFFEE-BEN-HILL-MINE",
-    "name": "Ben Hill Mine",
-    "location": "Salida West area",
-    "county": "Chaffee County",
-    "category": "Underground Mine",
-    "componentType": "Mine",
-    "appReady": false,
-    "betaVisible": false,
-    "overview": [
-      "Ben Hill is a documented Chaffee County lead-silver mine preserved as a named USGS topographic feature."
-    ],
-    "timeline": [],
-    "moreHistory": [],
-    "displayImages": [],
-    "coordinates": {
-      "latitude": 38.5713861,
-      "longitude": -106.1241843
-    }
-  }
+  "site": null
 }

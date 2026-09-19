@@ -1,40 +1,20 @@
 {
   "schemaVersion": 1,
-  "operation": "upsert",
+  "operation": "delete",
   "siteId": "CO-CHAFFEE-TILDEN-MINE",
   "countySlug": "chaffee",
   "countyPack": "packs/canonical/colorado-chaffee.json",
-  "packVersion": "19",
-  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
-  "verifiedAt": "2026-09-16T00:23:17.319Z",
+  "packGeneratedAt": "2026-09-19T22:27:53.141Z",
+  "verifiedAt": "2026-09-19T22:27:53.257Z",
   "manifest": {
     "id": "colorado-chaffee",
     "county": "Chaffee County",
     "state": "Colorado",
-    "version": "19",
+    "generatedAt": "2026-09-19T22:27:53.141Z",
     "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
-    "siteCount": 71,
-    "exploreSiteCount": 0,
-    "idOnlySiteCount": 71
+    "siteCount": 60,
+    "exploreSiteCount": 3,
+    "idOnlySiteCount": 57
   },
-  "site": {
-    "id": "CO-CHAFFEE-TILDEN-MINE",
-    "name": "Tilden Mine",
-    "location": "Chalk Creek area",
-    "county": "Chaffee County",
-    "category": "Underground Mine",
-    "componentType": "Mine",
-    "appReady": false,
-    "betaVisible": false,
-    "overview": [
-      "Tilden is a documented Chaffee County gold mine with operating-era evidence and a stable mapped mine locality."
-    ],
-    "timeline": [],
-    "moreHistory": [],
-    "displayImages": [],
-    "coordinates": {
-      "latitude": 38.66666,
-      "longitude": -106.26724
-    }
-  }
+  "site": null
 }

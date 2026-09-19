@@ -1,40 +1,20 @@
 {
   "schemaVersion": 1,
-  "operation": "upsert",
+  "operation": "delete",
   "siteId": "CO-CHAFFEE-LITTLE-WONDER-MINE",
   "countySlug": "chaffee",
   "countyPack": "packs/canonical/colorado-chaffee.json",
-  "packVersion": "19",
-  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
-  "verifiedAt": "2026-09-16T00:23:17.318Z",
+  "packGeneratedAt": "2026-09-19T22:27:53.141Z",
+  "verifiedAt": "2026-09-19T22:27:53.254Z",
   "manifest": {
     "id": "colorado-chaffee",
     "county": "Chaffee County",
     "state": "Colorado",
-    "version": "19",
+    "generatedAt": "2026-09-19T22:27:53.141Z",
     "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
-    "siteCount": 71,
-    "exploreSiteCount": 0,
-    "idOnlySiteCount": 71
+    "siteCount": 60,
+    "exploreSiteCount": 3,
+    "idOnlySiteCount": 57
   },
-  "site": {
-    "id": "CO-CHAFFEE-LITTLE-WONDER-MINE",
-    "name": "Little Wonder Mine",
-    "location": "Monarch district",
-    "county": "Chaffee County",
-    "category": "Underground Mine",
-    "componentType": "Mine",
-    "appReady": false,
-    "betaVisible": false,
-    "overview": [
-      "Little Wonder is a documented Monarch-area lead mine preserved as a named USGS mine feature."
-    ],
-    "timeline": [],
-    "moreHistory": [],
-    "displayImages": [],
-    "coordinates": {
-      "latitude": 38.536941,
-      "longitude": -106.315302
-    }
-  }
+  "site": null
 }

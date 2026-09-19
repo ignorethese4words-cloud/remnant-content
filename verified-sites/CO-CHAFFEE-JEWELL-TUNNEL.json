@@ -1,45 +1,20 @@
 {
   "schemaVersion": 1,
-  "operation": "upsert",
+  "operation": "delete",
   "siteId": "CO-CHAFFEE-JEWELL-TUNNEL",
   "countySlug": "chaffee",
   "countyPack": "packs/canonical/colorado-chaffee.json",
-  "packVersion": "19",
-  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
-  "verifiedAt": "2026-09-16T00:23:17.318Z",
+  "packGeneratedAt": "2026-09-19T22:27:53.141Z",
+  "verifiedAt": "2026-09-19T22:27:53.252Z",
   "manifest": {
     "id": "colorado-chaffee",
     "county": "Chaffee County",
     "state": "Colorado",
-    "version": "19",
+    "generatedAt": "2026-09-19T22:27:53.141Z",
     "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
-    "siteCount": 71,
-    "exploreSiteCount": 0,
-    "idOnlySiteCount": 71
+    "siteCount": 60,
+    "exploreSiteCount": 3,
+    "idOnlySiteCount": 57
   },
-  "site": {
-    "id": "CO-CHAFFEE-JEWELL-TUNNEL",
-    "name": "Jewell Tunnel",
-    "location": "Monarch Mining District",
-    "county": "Chaffee County",
-    "category": "Tunnel / Mine",
-    "componentType": "Adit / Portal",
-    "appReady": false,
-    "betaVisible": false,
-    "overview": [
-      "Jewell Tunnel is a documented Monarch-area zinc and polymetallic mine with early-20th-century production and later federal exploration. Mapped locality evidence provides a stable Scan anchor."
-    ],
-    "timeline": [
-      {
-        "year": "1913–1945",
-        "text": "State and federal records document production, development, examination, and rehabilitation work at Jewell Tunnel."
-      }
-    ],
-    "moreHistory": [],
-    "displayImages": [],
-    "coordinates": {
-      "latitude": 38.57278,
-      "longitude": -106.29167
-    }
-  }
+  "site": null
 }

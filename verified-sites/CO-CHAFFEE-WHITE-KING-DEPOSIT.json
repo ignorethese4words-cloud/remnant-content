@@ -1,45 +1,20 @@
 {
   "schemaVersion": 1,
-  "operation": "upsert",
+  "operation": "delete",
   "siteId": "CO-CHAFFEE-WHITE-KING-DEPOSIT",
   "countySlug": "chaffee",
   "countyPack": "packs/canonical/colorado-chaffee.json",
-  "packVersion": "19",
-  "packGeneratedAt": "2026-09-13T01:38:47.028Z",
-  "verifiedAt": "2026-09-16T00:23:17.320Z",
+  "packGeneratedAt": "2026-09-19T22:27:53.141Z",
+  "verifiedAt": "2026-09-19T22:27:53.258Z",
   "manifest": {
     "id": "colorado-chaffee",
     "county": "Chaffee County",
     "state": "Colorado",
-    "version": "19",
+    "generatedAt": "2026-09-19T22:27:53.141Z",
     "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
-    "siteCount": 71,
-    "exploreSiteCount": 0,
-    "idOnlySiteCount": 71
+    "siteCount": 60,
+    "exploreSiteCount": 3,
+    "idOnlySiteCount": 57
   },
-  "site": {
-    "id": "CO-CHAFFEE-WHITE-KING-DEPOSIT",
-    "name": "White King Deposit",
-    "location": "Browns Canyon Mining District",
-    "county": "Chaffee County",
-    "category": "Mine / Adit / Shaft",
-    "componentType": "Shaft / Mine",
-    "appReady": false,
-    "betaVisible": false,
-    "overview": [
-      "White King is a documented Browns Canyon fluorspar producer developed mainly by a long adit and shallow shaft. Federal deposit mapping supplies a stable parent-level Scan anchor."
-    ],
-    "timeline": [
-      {
-        "year": "1929–1944",
-        "text": "White King produced fluorspar during interwar and World War II-era operating periods documented by USGS."
-      }
-    ],
-    "moreHistory": [],
-    "displayImages": [],
-    "coordinates": {
-      "latitude": 38.64861,
-      "longitude": -106.07722
-    }
-  }
+  "site": null
 }

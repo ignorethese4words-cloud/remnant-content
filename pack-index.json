@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentVersion": "2026-09-18T14:13:56.915Z",
-  "generatedAt": "2026-09-19T22:03:57.353Z",
+  "generatedAt": "2026-09-19T22:27:53.182Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -22,9 +22,9 @@
       "version": "108",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
       "exploreSiteCount": 50,
-      "idOnlySiteCount": 60,
-      "siteCount": 110,
-      "generatedAt": "2026-09-19T22:03:57.353Z"
+      "idOnlySiteCount": 59,
+      "siteCount": 109,
+      "generatedAt": "2026-09-19T22:27:53.082Z"
     },
     {
       "id": "colorado-broomfield",
@@ -43,8 +43,9 @@
       "version": "22",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
       "exploreSiteCount": 3,
-      "idOnlySiteCount": 71,
-      "siteCount": 74
+      "idOnlySiteCount": 57,
+      "siteCount": 60,
+      "generatedAt": "2026-09-19T22:27:53.141Z"
     },
     {
       "id": "colorado-cheyenne",
@@ -183,8 +184,9 @@
       "version": "8",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-gunnison.json",
       "exploreSiteCount": 0,
-      "idOnlySiteCount": 15,
-      "siteCount": 15
+      "idOnlySiteCount": 13,
+      "siteCount": 13,
+      "generatedAt": "2026-09-19T22:27:53.182Z"
     },
     {
       "id": "colorado-hinsdale",
