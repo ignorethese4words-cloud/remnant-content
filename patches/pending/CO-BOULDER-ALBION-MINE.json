@@ -1,0 +1,81 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-ALBION-MINE",
+    "name": "Albion Mine",
+    "location": "Lake Albion / Snowy Range Mining District",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "componentDetail": "Historic mine locality associated with Camp Albion and the Snowy Range Mining District",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-19T09:41:00-06:00",
+    "coordinates": {
+      "latitude": 40.05,
+      "longitude": -105.58528
+    },
+    "overview": [
+      "Albion Mine is a documented historic mine locality near Lake Albion in Boulder County's Snowy Range Mining District. Denver Public Library's Colorado place-name research records the Albion Mine as established by 1864.",
+      "The Snowy Range district was organized in 1861 and later centered on Camp Albion. Archival Boulder County collections specifically index the Albion Mine in the Snowy Range Mining District, while modern mineral-locality mapping places the Albion locality at approximately 40.05000, -105.58528.",
+      "This identification point represents the documented historic mine locality rather than a field-verified surviving shaft or adit. The Lake Albion area includes protected watershed and historic resources; respect closures, private property and posted restrictions."
+    ],
+    "timeline": [
+      {
+        "year": "1861",
+        "text": "The Snowy Range Mining District was organized, one of Boulder County's early mining districts."
+      },
+      {
+        "year": "1864",
+        "text": "Denver Public Library's Colorado place-name directory records the Albion Mine as established by this year."
+      },
+      {
+        "year": "1877–1884",
+        "text": "The Snowy Range district experienced its principal later mining-development period and Camp Albion emerged as its settlement center."
+      },
+      {
+        "year": "1880",
+        "text": "Historical place-name research records the settlement of Albion, also called Camp Albion, as established around this period."
+      },
+      {
+        "year": "Mid-1880s",
+        "text": "Camp Albion was largely abandoned after difficult access, short seasons and disappointing ore development limited the district."
+      }
+    ],
+    "moreHistory": [
+      "History Colorado's National Register mining context describes the Snowy Range district's 1877–1884 development period and Camp Albion's rise and decline. The camp later saw intermittent renewed mining activity, but the district never developed into a sustained major producer.",
+      "Carnegie Library for Local History holdings identify Albion Mine specifically with the Snowy Range Mining District, providing independent archival confirmation that the mine name belongs to this Boulder County mining landscape."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "sourceReferences": [
+      {
+        "title": "Colorado Place Names / Directories — Albion, Boulder County",
+        "publisher": "Denver Public Library, Western History and Genealogy",
+        "url": "https://history.denverlibrary.org/sites/history/files/JW_Directory.pdf",
+        "note": "Records Camp Albion and states that Albion Mine had been established in 1864."
+      },
+      {
+        "title": "Mining Industry in Colorado — National Register Multiple Property Documentation amendment",
+        "publisher": "History Colorado / National Park Service",
+        "url": "https://historycoloradodev.exemplifi.io/sites/default/files/media/document/2017/623amend09.pdf",
+        "note": "Documents the Snowy Range district and Camp Albion's 1877–1884 period of significance, development and later decline."
+      },
+      {
+        "title": "County ledger",
+        "publisher": "Carnegie Library for Local History",
+        "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A3396",
+        "note": "Archival collection subjects specifically identify Albion mine in the Snowy Range Mining District."
+      },
+      {
+        "title": "Albion locality, Lake Albion, Boulder County",
+        "publisher": "Mindat",
+        "url": "https://www.mindat.org/loc-109822.html",
+        "note": "Provides the mapped Albion mineral-locality point at 40.05000, -105.58528; used as a site-level identification point, not a field-surveyed surviving opening."
+      }
+    ]
+  }
+}
