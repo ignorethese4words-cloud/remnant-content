@@ -72,8 +72,7 @@ for (const item of manifest.items || []) {
 for (const county of changedCounties) {
   const entry = (index.packs || []).find((p) => p.county === county);
   if (!entry) throw new Error(`Pack index entry not found: ${county}`);
-  entry.version = Number(entry.version || 0) + 1;
-  entry.packId = String(entry.packId || '').replace(/-v\d+$/i, '') + `-v${entry.version}`;
+  entry.generatedAt = new Date().toISOString();
 }
 if (changedCounties.size) {
   index.updatedAt = new Date().toISOString();
@@ -85,4 +84,4 @@ for (const item of manifest.items || []) {
   if (!expected.includes('/remnant-content/main/media/')) throw new Error(`Controlled media URL invariant failed: ${expected}`);
 }
 
-console.log(`CONTROLLED MEDIA PROMOTION COMPLETE — ${manifest.items?.length || 0} manifest images; ${changedMediaFiles} media file(s) changed; ${changedCounties.size} county pack(s) bumped.`);
+console.log(`CONTROLLED MEDIA PROMOTION COMPLETE — ${manifest.items?.length || 0} manifest images; ${changedMediaFiles} media file(s) changed; ${changedCounties.size} county pack(s) changed.`);
