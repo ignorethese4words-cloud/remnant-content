@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LAKE-ALICE-PLACER",
   "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packGeneratedAt": "2026-09-19T15:37:57.108Z",
+  "verifiedAt": "2026-09-19T15:37:57.111Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-19T15:37:57.108Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 24,
+    "exploreSiteCount": 18,
+    "idOnlySiteCount": 6
+  },
   "site": {
     "id": "CO-LAKE-ALICE-PLACER",
     "name": "Alice Placer Mine",
@@ -23,19 +39,22 @@
     "displayImages": [],
     "mediaNotice": "Historic image not available",
     "mediaSearchStatus": "SEARCH_EXHAUSTED",
-    "coordinates": {"latitude":39.25,"longitude":-106.2772},
+    "coordinates": {
+      "latitude": 39.25,
+      "longitude": -106.2772
+    },
     "sourceReferences": [
       {
-        "title":"Alice Placer Mine",
-        "publisher":"Western Mining History / USGS MRDS-derived record",
-        "url":"https://westernmininghistory.com/mine-detail/10166992/",
-        "note":"Retains USGS MRDS record 10166992 for Alice Placer Mine in Lake County, recording zinc, patented-holding status, an underground operation, past-producer status, and the mapped site location."
+        "title": "Alice Placer Mine",
+        "publisher": "Western Mining History / USGS MRDS-derived record",
+        "url": "https://westernmininghistory.com/mine-detail/10166992/",
+        "note": "Retains USGS MRDS record 10166992 for Alice Placer Mine in Lake County, recording zinc, patented-holding status, an underground operation, past-producer status, and the mapped site location."
       },
       {
-        "title":"Alice Placer Mine, Lake County, Colorado",
-        "publisher":"Mineralienatlas",
-        "url":"https://www.mineralienatlas.de/wiki/LokationGeo?lang=en&nodeid=70888",
-        "note":"Provides an independent location index for the named Lake County mine near the USGS MRDS-derived point."
+        "title": "Alice Placer Mine, Lake County, Colorado",
+        "publisher": "Mineralienatlas",
+        "url": "https://www.mineralienatlas.de/wiki/LokationGeo?lang=en&nodeid=70888",
+        "note": "Provides an independent location index for the named Lake County mine near the USGS MRDS-derived point."
       }
     ]
   }
