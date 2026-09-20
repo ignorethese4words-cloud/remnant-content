@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MINERAL-BIRD-CREEK-MINE",
   "countySlug": "mineral",
+  "countyPack": "packs/canonical/colorado-mineral.json",
+  "packGeneratedAt": "2026-09-20T04:03:19.338Z",
+  "verifiedAt": "2026-09-20T04:03:19.340Z",
+  "manifest": {
+    "id": "colorado-mineral",
+    "county": "Mineral County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T04:03:19.338Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mineral.json",
+    "siteCount": 10,
+    "exploreSiteCount": 3,
+    "idOnlySiteCount": 0
+  },
   "site": {
     "id": "CO-MINERAL-BIRD-CREEK-MINE",
     "name": "Bird Creek Mine",
