@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MINERAL-ANTELOPE-WARM-SPRING",
   "countySlug": "mineral",
+  "countyPack": "packs/canonical/colorado-mineral.json",
+  "packGeneratedAt": "2026-09-20T04:02:08.049Z",
+  "verifiedAt": "2026-09-20T04:02:08.081Z",
+  "manifest": {
+    "id": "colorado-mineral",
+    "county": "Mineral County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T04:02:08.049Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mineral.json",
+    "siteCount": 9,
+    "exploreSiteCount": 2,
+    "idOnlySiteCount": 0
+  },
   "site": {
     "id": "CO-MINERAL-ANTELOPE-WARM-SPRING",
     "name": "Antelope Warm Spring",
