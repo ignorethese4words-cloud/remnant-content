@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-BUENO-MINE",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packGeneratedAt": "2026-09-20T19:08:58.002Z",
+  "verifiedAt": "2026-09-20T19:08:58.010Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T19:08:58.002Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 116,
+    "exploreSiteCount": 58,
+    "idOnlySiteCount": 58
+  },
   "site": {
     "id": "CO-BOULDER-BUENO-MINE",
     "name": "Bueno Mine",

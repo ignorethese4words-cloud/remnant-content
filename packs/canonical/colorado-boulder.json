@@ -4,7 +4,7 @@
   "county": "Boulder County",
   "state": "Colorado",
   "version": "108",
-  "generatedAt": "2026-09-20T19:05:43.423Z",
+  "generatedAt": "2026-09-20T19:08:58.002Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -5968,6 +5968,77 @@
           "title": "TopoQuest — USGS-derived Grant County Mine location",
           "url": "https://www.topoquest.com/map.php?lat=39.993042&lon=-105.576667&datum=nad83&zoom=4",
           "note": "USGS-derived named-feature mapping used to cross-check the finite mine-level point."
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-BUENO-MINE",
+      "name": "Bueno Mine",
+      "location": "Jamestown / Central Mining District",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Gold-Silver Mine",
+      "componentType": "Mine",
+      "componentDetail": "Historic underground mine locality also recorded as Buena and the Wano Group, associated with a separate mill component",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-20T02:30:00-06:00",
+      "coordinates": {
+        "latitude": 40.12083,
+        "longitude": -105.40361
+      },
+      "overview": [
+        "Bueno Mine is a documented historic mine in Boulder County's Central Mining District near Jamestown. Archival mapping identifies the Bueno mine, and federal mineral-record derivatives also preserve the names Buena and Wano Group for the property.",
+        "The recorded commodities include gold and silver, with copper, fluorite and tungsten also associated with the locality. An EPA abandoned-mine-land case study lists Bueno Mine and Mill among the major mine and mill sites in the Left Hand Creek watershed.",
+        "The mapped point is a site-level identification point derived from federal mineral records, not a field-surveyed surviving portal or shaft. Visitors should respect closures, private property and posted restrictions."
+      ],
+      "timeline": [
+        {
+          "year": "Late 1800s",
+          "text": "Historical descriptions of the Jamestown mining camp listed the Buena/Bueno among the district's ore-producing mines and associated it with tellurium-bearing ore."
+        },
+        {
+          "year": "1978",
+          "text": "A Colorado metal-mining activity map preserved by the Carnegie Library for Local History identified Bueno Mine in the Central Mining District."
+        },
+        {
+          "year": "Modern record",
+          "text": "Federal mineral-record derivatives catalog the site as Bueno Mine, with Buena and Wano Group as alternate names, and record gold and silver as primary commodities."
+        }
+      ],
+      "moreHistory": [
+        "Colorado School of Mines archival holdings index maps and mine reports for the Boulder County Bueno Mine, confirming that property-specific technical records survive even though they are not fully available online.",
+        "EPA watershed documentation treats the Bueno Mine and Mill as one of the major historic mining sites in the Left Hand Creek area. Remnant keeps the mine and mill as separate components and uses this record only for the mine locality.",
+        "The identification point should not be interpreted as proof that a particular opening survives or is publicly accessible."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "sourceReferences": [
+        {
+          "title": "Metal mining activity map of Colorado, excluding uranium and vanadium",
+          "publisher": "Carnegie Library for Local History",
+          "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A76550",
+          "note": "1978 map index identifies Bueno Mine in the Central Mining District."
+        },
+        {
+          "title": "Abandoned Mine Lands Case Study — Left Hand Creek Watershed",
+          "publisher": "U.S. Environmental Protection Agency",
+          "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100WYO0.TXT",
+          "note": "Lists Bueno Mine and Mill among major historic mining sites in the watershed."
+        },
+        {
+          "title": "Bueno Mine MRDS-derived record",
+          "publisher": "Western Mining History",
+          "url": "https://westernmininghistory.com/mine-detail/10017417/",
+          "note": "Preserves the federal mineral-record location, alternate names and commodity fields."
+        },
+        {
+          "title": "Fairchild Collection — Russell L. and Lyn Wood Mining History Archive",
+          "publisher": "Colorado School of Mines",
+          "url": "https://libguides.mines.edu/MiningHistoryArchive/A0137-fairchild",
+          "note": "Collection guide indexes Boulder County Bueno Mine maps and mine reports."
         }
       ]
     }
