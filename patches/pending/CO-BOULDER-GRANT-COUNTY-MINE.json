@@ -1,0 +1,69 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-GRANT-COUNTY-MINE",
+    "name": "Grant County Mine",
+    "location": "Caribou area, Boulder County",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "componentDetail": "Historic hard-rock mine near Caribou recorded by USGS MRDS as a past producer of gold, lead, and silver and preserved as a named mine on USGS-derived topographic mapping.",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-20T13:04:00-06:00",
+    "coordinates": {
+      "latitude": 39.993042,
+      "longitude": -105.576667
+    },
+    "overview": [
+      "The Grant County Mine is a historic hard-rock property in the Caribou mining area of Boulder County. Federal mineral-resource records classify it as a past producer associated with gold, lead, and silver.",
+      "The mine was attracting attention by late 1882, when a Caribou ore specimen from the Grant County was reported in the Rocky Mountain News and compared favorably with prominent Colorado ore of the period."
+    ],
+    "timeline": [
+      {
+        "year": "1882",
+        "text": "A December report in the Rocky Mountain News described a noteworthy ore specimen from the Grant County Mine at Caribou, showing that the property was active and attracting attention during the district's nineteenth-century mining era."
+      },
+      {
+        "year": "20th century",
+        "text": "Federal mineral-resource records preserved the Grant County as a past-producing Boulder County mine with gold, lead, and silver commodities."
+      },
+      {
+        "year": "Modern mapping",
+        "text": "USGS-derived topographic and geographic-name datasets continue to identify Grant County Mine as a distinct named mine feature near Caribou."
+      }
+    ],
+    "moreHistory": [
+      "The name refers to the mine property, not to Grant County, Colorado; the site is in Boulder County near the historic Caribou mining district.",
+      "Available sources support a meaningful identification and production context, but they do not establish a complete operator history, production total, or the condition of surviving workings.",
+      "The mapped point is a historic site reference, not a safe entrance or an assurance of public access. Visitors should respect property boundaries and never enter mine openings."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "sourceReferences": [
+      {
+        "title": "U.S. Geological Survey Mineral Resources Data System — Grant County (MRDS 10117282)",
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10117282",
+        "note": "Federal mineral-resource record classifying the Boulder County Grant County property as a past producer associated with gold, lead, and silver."
+      },
+      {
+        "title": "Rocky Mountain News (Weekly), December 27, 1882 — Grant County Mine at Caribou",
+        "url": "https://www.coloradohistoricnewspapers.org/",
+        "note": "Colorado Historic Newspapers archive result documenting an ore specimen from the Grant County Mine at Caribou and contemporary attention to the property."
+      },
+      {
+        "title": "USGS TopoView — Grant County Mine area",
+        "url": "https://ngmdb.usgs.gov/topoview/viewer/#15/39.99304/-105.57667",
+        "note": "USGS historical topographic-map viewer for the named mine location used as the site-level identification anchor."
+      },
+      {
+        "title": "TopoQuest — USGS-derived Grant County Mine location",
+        "url": "https://www.topoquest.com/map.php?lat=39.993042&lon=-105.576667&datum=nad83&zoom=4",
+        "note": "USGS-derived named-feature mapping used to cross-check the finite mine-level point."
+      }
+    ]
+  }
+}
