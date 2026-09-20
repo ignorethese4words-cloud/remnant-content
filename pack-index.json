@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentVersion": "2026-09-18T14:13:56.915Z",
-  "generatedAt": "2026-09-20T03:03:20.945Z",
+  "generatedAt": "2026-09-20T03:04:42.632Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -295,9 +295,10 @@
       "state": "Colorado",
       "version": "2",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mineral.json",
-      "exploreSiteCount": 0,
+      "exploreSiteCount": 1,
       "idOnlySiteCount": 0,
-      "siteCount": 0
+      "siteCount": 8,
+      "generatedAt": "2026-09-20T03:04:42.632Z"
     },
     {
       "id": "colorado-moffat",
