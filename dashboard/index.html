@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#090909">
+<title>Remnant Dashboard</title>
+<style>
+:root{--bg:#090909;--panel:#161616;--line:#303030;--gold:#e0b85d;--text:#f5f5f5;--muted:#9a9a9a}
+*{box-sizing:border-box}body{margin:0;background:linear-gradient(180deg,#070707,#101010 45%,#090909);color:var(--text);font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;min-height:100vh}
+.wrap{max-width:1180px;margin:auto;padding:22px 14px 48px}header{display:flex;justify-content:space-between;gap:16px;align-items:flex-end;margin-bottom:20px}
+h1{margin:0;font-size:30px;letter-spacing:.04em}header p{margin:5px 0 0;color:var(--gold);font-weight:800;font-size:12px;letter-spacing:.1em}
+.sync{text-align:right;color:var(--muted);font-size:11px;line-height:1.5}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.card{background:linear-gradient(180deg,#1b1b1b,#141414);border:1px solid var(--line);border-radius:14px;padding:15px;min-height:108px}
+.card .label{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-weight:800}.card .value{font-size:30px;font-weight:850;margin-top:8px;line-height:1}
+.card .note{font-size:11px;color:var(--muted);margin-top:8px}.card.hi{border-color:#6d5421;box-shadow:inset 0 0 0 1px rgba(224,184,93,.07)}.card.hi .value{color:var(--gold)}
+section{margin-top:16px;background:rgba(22,22,22,.97);border:1px solid var(--line);border-radius:14px;overflow:hidden}section h2{font-size:15px;margin:0;padding:15px;border-bottom:1px solid var(--line)}
+.media{padding:16px}.media-head{display:flex;justify-content:space-between;margin-bottom:10px}.bar{height:10px;background:#292929;border-radius:999px;overflow:hidden}.bar>div{height:100%;background:var(--gold)}
+.scroll{overflow:auto}table{width:100%;border-collapse:collapse;min-width:650px}th,td{padding:11px 14px;border-bottom:1px solid #292929;text-align:left;font-size:12px}
+th{color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:.07em}small{display:block;color:#777;margin-top:3px}.status{padding:14px;color:var(--muted);font-size:12px}
+@media(max-width:700px){.grid{grid-template-columns:repeat(2,1fr)}h1{font-size:24px}.card .value{font-size:27px}.sync{font-size:10px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header><div><h1>REMNANT</h1><p>CONTENT DASHBOARD</p></div><div class="sync" id="sync">Loading live data…</div></header>
+<div class="grid">
+<div class="card hi"><div class="label">Worker queue</div><div class="value" id="queue">1465</div><div class="note" id="queue-note">1463 open · 2 in progress</div></div>
+<div class="card hi"><div class="label">Published</div><div class="value" id="published">385</div><div class="note">Verified locations</div></div>
+<div class="card"><div class="label">Explore</div><div class="value" id="explore">138</div><div class="note">Published Explore sites</div></div>
+<div class="card"><div class="label">ID-only</div><div class="value" id="idonly">247</div><div class="note">Identification sites</div></div>
+<div class="card"><div class="label">Counties</div><div class="value" id="counties">40</div><div class="note">Colorado coverage</div></div>
+<div class="card"><div class="label">With media</div><div class="value" id="withmedia">15</div><div class="note" id="media-note">3.9% coverage</div></div>
+<div class="card"><div class="label">Need media</div><div class="value" id="needmedia">370</div><div class="note">Published sites without media</div></div>
+</div>
+<section><h2>Media coverage</h2><div class="media"><div class="media-head"><b id="media-total">15 of 385</b><span id="media-pct">3.9%</span></div><div class="bar"><div id="media-bar" style="width:3.9%"></div></div></div></section>
+<section><h2>County breakdown</h2><div class="scroll"><table><thead><tr><th>County</th><th>Total</th><th>Explore</th><th>ID-only</th><th>Media</th></tr></thead><tbody id="counties-body"><tr><td colspan="5">Loading…</td></tr></tbody></table></div></section>
+<section><h2>Recent content updates</h2><div class="scroll"><table><thead><tr><th>Location</th><th>County</th><th>Tier</th><th>Updated</th></tr></thead><tbody id="recent-body"><tr><td colspan="4">Loading…</td></tr></tbody></table></div></section>
+<div class="status" id="status">Fallback numbers are shown until live Supabase data loads.</div>
+</div>
+<script>
+const DATA_URL="https://mdwwaxqzzztpcfkfgijr.supabase.co/functions/v1/remnant-dashboard-data";
+const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
+const fmt=v=>{if(!v)return"—";try{return new Intl.DateTimeFormat("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit",timeZone:"America/Denver",timeZoneName:"short"}).format(new Date(v))}catch{return String(v)}};
+fetch(DATA_URL,{cache:"no-store"})
+.then(r=>{if(!r.ok)throw new Error("HTTP "+r.status);return r.json()})
+.then(d=>{
+ const o=d.overview||{},p=d.pipeline||{},counties=d.counties||[],recent=d.recent||[];
+ const total=Number(o.total_locations||0),media=Number(o.locations_with_media||0),pct=total?media/total*100:0;
+ document.getElementById("queue").textContent=p.worker_queue_remaining??"—";
+ document.getElementById("queue-note").textContent=`${p.worker_queue_open??0} open · ${p.worker_queue_in_progress??0} in progress`;
+ document.getElementById("published").textContent=o.total_locations??"—";
+ document.getElementById("explore").textContent=o.explore_locations??"—";
+ document.getElementById("idonly").textContent=o.id_only_locations??"—";
+ document.getElementById("counties").textContent=o.counties??"—";
+ document.getElementById("withmedia").textContent=media;
+ document.getElementById("needmedia").textContent=o.locations_without_media??"—";
+ document.getElementById("media-note").textContent=pct.toFixed(1)+"% coverage";
+ document.getElementById("media-total").textContent=`${media} of ${total}`;
+ document.getElementById("media-pct").textContent=pct.toFixed(1)+"%";
+ document.getElementById("media-bar").style.width=pct.toFixed(2)+"%";
+ document.getElementById("sync").innerHTML=`Published sync ${esc(fmt(o.latest_dashboard_sync))}<br>Queue sync ${esc(fmt(p.worker_queue_synced_at))}`;
+ document.getElementById("counties-body").innerHTML=counties.map(c=>`<tr><td><b>${esc(c.county)}</b><small>${esc(c.state)}</small></td><td>${esc(c.total_locations)}</td><td>${esc(c.explore_locations)}</td><td>${esc(c.id_only_locations)}</td><td>${esc(c.locations_with_media)}</td></tr>`).join("")||'<tr><td colspan="5">No county data</td></tr>';
+ document.getElementById("recent-body").innerHTML=recent.map(r=>`<tr><td><b>${esc(r.location_name)}</b><small>${esc(r.site_id)}</small></td><td>${esc(r.county)}</td><td>${esc(r.tier)}</td><td>${esc(fmt(r.content_updated_at))}</td></tr>`).join("")||'<tr><td colspan="4">No recent data</td></tr>';
+ document.getElementById("status").textContent="Live data loaded from Supabase.";
+})
+.catch(()=>{document.getElementById("status").textContent="Live refresh could not load. Showing the most recently verified fallback numbers.";});
+</script>
+</body>
+</html>
