@@ -4,7 +4,7 @@
   "county": "Boulder County",
   "state": "Colorado",
   "version": "108",
-  "generatedAt": "2026-09-20T09:03:17.131Z",
+  "generatedAt": "2026-09-20T09:04:25.998Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -5713,6 +5713,48 @@
         {
           "title": "USGS — Captain Jack Superfund site groundwater-flow model",
           "url": "https://www.usgs.gov/data/analytic-element-groundwater-flow-model-captain-jack-superfund-site-boulder-county-colorado"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-BLACK-ROSE-MINE",
+      "name": "Black Rose Mine",
+      "location": "Jamestown Mining District",
+      "county": "Boulder County",
+      "category": "Historic Telluride Mine",
+      "componentType": "Mine Site / Workings",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-20T08:45:00Z",
+      "overview": [
+        "Black Rose Mine is a documented historic mine locality in Boulder County's Jamestown Mining District. Mineral-locality records place it northwest of Jamestown among the district's dense network of telluride-era workings.",
+        "Published locality data record petzite, a gold-silver telluride mineral, at Black Rose Mine and cite major geological studies of Boulder County's ore deposits. Available desk sources do not provide enough reliable, site-specific operational history to support a broader visitor narrative."
+      ],
+      "timeline": [],
+      "moreHistory": [
+        "Remnant uses the published mine-locality coordinate as a site-level identification point. The source notes that mapped coordinates may be estimated, so this point should not be interpreted as a field-surveyed surviving portal, shaft, or public access route.",
+        "Black Rose Mine is distinct from the nearby New Rival–Black Rose locality in the Ward Mining District."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 40.0938889,
+        "longitude": -105.4033333
+      },
+      "sourceReferences": [
+        {
+          "title": "Mindat — Black Rose mine, Jamestown Mining District",
+          "url": "https://www.mindat.org/loc-59891.html"
+        },
+        {
+          "title": "Geological Society of America — Telluride Ores of Boulder County, Colorado",
+          "url": "https://pubs.geoscienceworld.org/gsa/books/book/117/Telluride-Ores-of-Boulder-County-Colorado"
+        },
+        {
+          "title": "Mindat — Petzite occurrence at Black Rose mine",
+          "url": "https://www.mindat.org/locentries.php?m=3180&p=59891"
         }
       ]
     }
