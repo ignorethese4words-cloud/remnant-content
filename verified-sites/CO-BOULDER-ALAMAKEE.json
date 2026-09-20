@@ -4,52 +4,86 @@
   "siteId": "CO-BOULDER-ALAMAKEE",
   "countySlug": "boulder",
   "countyPack": "packs/canonical/colorado-boulder.json",
-  "packVersion": "101",
-  "packGeneratedAt": "2026-09-15T06:01:27.538Z",
-  "verifiedAt": "2026-09-16T00:23:17.294Z",
+  "packGeneratedAt": "2026-09-20T05:14:26.880Z",
+  "verifiedAt": "2026-09-20T05:14:26.887Z",
   "manifest": {
     "id": "colorado-boulder",
     "county": "Boulder County",
     "state": "Colorado",
-    "version": "101",
+    "generatedAt": "2026-09-20T05:14:26.880Z",
     "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
-    "siteCount": 102,
-    "exploreSiteCount": 39,
-    "idOnlySiteCount": 63
+    "siteCount": 110,
+    "exploreSiteCount": 52,
+    "idOnlySiteCount": 58
   },
   "site": {
     "id": "CO-BOULDER-ALAMAKEE",
     "name": "Alamakee",
     "location": "Gold Hill Mining District",
     "county": "Boulder County",
+    "state": "Colorado",
     "category": "Historic Mine",
     "componentType": "Mine",
-    "appReady": false,
-    "betaVisible": false,
-    "contentUpdatedAt": "2026-09-08T07:31:00.000Z",
+    "componentDetail": "Historic Alamakee gold mine in the Gold Hill Mining District, one of the district's early productive lodes and later part of the Gold Hill Mining Company's holdings.",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-19T11:24:00Z",
     "overview": [
-      "Alamakee was one of the original mining discoveries at Gold Hill and is documented in federal mining history and historic Boulder-area archival records."
+      "The Alamakee was one of the early productive lodes in the Gold Hill Mining District northwest of Boulder. It emerged during the first wave of hard-rock mining after the 1859 gold discoveries and supplied ore to early stamp-mill operations on Left Hand Creek.",
+      "The mine remained part of Gold Hill's long mining story after the easiest surface ores were exhausted. Historic records show it persisted as a recognized property through later district revivals and was still being treated as an important historic producer in the early twentieth century."
     ],
     "timeline": [
       {
-        "year": "Early Gold Hill mining era",
-        "text": "Federal mining history identifies Alamakee among the original discoveries at Gold Hill."
+        "year": "1859–1860",
+        "text": "The Alamakee became one of the early productive lodes developed around Gold Hill during the district's first hard-rock mining boom."
+      },
+      {
+        "year": "Early 1860s",
+        "text": "Alamakee and other nearby mines supplied surface ores to stamp mills on Left Hand Creek while miners worked the district's oxidized near-surface ore."
+      },
+      {
+        "year": "1866–1872",
+        "text": "After the first rush declined, the Alamakee remained one of the richer Gold Hill properties whose owners retained the mine while better ore-treatment technology developed."
       },
       {
         "year": "1895",
-        "text": "A surviving Boulder Historical Society/Carnegie Library photograph identifies the Alamakee Mine in the Gold Hill landscape."
+        "text": "A surviving Boulder historical photograph documents the Alamakee Mine together with the Cold Spring and Gold Ring mines in the Gold Hill area."
+      },
+      {
+        "year": "Circa 1915",
+        "text": "The Gold Hill Mining Company acquired the Alamakee along with several other formerly rich Gold Hill producers and leased some properties to small mining parties."
       }
     ],
     "moreHistory": [
-      "USGS mining history documents the Alamakee name at Gold Hill, while mapped locality evidence provides a stable mine-level identification anchor near 40.06611, -105.40472.",
-      "The known 1895 archival photograph is retained as research evidence, but its item-level reuse basis is not sufficiently clear for Remnant packaging. It is therefore not shipped in the app."
+      "National Register documentation for the Gold Hill district identifies the Alamakee among the important historic mines retained after the easily processed free-gold ore was depleted. That history illustrates the transition from the initial rush to more technically demanding hard-rock mining.",
+      "Modern federal mining-environment documents still identify the Alamakee vein among the important mineralized structures of the Gold Hill district, showing that the property remains a recognized part of the district's geologic and mining history.",
+      "The Remnant coordinate is a historic mine-site reference for identification, not a statement that a mine opening is safe or publicly accessible. Visitors should not enter workings or cross private-property boundaries."
     ],
     "displayImages": [],
     "mediaNotice": "Historic image not available",
     "mediaSearchStatus": "SEARCH_EXHAUSTED",
     "coordinates": {
-      "latitude": 40.06611,
-      "longitude": -105.40472
-    }
+      "latitude": 40.066111,
+      "longitude": -105.404722
+    },
+    "sourceReferences": [
+      {
+        "title": "History Colorado / National Register — Gold Hill Mining District historic context amendment",
+        "url": "https://historycoloradodev.exemplifi.io/sites/default/files/media/document/2017/623amend09.pdf"
+      },
+      {
+        "title": "U.S. Geological Survey Professional Paper 223 — Geology and Ore Deposits of the Front Range, Colorado",
+        "url": "https://pubs.usgs.gov/publication/pp223"
+      },
+      {
+        "title": "Bureau of Land Management — Gold Hill district mineralization context",
+        "url": "https://eplanning.blm.gov/public_projects/2034655/200636978/20125973/251025953/DOI-EA-CO-F020-2024-0048-EA_508.pdf"
+      },
+      {
+        "title": "Carnegie Library for Local History — Gold Hill area mines, 1895 (Alamakee, Cold Spring, Gold Ring)",
+        "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A25650"
+      }
+    ]
   }
 }
