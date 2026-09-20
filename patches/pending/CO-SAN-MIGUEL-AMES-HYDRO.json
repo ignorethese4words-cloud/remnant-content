@@ -1,0 +1,68 @@
+{
+  "countySlug": "san-miguel",
+  "site": {
+    "id": "CO-SAN-MIGUEL-AMES-HYDRO",
+    "name": "Ames Hydroelectric Plant / Telluride Power Company Power Station",
+    "location": "Ames, near Ophir",
+    "county": "San Miguel County",
+    "category": "Hydroelectric / Mining Infrastructure",
+    "componentType": "Hydroelectric Power Plant",
+    "componentDetail": "Historic operating hydroelectric powerhouse and the original Ames–Gold King industrial AC transmission system",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-19T16:40:19-06:00",
+    "overview": [
+      "Built in 1890–1891, the Ames plant used water power to generate alternating current for the Gold King Mine above Ophir. The system sent power about 2.6 miles uphill, proving that high-voltage AC could run industrial machinery far from the generating site.",
+      "Lucien L. Nunn's project used Westinghouse equipment: one large alternator served as the generator at Ames and another as a synchronous motor at the mine's stamp mill. The successful installation became an early landmark in commercial hydroelectric power and long-distance industrial AC transmission."
+    ],
+    "timeline": [
+      {
+        "year": "1890",
+        "text": "Lucien L. Nunn and Westinghouse engineers began installing the hydroelectric generator at Ames and the matching motor at the Gold King Mine."
+      },
+      {
+        "year": "June 19, 1891",
+        "text": "The Ames–Gold King system entered operation, transmitting single-phase alternating current from the powerhouse to the mine's stamp mill."
+      },
+      {
+        "year": "1905",
+        "text": "The surviving powerhouse and generating equipment date from a major early-twentieth-century rebuild of the Ames station."
+      },
+      {
+        "year": "After 1968",
+        "text": "The Historic American Engineering Record documented the Ames plant with measured drawings, written history and ten photographs."
+      }
+    ],
+    "moreHistory": [
+      "The original plant used a Pelton wheel and a 100-horsepower Westinghouse alternator to produce roughly 3,000-volt single-phase AC.",
+      "The project answered a mining problem: timber fuel was scarce at the high-elevation Gold King Mine, while direct-current transmission would have required prohibitively expensive copper conductors.",
+      "The identification point near 37.86469, -107.88199 marks the operating Ames powerhouse. The facility remains utility infrastructure; visitors should respect access restrictions and view only from lawful public locations."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 37.864689,
+      "longitude": -107.881994
+    },
+    "sourceReferences": [
+      {
+        "title": "Library of Congress, Historic American Engineering Record — Ames Hydroelectric Plant, HAER CO-2",
+        "url": "https://www.loc.gov/pictures/search/?q=Ames%20Hydroelectric%20Plant"
+      },
+      {
+        "title": "Xcel Energy — Hydro power plants: Ames Hydro",
+        "url": "https://corporate.my.xcelenergy.com/energy-portfolio/electricity/power-plants/hydro"
+      },
+      {
+        "title": "IEEE Life Members — The Ames Hydro Power Plant: The First HV AC Power System",
+        "url": "https://life.ieee.org/the-ames-hydro-power-plant-the-first-hv-ac-power-system/"
+      },
+      {
+        "title": "University of Utah Digital Library — Ames power plant, San Miguel County, Colorado",
+        "url": "https://collections.lib.utah.edu/"
+      }
+    ]
+  }
+}
