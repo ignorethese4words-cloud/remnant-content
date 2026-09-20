@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-BLUE-BIRD-MINE",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packGeneratedAt": "2026-09-20T19:11:01.571Z",
+  "verifiedAt": "2026-09-20T19:11:01.578Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T19:11:01.571Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 117,
+    "exploreSiteCount": 59,
+    "idOnlySiteCount": 58
+  },
   "site": {
     "id": "CO-BOULDER-BLUE-BIRD-MINE",
     "name": "Blue Bird Mine & Caribou Ranch Mining Complex",
