@@ -1,6 +1,21 @@
 {
-  "countySlug": "boulder",
+  "schemaVersion": 1,
   "operation": "upsert",
+  "siteId": "CO-BOULDER-HORSFAL-MINE",
+  "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packGeneratedAt": "2026-09-20T15:17:08.797Z",
+  "verifiedAt": "2026-09-20T15:17:08.804Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T15:17:08.797Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 114,
+    "exploreSiteCount": 56,
+    "idOnlySiteCount": 58
+  },
   "site": {
     "id": "CO-BOULDER-HORSFAL-MINE",
     "name": "Horsfal Mine",
