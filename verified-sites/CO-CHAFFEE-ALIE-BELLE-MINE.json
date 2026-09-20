@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-CHAFFEE-ALIE-BELLE-MINE",
   "countySlug": "chaffee",
+  "countyPack": "packs/canonical/colorado-chaffee.json",
+  "packGeneratedAt": "2026-09-20T03:02:11.447Z",
+  "verifiedAt": "2026-09-20T03:02:11.450Z",
+  "manifest": {
+    "id": "colorado-chaffee",
+    "county": "Chaffee County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T03:02:11.447Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-chaffee.json",
+    "siteCount": 61,
+    "exploreSiteCount": 4,
+    "idOnlySiteCount": 57
+  },
   "site": {
     "id": "CO-CHAFFEE-ALIE-BELLE-MINE",
     "name": "Alie Belle Mine",
