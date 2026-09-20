@@ -1,0 +1,69 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-BLUE-BIRD-MINE",
+    "name": "Blue Bird Mine & Caribou Ranch Mining Complex",
+    "location": "Caribou Ranch Open Space, west of Nederland",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Mine / Mill Complex",
+    "componentType": "Mine / Mill Complex",
+    "componentDetail": "Historic Blue Bird silver mine complex at Caribou Ranch, including mine shafts, ore-cart tracks, surviving bunkhouse/company-house structures, and the foundation of its mill.",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-19T11:18:00Z",
+    "overview": [
+      "The Blue Bird Mine was established in 1871 at what is now Caribou Ranch Open Space west of Nederland. It was primarily a silver mine and became part of the broader Caribou-area mining boom that transformed western Boulder County in the late nineteenth century.",
+      "By 1881 a mill had been developed at the Blue Bird. The surviving complex preserves mine shafts, ore-cart tracks, a bunkhouse, mining-company house, smokehouse and the foundation of the mill, making it one of Boulder County's strongest surviving mine-complex landscapes."
+    ],
+    "timeline": [
+      {
+        "year": "1871",
+        "text": "The Blue Bird Mine was established and developed as a primarily silver-producing operation in the Caribou mining area."
+      },
+      {
+        "year": "1881",
+        "text": "A mill had been developed at the Blue Bird Mine, adding an ore-processing component to the property."
+      },
+      {
+        "year": "1904–1918",
+        "text": "The Denver, Boulder & Western narrow-gauge railroad—better known as the Switzerland Trail—served the area; Blue Bird became a tourist stop on the Eldora Line in 1905."
+      },
+      {
+        "year": "20th century",
+        "text": "Mining continued intermittently at the Blue Bird and surrounding Caribou Ranch landscape while the property also developed ranching and later cultural uses."
+      },
+      {
+        "year": "Modern era",
+        "text": "Boulder County preserves the Blue Bird Mine complex within Caribou Ranch Open Space and interprets its surviving mining structures and landscape for visitors."
+      }
+    ],
+    "moreHistory": [
+      "Boulder County's management plan identifies the Blue Bird as a historic silver mine developed by the Sanata La Saria Mining Company of Colorado and documents the addition of a mill by 1881.",
+      "The mine's later connection to the Switzerland Trail added a transportation and tourism layer to the site. In 1905, Blue Bird became a tourist destination on the newly completed Eldora Line while the railroad also served western Boulder County mining properties.",
+      "The Remnant location point represents the historic Blue Bird complex rather than a safe mine entrance. Surviving shafts and industrial remains can be hazardous; visitors should stay on designated public routes and respect seasonal closures and open-space rules."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.99693,
+      "longitude": -105.53389
+    },
+    "sourceReferences": [
+      {
+        "title": "Boulder County — Caribou Ranch Open Space",
+        "url": "https://bouldercounty.gov/open-space/parks-and-trails/caribou-ranch/"
+      },
+      {
+        "title": "Boulder County — Caribou Ranch Open Space Management Plan",
+        "url": "https://assets.bouldercounty.gov/wp-content/uploads/2017/03/caribou-ranch-management-plan.pdf"
+      },
+      {
+        "title": "Boulder County — Historic Sites Self-Guided Tour",
+        "url": "https://assets.bouldercounty.gov/wp-content/uploads/2020/10/boulder-county-historic-sites-self-guided-tour-brochure-150th-anniversary-2011.pdf"
+      }
+    ]
+  }
+}
