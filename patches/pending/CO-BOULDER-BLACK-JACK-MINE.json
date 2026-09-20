@@ -1,0 +1,83 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-BLACK-JACK-MINE",
+    "name": "Black Jack Mine",
+    "location": "California Gulch / Left Hand Creek headwaters",
+    "county": "Boulder County",
+    "category": "Historic Gold and Silver Mine / Superfund Site",
+    "componentType": "Mine / Mill Complex",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-20T08:56:00Z",
+    "overview": [
+      "Black Jack Mine was the former name of the Captain Jack Mine, a historic underground gold-and-silver operation in California Gulch near Ward. Mining in the surrounding district began in the 1860s, and a mill was constructed at the site in 1896.",
+      "After nearly a century of intermittent activity under multiple owners, mining ended in 1992. Acid mine drainage and metal-bearing waste affected upper Left Hand Creek, leading to federal Superfund listing in 2003 and a long-running cleanup focused on surface waste and the mine-tunnel system."
+    ],
+    "timeline": [
+      {
+        "year": "1860s",
+        "text": "Gold and silver mining began in the Ward district and expanded through the headwaters of Left Hand Creek."
+      },
+      {
+        "year": "1896",
+        "text": "A mill was constructed at the site later known as the Captain Jack Mill complex."
+      },
+      {
+        "year": "1992",
+        "text": "Mining at the Captain Jack property ended after nearly a century of intermittent activity and multiple operators."
+      },
+      {
+        "year": "2003",
+        "text": "EPA placed the Captain Jack Mill site on the National Priorities List because of acid mine drainage and metal contamination affecting Left Hand Creek."
+      },
+      {
+        "year": "2011–2013",
+        "text": "Surface cleanup consolidated and capped mine waste to reduce contact with tailings and limit erosion into the watershed."
+      },
+      {
+        "year": "2018",
+        "text": "A release of acidic, metal-bearing water from the Big Five tunnel system contributed to a fish kill in upper Left Hand Creek, prompting additional monitoring and treatment work."
+      }
+    ],
+    "moreHistory": [
+      "The mine lies about 1.5 miles south of Ward at the headwaters of Left Hand Creek in California Gulch. EPA records identify the broader site at 93 California Gulch Road.",
+      "The historic property includes the Captain Jack mine and mill area, the Big Five tunnel, and associated waste and water-treatment features. Remnant uses EPA's site coordinate as a complex-level identification point rather than a claim about any one surviving portal.",
+      "Cleanup and water-quality monitoring continue through cooperation among EPA, the Colorado Department of Public Health and Environment, and local watershed partners."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.061319,
+      "longitude": -105.507611
+    },
+    "sourceReferences": [
+      {
+        "title": "US EPA — Captain Jack Mill Superfund Site Profile",
+        "url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0800892"
+      },
+      {
+        "title": "Colorado Department of Public Health and Environment — Captain Jack Mill, Lefthand Canyon",
+        "url": "https://cdphe.colorado.gov/hm/captain-jack-mill-lefthand-canyon"
+      },
+      {
+        "title": "The Watershed Center — Captain Jack Superfund Site timeline",
+        "url": "https://watershed.center/project/captain-jack-superfund-site/"
+      },
+      {
+        "title": "US EPA — 2018 Captain Jack Mine release and Left Hand Creek fish kill",
+        "url": "https://www.epa.gov/archive/epa/newsreleases/state-and-federal-officials-determine-fish-kill-left-hand-creek-related-captain-jack.html"
+      },
+      {
+        "title": "Colorado Public Radio — Left Hand Canyon mining history",
+        "url": "https://www.cpr.org/2026/04/13/left-hand-canyon-gold-history/"
+      },
+      {
+        "title": "USGS — Captain Jack Superfund site groundwater-flow model",
+        "url": "https://www.usgs.gov/data/analytic-element-groundwater-flow-model-captain-jack-superfund-site-boulder-county-colorado"
+      }
+    ]
+  }
+}
