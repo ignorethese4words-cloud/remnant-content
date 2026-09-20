@@ -1,0 +1,91 @@
+{
+  "countySlug": "boulder",
+  "operation": "upsert",
+  "site": {
+    "id": "CO-BOULDER-HORSFAL-MINE",
+    "name": "Horsfal Mine",
+    "location": "Gold Run, about one mile east of Gold Hill",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "componentDetail": "Historic Horsfal gold lode and underground mine on Gold Run east of Gold Hill, discovered in 1859 and central to the district's earliest hard-rock mining and milling.",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-20T09:11:16-06:00",
+    "overview": [
+      "The Horsfal Mine was one of the earliest productive hard-rock gold mines in the Gold Hill district. David Horsfal, William Blore, and M. L. McCaslin discovered the lode in 1859 soon after the placer rush began along Gold Run.",
+      "Rich Horsfal ore helped sustain Gold Hill and encouraged early milling experiments. A July 1860 stamp-mill operation reportedly recovered hundreds of dollars of gold from each cord of ore, demonstrating that the district's lodes could reward improved processing."
+    ],
+    "timeline": [
+      {
+        "year": "1859",
+        "text": "David Horsfal, William Blore, and M. L. McCaslin discovered the Horsfal Lode after the first placer and fissure claims at Gold Hill."
+      },
+      {
+        "year": "1860",
+        "text": "Ore from the Horsfal helped support one of Boulder County's earliest successful stamp-mill operations, which began running near Gold Hill in July."
+      },
+      {
+        "year": "1859–1862",
+        "text": "The mine operated through Gold Hill's first boom; later historical accounts credited the Horsfal with roughly $200,000 in early gold production."
+      },
+      {
+        "year": "1885–1910",
+        "text": "Historic photographs preserved by the Carnegie Library document the Horsfal Mine and its mine buildings near Gold Hill."
+      },
+      {
+        "year": "Before World War II",
+        "text": "The Horsfal, Black Cloud, and Slide mines were consolidated under Slide Mines, Inc.; the combined operation became a major Boulder County gold enterprise."
+      }
+    ],
+    "moreHistory": [
+      "Boulder County's historic survey places the Horsfal discovery within the creation of Mining District No. 1 of Nebraska Territory, an early miners' government organized before Colorado Territory existed.",
+      "A contemporary county history described the Horsfal as a rich and famous find and recorded recovery of as much as $600 to $700 per cord from selected ore during the early milling period.",
+      "The mapped point is a historic mine-site reference, not a safe entrance or an assurance of public access. Mine workings may be unstable, and visitors should remain on lawful public routes and never enter openings."
+    ],
+    "displayImages": [
+      {
+        "id": "horsfal-mine-historical-reconstruction-2026",
+        "title": "Horsfal Mine — historical reconstruction",
+        "remoteUri": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/media/reconstructions/CO-BOULDER-HORSFAL-MINE/horsfal-mine-alternate-historical-reconstruction.jpg",
+        "sourcePage": "https://github.com/ignorethese4words-cloud/remnant-content/blob/main/media/reconstructions/CO-BOULDER-HORSFAL-MINE/horsfal-mine-alternate-historical-reconstruction.jpg",
+        "sourceInstitution": "Remnant",
+        "sourceCollection": "Remnant historical reconstructions",
+        "creator": "Remnant historical reconstruction (generated with OpenAI)",
+        "date": "2026-09-20",
+        "sourceNote": "AI-assisted historical reconstruction created for Remnant from verified Horsfal Mine site research and a deliberately different viewpoint. It is not an archival photograph or a field photograph. Research context includes the Carnegie Library Horsfal catalog record, Boulder County historic context, the 1880 History of Boulder County, and the USGS-derived site location.",
+        "rights": "Remnant-created AI-assisted historical reconstruction generated for this project from factual site research and project-created reconstruction references; restricted archival image files are not reproduced in this asset. Approved by the Remnant project owner for in-app use on 2026-09-20.",
+        "license": "REMNANT_PROJECT_MEDIA",
+        "attributionRequired": false,
+        "attribution": "Historical reconstruction by Remnant",
+        "rightsVerifiedAt": "2026-09-20T09:11:16-06:00",
+        "mediaStatus": "PACKAGED"
+      }
+    ],
+    "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+    "coordinates": {
+      "latitude": 40.0674859,
+      "longitude": -105.3966609
+    },
+    "sourceReferences": [
+      {
+        "title": "Boulder County Historic Preservation Advisory Board packet — Gold Hill historic context",
+        "url": "https://bouldercounty.gov/wp-content/uploads/2021/02/hpab-meeting-agenda-packet-20210304.pdf"
+      },
+      {
+        "title": "Carnegie Library for Local History — Horsfal Mine near Gold Hill, Colorado",
+        "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A25990"
+      },
+      {
+        "title": "History of Boulder County, Colorado (1880) — early Horsfal discovery and milling account",
+        "url": "https://genealogytrails.com/colo/boulder/boulderhistory1-5.html"
+      },
+      {
+        "title": "USGS-derived Horsfal Mine topographic feature record",
+        "url": "https://www.anyplaceamerica.com/directory/co/boulder-county-08013/mines/horsfal-mine-1683697/"
+      }
+    ]
+  }
+}
