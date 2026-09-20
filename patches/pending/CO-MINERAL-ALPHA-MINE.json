@@ -1,0 +1,60 @@
+{
+  "countySlug": "mineral",
+  "site": {
+    "id": "CO-MINERAL-ALPHA-MINE",
+    "name": "Alpha Mine",
+    "location": "Creede mining district",
+    "county": "Mineral County",
+    "category": "Historic Silver Mine",
+    "componentType": "Mine",
+    "componentDetail": "Historic silver mine locality on the Alpha-Corsair vein system",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-19T16:36:06-06:00",
+    "overview": [
+      "The Alpha Mine marks one of the earliest documented silver discoveries in the Creede area. Silver was found here in 1869, two decades before the district's famous boom, but the complex ore could not then be treated profitably.",
+      "Later geological work places the mine in the Alpha-Corsair vein system on the west side of the Creede graben. That structure was mined for silver before 1910 and has been studied for its distinctive lead-isotope signature and potential early gold-bearing mineralization."
+    ],
+    "timeline": [
+      {
+        "year": "1869",
+        "text": "Silver was discovered at the Alpha Mine, but the complex ore could not be processed profitably with the methods then available."
+      },
+      {
+        "year": "Before 1910",
+        "text": "USGS-supported research records silver mining on the Alpha-Corsair vein system before 1910."
+      },
+      {
+        "year": "1994",
+        "text": "A USGS-authored study reported that galena from the Alpha-Corsair structure had an isotopic signature resembling early gold-stage mineralization in the North Amethyst system."
+      }
+    ],
+    "moreHistory": [
+      "The Alpha discovery predates the rich Willow Creek finds that triggered Creede's boom beginning in 1889, making it an important early chapter in the district's mining history.",
+      "USGS Mineral Resources Data System information identifies Alpha as a Creede-district silver mine, with zinc, antimony, copper and lead also recorded.",
+      "The mapped point near 37.8450, -106.9625 is a historical mine locality rather than a field-surveyed surviving opening. Visitors should not assume that an accessible portal remains at the point."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 37.845,
+      "longitude": -106.9625
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS — Lead isotope compositions as guides to early gold mineralization: The North Amethyst vein system, Creede district, Colorado",
+        "url": "https://www.usgs.gov/publications/lead-isotope-compositions-guides-early-gold-mineralization-north-amethyst-vein-system"
+      },
+      {
+        "title": "USGS MRDS-derived Alpha Mine record",
+        "url": "https://westernmininghistory.com/mine-detail/10012325/"
+      },
+      {
+        "title": "Colorado Geological Survey OF-99-18 — Selected mines near Creede",
+        "url": "https://coloradogeologicalsurvey.org/publications/history-geology-environment-mines-creede-rio-grande-national-forest-mineral-colorado/"
+      }
+    ]
+  }
+}
