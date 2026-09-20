@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-SAN-MIGUEL-AMES-HYDRO",
   "countySlug": "san-miguel",
+  "countyPack": "packs/canonical/colorado-san-miguel.json",
+  "packGeneratedAt": "2026-09-20T03:03:20.945Z",
+  "verifiedAt": "2026-09-20T03:03:20.947Z",
+  "manifest": {
+    "id": "colorado-san-miguel",
+    "county": "San Miguel County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T03:03:20.945Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-san-miguel.json",
+    "siteCount": 13,
+    "exploreSiteCount": 2,
+    "idOnlySiteCount": 0
+  },
   "site": {
     "id": "CO-SAN-MIGUEL-AMES-HYDRO",
     "name": "Ames Hydroelectric Plant / Telluride Power Company Power Station",

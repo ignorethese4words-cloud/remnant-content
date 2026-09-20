@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentVersion": "2026-09-18T14:13:56.915Z",
-  "generatedAt": "2026-09-20T03:02:11.447Z",
+  "generatedAt": "2026-09-20T03:03:20.945Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -425,9 +425,10 @@
       "state": "Colorado",
       "version": "4",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-san-miguel.json",
-      "exploreSiteCount": 1,
+      "exploreSiteCount": 2,
       "idOnlySiteCount": 0,
-      "siteCount": 12
+      "siteCount": 13,
+      "generatedAt": "2026-09-20T03:03:20.945Z"
     },
     {
       "id": "colorado-summit",
