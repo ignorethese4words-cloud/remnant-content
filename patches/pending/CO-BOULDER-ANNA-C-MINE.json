@@ -1,0 +1,39 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-ANNA-C-MINE",
+    "name": "Anna C Mine",
+    "location": "Boulder County Tungsten Mining District, northwest of Nederland",
+    "county": "Boulder County",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-15T00:21:44.000Z",
+    "overview": [
+      "The Anna C Mine was a documented tungsten mine about one and one-half miles northwest of Nederland in Boulder County's tungsten district.",
+      "Colorado Geological Survey records describe a 155-foot shaft with three principal levels and production of less than 500 units of tungsten trioxide, while federal exploration records preserve later investigation of the Anna C property."
+    ],
+    "timeline": [
+      {"year":"Historic tungsten era","text":"Anna C was developed on a tungsten-bearing vein in the Boulder County tungsten district, with a main shaft reaching 155 feet and levels at 90, 115, and 155 feet."},
+      {"year":"Later development","text":"A later shallow shaft was sunk at the east edge of the dump and ore was stoped from that working."},
+      {"year":"1955","text":"Colorado Geological Survey records M. W. MacKenzie as the last operator in 1955."}
+    ],
+    "moreHistory": [
+      "Colorado Geological Survey MI-04 places Anna C in the southwest quarter of Section 11, Township 1 South, Range 73 West, about one and one-half miles northwest of Nederland. It records O. B. Scott of Rye, Colorado as owner and less than 500 units of WO3 production.",
+      "The same state record describes a 155-foot shaft with levels at 90, 115, and 155 feet and notes that most production came from above the 115-foot level. A later shallow shaft at the east edge of the dump also produced ore.",
+      "USGS Data Series 1004 preserves federal mineral-exploration files for both the Anna C Mine and Anna C Group in Boulder County, independently confirming the property as a documented tungsten exploration target.",
+      "The mapped mine locality near 39.979154, -105.525554 is used as a defensible site-level identification point; Remnant does not claim that this coordinate is a field-surveyed surviving shaft collar."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {"latitude":39.9791536,"longitude":-105.525554},
+    "sourceReferences": [
+      {"title":"Colorado Geological Survey MI-04 — Tungsten Mines of Colorado","url":"https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/MI-04.pdf"},
+      {"title":"USGS Data Series 1004 — Historical Files from Federal Government Mineral Exploration-Assistance Programs, Colorado","url":"https://pubs.usgs.gov/ds/1004/ds1004_co.htm"},
+      {"title":"USGS Nederland topographic mapping — Anna C Mine locality","url":"https://mapstore.mytopo.com/products/ustopo_colorado_nederland"}
+    ]
+  }
+}
