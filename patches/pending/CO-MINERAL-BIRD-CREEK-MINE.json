@@ -1,0 +1,61 @@
+{
+  "countySlug": "mineral",
+  "site": {
+    "id": "CO-MINERAL-BIRD-CREEK-MINE",
+    "name": "Bird Creek Mine",
+    "location": "Bird Creek, southeast of Spar City",
+    "county": "Mineral County",
+    "state": "Colorado",
+    "category": "Historic Silver-Lead-Zinc Mine",
+    "componentType": "Mine",
+    "componentDetail": "Historic tunnel working with a documented 222-foot raise",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-19T21:35:06-06:00",
+    "overview": [
+      "The Bird Creek Mine is a small historic working in Mineral County's Royal Arch–Spar City district, along Bird Creek southeast of Spar City. Federal mineral records associate the property with silver, lead and zinc and identify the Per Cent No. 12 and No. 15 claims.",
+      "The recorded workings include a tunnel driven generally southeast and a 222-foot raise. The area was prospected intermittently from the early 1900s, but thick soil, forest cover, landslides and glacial deposits made systematic exploration difficult."
+    ],
+    "timeline": [
+      {
+        "year": "Early 1900s",
+        "text": "Prospecting began in the Bird Creek area and continued intermittently."
+      },
+      {
+        "year": "1920",
+        "text": "Federal mineral records list the Bird Creek Mining Company of Creede as the property owner."
+      },
+      {
+        "year": "1973",
+        "text": "USGS Geologic Quadrangle Map GQ-1052 documented the geology of the Spar City quadrangle surrounding the mine."
+      }
+    ],
+    "moreHistory": [
+      "The mine lies near the southern extension of the Deep Creek graben within the Creede caldera volcanic field, where minor faults helped localize mineralization.",
+      "Sphalerite is recorded as an ore mineral and barite as gangue. The amount of production, if any, was considered unknown and probably small in the federal record.",
+      "The mapped point near 37.69806, -106.94833 identifies the documented Bird Creek tunnel locality. It is not a field survey of present access or portal condition; visitors should respect landownership, closures and mine hazards."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 37.69806,
+      "longitude": -106.94833
+    },
+    "sourceReferences": [
+      {
+        "title": "USGS — Geologic map of the Spar City quadrangle, Mineral County, Colorado",
+        "url": "https://pubs.usgs.gov/publication/gq1052"
+      },
+      {
+        "title": "USGS Professional Paper 475-D — Geologic setting of the Spar City district",
+        "url": "https://pubs.usgs.gov/publication/pp475D"
+      },
+      {
+        "title": "USGS MRDS-derived Bird Creek Mine record",
+        "url": "https://westernmininghistory.com/mine-detail/10014048/"
+      }
+    ]
+  }
+}
