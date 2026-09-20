@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-BLACK-JACK-MINE",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packGeneratedAt": "2026-09-20T09:03:17.131Z",
+  "verifiedAt": "2026-09-20T09:03:17.140Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T09:03:17.131Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 111,
+    "exploreSiteCount": 54,
+    "idOnlySiteCount": 57
+  },
   "site": {
     "id": "CO-BOULDER-BLACK-JACK-MINE",
     "name": "Black Jack Mine",
