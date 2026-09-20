@@ -1,0 +1,63 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-BUENO-MILL",
+    "name": "Bueno Mill",
+    "location": "Jamestown Mining District",
+    "county": "Boulder County",
+    "category": "Historic Gold and Fluorspar Mill",
+    "componentType": "Mill / Processing",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-20T08:37:26Z",
+    "overview": [
+      "Bueno Mill is the historic ore-processing complex also documented as the Wano Mill and Williamson Mill near Jamestown. Federal records state that the site first processed gold ore and later converted to fluorspar processing.",
+      "The mill's history also survives through 1944 interior photographs and through federal cleanup records for its tailings. EPA investigations identified substantial metal-bearing tailings, leading to stabilization work in the 2000s and repairs after the 2013 Boulder County flood."
+    ],
+    "timeline": [
+      {
+        "year": "1944",
+        "text": "Historic photographs documented the interior of the Wano Mill—also identified as Bueno Mill or Williamson Mill—and its ore-processing operations."
+      },
+      {
+        "year": "2005–2006",
+        "text": "EPA began a removal action after watershed studies identified metal-bearing mill tailings affecting James Creek and Little James Creek; the original stabilization work was completed in 2006."
+      },
+      {
+        "year": "2013–2014",
+        "text": "Severe flooding damaged portions of the streamside tailings remedy. EPA carried out emergency stabilization and erosion-control repairs to reduce the risk of tailings reaching downstream water supplies."
+      }
+    ],
+    "moreHistory": [
+      "EPA describes the Bueno and Streamside tailings deposits as containing an estimated 50,000 cubic yards of material.",
+      "The site is in the Jamestown Mining District between James Creek and Little James Creek, with the Bueno tailings on the intervening ridge.",
+      "Remnant uses EPA's listed Bueno Mill and Mine site coordinate as a site-level identification point. It does not identify a particular surviving mill structure, mine opening, or public access route."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 40.127927,
+      "longitude": -105.400676
+    },
+    "sourceReferences": [
+      {
+        "title": "US EPA — Bueno Mill & Mine Site profile",
+        "url": "https://cumulis.epa.gov/supercpad/CurSites/csitinfo.cfm?id=0802129"
+      },
+      {
+        "title": "US EPA — Bueno Tailings site profile and removal history",
+        "url": "https://response.epa.gov/site/site_profile.aspx?site_id=2105"
+      },
+      {
+        "title": "US EPA — Bueno Tailings POLREP #2",
+        "url": "https://response.epa.gov/site/polrep_printer.aspx?counter=20983&format=pdf"
+      },
+      {
+        "title": "Carnegie Library for Local History — Wano Mill and mine interior, 1944",
+        "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A31196"
+      }
+    ]
+  }
+}
