@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-GOLDEN-AGE-MINE",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packGeneratedAt": "2026-09-20T04:00:56.988Z",
+  "verifiedAt": "2026-09-20T04:00:56.991Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T04:00:56.988Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 110,
+    "exploreSiteCount": 51,
+    "idOnlySiteCount": 59
+  },
   "site": {
     "id": "CO-BOULDER-GOLDEN-AGE-MINE",
     "name": "Golden Age Mine",

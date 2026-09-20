@@ -4,7 +4,7 @@
   "county": "Boulder County",
   "state": "Colorado",
   "version": "108",
-  "generatedAt": "2026-09-19T22:27:53.082Z",
+  "generatedAt": "2026-09-20T04:00:56.988Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -5501,6 +5501,66 @@
         {
           "title": "Town of Jamestown, Colorado",
           "url": "https://www.jamestownco.org/"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-GOLDEN-AGE-MINE",
+      "name": "Golden Age Mine",
+      "location": "Castle Gulch near Jamestown",
+      "county": "Boulder County",
+      "category": "Historic Gold-Silver Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-20T03:41:50Z",
+      "overview": [
+        "Golden Age Mine was one of the defining early mines of Colorado's Jamestown district. Boulder County history identifies the 1875 Golden Age claim, located after Frank Smith and “Indian Jack” found rich gold float, as the district's most productive mine.",
+        "Federal mineral records describe an underground vein mine producing gold and silver, with tellurium and uranium also documented. The mine became known for exceptionally rich free-gold ore and an estimated total production value of about $1 million."
+      ],
+      "timeline": [
+        {
+          "year": "1875",
+          "text": "Frank Smith and “Indian Jack” located the Golden Age claim during Jamestown's second mining boom; Boulder County history says they sold it for $1,500."
+        },
+        {
+          "year": "1901–1936",
+          "text": "USGS Mineral Resources Data System records production during this period and classifies the Golden Age as a past-producing underground vein mine."
+        },
+        {
+          "year": "1915",
+          "text": "Boulder County history reports that the Golden Age Mining and Milling Company operated until 1915, producing gold, silver, lead, copper and fluorspar."
+        }
+      ],
+      "moreHistory": [
+        "Historic photographs dated 1895 in the Carnegie Library for Local History show the Golden Age Mine near Jamestown and document its mine buildings.",
+        "USGS-derived records identify two northeast-trending veins—the Golden Age and Sentinel—and list gold, silver, tellurium and uranium among the site's commodities.",
+        "Remnant uses the EPA-listed Golden Age Mine site coordinate in Castle Gulch as a defensible identification point. It should not be interpreted as a field-surveyed surviving shaft, portal or visitor access point."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 40.117939,
+        "longitude": -105.354873
+      },
+      "sourceReferences": [
+        {
+          "title": "Boulder County Parks & Open Space — Jamestown: Then and Now",
+          "url": "https://bouldercountyopenspace.org/i/history/jamestown/"
+        },
+        {
+          "title": "US EPA — Golden Age Mine CERCLA Site Information",
+          "url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0801380"
+        },
+        {
+          "title": "Carnegie Library for Local History — Golden Age Mine near Jamestown, Colorado (1895)",
+          "url": "https://localhistory.boulderlibrary.org/islandora/object/islandora%3A25692"
+        },
+        {
+          "title": "USGS MRDS-derived Golden Age Mine record",
+          "url": "https://westernmininghistory.com/mine-detail/10018030/"
         }
       ]
     }

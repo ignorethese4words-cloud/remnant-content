@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MINERAL-WAGON-WHEEL-GAP-FLUORSPAR",
+  "countySlug": "mineral",
+  "countyPack": "packs/canonical/colorado-mineral.json",
+  "packGeneratedAt": "2026-09-20T03:04:42.632Z",
+  "verifiedAt": "2026-09-20T04:00:56.979Z",
+  "manifest": {
+    "id": "colorado-mineral",
+    "county": "Mineral County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T03:04:42.632Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mineral.json",
+    "siteCount": 8,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-MINERAL-WAGON-WHEEL-GAP-FLUORSPAR",
+    "name": "Wagon Wheel Gap Fluorspar Mine & Mill",
+    "location": "Mineral County, Colorado",
+    "county": "Mineral County",
+    "category": "Mine / Mill / Industrial Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B397=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B397&\"\" \"\"&$C397),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&\"&\"$C397),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B397&\"\" \"\"&$C397),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C397<>\"\"\"\",$C397,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+    "overview": [
+      "Wagon Wheel Gap Fluorspar Mine & Mill is a verified historic mine / mill / industrial complex site in Mineral County."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MINERAL-WAGON-WHEEL-GAP-RAILROAD-STATION",
+  "countySlug": "mineral",
+  "countyPack": "packs/canonical/colorado-mineral.json",
+  "packGeneratedAt": "2026-09-20T03:04:42.632Z",
+  "verifiedAt": "2026-09-20T04:00:56.979Z",
+  "manifest": {
+    "id": "colorado-mineral",
+    "county": "Mineral County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T03:04:42.632Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mineral.json",
+    "siteCount": 8,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-MINERAL-WAGON-WHEEL-GAP-RAILROAD-STATION",
+    "name": "Wagon Wheel Gap Railroad Station / D&RG Depot",
+    "location": "Mineral County, Colorado",
+    "county": "Mineral County",
+    "category": "Railroad / Depot / Transportation Site",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B398=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B398&\"\" \"\"&$C398),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&\"&\"$C398),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B398&\"\" \"\"&$C398),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C398<>\"\"\"\",$C398,\"\"Historic Site\"\")))\"),\"Railroad Depot\")",
+    "overview": [
+      "Wagon Wheel Gap Railroad Station / D&RG Depot is a verified historic railroad / depot / transportation site site in Mineral County."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

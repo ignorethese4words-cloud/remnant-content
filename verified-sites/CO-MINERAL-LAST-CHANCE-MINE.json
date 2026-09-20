@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MINERAL-LAST-CHANCE-MINE",
+  "countySlug": "mineral",
+  "countyPack": "packs/canonical/colorado-mineral.json",
+  "packGeneratedAt": "2026-09-20T03:04:42.632Z",
+  "verifiedAt": "2026-09-20T04:00:56.979Z",
+  "manifest": {
+    "id": "colorado-mineral",
+    "county": "Mineral County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T03:04:42.632Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mineral.json",
+    "siteCount": 8,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-MINERAL-LAST-CHANCE-MINE",
+    "name": "Last Chance Mine",
+    "location": "Mineral County, Colorado",
+    "county": "Mineral County",
+    "category": "Mine / Historic Industrial Site / Visitor Mine",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B364=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B364&\"\" \"\"&$C364),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&\"&\"$C364),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B364&\"\" \"\"&$C364),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C364<>\"\"\"\",$C364,\"\"Historic Site\"\")))\"),\"Mine\")",
+    "overview": [
+      "Last Chance Mine is a verified historic mine / historic industrial site / visitor mine site in Mineral County."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

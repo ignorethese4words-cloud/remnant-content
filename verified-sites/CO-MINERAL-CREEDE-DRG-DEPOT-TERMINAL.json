@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MINERAL-CREEDE-DRG-DEPOT-TERMINAL",
+  "countySlug": "mineral",
+  "countyPack": "packs/canonical/colorado-mineral.json",
+  "packGeneratedAt": "2026-09-20T03:04:42.632Z",
+  "verifiedAt": "2026-09-20T04:00:56.979Z",
+  "manifest": {
+    "id": "colorado-mineral",
+    "county": "Mineral County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T03:04:42.632Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mineral.json",
+    "siteCount": 8,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-MINERAL-CREEDE-DRG-DEPOT-TERMINAL",
+    "name": "Creede Denver & Rio Grande Depot & Terminal Railroad Site",
+    "location": "Mineral County, Colorado",
+    "county": "Mineral County",
+    "category": "Railroad / Depot / Transportation Complex",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B342=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B342&\"\" \"\"&$C342),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&\"&\"$C342),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B342&\"\" \"\"&$C342),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C342<>\"\"\"\",$C342,\"\"Historic Site\"\")))\"),\"Railroad Depot\")",
+    "overview": [
+      "Creede Denver & Rio Grande Depot & Terminal Railroad Site is a verified historic railroad / depot / transportation complex site in Mineral County."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

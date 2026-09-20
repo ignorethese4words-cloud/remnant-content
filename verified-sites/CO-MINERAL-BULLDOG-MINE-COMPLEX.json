@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MINERAL-BULLDOG-MINE-COMPLEX",
+  "countySlug": "mineral",
+  "countyPack": "packs/canonical/colorado-mineral.json",
+  "packGeneratedAt": "2026-09-20T03:04:42.632Z",
+  "verifiedAt": "2026-09-20T04:00:56.979Z",
+  "manifest": {
+    "id": "colorado-mineral",
+    "county": "Mineral County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T03:04:42.632Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mineral.json",
+    "siteCount": 8,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-MINERAL-BULLDOG-MINE-COMPLEX",
+    "name": "Bulldog Mine & Mill / Homestake Bulldog Mountain Complex",
+    "location": "Mineral County, Colorado",
+    "county": "Mineral County",
+    "category": "Mine / Mill / Modern Industrial Mining Landscape",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B332=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B332&\"\" \"\"&$C332),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&\"&\"$C332),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B332&\"\" \"\"&$C332),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C332<>\"\"\"\",$C332,\"\"Historic Site\"\")))\"),\"Mill / Processing\")",
+    "overview": [
+      "Bulldog Mine & Mill / Homestake Bulldog Mountain Complex is a verified historic mine / mill / modern industrial mining landscape site in Mineral County."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

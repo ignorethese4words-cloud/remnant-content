@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MINERAL-BACHELOR-CITY-TOWNSITE",
+  "countySlug": "mineral",
+  "countyPack": "packs/canonical/colorado-mineral.json",
+  "packGeneratedAt": "2026-09-20T03:04:42.632Z",
+  "verifiedAt": "2026-09-20T04:00:56.979Z",
+  "manifest": {
+    "id": "colorado-mineral",
+    "county": "Mineral County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-20T03:04:42.632Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mineral.json",
+    "siteCount": 8,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-MINERAL-BACHELOR-CITY-TOWNSITE",
+    "name": "Bachelor City / Teller Ghost Townsite",
+    "location": "Mineral County, Colorado",
+    "county": "Mineral County",
+    "category": "Ghost Town / Mining Camp / Cultural Landscape",
+    "componentType": "=IFERROR(__xludf.DUMMYFUNCTION(\"IF($B327=\"\"\"\",\"\"\"\",IFS(REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"headframe\"\"),\"\"Headframe\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"water tank\"\"),\"\"Railroad Water Tank\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"railroad tunnel\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LO\"&\"WER($B327&\"\" \"\"&$C327),\"\"shaft\"\"),\"\"Shaft / Mine\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"adit|portal|tunnel mouth| tunnel\"\"),\"\"Adit / Portal\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"smelter\"\"),\"\"Smelter\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"mill|processi\"&\"ng|concentrat|reduction works|ore house|ore bin|ore handling\"\"),\"\"Mill / Processing\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"tram|aerial\"\"),\"\"Tramway\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"dredge\"\"),\"\"Dredge\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"depot|s\"&\"tation\"\"),\"\"Railroad Depot\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"trestle|bridge\"\"),\"\"Bridge / Trestle\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"railroad|railway|roundhouse|spur|grade\"\"),\"\"Railroad Feature\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"townsite|t\"&\"own|camp|community|ghost\"\"),\"\"Town / Camp\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"district\"\"),\"\"Historic District\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"military|training camp|guardhouse|ordnance|missile\"\"),\"\"Military Site\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&\"&\"$C327),\"\"powerhouse|hydroelectric|hydro\"\"),\"\"Power / Industrial\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"quarry\"\"),\"\"Quarry\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"mine|workings|claim|placer\"\"),\"\"Mine\"\",REGEXMATCH(LOWER($B327&\"\" \"\"&$C327),\"\"route|road|bywa\"&\"y|pass\"\"),\"\"Historic Route\"\",TRUE,IF($C327<>\"\"\"\",$C327,\"\"Historic Site\"\")))\"),\"Town / Camp\")",
+    "overview": [
+      "Bachelor City / Teller Ghost Townsite is a verified historic ghost town / mining camp / cultural landscape site in Mineral County."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}
