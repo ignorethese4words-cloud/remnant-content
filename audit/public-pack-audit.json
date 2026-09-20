@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-09-11T15:00:30.111Z",
+  "generatedAt": "2026-09-20T15:11:11.755Z",
   "standard": "Remnant public delivery production standard — permanent Site ID, tier semantics, coordinates, visitor content, media/rights or SEARCH_EXHAUSTED, manifest consistency, no internal language",
   "packsChecked": 45,
-  "publishedSitesChecked": 331,
-  "affectedPublishedSites": 322,
+  "publishedSitesChecked": 439,
+  "affectedPublishedSites": 264,
   "findingCounts": {
-    "HIGH": 527,
-    "MEDIUM": 322
+    "CRITICAL": 6,
+    "HIGH": 449,
+    "MEDIUM": 264
   },
   "packSummaries": [
     {
@@ -21,25 +22,25 @@
       "file": "colorado-boulder.json",
       "packId": "colorado-boulder",
       "county": "Boulder County",
-      "sites": 36,
-      "explore": 3,
-      "idOnly": 33
+      "sites": 113,
+      "explore": 55,
+      "idOnly": 58
     },
     {
       "file": "colorado-broomfield.json",
       "packId": "colorado-broomfield",
       "county": "Broomfield County",
       "sites": 1,
-      "explore": 0,
-      "idOnly": 1
+      "explore": 1,
+      "idOnly": 0
     },
     {
       "file": "colorado-chaffee.json",
       "packId": "colorado-chaffee",
       "county": "Chaffee County",
-      "sites": 71,
-      "explore": 0,
-      "idOnly": 71
+      "sites": 61,
+      "explore": 4,
+      "idOnly": 57
     },
     {
       "file": "colorado-cheyenne.json",
@@ -53,9 +54,9 @@
       "file": "colorado-clear-creek.json",
       "packId": "colorado-clear-creek",
       "county": "Clear Creek County",
-      "sites": 6,
-      "explore": 0,
-      "idOnly": 6
+      "sites": 17,
+      "explore": 1,
+      "idOnly": 16
     },
     {
       "file": "colorado-conejos.json",
@@ -70,32 +71,32 @@
       "packId": "colorado-costilla",
       "county": "Costilla County",
       "sites": 2,
-      "explore": 0,
-      "idOnly": 2
+      "explore": 1,
+      "idOnly": 1
     },
     {
       "file": "colorado-custer.json",
       "packId": "colorado-custer",
       "county": "Custer County",
       "sites": 1,
-      "explore": 0,
-      "idOnly": 1
+      "explore": 1,
+      "idOnly": 0
     },
     {
       "file": "colorado-denver.json",
       "packId": "colorado-denver",
       "county": "Denver County",
       "sites": 1,
-      "explore": 0,
-      "idOnly": 1
+      "explore": 1,
+      "idOnly": 0
     },
     {
       "file": "colorado-dolores.json",
       "packId": "colorado-dolores",
       "county": "Dolores County",
-      "sites": 6,
+      "sites": 9,
       "explore": 0,
-      "idOnly": 0
+      "idOnly": 4
     },
     {
       "file": "colorado-douglas.json",
@@ -133,9 +134,9 @@
       "file": "colorado-gilpin.json",
       "packId": "colorado-gilpin",
       "county": "Gilpin County",
-      "sites": 11,
+      "sites": 12,
       "explore": 2,
-      "idOnly": 0
+      "idOnly": 1
     },
     {
       "file": "colorado-grand.json",
@@ -149,9 +150,9 @@
       "file": "colorado-gunnison.json",
       "packId": "colorado-gunnison",
       "county": "Gunnison County",
-      "sites": 15,
+      "sites": 13,
       "explore": 0,
-      "idOnly": 15
+      "idOnly": 13
     },
     {
       "file": "colorado-hinsdale.json",
@@ -173,25 +174,25 @@
       "file": "colorado-jefferson.json",
       "packId": "colorado-jefferson",
       "county": "Jefferson County",
-      "sites": 11,
-      "explore": 0,
-      "idOnly": 0
+      "sites": 19,
+      "explore": 7,
+      "idOnly": 1
     },
     {
       "file": "colorado-la-plata.json",
       "packId": "colorado-la-plata",
       "county": "La Plata County",
-      "sites": 1,
-      "explore": 0,
-      "idOnly": 1
+      "sites": 2,
+      "explore": 2,
+      "idOnly": 0
     },
     {
       "file": "colorado-lake.json",
       "packId": "colorado-lake",
       "county": "Lake County",
-      "sites": 18,
-      "explore": 14,
-      "idOnly": 4
+      "sites": 24,
+      "explore": 18,
+      "idOnly": 6
     },
     {
       "file": "colorado-larimer.json",
@@ -214,16 +215,16 @@
       "packId": "colorado-lincoln",
       "county": "Lincoln County",
       "sites": 1,
-      "explore": 0,
-      "idOnly": 1
+      "explore": 1,
+      "idOnly": 0
     },
     {
       "file": "colorado-logan.json",
       "packId": "colorado-logan",
       "county": "Logan County",
       "sites": 1,
-      "explore": 0,
-      "idOnly": 1
+      "explore": 1,
+      "idOnly": 0
     },
     {
       "file": "colorado-mesa.json",
@@ -237,8 +238,8 @@
       "file": "colorado-mineral.json",
       "packId": "colorado-mineral",
       "county": "Mineral County",
-      "sites": 7,
-      "explore": 0,
+      "sites": 10,
+      "explore": 3,
       "idOnly": 0
     },
     {
@@ -277,25 +278,25 @@
       "file": "colorado-ouray.json",
       "packId": "colorado-ouray",
       "county": "Ouray County",
-      "sites": 29,
-      "explore": 20,
-      "idOnly": 0
+      "sites": 34,
+      "explore": 21,
+      "idOnly": 4
     },
     {
       "file": "colorado-park.json",
       "packId": "colorado-park",
       "county": "Park County",
-      "sites": 1,
-      "explore": 0,
+      "sites": 4,
+      "explore": 3,
       "idOnly": 1
     },
     {
       "file": "colorado-pitkin.json",
       "packId": "colorado-pitkin",
       "county": "Pitkin County",
-      "sites": 2,
+      "sites": 3,
       "explore": 1,
-      "idOnly": 1
+      "idOnly": 2
     },
     {
       "file": "colorado-prowers.json",
@@ -341,17 +342,17 @@
       "file": "colorado-san-miguel.json",
       "packId": "colorado-san-miguel",
       "county": "San Miguel County",
-      "sites": 11,
-      "explore": 0,
+      "sites": 13,
+      "explore": 2,
       "idOnly": 0
     },
     {
       "file": "colorado-summit.json",
       "packId": "colorado-summit",
       "county": "Summit County",
-      "sites": 10,
-      "explore": 2,
-      "idOnly": 8
+      "sites": 9,
+      "explore": 4,
+      "idOnly": 5
     },
     {
       "file": "colorado-teller.json",
@@ -374,48 +375,20 @@
     "CO-BOULDER-ALICE-MINE",
     "CO-BOULDER-ALICE-OPEN-PIT",
     "CO-BOULDER-ALLIED-JAMESTOWN",
-    "CO-BOULDER-ALPINE-HORN",
-    "CO-BOULDER-ALTON-TUNNEL",
-    "CO-BOULDER-ANNA-C-MINE",
     "CO-BOULDER-ATCHISON-MINE",
-    "CO-BOULDER-BIG-CAMERON-MINE",
-    "CO-BOULDER-BIG-HORN-SHAFT",
-    "CO-BOULDER-BLACK-PRINCE-MINE",
     "CO-BOULDER-BONANZA-NO-2",
-    "CO-BOULDER-CASH-MILL",
-    "CO-BOULDER-CENTENNIAL-TUNNEL",
-    "CO-BOULDER-DOROTHY-KATIE-MINES",
-    "CO-BOULDER-DOZER-MINE",
-    "CO-BOULDER-EUREKA-MINE",
-    "CO-BOULDER-GOOD-FRIDAY-MINE",
-    "CO-BOULDER-HALLIE-A-MINE",
-    "CO-BOULDER-HOOSIER-MINE",
-    "CO-BOULDER-PAYMASTER-MINE",
-    "CO-BOULDER-PINESHAD-MINE",
-    "CO-BOULDER-RAMBLER-MINE",
     "CO-BOULDER-RANGE-VIEW-LODE",
     "CO-BOULDER-ROOSE-TUNNEL",
-    "CO-BOULDER-STEEL-PLATE-MINE",
     "CO-BOULDER-VASCO-NO-1-MINE",
     "CO-BOULDER-VASCO-NO-7-MINE",
     "CO-BOULDER-WILD-TIGER-MINE",
     "CO-BOULDER-WORLD-MINE",
-    "CO-BROOMFIELD-BROOMFIELD-DI-CS-DEPOT",
-    "CO-CHAFFEE-ALASKA-MINE",
-    "CO-CHAFFEE-ALDERMAN-DEPOSIT",
-    "CO-CHAFFEE-ALLARD-BERYLLIUM",
-    "CO-CHAFFEE-ALPHA-BETA",
-    "CO-CHAFFEE-AMERICAN-FLAG-MINE",
     "CO-CHAFFEE-ANNA-HUFFMAN-COPPER",
-    "CO-CHAFFEE-ANNIE-C-MINE",
     "CO-CHAFFEE-APRIL-FOOL-MINE",
     "CO-CHAFFEE-ATLANTIC-MOUND-INDEPENDENCE",
     "CO-CHAFFEE-BANCROFT",
     "CO-CHAFFEE-BE-TRUE-MINE",
     "CO-CHAFFEE-BEN-BOLTS-PAYMASTER",
-    "CO-CHAFFEE-BEN-BOYER-CLAIM",
-    "CO-CHAFFEE-BEN-HILL-MINE",
-    "CO-CHAFFEE-BETSY",
     "CO-CHAFFEE-BLACK-TIGER-MINE",
     "CO-CHAFFEE-BLUE-BRUTE-MINE",
     "CO-CHAFFEE-BLUE-STONE-DEPOSIT",
@@ -450,14 +423,9 @@
     "CO-CHAFFEE-GREAT-MONARCH-MARSHALL-TUNNEL",
     "CO-CHAFFEE-HERSKBERGER-TUNNEL",
     "CO-CHAFFEE-HOLY-WATER-MINE",
-    "CO-CHAFFEE-INDIANAPOLIS-MINE",
     "CO-CHAFFEE-IRON-CHEST-GOLD-MINE",
     "CO-CHAFFEE-IRON-DUKE-MINE",
-    "CO-CHAFFEE-JEWELL-TUNNEL",
-    "CO-CHAFFEE-LIENHART-MINE",
-    "CO-CHAFFEE-LITTLE-WONDER-MINE",
     "CO-CHAFFEE-MADONNA-MINE",
-    "CO-CHAFFEE-MOSS-FLOWER-HALF-MOON",
     "CO-CHAFFEE-NEW-YORK-MINE",
     "CO-CHAFFEE-OHIO-MORNINGSTAR",
     "CO-CHAFFEE-PAYMASTER-MINE",
@@ -465,14 +433,7 @@
     "CO-CHAFFEE-SEDALIA-MINE",
     "CO-CHAFFEE-SHAMROCK-MINE",
     "CO-CHAFFEE-SILENT-FRIEND",
-    "CO-CHAFFEE-SILVER-KING-MINE",
     "CO-CHAFFEE-SNOWFLAKE-DEPOSIT",
-    "CO-CHAFFEE-STOCKTON-MINE",
-    "CO-CHAFFEE-THIRTY-SIX-THIRTY-MINE",
-    "CO-CHAFFEE-TILDEN-MINE",
-    "CO-CHAFFEE-TOMMY-EVANS-LODE",
-    "CO-CHAFFEE-WHITE-KING-DEPOSIT",
-    "CO-CHEYENNE-KIT-CARSON-UP-DEPOT",
     "CO-CLEAR-CREEK-ALMADEN-MINE",
     "CO-CLEAR-CREEK-AP-TUNNEL",
     "CO-CLEAR-CREEK-APEX-SHAFT",
@@ -480,20 +441,12 @@
     "CO-CLEAR-CREEK-BROWNSVILLE-PROCESSING-PLANT",
     "CO-CLEAR-CREEK-BULLION-KING-MINE",
     "CO-CONEJOS-ANTONITO-DRG-DEPOT",
-    "CO-CONEJOS-COSTILLA-CROSSING-BRIDGE",
-    "CO-COSTILLA-FORT-GARLAND-MILITARY-POST",
-    "CO-COSTILLA-SLV-SOUTHERN-RATTLESNAKE-TRESTLE",
-    "CO-CUSTER-WESTCLIFFE-DRG-ENGINE-HOUSE",
-    "CO-DENVER-MIDWEST-STEEL-IRON-WORKS",
-    "CO-DOLORES-ATLANTIC-CABLE-MINE",
     "CO-DOLORES-DUNTON-MINING-CAMP",
     "CO-DOLORES-ENTERPRISE-NEWMAN-HILL",
     "CO-DOLORES-RICO-ARGENTINE-ST-LOUIS",
     "CO-DOLORES-RICO-MINING-DISTRICT",
     "CO-DOLORES-RICO-RGS-YARD",
     "CO-DOUGLAS-SEDALIA-WATER-TANK",
-    "CO-EAGLE-BELDEN",
-    "CO-EAGLE-CAMP-HALE",
     "CO-EAGLE-FULFORD-CAMP",
     "CO-EAGLE-GILMAN-EAGLE-MINE",
     "CO-EAGLE-GOLD-PARK",
@@ -531,8 +484,6 @@
     "CO-GUNNISON-FOREST-HILL-MINE",
     "CO-GUNNISON-IDA-MAY-MINE",
     "CO-GUNNISON-INDEPENDENCE-MINE",
-    "CO-GUNNISON-KEYSTONE-MINE",
-    "CO-GUNNISON-LUCKY-STRIKE-MINE-CHANCE",
     "CO-GUNNISON-PITKIN-SCHOOLHOUSE",
     "CO-GUNNISON-RAYMOND-MINE",
     "CO-GUNNISON-SHEEP-MOUNTAIN-TUNNEL",
@@ -560,7 +511,6 @@
     "CO-JEFFERSON-RED-ROCKS-CCC",
     "CO-JEFFERSON-ROCKY-FLATS",
     "CO-JEFFERSON-SCHWARTZWALDER-RALSTON",
-    "CO-LA-PLATA-COLORADO-UTE-POWER-PLANT",
     "champion",
     "chrysolite",
     "CO-LAKE-BLACK-CLOUD",
@@ -581,8 +531,6 @@
     "yak-tunnel",
     "CO-LARIMER-GREAT-WESTERN-EFFLUENT-FLUME",
     "CO-LAS-ANIMAS-COKEDALE-COKE-OVENS",
-    "CO-LINCOLN-HUGO-UP-ROUNDHOUSE",
-    "CO-LOGAN-STERLING-UP-RAILROAD-DEPOT",
     "CO-MESA-CALAMITY-CAMP",
     "CO-MINERAL-BACHELOR-CITY-TOWNSITE",
     "CO-MINERAL-BACHELOR-COMMODORE-COMPLEX",
@@ -597,7 +545,6 @@
     "CO-OTERO-MANZANOLA-SANTA-FE-DEPOT",
     "CO-OURAY-AMERICAN-NETTIE",
     "CO-OURAY-ATLAS-MINE-MILL",
-    "CO-OURAY-BACHELOR-SYRACUSE",
     "CO-OURAY-CALLIOPE",
     "CO-OURAY-CAMP-BIRD",
     "CO-OURAY-DUNMORE",
@@ -672,10 +619,6 @@
     "CO-SAN-MIGUEL-TOMBOY",
     "CO-SAN-MIGUEL-TROUT-LAKE-WATER-TANK",
     "minnie",
-    "montezuma-town",
-    "pennsylvania",
-    "quail",
-    "reiling",
     "royal-tiger",
     "saints-john",
     "sallie-barber",
@@ -695,6 +638,60 @@
     "CO-WELD-GREELEY-UP-DEPOT"
   ],
   "findings": [
+    {
+      "severity": "CRITICAL",
+      "code": "MANIFEST_COUNT_MISMATCH",
+      "siteId": null,
+      "siteName": null,
+      "county": "Dolores County",
+      "file": "packs/canonical/colorado-dolores.json",
+      "message": "Actual usable counts 4/0/4 do not match manifest 9/0/4."
+    },
+    {
+      "severity": "CRITICAL",
+      "code": "MANIFEST_COUNT_MISMATCH",
+      "siteId": null,
+      "siteName": null,
+      "county": "Gilpin County",
+      "file": "packs/canonical/colorado-gilpin.json",
+      "message": "Actual usable counts 3/2/1 do not match manifest 12/2/1."
+    },
+    {
+      "severity": "CRITICAL",
+      "code": "MANIFEST_COUNT_MISMATCH",
+      "siteId": null,
+      "siteName": null,
+      "county": "Jefferson County",
+      "file": "packs/canonical/colorado-jefferson.json",
+      "message": "Actual usable counts 8/7/1 do not match manifest 19/7/1."
+    },
+    {
+      "severity": "CRITICAL",
+      "code": "MANIFEST_COUNT_MISMATCH",
+      "siteId": null,
+      "siteName": null,
+      "county": "Mineral County",
+      "file": "packs/canonical/colorado-mineral.json",
+      "message": "Actual usable counts 3/3/0 do not match manifest 10/3/0."
+    },
+    {
+      "severity": "CRITICAL",
+      "code": "MANIFEST_COUNT_MISMATCH",
+      "siteId": null,
+      "siteName": null,
+      "county": "Ouray County",
+      "file": "packs/canonical/colorado-ouray.json",
+      "message": "Actual usable counts 25/21/4 do not match manifest 34/21/4."
+    },
+    {
+      "severity": "CRITICAL",
+      "code": "MANIFEST_COUNT_MISMATCH",
+      "siteId": null,
+      "siteName": null,
+      "county": "San Miguel County",
+      "file": "packs/canonical/colorado-san-miguel.json",
+      "message": "Actual usable counts 2/2/0 do not match manifest 13/2/0."
+    },
     {
       "severity": "HIGH",
       "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
@@ -725,33 +722,6 @@
     {
       "severity": "HIGH",
       "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-ALPINE-HORN",
-      "siteName": "Alpine Horn",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-ALTON-TUNNEL",
-      "siteName": "Alton Tunnel",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-ANNA-C-MINE",
-      "siteName": "Anna C Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
       "siteId": "CO-BOULDER-ATCHISON-MINE",
       "siteName": "Atchison Mine",
       "county": "Boulder County",
@@ -761,134 +731,8 @@
     {
       "severity": "HIGH",
       "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-BIG-CAMERON-MINE",
-      "siteName": "Big Cameron Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-BIG-HORN-SHAFT",
-      "siteName": "Big Horn Shaft",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-BLACK-PRINCE-MINE",
-      "siteName": "Black Prince Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
       "siteId": "CO-BOULDER-BONANZA-NO-2",
       "siteName": "Bonanza No. 2 Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-CASH-MILL",
-      "siteName": "Cash Mill",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-CENTENNIAL-TUNNEL",
-      "siteName": "Centennial Tunnel",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-DOROTHY-KATIE-MINES",
-      "siteName": "Dorothy-Katie Mines",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-DOZER-MINE",
-      "siteName": "Dozer Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-EUREKA-MINE",
-      "siteName": "Eureka Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-GOOD-FRIDAY-MINE",
-      "siteName": "Good Friday Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-HALLIE-A-MINE",
-      "siteName": "Hallie A Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-HOOSIER-MINE",
-      "siteName": "Hoosier Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-PAYMASTER-MINE",
-      "siteName": "Paymaster Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-PINESHAD-MINE",
-      "siteName": "Pineshad Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-RAMBLER-MINE",
-      "siteName": "Rambler Mine",
       "county": "Boulder County",
       "file": "packs/canonical/colorado-boulder.json",
       "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
@@ -907,15 +751,6 @@
       "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
       "siteId": "CO-BOULDER-ROOSE-TUNNEL",
       "siteName": "Roose Tunnel",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BOULDER-STEEL-PLATE-MINE",
-      "siteName": "Steel Plate Mine",
       "county": "Boulder County",
       "file": "packs/canonical/colorado-boulder.json",
       "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
@@ -959,71 +794,8 @@
     {
       "severity": "HIGH",
       "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-BROOMFIELD-BROOMFIELD-DI-CS-DEPOT",
-      "siteName": "Broomfield Denver & Interurban / Colorado & Southern Railway Depot",
-      "county": "Broomfield County",
-      "file": "packs/canonical/colorado-broomfield.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-ALASKA-MINE",
-      "siteName": "Alaska Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-ALDERMAN-DEPOSIT",
-      "siteName": "Alderman Deposit",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-ALLARD-BERYLLIUM",
-      "siteName": "Allard Beryllium Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-ALPHA-BETA",
-      "siteName": "Alpha and Beta Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-AMERICAN-FLAG-MINE",
-      "siteName": "American Flag Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
       "siteId": "CO-CHAFFEE-ANNA-HUFFMAN-COPPER",
       "siteName": "Anna Huffman Copper",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-ANNIE-C-MINE",
-      "siteName": "Annie C Mine",
       "county": "Chaffee County",
       "file": "packs/canonical/colorado-chaffee.json",
       "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
@@ -1069,33 +841,6 @@
       "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
       "siteId": "CO-CHAFFEE-BEN-BOLTS-PAYMASTER",
       "siteName": "Ben Bolts Paymaster",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-BEN-BOYER-CLAIM",
-      "siteName": "Ben Boyer Claim",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-BEN-HILL-MINE",
-      "siteName": "Ben Hill Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-BETSY",
-      "siteName": "Betsy",
       "county": "Chaffee County",
       "file": "packs/canonical/colorado-chaffee.json",
       "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
@@ -1409,15 +1154,6 @@
     {
       "severity": "HIGH",
       "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-INDIANAPOLIS-MINE",
-      "siteName": "Indianapolis Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
       "siteId": "CO-CHAFFEE-IRON-CHEST-GOLD-MINE",
       "siteName": "Iron Chest Mine (Gold Property, Chaffee County)",
       "county": "Chaffee County",
@@ -1436,44 +1172,8 @@
     {
       "severity": "HIGH",
       "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-JEWELL-TUNNEL",
-      "siteName": "Jewell Tunnel",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-LIENHART-MINE",
-      "siteName": "Lienhart Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-LITTLE-WONDER-MINE",
-      "siteName": "Little Wonder Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
       "siteId": "CO-CHAFFEE-MADONNA-MINE",
       "siteName": "Madonna Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-MOSS-FLOWER-HALF-MOON",
-      "siteName": "Moss Flower (Half Moon Mine)",
       "county": "Chaffee County",
       "file": "packs/canonical/colorado-chaffee.json",
       "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
@@ -1544,73 +1244,10 @@
     {
       "severity": "HIGH",
       "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-SILVER-KING-MINE",
-      "siteName": "Silver King Mine (Chaffee County)",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
       "siteId": "CO-CHAFFEE-SNOWFLAKE-DEPOSIT",
       "siteName": "Snowflake Deposit",
       "county": "Chaffee County",
       "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-STOCKTON-MINE",
-      "siteName": "Stockton Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-THIRTY-SIX-THIRTY-MINE",
-      "siteName": "Thirty-Six-Thirty Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-TILDEN-MINE",
-      "siteName": "Tilden Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-TOMMY-EVANS-LODE",
-      "siteName": "Tommy Evans Lode (Survey No. 14303)",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHAFFEE-WHITE-KING-DEPOSIT",
-      "siteName": "White King Deposit",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CHEYENNE-KIT-CARSON-UP-DEPOT",
-      "siteName": "Kit Carson Union Pacific Railroad Depot (Museum)",
-      "county": "Cheyenne County",
-      "file": "packs/canonical/colorado-cheyenne.json",
       "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
     },
     {
@@ -1674,69 +1311,6 @@
       "siteName": "Denver & Rio Grande Railroad Antonito Depot",
       "county": "Conejos County",
       "file": "packs/canonical/colorado-conejos.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CONEJOS-COSTILLA-CROSSING-BRIDGE",
-      "siteName": "Costilla Crossing Railroad Bridge",
-      "county": "Conejos County",
-      "file": "packs/canonical/colorado-conejos.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-COSTILLA-FORT-GARLAND-MILITARY-POST",
-      "siteName": "Fort Garland Military Post & Museum Complex",
-      "county": "Costilla County",
-      "file": "packs/canonical/colorado-costilla.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-COSTILLA-SLV-SOUTHERN-RATTLESNAKE-TRESTLE",
-      "siteName": "San Luis Valley Southern Rattlesnake Trestle",
-      "county": "Costilla County",
-      "file": "packs/canonical/colorado-costilla.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-CUSTER-WESTCLIFFE-DRG-ENGINE-HOUSE",
-      "siteName": "Westcliffe D&RG Engine House & Turntable Remains",
-      "county": "Custer County",
-      "file": "packs/canonical/colorado-custer.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-DENVER-MIDWEST-STEEL-IRON-WORKS",
-      "siteName": "Midwest Steel & Iron Works Company Complex",
-      "county": "Denver County",
-      "file": "packs/canonical/colorado-denver.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MISSING_OR_BAD_COORDINATES",
-      "siteId": "CO-DOLORES-ATLANTIC-CABLE-MINE",
-      "siteName": "Atlantic Cable Mine & Headframe Complex",
-      "county": "Dolores County",
-      "file": "packs/canonical/colorado-dolores.json",
-      "message": "Published site lacks finite identification coordinates."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-DOLORES-ATLANTIC-CABLE-MINE",
-      "siteName": "Atlantic Cable Mine & Headframe Complex",
-      "county": "Dolores County",
-      "file": "packs/canonical/colorado-dolores.json",
       "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
     },
     {
@@ -1837,105 +1411,6 @@
       "county": "Douglas County",
       "file": "packs/canonical/colorado-douglas.json",
       "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-EAGLE-BELDEN",
-      "siteName": "Belden Mining & Railroad Complex",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_PACKAGED_STATUS_MISSING",
-      "siteId": "CO-EAGLE-CAMP-HALE",
-      "siteName": "Camp Hale",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
-      "message": "Image 'hale-ski-sled' is not explicitly mediaStatus=PACKAGED."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_PACKAGED_STATUS_MISSING",
-      "siteId": "CO-EAGLE-CAMP-HALE",
-      "siteName": "Camp Hale",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
-      "message": "Image 'hale-rough-terrain' is not explicitly mediaStatus=PACKAGED."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_PACKAGED_STATUS_MISSING",
-      "siteId": "CO-EAGLE-CAMP-HALE",
-      "siteName": "Camp Hale",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
-      "message": "Image 'hale-timberline' is not explicitly mediaStatus=PACKAGED."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_RIGHTS_MISSING",
-      "siteId": "CO-EAGLE-CAMP-HALE",
-      "siteName": "Camp Hale",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
-      "message": "Image 'hale-ski-sled' has no explicit rights/use statement."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_RIGHTS_MISSING",
-      "siteId": "CO-EAGLE-CAMP-HALE",
-      "siteName": "Camp Hale",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
-      "message": "Image 'hale-rough-terrain' has no explicit rights/use statement."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_RIGHTS_MISSING",
-      "siteId": "CO-EAGLE-CAMP-HALE",
-      "siteName": "Camp Hale",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
-      "message": "Image 'hale-timberline' has no explicit rights/use statement."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_SOURCE_PAGE_MISSING",
-      "siteId": "CO-EAGLE-CAMP-HALE",
-      "siteName": "Camp Hale",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
-      "message": "Image 'hale-ski-sled' has no sourcePage."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_SOURCE_PAGE_MISSING",
-      "siteId": "CO-EAGLE-CAMP-HALE",
-      "siteName": "Camp Hale",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
-      "message": "Image 'hale-rough-terrain' has no sourcePage."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_SOURCE_PAGE_MISSING",
-      "siteId": "CO-EAGLE-CAMP-HALE",
-      "siteName": "Camp Hale",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
-      "message": "Image 'hale-timberline' has no sourcePage."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_STATUS_INCOMPLETE",
-      "siteId": "CO-EAGLE-CAMP-HALE",
-      "siteName": "Camp Hale",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
-      "message": "Record has displayImages but mediaSearchStatus is not FOUND_USABLE_MEDIA."
     },
     {
       "severity": "HIGH",
@@ -2365,24 +1840,6 @@
       "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
       "siteId": "CO-GUNNISON-INDEPENDENCE-MINE",
       "siteName": "Independence Mine",
-      "county": "Gunnison County",
-      "file": "packs/canonical/colorado-gunnison.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-GUNNISON-KEYSTONE-MINE",
-      "siteName": "Keystone Mine",
-      "county": "Gunnison County",
-      "file": "packs/canonical/colorado-gunnison.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-GUNNISON-LUCKY-STRIKE-MINE-CHANCE",
-      "siteName": "Lucky Strike Mine (Chance Area)",
       "county": "Gunnison County",
       "file": "packs/canonical/colorado-gunnison.json",
       "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
@@ -2826,15 +2283,6 @@
       "siteName": "Schwartzwalder Mine & Ralston Buttes Uranium Complex",
       "county": "Jefferson County",
       "file": "packs/canonical/colorado-jefferson.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-LA-PLATA-COLORADO-UTE-POWER-PLANT",
-      "siteName": "Colorado Ute Power Plant / Durango Light & Power Building",
-      "county": "La Plata County",
-      "file": "packs/canonical/colorado-la-plata.json",
       "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
     },
     {
@@ -3308,24 +2756,6 @@
     {
       "severity": "HIGH",
       "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-LINCOLN-HUGO-UP-ROUNDHOUSE",
-      "siteName": "Hugo Union Pacific Railroad Roundhouse",
-      "county": "Lincoln County",
-      "file": "packs/canonical/colorado-lincoln.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-LOGAN-STERLING-UP-RAILROAD-DEPOT",
-      "siteName": "Sterling Union Pacific Railroad Depot",
-      "county": "Logan County",
-      "file": "packs/canonical/colorado-logan.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
       "siteId": "CO-MESA-CALAMITY-CAMP",
       "siteName": "Calamity Camp Uranium-Mining Structures",
       "county": "Mesa County",
@@ -3556,24 +2986,6 @@
       "county": "Ouray County",
       "file": "packs/canonical/colorado-ouray.json",
       "message": "Published site lacks finite identification coordinates."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MISSING_OR_BAD_COORDINATES",
-      "siteId": "CO-OURAY-BACHELOR-SYRACUSE",
-      "siteName": "Bachelor–Syracuse Mine Tour",
-      "county": "Ouray County",
-      "file": "packs/canonical/colorado-ouray.json",
-      "message": "Published site lacks finite identification coordinates."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "CO-OURAY-BACHELOR-SYRACUSE",
-      "siteName": "Bachelor–Syracuse Mine Tour",
-      "county": "Ouray County",
-      "file": "packs/canonical/colorado-ouray.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
     },
     {
       "severity": "HIGH",
@@ -4991,123 +4403,6 @@
     {
       "severity": "HIGH",
       "code": "LEGACY_OR_INVALID_SITE_ID",
-      "siteId": "montezuma-town",
-      "siteName": "Montezuma Mining Town",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Published Site ID 'montezuma-town' does not use the permanent CO-... convention."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_PACKAGED_STATUS_MISSING",
-      "siteId": "montezuma-town",
-      "siteName": "Montezuma Mining Town",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Image 'montezuma-1941' is not explicitly mediaStatus=PACKAGED."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_RIGHTS_MISSING",
-      "siteId": "montezuma-town",
-      "siteName": "Montezuma Mining Town",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Image 'montezuma-1941' has no explicit rights/use statement."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_SOURCE_PAGE_MISSING",
-      "siteId": "montezuma-town",
-      "siteName": "Montezuma Mining Town",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Image 'montezuma-1941' has no sourcePage."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MEDIA_STATUS_INCOMPLETE",
-      "siteId": "montezuma-town",
-      "siteName": "Montezuma Mining Town",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Record has displayImages but mediaSearchStatus is not FOUND_USABLE_MEDIA."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MISSING_OR_BAD_COORDINATES",
-      "siteId": "montezuma-town",
-      "siteName": "Montezuma Mining Town",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Published site lacks finite identification coordinates."
-    },
-    {
-      "severity": "HIGH",
-      "code": "LEGACY_OR_INVALID_SITE_ID",
-      "siteId": "pennsylvania",
-      "siteName": "Pennsylvania Mine",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Published Site ID 'pennsylvania' does not use the permanent CO-... convention."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "pennsylvania",
-      "siteName": "Pennsylvania Mine",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "LEGACY_OR_INVALID_SITE_ID",
-      "siteId": "quail",
-      "siteName": "Quail Mine",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Published Site ID 'quail' does not use the permanent CO-... convention."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "quail",
-      "siteName": "Quail Mine",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "LEGACY_OR_INVALID_SITE_ID",
-      "siteId": "reiling",
-      "siteName": "Reiling Dredge",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Published Site ID 'reiling' does not use the permanent CO-... convention."
-    },
-    {
-      "severity": "HIGH",
-      "code": "MISSING_OVERVIEW",
-      "siteId": "reiling",
-      "siteName": "Reiling Dredge",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Published site has no visitor-facing overview."
-    },
-    {
-      "severity": "HIGH",
-      "code": "PLACEHOLDER_CONTRACT_INCOMPLETE",
-      "siteId": "reiling",
-      "siteName": "Reiling Dredge",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "No displayImages are packaged, but the required Historic image not available + SEARCH_EXHAUSTED state is incomplete."
-    },
-    {
-      "severity": "HIGH",
-      "code": "LEGACY_OR_INVALID_SITE_ID",
       "siteId": "royal-tiger",
       "siteName": "Royal Tiger Mine Group",
       "county": "Summit County",
@@ -5468,33 +4763,6 @@
     {
       "severity": "MEDIUM",
       "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-ALPINE-HORN",
-      "siteName": "Alpine Horn",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-ALTON-TUNNEL",
-      "siteName": "Alton Tunnel",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-ANNA-C-MINE",
-      "siteName": "Anna C Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "CO-BOULDER-ATCHISON-MINE",
       "siteName": "Atchison Mine",
       "county": "Boulder County",
@@ -5504,134 +4772,8 @@
     {
       "severity": "MEDIUM",
       "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-BIG-CAMERON-MINE",
-      "siteName": "Big Cameron Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-BIG-HORN-SHAFT",
-      "siteName": "Big Horn Shaft",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-BLACK-PRINCE-MINE",
-      "siteName": "Black Prince Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "CO-BOULDER-BONANZA-NO-2",
       "siteName": "Bonanza No. 2 Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-CASH-MILL",
-      "siteName": "Cash Mill",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-CENTENNIAL-TUNNEL",
-      "siteName": "Centennial Tunnel",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-DOROTHY-KATIE-MINES",
-      "siteName": "Dorothy-Katie Mines",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-DOZER-MINE",
-      "siteName": "Dozer Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-EUREKA-MINE",
-      "siteName": "Eureka Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-GOOD-FRIDAY-MINE",
-      "siteName": "Good Friday Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-HALLIE-A-MINE",
-      "siteName": "Hallie A Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-HOOSIER-MINE",
-      "siteName": "Hoosier Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-PAYMASTER-MINE",
-      "siteName": "Paymaster Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-PINESHAD-MINE",
-      "siteName": "Pineshad Mine",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-RAMBLER-MINE",
-      "siteName": "Rambler Mine",
       "county": "Boulder County",
       "file": "packs/canonical/colorado-boulder.json",
       "message": "Published site has no site-level contentUpdatedAt freshness marker."
@@ -5650,15 +4792,6 @@
       "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "CO-BOULDER-ROOSE-TUNNEL",
       "siteName": "Roose Tunnel",
-      "county": "Boulder County",
-      "file": "packs/canonical/colorado-boulder.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BOULDER-STEEL-PLATE-MINE",
-      "siteName": "Steel Plate Mine",
       "county": "Boulder County",
       "file": "packs/canonical/colorado-boulder.json",
       "message": "Published site has no site-level contentUpdatedAt freshness marker."
@@ -5702,71 +4835,8 @@
     {
       "severity": "MEDIUM",
       "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-BROOMFIELD-BROOMFIELD-DI-CS-DEPOT",
-      "siteName": "Broomfield Denver & Interurban / Colorado & Southern Railway Depot",
-      "county": "Broomfield County",
-      "file": "packs/canonical/colorado-broomfield.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-ALASKA-MINE",
-      "siteName": "Alaska Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-ALDERMAN-DEPOSIT",
-      "siteName": "Alderman Deposit",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-ALLARD-BERYLLIUM",
-      "siteName": "Allard Beryllium Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-ALPHA-BETA",
-      "siteName": "Alpha and Beta Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-AMERICAN-FLAG-MINE",
-      "siteName": "American Flag Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "CO-CHAFFEE-ANNA-HUFFMAN-COPPER",
       "siteName": "Anna Huffman Copper",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-ANNIE-C-MINE",
-      "siteName": "Annie C Mine",
       "county": "Chaffee County",
       "file": "packs/canonical/colorado-chaffee.json",
       "message": "Published site has no site-level contentUpdatedAt freshness marker."
@@ -5812,33 +4882,6 @@
       "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "CO-CHAFFEE-BEN-BOLTS-PAYMASTER",
       "siteName": "Ben Bolts Paymaster",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-BEN-BOYER-CLAIM",
-      "siteName": "Ben Boyer Claim",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-BEN-HILL-MINE",
-      "siteName": "Ben Hill Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-BETSY",
-      "siteName": "Betsy",
       "county": "Chaffee County",
       "file": "packs/canonical/colorado-chaffee.json",
       "message": "Published site has no site-level contentUpdatedAt freshness marker."
@@ -6152,15 +5195,6 @@
     {
       "severity": "MEDIUM",
       "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-INDIANAPOLIS-MINE",
-      "siteName": "Indianapolis Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "CO-CHAFFEE-IRON-CHEST-GOLD-MINE",
       "siteName": "Iron Chest Mine (Gold Property, Chaffee County)",
       "county": "Chaffee County",
@@ -6179,44 +5213,8 @@
     {
       "severity": "MEDIUM",
       "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-JEWELL-TUNNEL",
-      "siteName": "Jewell Tunnel",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-LIENHART-MINE",
-      "siteName": "Lienhart Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-LITTLE-WONDER-MINE",
-      "siteName": "Little Wonder Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "CO-CHAFFEE-MADONNA-MINE",
       "siteName": "Madonna Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-MOSS-FLOWER-HALF-MOON",
-      "siteName": "Moss Flower (Half Moon Mine)",
       "county": "Chaffee County",
       "file": "packs/canonical/colorado-chaffee.json",
       "message": "Published site has no site-level contentUpdatedAt freshness marker."
@@ -6287,73 +5285,10 @@
     {
       "severity": "MEDIUM",
       "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-SILVER-KING-MINE",
-      "siteName": "Silver King Mine (Chaffee County)",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "CO-CHAFFEE-SNOWFLAKE-DEPOSIT",
       "siteName": "Snowflake Deposit",
       "county": "Chaffee County",
       "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-STOCKTON-MINE",
-      "siteName": "Stockton Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-THIRTY-SIX-THIRTY-MINE",
-      "siteName": "Thirty-Six-Thirty Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-TILDEN-MINE",
-      "siteName": "Tilden Mine",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-TOMMY-EVANS-LODE",
-      "siteName": "Tommy Evans Lode (Survey No. 14303)",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHAFFEE-WHITE-KING-DEPOSIT",
-      "siteName": "White King Deposit",
-      "county": "Chaffee County",
-      "file": "packs/canonical/colorado-chaffee.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CHEYENNE-KIT-CARSON-UP-DEPOT",
-      "siteName": "Kit Carson Union Pacific Railroad Depot (Museum)",
-      "county": "Cheyenne County",
-      "file": "packs/canonical/colorado-cheyenne.json",
       "message": "Published site has no site-level contentUpdatedAt freshness marker."
     },
     {
@@ -6422,60 +5357,6 @@
     {
       "severity": "MEDIUM",
       "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CONEJOS-COSTILLA-CROSSING-BRIDGE",
-      "siteName": "Costilla Crossing Railroad Bridge",
-      "county": "Conejos County",
-      "file": "packs/canonical/colorado-conejos.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-COSTILLA-FORT-GARLAND-MILITARY-POST",
-      "siteName": "Fort Garland Military Post & Museum Complex",
-      "county": "Costilla County",
-      "file": "packs/canonical/colorado-costilla.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-COSTILLA-SLV-SOUTHERN-RATTLESNAKE-TRESTLE",
-      "siteName": "San Luis Valley Southern Rattlesnake Trestle",
-      "county": "Costilla County",
-      "file": "packs/canonical/colorado-costilla.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-CUSTER-WESTCLIFFE-DRG-ENGINE-HOUSE",
-      "siteName": "Westcliffe D&RG Engine House & Turntable Remains",
-      "county": "Custer County",
-      "file": "packs/canonical/colorado-custer.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-DENVER-MIDWEST-STEEL-IRON-WORKS",
-      "siteName": "Midwest Steel & Iron Works Company Complex",
-      "county": "Denver County",
-      "file": "packs/canonical/colorado-denver.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-DOLORES-ATLANTIC-CABLE-MINE",
-      "siteName": "Atlantic Cable Mine & Headframe Complex",
-      "county": "Dolores County",
-      "file": "packs/canonical/colorado-dolores.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "CO-DOLORES-DUNTON-MINING-CAMP",
       "siteName": "Dunton Mining Camp & Townsite",
       "county": "Dolores County",
@@ -6525,24 +5406,6 @@
       "siteName": "Santa Fe Railway / Sedalia Water Tank",
       "county": "Douglas County",
       "file": "packs/canonical/colorado-douglas.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-EAGLE-BELDEN",
-      "siteName": "Belden Mining & Railroad Complex",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-EAGLE-CAMP-HALE",
-      "siteName": "Camp Hale",
-      "county": "Eagle County",
-      "file": "packs/canonical/colorado-eagle.json",
       "message": "Published site has no site-level contentUpdatedAt freshness marker."
     },
     {
@@ -6881,24 +5744,6 @@
     {
       "severity": "MEDIUM",
       "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-GUNNISON-KEYSTONE-MINE",
-      "siteName": "Keystone Mine",
-      "county": "Gunnison County",
-      "file": "packs/canonical/colorado-gunnison.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-GUNNISON-LUCKY-STRIKE-MINE-CHANCE",
-      "siteName": "Lucky Strike Mine (Chance Area)",
-      "county": "Gunnison County",
-      "file": "packs/canonical/colorado-gunnison.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "CO-GUNNISON-PITKIN-SCHOOLHOUSE",
       "siteName": "Pitkin Schoolhouse",
       "county": "Gunnison County",
@@ -7142,15 +5987,6 @@
     {
       "severity": "MEDIUM",
       "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-LA-PLATA-COLORADO-UTE-POWER-PLANT",
-      "siteName": "Colorado Ute Power Plant / Durango Light & Power Building",
-      "county": "La Plata County",
-      "file": "packs/canonical/colorado-la-plata.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "champion",
       "siteName": "Champion Mill",
       "county": "Lake County",
@@ -7331,24 +6167,6 @@
     {
       "severity": "MEDIUM",
       "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-LINCOLN-HUGO-UP-ROUNDHOUSE",
-      "siteName": "Hugo Union Pacific Railroad Roundhouse",
-      "county": "Lincoln County",
-      "file": "packs/canonical/colorado-lincoln.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-LOGAN-STERLING-UP-RAILROAD-DEPOT",
-      "siteName": "Sterling Union Pacific Railroad Depot",
-      "county": "Logan County",
-      "file": "packs/canonical/colorado-logan.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "CO-MESA-CALAMITY-CAMP",
       "siteName": "Calamity Camp Uranium-Mining Structures",
       "county": "Mesa County",
@@ -7468,15 +6286,6 @@
       "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "CO-OURAY-ATLAS-MINE-MILL",
       "siteName": "Atlas Mine & Mill Complex",
-      "county": "Ouray County",
-      "file": "packs/canonical/colorado-ouray.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "CO-OURAY-BACHELOR-SYRACUSE",
-      "siteName": "Bachelor–Syracuse Mine Tour",
       "county": "Ouray County",
       "file": "packs/canonical/colorado-ouray.json",
       "message": "Published site has no site-level contentUpdatedAt freshness marker."
@@ -8143,42 +6952,6 @@
       "code": "MISSING_CONTENT_UPDATED_AT",
       "siteId": "minnie",
       "siteName": "Minnie Mine",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "montezuma-town",
-      "siteName": "Montezuma Mining Town",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "pennsylvania",
-      "siteName": "Pennsylvania Mine",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "quail",
-      "siteName": "Quail Mine",
-      "county": "Summit County",
-      "file": "packs/canonical/colorado-summit.json",
-      "message": "Published site has no site-level contentUpdatedAt freshness marker."
-    },
-    {
-      "severity": "MEDIUM",
-      "code": "MISSING_CONTENT_UPDATED_AT",
-      "siteId": "reiling",
-      "siteName": "Reiling Dredge",
       "county": "Summit County",
       "file": "packs/canonical/colorado-summit.json",
       "message": "Published site has no site-level contentUpdatedAt freshness marker."
