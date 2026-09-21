@@ -1,0 +1,69 @@
+{
+  "countySlug": "montrose",
+  "site": {
+    "id": "CO-MONTROSE-HANGING-FLUME",
+    "name": "Hanging Flume Mining Aqueduct Remains",
+    "location": "Dolores and San Miguel canyon cliffs near Uravan",
+    "county": "Montrose County",
+    "state": "Colorado",
+    "category": "Mining Water Infrastructure",
+    "componentType": "Mining Water Infrastructure",
+    "componentDetail": "Cliff-mounted wooden water flume remains built to supply the Lone Tree placer mine; the mapped point represents the historic corridor near Colorado Highway 141.",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-19T22:01:31.717Z",
+    "overview": [
+      "The Hanging Flume is a surviving late-nineteenth-century mining-water structure fastened high on the sandstone walls of the Dolores and San Miguel canyons near Uravan. It carried water toward the Lone Tree placer mine, whose gold-bearing ground stood above the river and could not be worked hydraulically without an engineered supply.",
+      "The National Register nomination describes a wooden channel about six feet wide and four feet deep, supported on brackets pinned into the canyon wall. Construction began in 1889 and required cliff work from suspended chairs, locally forged iron pins, river-floated pine timbers, a rim service road, and a derrick for heavy materials.",
+      "Completed in 1890 for $173,000—more than twice the original estimate—the flume operated only briefly and was abandoned around 1900. Long deteriorated stretches still trace the canyon wall, making the site a dramatic record of the engineering risks and capital demands of western placer mining."
+    ],
+    "timeline": [
+      {
+        "year": "1889",
+        "text": "Construction began on the cliff-mounted flume intended to supply water to the Lone Tree placer mine."
+      },
+      {
+        "year": "1890",
+        "text": "Builders completed the flume at a reported cost of $173,000 after using river-floated timbers, hand-driven iron pins, derricks, and suspended work chairs."
+      },
+      {
+        "year": "c. 1900",
+        "text": "After a brief operating life affected by the 1890s economic downturn, the flume was abandoned."
+      },
+      {
+        "year": "1980",
+        "text": "The Hanging Flume was listed in the National Register of Historic Places for its mining-industry significance."
+      }
+    ],
+    "moreHistory": [
+      "Official descriptions vary slightly in the dates and total length because they discuss the original system and surviving corridor in different ways. The National Register nomination describes an approximately six-mile cliff structure and dates construction to 1889–1890; History Colorado describes work continuing through 1891 and reports about 1.8 million board feet of lumber and a capacity of roughly eight million gallons per day.",
+      "The best public views are from established road pullouts and designated routes. Do not climb onto the deteriorated flume or leave legal public access routes; the structure occupies steep, exposed canyon terrain."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 38.3683225,
+      "longitude": -108.7364871
+    },
+    "sourceReferences": [
+      {
+        "title": "National Park Service — Hanging Flume National Register nomination, NRIS 80000917",
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/80000917_text"
+      },
+      {
+        "title": "National Park Service — Hanging Flume asset record, NRIS 80000917",
+        "url": "https://npgallery.nps.gov/NRHP/AssetDetail/fe7b41e6-be25-4bcf-a7f7-346286f35d17/"
+      },
+      {
+        "title": "History Colorado — The Hanging Flume",
+        "url": "https://www.historycolorado.org/taxonomy/term/294?page=12"
+      },
+      {
+        "title": "Bureau of Land Management — Unaweep–Tabeguache Scenic and Historic Byway",
+        "url": "https://www.blm.gov/visit/unaweep-tabeguache-1"
+      }
+    ]
+  }
+}
