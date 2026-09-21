@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MONTROSE-HANGING-FLUME",
   "countySlug": "montrose",
+  "countyPack": "packs/canonical/colorado-montrose.json",
+  "packGeneratedAt": "2026-09-21T00:02:28.269Z",
+  "verifiedAt": "2026-09-21T00:02:28.270Z",
+  "manifest": {
+    "id": "colorado-montrose",
+    "county": "Montrose County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-21T00:02:28.269Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-montrose.json",
+    "siteCount": 2,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 1
+  },
   "site": {
     "id": "CO-MONTROSE-HANGING-FLUME",
     "name": "Hanging Flume Mining Aqueduct Remains",
