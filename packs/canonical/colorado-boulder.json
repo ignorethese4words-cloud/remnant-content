@@ -4,7 +4,7 @@
   "county": "Boulder County",
   "state": "Colorado",
   "version": "108",
-  "generatedAt": "2026-09-20T19:11:01.571Z",
+  "generatedAt": "2026-09-21T00:00:19.619Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -6105,6 +6105,67 @@
         {
           "title": "Boulder County — Historic Sites Self-Guided Tour",
           "url": "https://assets.bouldercounty.gov/wp-content/uploads/2020/10/boulder-county-historic-sites-self-guided-tour-brochure-150th-anniversary-2011.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-JIMTOWN-MINING-COMPANY-MINE",
+      "name": "Jimtown Mining Company Mine",
+      "location": "Jamestown Mining District",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Historic Uranium Mine",
+      "componentType": "Mine",
+      "componentDetail": "Historic underground uranium mine recorded as Jimtown Mining Co; federal mineral records classify it as a past producer",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-20T07:34:00-06:00",
+      "coordinates": {
+        "latitude": 40.1161,
+        "longitude": -105.3875
+      },
+      "overview": [
+        "Jimtown Mining Company Mine is a documented historic uranium mine in Boulder County's Jamestown Mining District. Federal mineral-record data identifies the property as Jimtown Mining Co and classifies it as an underground past producer.",
+        "The recorded site point lies near Jamestown at roughly 6,998 feet elevation. It is a database identification point, not a field-surveyed surviving shaft or portal.",
+        "The available record does not document production totals, ownership or the condition of the workings. Visitors should respect private property, closures and posted restrictions."
+      ],
+      "timeline": [
+        {
+          "year": "1956",
+          "text": "A Colorado Bureau of Mines listing cited by the federal mineral record documented the Jimtown Mining Co property."
+        },
+        {
+          "year": "Federal record",
+          "text": "The Mineral Resources Data System classified Jimtown Mining Co as a past-producing underground uranium mine in Boulder County."
+        }
+      ],
+      "moreHistory": [
+        "The surviving desk record is concise but site-specific: it identifies uranium as the primary commodity and records an underground operation rather than a district-only locality.",
+        "No verified production years, ownership sequence or surviving-feature survey was found in the accessible sources reviewed for this rebuild.",
+        "The mapped point should be used for historical identification only and does not establish public access or a safe route to mine workings."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "sourceReferences": [
+        {
+          "title": "Jimtown Mining Co — MRDS-derived record",
+          "publisher": "Western Mining History",
+          "url": "https://westernmininghistory.com/mine-detail/10238386/",
+          "note": "Preserves the USGS Mineral Resources Data System identity, coordinates, uranium commodity, underground operation type and past-producer classification."
+        },
+        {
+          "title": "Jamestown Mining District, Boulder County, Colorado",
+          "publisher": "Mindat.org",
+          "url": "https://www.mindat.org/loc-28929.html",
+          "note": "Lists Jimtown Mining Company within the Jamestown Mining District locality hierarchy."
+        },
+        {
+          "title": "Gold Hill, Colorado topographic map place index",
+          "publisher": "MyTopo",
+          "url": "https://mapstore.mytopo.com/products/historic_7-5x7-5_gold-hill_colorado",
+          "note": "Indexes Jimtown Mining Company Mine among named features on the Gold Hill quadrangle."
         }
       ]
     }

@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-JIMTOWN-MINING-COMPANY-MINE",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packGeneratedAt": "2026-09-21T00:00:19.619Z",
+  "verifiedAt": "2026-09-21T00:00:19.628Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-21T00:00:19.619Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 118,
+    "exploreSiteCount": 60,
+    "idOnlySiteCount": 58
+  },
   "site": {
     "id": "CO-BOULDER-JIMTOWN-MINING-COMPANY-MINE",
     "name": "Jimtown Mining Company Mine",
