@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentVersion": "2026-09-18T14:13:56.915Z",
-  "generatedAt": "2026-09-21T00:02:28.269Z",
+  "generatedAt": "2026-09-21T00:04:11.056Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -349,7 +349,8 @@
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-ouray.json",
       "exploreSiteCount": 21,
       "idOnlySiteCount": 4,
-      "siteCount": 34
+      "siteCount": 34,
+      "generatedAt": "2026-09-21T00:04:11.056Z"
     },
     {
       "id": "colorado-park",
