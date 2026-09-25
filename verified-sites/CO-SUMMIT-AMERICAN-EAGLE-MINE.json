@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-SUMMIT-AMERICAN-EAGLE-MINE",
   "countySlug": "summit",
+  "countyPack": "packs/canonical/colorado-summit.json",
+  "packGeneratedAt": "2026-09-25T15:41:47.758Z",
+  "verifiedAt": "2026-09-25T15:41:47.760Z",
+  "manifest": {
+    "id": "colorado-summit",
+    "county": "Summit County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-25T15:41:47.758Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
+    "siteCount": 14,
+    "exploreSiteCount": 4,
+    "idOnlySiteCount": 10
+  },
   "site": {
     "id": "CO-SUMMIT-AMERICAN-EAGLE-MINE",
     "name": "American Eagle Mine",
