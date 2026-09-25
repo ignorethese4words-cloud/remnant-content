@@ -1,0 +1,98 @@
+{
+  "countySlug": "lake",
+  "site": {
+    "id": "CO-LAKE-YAK-TUNNEL",
+    "name": "Yak Tunnel / California Gulch Yak Tunnel",
+    "location": "California Gulch / Leadville",
+    "county": "Lake County",
+    "state": "Colorado",
+    "category": "Mining Infrastructure / Environmental History",
+    "componentType": "Adit / Portal",
+    "componentDetail": "Historic mine-drainage and exploration tunnel connecting multiple Leadville district underground workings",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-25T22:07:00Z",
+    "overview": [
+      "The Yak Tunnel is a major mine-drainage and exploration tunnel in the Leadville mining district. It was driven into the Iron Hill and Breece Hill mining landscape to drain workings and support underground exploration and development.",
+      "The tunnel later became central to the environmental history of California Gulch because mine water discharged through the tunnel carried dissolved metals from connected historic workings. Remnant treats the portal/tunnel as mining infrastructure, not as a visitor-accessible underground site."
+    ],
+    "timeline": [
+      {
+        "year": "1895",
+        "text": "The Yak Tunnel was driven to drain Iron Hill mines and facilitate exploration and mine development."
+      },
+      {
+        "year": "1895–1923",
+        "text": "The tunnel system was extended multiple times as operators connected additional underground workings; federal environmental records identify 1923 as the final major extension."
+      },
+      {
+        "year": "1980s",
+        "text": "Federal investigations documented metal-bearing discharge from the Yak Tunnel as part of the broader California Gulch environmental problem."
+      },
+      {
+        "year": "1988",
+        "text": "EPA selected a remedy for the Yak Tunnel operable unit that addressed tunnel discharge and related mine-water contamination."
+      },
+      {
+        "year": "Early 1990s",
+        "text": "A permanent treatment system was completed as part of the California Gulch cleanup and long-term water-management effort."
+      },
+      {
+        "year": "Today",
+        "text": "The Yak Tunnel remains an important piece of Leadville’s mining-engineering and environmental history; underground access should not be assumed."
+      }
+    ],
+    "moreHistory": [
+      "EPA records describe the Yak system as several miles of tunnel and connected drifts extending into Iron Hill and Breece Hill. It connected numerous historic mine workings, illustrating how Leadville’s underground mines became an interconnected engineering network.",
+      "The tunnel’s later history is inseparable from California Gulch remediation. Treatment of metal-bearing mine water transformed the Yak from purely mining infrastructure into a long-term environmental-management feature.",
+      "The identification coordinate represents the mapped Yak Tunnel portal/locality. It should not be interpreted as a safe or legal underground access point."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.235823,
+      "longitude": -106.270301
+    },
+    "sourceReferences": [
+      {
+        "title": "California Gulch Record of Decision — Yak Tunnel Operable Unit",
+        "publisher": "U.S. Environmental Protection Agency",
+        "sourcePage": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=91001QBV.TXT",
+        "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=91001QBV.TXT",
+        "note": "Documents the Yak Tunnel’s mining-drainage history, extensions, connected workings, metal-bearing discharge, and selected cleanup remedy."
+      },
+      {
+        "title": "Yak Tunnel near Leadville, Colorado monitoring location",
+        "publisher": "U.S. Geological Survey / Water Quality Portal",
+        "sourcePage": "https://www.waterqualitydata.us/provider/NWIS/USGS-CO/USGS-391409106161300/",
+        "url": "https://www.waterqualitydata.us/provider/NWIS/USGS-CO/USGS-391409106161300/",
+        "note": "Federal monitoring record identifies Yak Tunnel in Lake County and provides the mapped tunnel locality."
+      },
+      {
+        "title": "Yak Tunnel topographic locality",
+        "publisher": "TopoQuest / U.S. Geological Survey mapping",
+        "sourcePage": "https://topoquest.com/place/colorado/mine/yak-tunnel/180155",
+        "url": "https://topoquest.com/place/colorado/mine/yak-tunnel/180155",
+        "note": "USGS-derived topographic record maps Yak Tunnel at approximately 39.235823, -106.270301 on the Leadville South quadrangle."
+      }
+    ],
+    "features": [
+      {
+        "id": "yak-portal",
+        "name": "Yak Tunnel portal/locality",
+        "type": "Mine Drainage / Adit",
+        "confidence": "Confirmed",
+        "note": "Mapped portal/locality used for Remnant identification; no claim of safe underground access."
+      },
+      {
+        "id": "yak-network",
+        "name": "Connected underground workings",
+        "type": "Mine Infrastructure",
+        "confidence": "Confirmed",
+        "note": "EPA records document connections with multiple historic Leadville mine workings."
+      }
+    ]
+  }
+}
