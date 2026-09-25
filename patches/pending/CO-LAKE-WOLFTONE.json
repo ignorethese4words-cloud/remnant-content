@@ -1,0 +1,71 @@
+{
+  "countySlug": "lake",
+  "site": {
+    "id": "CO-LAKE-WOLFTONE",
+    "name": "Wolftone Mine",
+    "location": "Carbonate Hill / Leadville",
+    "county": "Lake County",
+    "state": "Colorado",
+    "category": "Mine",
+    "componentType": "Mine",
+    "componentDetail": "Historic Carbonate Hill underground lead-silver-zinc mine and later remediation property",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-25T22:06:00Z",
+    "overview": [
+      "The Wolftone was an important Carbonate Hill mine whose history extended beyond Leadville’s classic silver era into the later zinc economy.",
+      "It was connected historically with the broader A.M.W. operating context but remains a distinct mine from Maid of Erin, Adams, and neighboring properties."
+    ],
+    "timeline": [
+      {
+        "year": "19th century",
+        "text": "The Wolftone developed as part of Leadville’s densely mined Carbonate Hill area."
+      },
+      {
+        "year": "1899",
+        "text": "Historical documentation records renewed operation after the mine was unwatered."
+      },
+      {
+        "year": "Early 20th century",
+        "text": "The property became important during Leadville’s shift toward zinc production."
+      },
+      {
+        "year": "1940s",
+        "text": "Historical records document reprocessing of mine-dump material."
+      },
+      {
+        "year": "1997",
+        "text": "Waste from Wolftone and nearby mine areas was consolidated as part of California Gulch remediation work."
+      }
+    ],
+    "moreHistory": [
+      "The Wolftone illustrates how one mine can pass through several industrial phases: underground production, changes in target commodities, dump reprocessing, and environmental remediation.",
+      "Federal mineral records preserve Wolftone as a distinct past-producing underground mine in the Leadville district.",
+      "USGS district studies provide the broader geological framework for the lead, silver, zinc, and gold ores that shaped Carbonate Hill mining."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.24778,
+      "longitude": -106.27333
+    },
+    "sourceReferences": [
+      {
+        "title": "Wolftone Mine — USGS MRDS-derived record",
+        "publisher": "Western Mining History / U.S. Geological Survey MRDS",
+        "sourcePage": "https://westernmininghistory.com/mine-detail/10263951/",
+        "url": "https://westernmininghistory.com/mine-detail/10263951/",
+        "note": "Identifies Wolftone Mine as a past-producing underground Lake County mine in the Leadville district and gives coordinates near 39.24778, -106.27333."
+      },
+      {
+        "title": "Geology and Ore Deposits of the Leadville Mining District, Colorado",
+        "publisher": "U.S. Geological Survey",
+        "sourcePage": "https://pubs.usgs.gov/publication/pp148",
+        "url": "https://pubs.usgs.gov/publication/pp148",
+        "note": "Authoritative district geology and historic mine context for Carbonate Hill and Leadville ore deposits."
+      }
+    ]
+  }
+}
