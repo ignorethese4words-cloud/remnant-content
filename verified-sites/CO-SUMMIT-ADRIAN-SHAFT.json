@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-SUMMIT-ADRIAN-SHAFT",
   "countySlug": "summit",
+  "countyPack": "packs/canonical/colorado-summit.json",
+  "packGeneratedAt": "2026-09-25T15:40:29.780Z",
+  "verifiedAt": "2026-09-25T15:40:29.782Z",
+  "manifest": {
+    "id": "colorado-summit",
+    "county": "Summit County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-25T15:40:29.780Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
+    "siteCount": 13,
+    "exploreSiteCount": 4,
+    "idOnlySiteCount": 9
+  },
   "site": {
     "id": "CO-SUMMIT-ADRIAN-SHAFT",
     "name": "Adrian Shaft",
