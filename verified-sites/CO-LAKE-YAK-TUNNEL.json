@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LAKE-YAK-TUNNEL",
   "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packGeneratedAt": "2026-09-25T22:06:29.326Z",
+  "verifiedAt": "2026-09-25T22:06:29.329Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-25T22:06:29.326Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 32,
+    "exploreSiteCount": 26,
+    "idOnlySiteCount": 6
+  },
   "site": {
     "id": "CO-LAKE-YAK-TUNNEL",
     "name": "Yak Tunnel / California Gulch Yak Tunnel",
