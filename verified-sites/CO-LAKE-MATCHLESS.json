@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LAKE-MATCHLESS",
   "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packGeneratedAt": "2026-09-25T19:16:54.357Z",
+  "verifiedAt": "2026-09-25T19:16:54.360Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-25T19:16:54.357Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 29,
+    "exploreSiteCount": 23,
+    "idOnlySiteCount": 6
+  },
   "site": {
     "id": "CO-LAKE-MATCHLESS",
     "name": "Matchless Mine",
