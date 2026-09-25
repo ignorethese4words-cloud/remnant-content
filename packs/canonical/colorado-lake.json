@@ -4,7 +4,7 @@
   "county": "Lake County",
   "state": "Colorado",
   "version": "13",
-  "generatedAt": "2026-09-25T18:10:40.869Z",
+  "generatedAt": "2026-09-25T18:11:50.255Z",
   "sites": [
     {
       "id": "CO-LAKE-BLACK-CLOUD",
@@ -1494,6 +1494,70 @@
           "sourcePage": "https://www.mininghistoryassociation.org/LeadvilleMineTour4.htm",
           "url": "https://www.mininghistoryassociation.org/LeadvilleMineTour4.htm",
           "note": "Identifies the Little Jonny Mine as the Ibex No. 1 Shaft and places it within the surviving Ibex mining complex."
+        }
+      ]
+    },
+    {
+      "id": "CO-LAKE-MAID-OF-ERIN",
+      "name": "Maid of Erin Mine",
+      "location": "Carbonate Hill / Leadville",
+      "county": "Lake County",
+      "state": "Colorado",
+      "category": "Mine",
+      "componentType": "Mine",
+      "componentDetail": "Historic Carbonate Hill underground silver-lead-zinc mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-25T18:14:00Z",
+      "overview": [
+        "The Maid of Erin was one of the named mines in Leadville’s dense Carbonate Hill mining landscape. Its history overlaps with neighboring properties, but the mine remains a distinct Remnant site.",
+        "The property is useful for understanding how Leadville mines changed through operating, leasing, dump-processing, and later environmental-remediation periods."
+      ],
+      "timeline": [
+        {
+          "year": "Historic mining era",
+          "text": "The Maid of Erin operated as part of the heavily developed Carbonate Hill district."
+        },
+        {
+          "year": "Later operations",
+          "text": "Historical property records document leasing and later processing of mine-dump material."
+        },
+        {
+          "year": "1997",
+          "text": "EPA historic-property documentation records consolidation and remediation of waste associated with Maid of Erin, Wolftone, and Mahala areas."
+        },
+        {
+          "year": "Today",
+          "text": "The site is interpreted as a distinct mine component within a tightly packed historic and remediated mining landscape."
+        }
+      ],
+      "moreHistory": [
+        "EPA California Gulch documentation is useful because it preserves both operating history and later changes to the physical mining landscape.",
+        "Maid of Erin should not be merged with Wolftone or other nearby Carbonate Hill properties simply because their histories and remediation areas overlap.",
+        "USGS Leadville district studies provide the larger geologic and ore-deposit framework for the closely spaced mines of this area."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.24916,
+        "longitude": -106.27533
+      },
+      "sourceReferences": [
+        {
+          "title": "Maid of Erin Mine — USGS MRDS record",
+          "publisher": "U.S. Geological Survey MRDS (mirror)",
+          "sourcePage": "https://www.qvyshift.com/mrds/show-mrds.php?dep_id=10142322",
+          "url": "https://www.qvyshift.com/mrds/show-mrds.php?dep_id=10142322",
+          "note": "MRDS-derived record identifies Maid of Erin Mine as a past-producing Lake County mine on the Leadville South quadrangle and gives ore-body coordinates near 39.24916, -106.27533."
+        },
+        {
+          "title": "Historic Trail Map of the Leadville 1° × 2° Quadrangle, Central Colorado",
+          "publisher": "U.S. Geological Survey",
+          "sourcePage": "https://pubs.usgs.gov/sim/2004/2820/sim2820.html",
+          "url": "https://pubs.usgs.gov/sim/2004/2820/sim2820.html",
+          "note": "USGS place-name documentation lists Maid of Erin mine in Lake County, sec. 24, T. 9 S., R. 80 W."
         }
       ]
     }
