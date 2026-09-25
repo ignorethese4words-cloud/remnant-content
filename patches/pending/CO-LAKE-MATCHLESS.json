@@ -1,0 +1,105 @@
+{
+  "countySlug": "lake",
+  "site": {
+    "id": "CO-LAKE-MATCHLESS",
+    "name": "Matchless Mine",
+    "location": "Fryer Hill / Leadville",
+    "county": "Lake County",
+    "state": "Colorado",
+    "category": "Mine",
+    "componentType": "Mine",
+    "componentDetail": "Historic silver mine complex with No. 6 shaft/headframe, hoist house, powder magazine, and Baby Doe cabin",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-25T19:16:00Z",
+    "overview": [
+      "The Matchless Mine is one of Leadville’s best-known historic silver properties, important both for its role in the mining industry and for its association with Horace Tabor and Elizabeth “Baby Doe” Tabor.",
+      "The surviving surface complex preserves recognizable mine infrastructure that helps explain underground extraction, hoisting, ore handling, and daily life at a late-nineteenth-century Leadville mine."
+    ],
+    "timeline": [
+      {
+        "year": "1879",
+        "text": "Horace Tabor acquired the Matchless property during Leadville’s rapid silver boom."
+      },
+      {
+        "year": "1880s",
+        "text": "The mine operated during Leadville’s major silver-production era and became part of Tabor’s mining fortune."
+      },
+      {
+        "year": "1893",
+        "text": "The national silver crisis damaged Leadville’s silver economy and Tabor’s finances."
+      },
+      {
+        "year": "1899",
+        "text": "Horace Tabor died after the collapse of much of his former fortune."
+      },
+      {
+        "year": "1901–1935",
+        "text": "Baby Doe Tabor remained closely associated with the property and lived at the mine late in life."
+      },
+      {
+        "year": "Today",
+        "text": "The surviving historic site is preserved and interpreted as a surface mine complex."
+      }
+    ],
+    "moreHistory": [
+      "The property is important both as an industrial mining site and for the Tabor family story.",
+      "The surviving complex includes the shaft/headframe area, hoist house, powder magazine, and cabin.",
+      "Public interpretation is focused on the surface complex; Remnant does not imply visitor access to underground workings."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.25611,
+      "longitude": -106.27055
+    },
+    "sourceReferences": [
+      {
+        "title": "Matchless Mine",
+        "publisher": "National Mining Hall of Fame and Museum",
+        "sourcePage": "https://mininghalloffame.org/matchless-mine/",
+        "url": "https://mininghalloffame.org/matchless-mine/",
+        "note": "Official operator page for the preserved Matchless Mine Historic Site and its surviving surface features."
+      },
+      {
+        "title": "Matchless Mine, Fryer Hill, Leadville",
+        "publisher": "Mindat",
+        "sourcePage": "https://www.mindat.org/loc-15793.html",
+        "url": "https://www.mindat.org/loc-15793.html",
+        "note": "Corroborates the Fryer Hill mine locality and coordinates."
+      }
+    ],
+    "features": [
+      {
+        "id": "match-shaft",
+        "name": "No. 6 Shaft and Headframe Area",
+        "type": "Mine Working",
+        "confidence": "Confirmed",
+        "note": "Central surviving component of the surface complex."
+      },
+      {
+        "id": "match-hoist",
+        "name": "Hoist House",
+        "type": "Mine Machinery / Structure",
+        "confidence": "Confirmed",
+        "note": "Surviving hoisting infrastructure at the historic site."
+      },
+      {
+        "id": "match-powder",
+        "name": "Powder Magazine",
+        "type": "Support Structure",
+        "confidence": "Confirmed",
+        "note": "Surviving support component of mine operations."
+      },
+      {
+        "id": "match-cabin",
+        "name": "Baby Doe Cabin",
+        "type": "Support / Residential Structure",
+        "confidence": "Confirmed",
+        "note": "Historic cabin associated with Elizabeth “Baby Doe” Tabor."
+      }
+    ]
+  }
+}
