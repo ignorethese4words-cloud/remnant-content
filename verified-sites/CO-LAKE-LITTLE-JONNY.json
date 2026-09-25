@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LAKE-LITTLE-JONNY",
   "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packGeneratedAt": "2026-09-25T18:09:12.268Z",
+  "verifiedAt": "2026-09-25T18:09:12.270Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-25T18:09:12.268Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 27,
+    "exploreSiteCount": 21,
+    "idOnlySiteCount": 6
+  },
   "site": {
     "id": "CO-LAKE-LITTLE-JONNY",
     "name": "Ibex / Little Jonny Mine",

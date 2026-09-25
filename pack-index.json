@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentVersion": "2026-09-18T14:13:56.915Z",
-  "generatedAt": "2026-09-25T16:00:41.674Z",
+  "generatedAt": "2026-09-25T18:09:12.268Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -234,10 +234,10 @@
       "state": "Colorado",
       "version": "13",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
-      "exploreSiteCount": 20,
+      "exploreSiteCount": 21,
       "idOnlySiteCount": 6,
-      "siteCount": 26,
-      "generatedAt": "2026-09-25T16:00:41.674Z"
+      "siteCount": 27,
+      "generatedAt": "2026-09-25T18:09:12.268Z"
     },
     {
       "id": "colorado-larimer",
