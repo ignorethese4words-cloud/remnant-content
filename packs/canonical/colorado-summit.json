@@ -4,7 +4,7 @@
   "county": "Summit County",
   "state": "Colorado",
   "version": "6",
-  "generatedAt": "2026-09-13T15:41:05.613Z",
+  "generatedAt": "2026-09-25T15:32:43.960Z",
   "sites": [
     {
       "id": "minnie",
@@ -413,6 +413,49 @@
           "publisher": "Colorado Preservation, Inc.",
           "url": "https://www.coloradopreservation.org/endangered-place/reiling-gold-dredge/",
           "note": "Documents the 2015 endangered listing, preservation program, and 2022 Saved recognition."
+        }
+      ]
+    },
+    {
+      "id": "CO-SUMMIT-AMERICAN-METALS-INCLINE",
+      "name": "American Metals Incline",
+      "location": "Jacque Peak / Copper Mountain area",
+      "county": "Summit County",
+      "state": "Colorado",
+      "category": "Historic Mine Incline",
+      "componentType": "Mine",
+      "componentDetail": "Named historic mine incline shown on Copper Mountain topographic mapping",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-25T15:20:00Z",
+      "overview": [
+        "American Metals Incline is a named historic mine feature in Summit County in the high country near Jacque Peak and Copper Mountain. U.S. Geological Survey-derived topographic mapping places the mine locality at approximately 39.44832, -106.19530.",
+        "Remnant uses the mapped mine locality as an identification point. The record does not claim that a mine opening is currently accessible, open, or safe."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.4483205,
+        "longitude": -106.1953011
+      },
+      "sourceReferences": [
+        {
+          "title": "Camp Hale / Copper Mountain topographic map",
+          "publisher": "Rocky Mountain Area Coordination Center / U.S. government topographic mapping",
+          "sourcePage": "https://gacc.nifc.gov/rmcc/dispatch_centers/r2gjc/maps/new_topo_maps_georefernced_october_2015/Camp_Hale.pdf",
+          "url": "https://gacc.nifc.gov/rmcc/dispatch_centers/r2gjc/maps/new_topo_maps_georefernced_october_2015/Camp_Hale.pdf",
+          "note": "Topographic map labels American Metals Incline Mine in Summit County near Jacque Peak."
+        },
+        {
+          "title": "American Metals Incline Mine locality",
+          "publisher": "AnyplaceAmerica / USGS-derived mapping",
+          "sourcePage": "https://www.anyplaceamerica.com/directory/co/summit-county-08117/mines/american-metals-incline-mine-1684208/",
+          "url": "https://www.anyplaceamerica.com/directory/co/summit-county-08117/mines/american-metals-incline-mine-1684208/",
+          "note": "Corroborates the named Summit County mine locality, Copper Mountain quadrangle, coordinates, and elevation."
         }
       ]
     }

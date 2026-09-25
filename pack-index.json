@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentVersion": "2026-09-18T14:13:56.915Z",
-  "generatedAt": "2026-09-21T00:04:11.056Z",
+  "generatedAt": "2026-09-25T15:32:43.960Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -440,8 +440,9 @@
       "version": "6",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
       "exploreSiteCount": 4,
-      "idOnlySiteCount": 5,
-      "siteCount": 9
+      "idOnlySiteCount": 6,
+      "siteCount": 10,
+      "generatedAt": "2026-09-25T15:32:43.960Z"
     },
     {
       "id": "colorado-teller",

@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-SUMMIT-AMERICAN-METALS-INCLINE",
   "countySlug": "summit",
+  "countyPack": "packs/canonical/colorado-summit.json",
+  "packGeneratedAt": "2026-09-25T15:32:43.960Z",
+  "verifiedAt": "2026-09-25T15:32:43.961Z",
+  "manifest": {
+    "id": "colorado-summit",
+    "county": "Summit County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-25T15:32:43.960Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
+    "siteCount": 10,
+    "exploreSiteCount": 4,
+    "idOnlySiteCount": 6
+  },
   "site": {
     "id": "CO-SUMMIT-AMERICAN-METALS-INCLINE",
     "name": "American Metals Incline",
