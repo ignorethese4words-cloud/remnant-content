@@ -4,18 +4,17 @@
   "siteId": "CO-LAKE-LEADVILLE-DRAINAGE-TUNNEL",
   "countySlug": "lake",
   "countyPack": "packs/canonical/colorado-lake.json",
-  "packVersion": "9",
-  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
-  "verifiedAt": "2026-09-16T00:23:17.333Z",
+  "packGeneratedAt": "2026-09-25T18:10:40.869Z",
+  "verifiedAt": "2026-09-25T18:10:40.872Z",
   "manifest": {
     "id": "colorado-lake",
     "county": "Lake County",
     "state": "Colorado",
-    "version": "9",
+    "generatedAt": "2026-09-25T18:10:40.869Z",
     "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
-    "siteCount": 19,
-    "exploreSiteCount": 15,
-    "idOnlySiteCount": 4
+    "siteCount": 27,
+    "exploreSiteCount": 21,
+    "idOnlySiteCount": 6
   },
   "site": {
     "id": "CO-LAKE-LEADVILLE-DRAINAGE-TUNNEL",
@@ -78,6 +77,27 @@
       "latitude": 39.2747115,
       "longitude": -106.2880795
     },
-    "mediaNotice": "Historic image not available"
+    "mediaNotice": "Historic image not available",
+    "tier": "EXPLORE",
+    "state": "Colorado",
+    "componentDetail": "Federal two-mile mine-drainage tunnel and associated water-treatment system beneath the Leadville mining district",
+    "contentUpdatedAt": "2026-09-25T18:12:00Z",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "sourceReferences": [
+      {
+        "title": "Leadville Mine Drainage Tunnel and Treatment Plant",
+        "publisher": "U.S. Bureau of Reclamation",
+        "sourcePage": "https://www.usbr.gov/gp/ecao/leadville/",
+        "url": "https://www.usbr.gov/gp/ecao/leadville/",
+        "note": "Federal background on the Leadville Mine Drainage Tunnel, treatment system, and continuing water-management responsibilities."
+      },
+      {
+        "title": "Leadville Mine Drainage Tunnel — California Gulch Superfund Site",
+        "publisher": "U.S. Environmental Protection Agency",
+        "sourcePage": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0801478",
+        "url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0801478",
+        "note": "Provides environmental context for mine drainage and treatment in the Leadville mining district."
+      }
+    ]
   }
 }
