@@ -1,0 +1,53 @@
+{
+  "countySlug": "summit",
+  "site": {
+    "id": "CO-SUMMIT-ALADDIN-MINE",
+    "name": "Aladdin Mine",
+    "location": "Montezuma / Keystone area",
+    "county": "Summit County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine",
+    "componentDetail": "Named historic gold mine shown on Keystone topographic mapping",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-25T15:36:00Z",
+    "overview": [
+      "Aladdin Mine is a named historic mine locality in Summit County shown on the Keystone topographic quadrangle north of Keystone and near the Montezuma mining area. The mapped mine locality is approximately 39.60749, -105.90446.",
+      "Mineral-locality records identify Aladdin as a past-producing gold mine with additional reported base-metal and silver occurrences. Remnant uses the mapped mine locality for identification only and does not claim that a surviving opening is accessible or safe."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.6074868,
+      "longitude": -105.9044574
+    },
+    "sourceReferences": [
+      {
+        "title": "Historic USGS Keystone, Colorado 7.5-minute topographic map",
+        "publisher": "U.S. Geological Survey map reproduced by MyTopo",
+        "sourcePage": "https://mapstore.mytopo.com/products/historic_7-5x7-5_keystone_colorado",
+        "url": "https://mapstore.mytopo.com/products/historic_7-5x7-5_keystone_colorado",
+        "note": "Historic Keystone quadrangle lists Aladdin Mine as a named Summit County mine feature."
+      },
+      {
+        "title": "Aladdin, Montezuma Area, Summit County, Colorado",
+        "publisher": "Mindat",
+        "sourcePage": "https://www.mindat.org/loc-120148.html",
+        "url": "https://www.mindat.org/loc-120148.html",
+        "note": "Corroborates the Aladdin mine locality, past-producer status, gold as the major commodity, and mapped location."
+      },
+      {
+        "title": "Aladdin Mine locality",
+        "publisher": "AnyplaceAmerica / USGS-derived mapping",
+        "sourcePage": "https://www.anyplaceamerica.com/directory/co/summit-county-08117/mines/aladdin-mine-1735413/",
+        "url": "https://www.anyplaceamerica.com/directory/co/summit-county-08117/mines/aladdin-mine-1735413/",
+        "note": "Corroborates the named mine, Keystone quadrangle, coordinates, and elevation."
+      }
+    ]
+  }
+}
