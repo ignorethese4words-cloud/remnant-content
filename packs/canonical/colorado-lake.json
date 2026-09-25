@@ -4,7 +4,7 @@
   "county": "Lake County",
   "state": "Colorado",
   "version": "13",
-  "generatedAt": "2026-09-25T22:02:50.394Z",
+  "generatedAt": "2026-09-25T22:03:53.967Z",
   "sites": [
     {
       "id": "CO-LAKE-BLACK-CLOUD",
@@ -939,7 +939,28 @@
         "latitude": 39.0820493,
         "longitude": -106.38228
       },
-      "mediaNotice": "Historic image not available"
+      "mediaNotice": "Historic image not available",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "componentDetail": "Late-19th-century Twin Lakes mountain village and National/State Register historic district",
+      "contentUpdatedAt": "2026-09-25T22:05:00Z",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "sourceReferences": [
+        {
+          "title": "Twin Lakes Historic District",
+          "publisher": "History Colorado",
+          "sourcePage": "https://www.historycolorado.org/taxonomy/term/2823",
+          "url": "https://www.historycolorado.org/taxonomy/term/2823",
+          "note": "State historic-register context for Twin Lakes as a preserved late-nineteenth-century mountain village."
+        },
+        {
+          "title": "Beautiful scenery above the Twin Lakes — the natural bridge and the fishermen",
+          "publisher": "Library of Congress",
+          "sourcePage": "https://www.loc.gov/pictures/item/2006676239/",
+          "url": "https://www.loc.gov/pictures/item/2006676239/",
+          "note": "Nineteenth-century Twin Lakes landscape image used as historic context; not treated as a building-specific district photograph."
+        }
+      ]
     },
     {
       "id": "wolftone",
