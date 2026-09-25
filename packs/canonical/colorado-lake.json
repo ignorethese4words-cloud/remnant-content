@@ -4,7 +4,7 @@
   "county": "Lake County",
   "state": "Colorado",
   "version": "13",
-  "generatedAt": "2026-09-25T15:57:16.948Z",
+  "generatedAt": "2026-09-25T15:58:43.611Z",
   "sites": [
     {
       "id": "CO-LAKE-BLACK-CLOUD",
@@ -294,7 +294,30 @@
           "note": "The modern operation includes the open pit, concentrator, tailings and related industrial infrastructure."
         }
       ],
-      "mediaNotice": "Historic image not available"
+      "mediaNotice": "Historic image not available",
+      "tier": "EXPLORE",
+      "contentUpdatedAt": "2026-09-25T16:00:00Z",
+      "coordinates": {
+        "latitude": 39.370261,
+        "longitude": -106.168828
+      },
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "sourceReferences": [
+        {
+          "title": "Climax Mine — CERCLA Site Information",
+          "publisher": "U.S. Environmental Protection Agency",
+          "sourcePage": "https://cumulis.epa.gov/supercpad/CurSites/csitinfo.cfm?id=0801319",
+          "url": "https://cumulis.epa.gov/supercpad/CurSites/csitinfo.cfm?id=0801319",
+          "note": "Confirms the Lake County Climax Mine location east of Colorado Highway 91 at Fremont Pass and provides site coordinates."
+        },
+        {
+          "title": "Climax Mine — USGS MRDS-derived record",
+          "publisher": "Western Mining History / U.S. Geological Survey MRDS",
+          "sourcePage": "https://westernmininghistory.com/mine-detail/10008739/",
+          "url": "https://westernmininghistory.com/mine-detail/10008739/",
+          "note": "Corroborates the Lake County molybdenum mine, Climax district identity, coordinates, commodities, and production history."
+        }
+      ]
     },
     {
       "id": "hagerman",
