@@ -4,18 +4,17 @@
   "siteId": "CO-LAKE-TUCSON",
   "countySlug": "lake",
   "countyPack": "packs/canonical/colorado-lake.json",
-  "packVersion": "9",
-  "packGeneratedAt": "2026-09-14T17:06:12.221Z",
-  "verifiedAt": "2026-09-16T00:23:17.335Z",
+  "packGeneratedAt": "2026-09-25T22:02:50.394Z",
+  "verifiedAt": "2026-09-25T22:02:50.398Z",
   "manifest": {
     "id": "colorado-lake",
     "county": "Lake County",
     "state": "Colorado",
-    "version": "9",
+    "generatedAt": "2026-09-25T22:02:50.394Z",
     "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
-    "siteCount": 19,
-    "exploreSiteCount": 15,
-    "idOnlySiteCount": 4
+    "siteCount": 30,
+    "exploreSiteCount": 24,
+    "idOnlySiteCount": 6
   },
   "site": {
     "id": "CO-LAKE-TUCSON",
@@ -68,6 +67,31 @@
       "For Remnant, nearby Iron Hill mines should remain separate records. Shared ownership or underground relationships do not mean every surviving ruin belongs to the Tucson Mine."
     ],
     "displayImages": [],
-    "mediaNotice": "Historic image not available"
+    "mediaNotice": "Historic image not available",
+    "tier": "EXPLORE",
+    "state": "Colorado",
+    "componentDetail": "Historic Iron Hill underground mine and deep-shaft surface complex",
+    "contentUpdatedAt": "2026-09-25T22:03:00Z",
+    "coordinates": {
+      "latitude": 39.24147,
+      "longitude": -106.26316
+    },
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "sourceReferences": [
+      {
+        "title": "Tucson Mine, Iron Hill, Lake County, Colorado",
+        "publisher": "Mindat",
+        "sourcePage": "https://www.mindat.org/loc-46548.html",
+        "url": "https://www.mindat.org/loc-46548.html",
+        "note": "Corroborates the Tucson Mine locality on Iron Hill and gives coordinates near 39.24147, -106.26316."
+      },
+      {
+        "title": "Geology and Ore Deposits of the Leadville Mining District, Colorado",
+        "publisher": "U.S. Geological Survey",
+        "sourcePage": "https://pubs.usgs.gov/publication/pp148",
+        "url": "https://pubs.usgs.gov/publication/pp148",
+        "note": "Authoritative district geology and historic mine context for the Leadville and Iron Hill workings."
+      }
+    ]
   }
 }
