@@ -1,0 +1,82 @@
+{
+  "countySlug": "lake",
+  "site": {
+    "id": "CO-LAKE-HAGERMAN",
+    "name": "Hagerman Trestle",
+    "location": "Hagerman Pass / Leadville",
+    "county": "Lake County",
+    "state": "Colorado",
+    "category": "Railroad",
+    "componentType": "Bridge / Trestle",
+    "componentDetail": "Former 1,084-foot curved Colorado Midland timber trestle on the eastern approach to Hagerman Tunnel",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-25T16:03:00Z",
+    "overview": [
+      "Hagerman Trestle was a major timber railroad structure on the Colorado Midland route west of Leadville, built along the eastern approach to the Hagerman Tunnel near the Continental Divide.",
+      "The trestle should be interpreted as part of the broader Hagerman Pass railroad landscape, together with the tunnel, grade, cuts, fills, snow-control works, and construction-camp remains."
+    ],
+    "timeline": [
+      {
+        "year": "1887",
+        "text": "The Colorado Midland completed the Hagerman Tunnel route across the Continental Divide and built the large curved trestle on its eastern approach."
+      },
+      {
+        "year": "1893",
+        "text": "The lower Busk-Ivanhoe route replaced the severe Hagerman Tunnel crossing for regular operations."
+      },
+      {
+        "year": "Late 1890s",
+        "text": "The older Hagerman route saw limited later use before being abandoned as the railroad shifted to the lower crossing."
+      },
+      {
+        "year": "Today",
+        "text": "The former railroad grade and trestle site remain part of the historic Hagerman Pass transportation landscape."
+      }
+    ],
+    "moreHistory": [
+      "USGS historical-trail documentation describes Hagerman Trestle as 1,084 feet long, about 84 feet high, and curved roughly 200 degrees along the eastern approach to Hagerman Pass and Hagerman Tunnel.",
+      "Because the structure was long and curved, Remnant uses an approach-level identification anchor rather than presenting a fabricated single-point center for the entire former trestle."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.25389,
+      "longitude": -106.48694
+    },
+    "sourceReferences": [
+      {
+        "title": "Historic Trail Map of the Leadville 1° × 2° Quadrangle, Central Colorado",
+        "publisher": "U.S. Geological Survey",
+        "sourcePage": "https://pubs.usgs.gov/sim/2004/2820/sim2820.html",
+        "url": "https://pubs.usgs.gov/sim/2004/2820/sim2820.html",
+        "note": "Documents Hagerman Tunnel and the 1,084-foot curved Hagerman Trestle on the eastern approach to the tunnel."
+      },
+      {
+        "title": "Colorado Midland Trail — Hagerman Tunnel route",
+        "publisher": "HikingWalking.com",
+        "sourcePage": "https://www.hikingwalking.com/destinations/co/co_cent/leadville/colorado_midland/colorado_midland_detail",
+        "url": "https://www.hikingwalking.com/destinations/co/co_cent/leadville/colorado_midland/colorado_midland_detail",
+        "note": "Modern route description identifies the former Hagerman Trestle site on the approach to the old Hagerman Tunnel grade."
+      }
+    ],
+    "features": [
+      {
+        "id": "hag-trestle",
+        "name": "Hagerman Trestle",
+        "type": "Railroad Structure",
+        "confidence": "Confirmed",
+        "note": "Former major timber trestle on the Colorado Midland Hagerman route."
+      },
+      {
+        "id": "hag-grade",
+        "name": "Colorado Midland Grade",
+        "type": "Railroad Grade",
+        "confidence": "Confirmed",
+        "note": "The trestle formed part of the high-elevation railroad approach to Hagerman Tunnel."
+      }
+    ]
+  }
+}
