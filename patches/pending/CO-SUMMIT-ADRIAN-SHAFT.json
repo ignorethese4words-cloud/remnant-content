@@ -1,0 +1,39 @@
+{
+  "countySlug": "summit",
+  "site": {
+    "id": "CO-SUMMIT-ADRIAN-SHAFT",
+    "name": "Adrian Shaft",
+    "location": "Montezuma / Keystone area",
+    "county": "Summit County",
+    "state": "Colorado",
+    "category": "Historic Mine Shaft",
+    "componentType": "Shaft / Mine",
+    "componentDetail": "Named historic shaft/mine locality shown on Keystone-area mapping",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "contentUpdatedAt": "2026-09-25T15:45:00Z",
+    "overview": [
+      "Adrian Shaft is a named historic mine-shaft locality in Summit County near the Montezuma and Keystone mining areas. The mapped feature is at approximately 39.59943, -105.88085.",
+      "Remnant uses the mapped locality for identification only. The record does not assert the present condition, accessibility, or safety of the shaft collar or underground workings."
+    ],
+    "timeline": [],
+    "moreHistory": [],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.59943,
+      "longitude": -105.88085
+    },
+    "sourceReferences": [
+      {
+        "title": "Adrian Shaft Mine map locality",
+        "publisher": "Mapcarta / OpenStreetMap-GeoNames aggregation",
+        "sourcePage": "https://mapcarta.com/23168480",
+        "url": "https://mapcarta.com/23168480",
+        "note": "Corroborates the named Summit County mine locality, coordinates, and elevation."
+      }
+    ]
+  }
+}
