@@ -4,52 +4,100 @@
   "county": "Lake County",
   "state": "Colorado",
   "version": "13",
-  "generatedAt": "2026-09-19T15:37:57.108Z",
+  "generatedAt": "2026-09-25T15:43:54.690Z",
   "sites": [
     {
       "id": "CO-LAKE-BLACK-CLOUD",
       "name": "Black Cloud Mine / Leadville Unit / Irene Shaft",
       "location": "Iowa Gulch / Leadville",
       "county": "Lake County",
+      "state": "Colorado",
       "category": "Mine / Mining Complex",
       "componentType": "Major Underground Lead-Zinc-Silver Mine / Shaft & Flotation-Mill System",
+      "componentDetail": "Black Cloud / Leadville Unit underground mine complex including Irene and Black Cloud shafts, mill and tailings system",
+      "tier": "EXPLORE",
       "appReady": true,
       "betaVisible": true,
+      "contentUpdatedAt": "2026-09-25T15:52:00Z",
       "overview": [
-        "The Black Cloud, also known as the Leadville Unit, was a major modern-era underground lead-zinc-silver operation in the Leadville mining district. Its surface and underground system included the Irene Shaft, mill and tailings infrastructure, and connections with older workings in the district.",
+        "The Black Cloud, also known as the Leadville Unit, was a major modern-era underground lead-zinc-silver operation in the Leadville mining district. Its surface and underground system included the Irene and Black Cloud shafts, mill and tailings infrastructure, and connections with older workings in the district.",
         "Remnant treats the Black Cloud as a mine complex rather than a single structure because its history spans underground workings, shaft facilities, ore processing, tailings, and later environmental management."
       ],
       "timeline": [
         {
-          "year": "1971",
-          "text": "Production began at the Black Cloud / Leadville Unit during a later phase of large-scale mining in the Leadville district."
+          "year": "1965",
+          "text": "A joint venture of ASARCO and Resurrection Mining Company reopened the Irene workings and confirmed additional ore reserves in the eastern Leadville district."
         },
         {
-          "year": "Late 20th century",
-          "text": "The operation worked lead-zinc-silver ore through an extensive underground and surface industrial system associated with the Irene Shaft."
+          "year": "1969",
+          "text": "The Black Cloud shaft was sunk in Iowa Gulch to reach the newly identified ore reserves."
+        },
+        {
+          "year": "1971",
+          "text": "The Black Cloud mine and mill entered production in April."
         },
         {
           "year": "1999",
-          "text": "The Black Cloud Mine closed after nearly three decades of modern production."
-        },
-        {
-          "year": "Today",
-          "text": "The remaining industrial landscape is useful for identifying the scale and form of later Leadville mining compared with nineteenth-century properties."
+          "text": "Mining History Association documentation identifies the Black Cloud as having been operated by ASARCO until 1999."
         }
       ],
       "moreHistory": [
-        "Federal and mining-record sources identify Black Cloud Mine with the Leadville Unit and Irene Shaft. The operation also intersected or connected with older Leadville workings, illustrating how later mines reused and expanded an already complex underground landscape.",
-        "The modern tailings impoundment and related surface features should be interpreted as components of the larger mine complex, not as the whole mine."
+        "Federal and mining-record sources identify Black Cloud Mine with the Leadville Unit, Resurrection Mine, Irene Shaft, and Yak Tunnel. Later workings connected into the extensive older underground network of the Leadville district.",
+        "The modern tailings impoundment and related surface features are components of the larger mine-and-mill complex rather than the whole operation."
       ],
       "displayImages": [
         {
           "id": "black-cloud-modern",
           "title": "Black Cloud Mine tailings impoundment",
           "label": "Modern Site Photograph",
+          "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Black_Cloud_Mine_tailings_pond.jpg",
           "source": {
-            "uri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Black%20Cloud%20Mine%20tailings%20pond.jpg"
+            "uri": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Black_Cloud_Mine_tailings_pond.jpg"
           },
-          "sourceNote": "John Holm, 22 Nov 2008. Wikimedia Commons, CC BY 2.0. Modern site-specific identification context; not an operating-era photograph."
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Black_Cloud_Mine_tailings_pond.jpg",
+          "sourceNote": "Exact-site modern photograph of the Black Cloud Mine tailings impoundment in Iowa Gulch, Lake County, photographed 22 November 2008. Used as modern identification context, not as an operating-era image.",
+          "rights": "Creative Commons Attribution 2.0 Generic (CC BY 2.0); author John Holm. Wikimedia Commons records Flickr license review confirmation.",
+          "creator": "John Holm",
+          "license": "CC BY 2.0",
+          "attributionRequired": true,
+          "attribution": "Black Cloud Mine tailings pond photograph by John Holm, CC BY 2.0, via Wikimedia Commons.",
+          "mediaStatus": "PACKAGED"
+        }
+      ],
+      "mediaNotice": "",
+      "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+      "coordinates": {
+        "latitude": 39.2253,
+        "longitude": -106.2231
+      },
+      "sourceReferences": [
+        {
+          "title": "Record of Decision — Yak Tunnel Operable Unit, California Gulch Site, Leadville, Colorado",
+          "publisher": "U.S. Environmental Protection Agency",
+          "sourcePage": "https://semspub.epa.gov/work/09/54162.pdf",
+          "url": "https://semspub.epa.gov/work/09/54162.pdf",
+          "note": "Documents reopening of the Irene workings, sinking of the Black Cloud shaft in 1969, and mine/mill production beginning in April 1971."
+        },
+        {
+          "title": "Black Cloud Mine — USGS MRDS-derived record",
+          "publisher": "Western Mining History",
+          "sourcePage": "https://westernmininghistory.com/mine-detail/10191170/",
+          "url": "https://westernmininghistory.com/mine-detail/10191170/",
+          "note": "USGS MRDS-derived record identifies Black Cloud Mine / Leadville Unit / Irene Shaft / Yak Tunnel, Lake County location, underground workings, commodities, and coordinates."
+        },
+        {
+          "title": "Leadville District Mines — 2007 Mining History Association field trip",
+          "publisher": "Mining History Association",
+          "sourcePage": "https://www.mininghistoryassociation.org/LeadvilleMineTour4.htm",
+          "url": "https://www.mininghistoryassociation.org/LeadvilleMineTour4.htm",
+          "note": "Documents the Irene Shaft, Resurrection complex, connection to the Black Cloud workings, and later Leadville mining landscape."
+        },
+        {
+          "title": "Black Cloud Mine tailings pond.jpg",
+          "publisher": "Wikimedia Commons",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Black_Cloud_Mine_tailings_pond.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Black_Cloud_Mine_tailings_pond.jpg",
+          "note": "Exact-site 2008 photograph by John Holm; Commons verifies CC BY 2.0 licensing and attribution requirements."
         }
       ],
       "features": [
@@ -58,7 +106,7 @@
           "name": "Irene Shaft / Leadville Unit surface plant",
           "type": "Mine Shaft / Surface Plant",
           "confidence": "Confirmed",
-          "note": "The Irene Shaft is a principal identified component of the Black Cloud / Leadville Unit operation."
+          "note": "The Irene Shaft is a principal identified component of the Black Cloud / Leadville Unit underground system."
         },
         {
           "id": "black-cloud-tailings",
