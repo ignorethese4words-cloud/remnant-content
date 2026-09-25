@@ -1,0 +1,59 @@
+{
+  "countySlug": "lake",
+  "site": {
+    "id": "CO-LAKE-CHRYSOLITE",
+    "name": "Chrysolite Mine",
+    "location": "Fryer Hill / Leadville",
+    "county": "Lake County",
+    "state": "Colorado",
+    "category": "Mine",
+    "componentType": "Historic Silver-Lead Mine",
+    "componentDetail": "Historic Fryer Hill silver-lead carbonate mine",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-25T15:56:00Z",
+    "overview": [
+      "Chrysolite was one of the famous Fryer Hill mines that helped define Leadville’s late-1870s silver boom. Government mining reports place it among the important carbonate-ore workings on Fryer Hill, where rich lead-silver deposits were developed beneath a complex sequence of porphyry, limestone, and quartzite.",
+      "The mine is historically tied to Horace Tabor’s rise during the Leadville boom, but Remnant treats Chrysolite as its own mine rather than as an extension of nearby properties."
+    ],
+    "timeline": [
+      {
+        "year": "Late 1870s",
+        "text": "Chrysolite emerged during the first rush of major carbonate discoveries on Fryer Hill as Leadville’s silver boom accelerated."
+      },
+      {
+        "year": "1880s",
+        "text": "The mine became one of the significant Fryer Hill producers documented in federal mining reports and detailed geological mapping."
+      },
+      {
+        "year": "1890s",
+        "text": "Leadville mining continued through changing metal markets; government accounts record work on Chrysolite dumps as operators sought value from previously mined material."
+      },
+      {
+        "year": "Early 1900s",
+        "text": "Federal geological work documented the Chrysolite workings in detail, including shaft areas and the complicated Fryer Hill ore geology."
+      }
+    ],
+    "moreHistory": [
+      "Fryer Hill was one of the most intensely developed parts of the Leadville district. Chrysolite worked the same broad carbonate-ore environment that made neighboring mines famous, but each property followed its own shafts, stopes, faults, and ore bodies.",
+      "Historic federal mapping documents Chrysolite mine workings and later shaft development, making the mine useful for understanding how Leadville operators chased ore through a difficult three-dimensional geologic setting."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.2553,
+      "longitude": -106.2764
+    },
+    "sourceReferences": [
+      {
+        "title": "Geology and Ore Deposits of the Leadville Mining District, Colorado",
+        "publisher": "U.S. Geological Survey",
+        "sourcePage": "https://pubs.usgs.gov/publication/pp148",
+        "url": "https://pubs.usgs.gov/publication/pp148",
+        "note": "Authoritative district geology and historic mine-workings context for Fryer Hill and the Leadville carbonate deposits."
+      }
+    ]
+  }
+}
