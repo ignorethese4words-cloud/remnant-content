@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-SUMMIT-ALADDIN-MINE",
   "countySlug": "summit",
+  "countyPack": "packs/canonical/colorado-summit.json",
+  "packGeneratedAt": "2026-09-25T15:37:08.151Z",
+  "verifiedAt": "2026-09-25T15:37:08.153Z",
+  "manifest": {
+    "id": "colorado-summit",
+    "county": "Summit County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-25T15:37:08.151Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
+    "siteCount": 12,
+    "exploreSiteCount": 4,
+    "idOnlySiteCount": 8
+  },
   "site": {
     "id": "CO-SUMMIT-ALADDIN-MINE",
     "name": "Aladdin Mine",
