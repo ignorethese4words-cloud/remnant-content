@@ -4,7 +4,7 @@
   "county": "Lake County",
   "state": "Colorado",
   "version": "13",
-  "generatedAt": "2026-09-25T19:19:55.292Z",
+  "generatedAt": "2026-09-25T22:01:33.485Z",
   "sites": [
     {
       "id": "CO-LAKE-BLACK-CLOUD",
@@ -787,7 +787,32 @@
         "Remnant treats Stumptown as the parent camp record. Individual mines remain separate components when they have enough evidence to support their own identification record, preventing the camp entry from becoming a catch-all for every ruin in South Evans Gulch."
       ],
       "displayImages": [],
-      "mediaNotice": "Historic image not available"
+      "mediaNotice": "Historic image not available",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "componentDetail": "Historic South Evans Gulch mining camp and surrounding mine-community landscape",
+      "contentUpdatedAt": "2026-09-25T22:00:00Z",
+      "coordinates": {
+        "latitude": 39.252481,
+        "longitude": -106.233283
+      },
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "sourceReferences": [
+        {
+          "title": "Leadville District Mines — Stumptown",
+          "publisher": "Mining History Association",
+          "sourcePage": "https://www.mininghistoryassociation.org/LeadvilleMineTour5.htm",
+          "url": "https://www.mininghistoryassociation.org/LeadvilleMineTour5.htm",
+          "note": "Documents Stumptown in South Evans Gulch, its 1879 origin with the Little Ellen discovery, operation until about 1930, and association with the Browns."
+        },
+        {
+          "title": "Silver Rush 50 — Stumptown course point",
+          "publisher": "Leadville Race Series",
+          "sourcePage": "https://www.leadvilleraceseries.com/2017-blueprint-for-athletes-2017-silver-rush-50-run-athlete-guide/",
+          "url": "https://www.leadvilleraceseries.com/2017-blueprint-for-athletes-2017-silver-rush-50-run-athlete-guide/",
+          "note": "Provides a modern Stumptown-area point at 39°15′8.93″N, 106°13′59.82″W; used as a camp-scale identification anchor, not as a claimed building location."
+        }
+      ]
     },
     {
       "id": "CO-LAKE-TUCSON",
