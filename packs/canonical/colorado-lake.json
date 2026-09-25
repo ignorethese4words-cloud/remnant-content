@@ -4,7 +4,7 @@
   "county": "Lake County",
   "state": "Colorado",
   "version": "13",
-  "generatedAt": "2026-09-25T19:16:54.357Z",
+  "generatedAt": "2026-09-25T19:19:55.292Z",
   "sites": [
     {
       "id": "CO-LAKE-BLACK-CLOUD",
@@ -1660,6 +1660,66 @@
           "type": "Support / Residential Structure",
           "confidence": "Confirmed",
           "note": "Historic cabin associated with Elizabeth “Baby Doe” Tabor."
+        }
+      ]
+    },
+    {
+      "id": "CO-LAKE-MORNING-STAR",
+      "name": "Morning Star Mine",
+      "location": "Carbonate Hill / Leadville",
+      "county": "Lake County",
+      "state": "Colorado",
+      "category": "Mine",
+      "componentType": "Mine",
+      "componentDetail": "Named underground lead-silver mine associated with the Morning Star Mining Company and McHarg shaft on Carbonate Hill",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-25T19:20:00Z",
+      "overview": [
+        "Morning Star Mine is a documented historic underground mine on Leadville’s Carbonate Hill. U.S. Geological Survey reports identify the Morning Star Mining Company, its McHarg shaft operations, and underground connections in the surrounding mine network.",
+        "The mine is best understood as one component of the densely interconnected Carbonate Hill workings rather than as an isolated surface feature."
+      ],
+      "timeline": [
+        {
+          "year": "Historic Leadville mining era",
+          "text": "The Morning Star Mining Company operated underground workings on Carbonate Hill through the McHarg shaft."
+        },
+        {
+          "year": "Historic underground development",
+          "text": "USGS documentation records connections between Morning Star workings and neighboring mine systems, including the Henriette."
+        },
+        {
+          "year": "Later documentation",
+          "text": "Federal geological studies continued to identify the Morning Star or Evening Star mine within the Leadville district."
+        }
+      ],
+      "moreHistory": [
+        "USGS Professional Paper 138 documents Morning Star Mining Company operations and the McHarg shaft in the Carbonate Hill area.",
+        "USGS Professional Paper 561 independently identifies the Morning Star or Evening Star mine in the district’s geologic context.",
+        "Remnant does not present unsupported production totals or imply that historic underground workings are accessible."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.2477,
+        "longitude": -106.27609
+      },
+      "sourceReferences": [
+        {
+          "title": "Geology and Ore Deposits of the Leadville Mining District, Colorado",
+          "publisher": "U.S. Geological Survey",
+          "sourcePage": "https://pubs.usgs.gov/pp/0138/report.pdf",
+          "url": "https://pubs.usgs.gov/pp/0138/report.pdf",
+          "note": "Documents Morning Star Mining Company operations on Carbonate Hill, the McHarg shaft, and connections with neighboring workings."
+        },
+        {
+          "title": "Geology and Ore Deposits of the Leadville District, Colorado — later USGS study",
+          "publisher": "U.S. Geological Survey",
+          "sourcePage": "https://pubs.usgs.gov/pp/0561/report.pdf",
+          "url": "https://pubs.usgs.gov/pp/0561/report.pdf",
+          "note": "Independently identifies the Morning Star or Evening Star mine and its Leadville district context."
         }
       ]
     }
