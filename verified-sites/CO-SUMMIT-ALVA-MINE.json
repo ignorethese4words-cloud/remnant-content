@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-SUMMIT-ALVA-MINE",
   "countySlug": "summit",
+  "countyPack": "packs/canonical/colorado-summit.json",
+  "packGeneratedAt": "2026-09-25T15:34:44.537Z",
+  "verifiedAt": "2026-09-25T15:34:44.539Z",
+  "manifest": {
+    "id": "colorado-summit",
+    "county": "Summit County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-25T15:34:44.537Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
+    "siteCount": 11,
+    "exploreSiteCount": 4,
+    "idOnlySiteCount": 7
+  },
   "site": {
     "id": "CO-SUMMIT-ALVA-MINE",
     "name": "Alva Mine",
