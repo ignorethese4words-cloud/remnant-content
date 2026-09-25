@@ -1,0 +1,77 @@
+{
+  "countySlug": "lake",
+  "site": {
+    "id": "CO-LAKE-LITTLE-JONNY",
+    "name": "Ibex / Little Jonny Mine",
+    "location": "Breece Hill / Leadville",
+    "county": "Lake County",
+    "state": "Colorado",
+    "category": "Mine",
+    "componentType": "Mine",
+    "componentDetail": "Little Jonny (Ibex No. 1) gold mine within the Ibex Mining Company complex on Breece Hill",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-25T18:10:00Z",
+    "overview": [
+      "The Little Jonny was a major gold-producing working within the broader Ibex property on Breece Hill in the Leadville district.",
+      "Remnant preserves the relationship between the Little Jonny working and the Ibex property while keeping the individual mine component identifiable."
+    ],
+    "timeline": [
+      {
+        "year": "1890s",
+        "text": "Major development expanded the Ibex / Little Jonny workings during Leadville’s later gold-producing period."
+      },
+      {
+        "year": "1893–1923",
+        "text": "Federal and mining-history sources document substantial gold production from the Ibex / Little Jonny operation during this period."
+      },
+      {
+        "year": "1898",
+        "text": "Historical records document a Denver & Rio Grande railroad connection serving the Ibex operation."
+      },
+      {
+        "year": "20th century",
+        "text": "The property remained part of the heavily developed Breece Hill mining landscape."
+      }
+    ],
+    "moreHistory": [
+      "Mining-history sources identify the Little Jonny as Ibex No. 1 and a significant gold-development component of the Ibex property.",
+      "The property is associated with J.J. Brown management in the broader historical record, linking the industrial history of Breece Hill with well-known Leadville personalities.",
+      "The railroad connection illustrates how large mine properties depended on transportation infrastructure for ore, supplies, and equipment."
+    ],
+    "displayImages": [],
+    "production": {
+      "summary": "Historical sources describe substantial gold production from the Ibex / Little Jonny operation. Exact totals should remain tied to the specific source and period that reported them.",
+      "commodities": [
+        {
+          "name": "Gold",
+          "period": "Major production documented during the 1890s and early 1900s"
+        }
+      ],
+      "note": "Remnant avoids presenting an unsupported lifetime production total."
+    },
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.24556,
+      "longitude": -106.23278
+    },
+    "sourceReferences": [
+      {
+        "title": "Ibex Mine, Breece Hill, Leadville, Lake County, Colorado",
+        "publisher": "Mindat",
+        "sourcePage": "https://www.mindat.org/loc-3647.html",
+        "url": "https://www.mindat.org/loc-3647.html",
+        "note": "Identifies Ibex Mine on Breece Hill and lists Little Jonny Mine / Johnny Mine as historical names for the locality."
+      },
+      {
+        "title": "Leadville District Mines — 2007 Mining History Association field trip",
+        "publisher": "Mining History Association",
+        "sourcePage": "https://www.mininghistoryassociation.org/LeadvilleMineTour4.htm",
+        "url": "https://www.mininghistoryassociation.org/LeadvilleMineTour4.htm",
+        "note": "Identifies the Little Jonny Mine as the Ibex No. 1 Shaft and places it within the surviving Ibex mining complex."
+      }
+    ]
+  }
+}
