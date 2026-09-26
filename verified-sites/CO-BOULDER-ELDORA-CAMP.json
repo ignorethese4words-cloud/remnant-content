@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-ELDORA-CAMP",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packGeneratedAt": "2026-09-26T21:04:55.427Z",
+  "verifiedAt": "2026-09-26T21:04:55.434Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-26T21:04:55.427Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 119,
+    "exploreSiteCount": 61,
+    "idOnlySiteCount": 58
+  },
   "site": {
     "id": "CO-BOULDER-ELDORA-CAMP",
     "name": "Eldora / Happy Valley–Eldorado Mining Camp & Historic District",

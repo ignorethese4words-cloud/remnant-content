@@ -4,7 +4,7 @@
   "county": "Boulder County",
   "state": "Colorado",
   "version": "108",
-  "generatedAt": "2026-09-21T00:00:19.619Z",
+  "generatedAt": "2026-09-26T21:04:55.427Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -6166,6 +6166,100 @@
           "publisher": "MyTopo",
           "url": "https://mapstore.mytopo.com/products/historic_7-5x7-5_gold-hill_colorado",
           "note": "Indexes Jimtown Mining Company Mine among named features on the Gold Hill quadrangle."
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-ELDORA-CAMP",
+      "name": "Eldora / Happy Valley–Eldorado Mining Camp & Historic District",
+      "location": "Eldora, Boulder County",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Mining Camp / Historic District",
+      "componentType": "Town / Camp",
+      "componentDetail": "Historic mining camp and National Register historic district",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-21T11:18:00.000Z",
+      "coordinates": {
+        "latitude": 39.9494,
+        "longitude": -105.5722
+      },
+      "overview": [
+        "Eldora grew from the Happy Valley mining camp during the early 1890s and became one of Boulder County's late Front Range mining booms.",
+        "The camp developed around gold and telluride mining in the Eldora–Grand Island district. By the late 1890s it had stores, hotels, an assay office, a chlorination mill, saloons, residences and other services supporting the surrounding mines.",
+        "The surviving community includes the Eldora Historic District. Respect private property and historic structures, and use public roads and legal access points."
+      ],
+      "timeline": [
+        {
+          "year": "1891",
+          "text": "John H. Kemp and partners located the Happy Valley Placer, helping trigger renewed prospecting in the area."
+        },
+        {
+          "year": "1892",
+          "text": "Important discoveries including the Bird's Nest, Village Belle and Enterprise helped accelerate the mining boom."
+        },
+        {
+          "year": "1897",
+          "text": "The camp's name was shortened from Eldorado to Eldora to avoid confusion with another Eldorado."
+        },
+        {
+          "year": "1898",
+          "text": "Eldora incorporated; the mining boom was near its height and the valley population reached roughly 2,500, with about 1,000 residents in Eldora."
+        },
+        {
+          "year": "1899",
+          "text": "The Bailey chlorination mill began operating under the Eldora Mining and Milling Company."
+        }
+      ],
+      "moreHistory": [
+        "Boulder County's historic context describes Eldora as a mining camp that began in the early 1890s after the Happy Valley placer and nearby lode discoveries. Its boom produced a substantial service town for mines on Spencer Mountain and elsewhere in the district.",
+        "A period account identified Eldora as a principal camp of the district and a rail terminal where ores from the surrounding country were brought for shipment."
+      ],
+      "displayImages": [
+        {
+          "id": "eldora-historic-district-hustvedt-2009",
+          "title": "Eldora Historic District",
+          "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/8/85/Elora_Historical_District_Eldora_CO.jpg",
+          "source": {
+            "uri": "https://upload.wikimedia.org/wikipedia/commons/8/85/Elora_Historical_District_Eldora_CO.jpg"
+          },
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Elora_Historical_District_Eldora_CO.jpg",
+          "sourceNote": "Exact modern view within the Eldora Historic District, the surviving historic mining-camp component represented by this Remnant site. Commons identifies NRHP reference 89000978 and geotags the photograph within Eldora.",
+          "creator": "Hustvedt",
+          "date": "2009-03-08",
+          "rights": "Uploader/copyright holder Hustvedt publishes the photograph under Creative Commons Attribution-ShareAlike 3.0 Unported (also GFDL); Remnant uses the CC BY-SA 3.0 grant. Attribution and license link are required; ShareAlike applies to adaptations.",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "attributionRequired": true,
+          "attribution": "Photo: Hustvedt, CC BY-SA 3.0, via Wikimedia Commons",
+          "rightsVerifiedAt": "2026-09-21",
+          "mediaStatus": "PACKAGED"
+        }
+      ],
+      "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+      "sourceReferences": [
+        {
+          "title": "Eldora Historic Context / Historic Sites Survey",
+          "publisher": "Boulder County",
+          "url": "https://assets.bouldercounty.gov/wp-content/uploads/2017/02/2015nov5hpabfullpacket.pdf",
+          "note": "Detailed county historic context covering Happy Valley, mining discoveries, town development and the Eldora boom.",
+          "sourcePage": "https://assets.bouldercounty.gov/wp-content/uploads/2017/02/2015nov5hpabfullpacket.pdf"
+        },
+        {
+          "title": "History and Production of the Gold Fields of Boulder County, Colorado",
+          "publisher": "Colorado historical mining publication",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/History_and_production_of_the_gold_fields_of_Boulder_County%2C_Colorado_%28IA_historyproductio00monr%29.pdf",
+          "note": "Period account describing Eldora as a principal mining camp, its mines and ore-shipping role.",
+          "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/0/0e/History_and_production_of_the_gold_fields_of_Boulder_County%2C_Colorado_%28IA_historyproductio00monr%29.pdf"
+        },
+        {
+          "title": "Mining Industry in Colorado / Eldora-Grand Island Mining District amendment",
+          "publisher": "History Colorado / National Register of Historic Places",
+          "url": "https://historycoloradodev.exemplifi.io/sites/default/files/media/document/2017/623amend09.pdf",
+          "note": "National Register context for the Eldora-Grand Island mining district and late-1890s mineral rush.",
+          "sourcePage": "https://historycoloradodev.exemplifi.io/sites/default/files/media/document/2017/623amend09.pdf"
         }
       ]
     }
