@@ -1,0 +1,95 @@
+{
+  "countySlug": "pitkin",
+  "site": {
+    "id": "CO-PITKIN-ARGENTUM-JUNIATA",
+    "name": "Argentum-Juniata Mine",
+    "location": "Base of east Aspen Mountain near Aspen",
+    "county": "Pitkin County",
+    "state": "Colorado",
+    "category": "Historic Mine",
+    "componentType": "Mine / Incline",
+    "componentDetail": "Silver-Lead-Zinc Mine Complex / Incline and Tunnel Workings",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-22T03:18:00-06:00",
+    "overview": [
+      "The Argentum-Juniata was a major silver-era property at the base of east Aspen Mountain. Historic and mineral-resource records connect the property with the Juniata name, the Argenta Tunnel, the A-J Tunnel, and a group of claims and underground workings.",
+      "The identification point marks the documented Argentum-Juniata property and incline area. Historic maps and later records place related portals and workings close together, so it should not be read as a claim that one specific opening survives at that exact point."
+    ],
+    "timeline": [
+      {
+        "year": "Circa 1890",
+        "text": "A surviving Aspen Historical Society photograph documents the mine's compressor, boiler plant, and ore house."
+      },
+      {
+        "year": "1890s",
+        "text": "The Argentum-Juniata operated during Aspen's major silver-mining period and was mapped as part of the district's connected underground mine network."
+      },
+      {
+        "year": "1898",
+        "text": "USGS Monograph 31 documented the geology and underground workings of the Aspen mining district, including the Argentum-Juniata property."
+      },
+      {
+        "year": "1907",
+        "text": "Federal mineral statistics reported siliceous silver ore with small lead values from the Argentum-Juniata."
+      }
+    ],
+    "moreHistory": [
+      "Mineral-resource records list Argentum-Juniata Mine as the primary property name and treat Juniata, Argenta Tunnel, A-J Tunnel, and several named claims as associated names or workings.",
+      "The separately indexed Argentum-Juanita Incline lies only a short distance from the broader property coordinate and is treated here as a component of the same historic mine complex, not as an unrelated second destination.",
+      "The mine produced silver-bearing ore with lead and zinc associations. Period federal reporting specifically described its 1907 output as siliceous silver ore carrying small lead values.",
+      "Historic underground workings in Aspen are extensive and may intersect beneath developed areas. This entry identifies the historic property and does not imply access, ownership, or a safe surviving portal."
+    ],
+    "displayImages": [
+      {
+        "id": "argentum-juniata-aspen-birdseye-1893",
+        "title": "Argentum-Juniata Mine on the 1893 bird's-eye view of Aspen",
+        "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bird%27s_eye_view_of_Aspen%2C_Pitkin_Co.%2C_Colo._1893._LOC_75694514.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_Aspen%2C_Pitkin_Co.%2C_Colo._1893._LOC_75694514.jpg",
+        "sourceNote": "Augustus Koch's 1893 bird's-eye view of Aspen, indexed with Argentum-Juniata Mine as point of interest 29; Library of Congress Geography and Map Division, LCCN 75694514.",
+        "rights": "Public domain; published in 1893. Library of Congress Geography and Map Division. Wikimedia Commons marks the work and faithful reproduction public domain / PDM 1.0.",
+        "mediaStatus": "PACKAGED"
+      }
+    ],
+    "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+    "coordinates": {
+      "latitude": 39.18333,
+      "longitude": -106.81694
+    },
+    "sourceReferences": [
+      {
+        "title": "U.S. Geological Survey Monograph 31 — Geology of the Aspen mining district, Colorado, with atlas",
+        "url": "https://pubs.usgs.gov/publication/m31",
+        "sourcePage": "https://pubs.usgs.gov/publication/m31"
+      },
+      {
+        "title": "Mineral Resources of the United States, 1907 — Pitkin County and Roaring Fork district",
+        "url": "https://archive.org/details/mineralresources011907",
+        "sourcePage": "https://archive.org/details/mineralresources011907"
+      },
+      {
+        "title": "Digital Public Library of America — Argentum-Juniata compressor, circa 1890",
+        "url": "https://dp.la/item/de0a90277700dda5d529b999cf3f3d0c",
+        "sourcePage": "https://dp.la/item/de0a90277700dda5d529b999cf3f3d0c"
+      },
+      {
+        "title": "Aspen Historical Society — Geological Atlas of the Aspen Mining District, 1925",
+        "url": "https://archiveaspen.org/collection/geological-atlas-of-the-aspen-mining-district-1925/",
+        "sourcePage": "https://archiveaspen.org/collection/geological-atlas-of-the-aspen-mining-district-1925/"
+      },
+      {
+        "title": "MRDS-derived Argentum-Juniata Mine record (USGS record 10013234)",
+        "url": "https://westernmininghistory.com/mine-detail/10013234/",
+        "sourcePage": "https://westernmininghistory.com/mine-detail/10013234/"
+      },
+      {
+        "title": "Bird's eye view of Aspen, Pitkin Co., Colo. 1893",
+        "publisher": "Library of Congress / Wikimedia Commons",
+        "url": "https://www.loc.gov/item/75694514/",
+        "sourcePage": "https://www.loc.gov/item/75694514/",
+        "note": "Public-domain 1893 perspective map; indexed point of interest 29 is Argentum-Juniata Mine. LOC Geography and Map Division states its digitized collection is free to use and reuse unless a contrary rights advisory is present."
+      }
+    ]
+  }
+}
