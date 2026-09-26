@@ -4,27 +4,103 @@
   "county": "Larimer County",
   "state": "Colorado",
   "version": "3",
-  "generatedAt": "2026-09-07T20:24:27.191Z",
+  "generatedAt": "2026-09-26T17:00:37.725Z",
   "sites": [
     {
       "id": "CO-LARIMER-GREAT-WESTERN-EFFLUENT-FLUME",
       "name": "Great Western Sugar Effluent Flume & Bridge",
-      "location": "Fort Collins",
+      "location": "Kingfisher Point Natural Area, Fort Collins",
       "county": "Larimer County",
-      "category": "Industrial Flume / Bridge",
+      "state": "Colorado",
+      "category": "Sugar-Factory Waterworks / Industrial Bridge",
       "componentType": "Bridge / Trestle",
-      "appReady": false,
-      "betaVisible": false,
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-22T14:09:00Z",
       "overview": [
-        "A surviving suspension bridge and flume associated with Great Western Sugar."
+        "The Great Western Sugar Company Effluent Flume and Bridge is a surviving 1926 industrial suspension structure spanning the Cache la Poudre River in Fort Collins. It carried a metal flume that moved beet-sugar factory waste slurry across the river to settling and disposal land south of the channel.",
+        "The structure is listed on the National Register of Historic Places and survives within the City of Fort Collins' Kingfisher Point Natural Area."
       ],
-      "timeline": [],
-      "moreHistory": [],
-      "displayImages": [],
+      "timeline": [
+        {
+          "year": "1926",
+          "text": "Great Western Sugar Company built the suspension bridge and flume after its north-side settling area approached capacity, creating a route for lime-, beet-pulp-, and water-rich effluent across the Poudre River."
+        },
+        {
+          "year": "1955",
+          "text": "The Fort Collins sugar factory closed, ending the flume's industrial use."
+        },
+        {
+          "year": "2004",
+          "text": "The City of Fort Collins Natural Areas Department acquired the parcel containing the bridge and incorporated it into Kingfisher Point Natural Area."
+        },
+        {
+          "year": "2014",
+          "text": "The Great Western Sugar Company Effluent Flume and Bridge was listed on the National Register of Historic Places for its industrial and engineering significance."
+        }
+      ],
+      "moreHistory": [
+        "Great Western's Fort Collins beet-sugar operation used settling ponds to separate solids from factory wastewater. When available disposal space north of the river became limited, a company engineer designed this suspension bridge to support a metal flume carrying slurry across the Cache la Poudre River.",
+        "Heritage-area interpretation identifies the slurry as largely lime, beet pulp, and water. Although most of the Fort Collins factory complex was demolished in the 1960s, the bridge and flume survived and remain visible from the Poudre Trail.",
+        "The identification point near 40.578194, -105.045139 corresponds to the documented historic structure. Visitors should use established trails and observe current City of Fort Collins Natural Areas rules rather than treating the coordinate as permission to enter or climb the structure."
+      ],
+      "displayImages": [
+        {
+          "id": "great-western-effluent-flume-2016-jeffrey-beall",
+          "title": "Great Western Sugar Company Effluent Flume and Bridge",
+          "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/7/78/Great_Western_Sugar_Company_Effluent_Flume_and_Bridge.JPG",
+          "source": {
+            "uri": "https://upload.wikimedia.org/wikipedia/commons/7/78/Great_Western_Sugar_Company_Effluent_Flume_and_Bridge.JPG"
+          },
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Great_Western_Sugar_Company_Effluent_Flume_and_Bridge.JPG",
+          "sourceNote": "Exact modern documentary photograph of the Great Western Sugar Company Effluent Flume and Bridge in Fort Collins; Commons supplies depicted-place coordinates matching the registered structure.",
+          "creator": "Jeffrey Beall",
+          "date": "2016-07-22",
+          "rights": "Uploader/copyright holder Jeffrey Beall publishes the photograph under Creative Commons Attribution 4.0 International; attribution, license link, and change indication are required.",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "attributionRequired": true,
+          "attribution": "Photo: Jeffrey Beall, CC BY 4.0, via Wikimedia Commons",
+          "rightsVerifiedAt": "2026-09-22",
+          "mediaStatus": "PACKAGED"
+        }
+      ],
+      "mediaSearchStatus": "FOUND_USABLE_MEDIA",
       "coordinates": {
-        "latitude": 40.5784,
-        "longitude": -105.0453
-      }
+        "latitude": 40.578194,
+        "longitude": -105.045139
+      },
+      "sourceReferences": [
+        {
+          "title": "Great Western Sugar Beet Flume and Bridge",
+          "publisher": "Cache la Poudre River National Heritage Area",
+          "url": "https://poudreheritage.org/locations/great-western-sugar-flume/",
+          "note": "Provides site coordinates, 1926 construction history, waste-flume purpose, operating period, City ownership context, and National Register significance.",
+          "sourcePage": "https://poudreheritage.org/locations/great-western-sugar-flume/"
+        },
+        {
+          "title": "From Farms to Zoos and Everything In Between — Great Western Sugar Company Effluent Flume Bridge",
+          "publisher": "History Colorado",
+          "url": "https://www.historycolorado.org/story/preservation/2015/05/28/farms-zoos-and-everything-between",
+          "note": "Confirms the beet-sugar effluent function, suspension bridge/flume design, survival, and industrial/engineering significance.",
+          "sourcePage": "https://www.historycolorado.org/story/preservation/2015/05/28/farms-zoos-and-everything-between"
+        },
+        {
+          "title": "National Register of Historic Places 2014 Pending Lists",
+          "publisher": "National Park Service",
+          "url": "https://www.nps.gov/subjects/nationalregister/upload/pending-list-2014-national-register-of-historic-places.pdf",
+          "note": "Identifies the Great Western Sugar Company Effluent Flume and Bridge in Larimer County, Fort Collins, as NRHP reference 14000927.",
+          "sourcePage": "https://www.nps.gov/subjects/nationalregister/upload/pending-list-2014-national-register-of-historic-places.pdf"
+        },
+        {
+          "title": "Great Western Sugar Company Effluent Flume and Bridge.JPG",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Great_Western_Sugar_Company_Effluent_Flume_and_Bridge.JPG",
+          "note": "Rights-cleared site photograph by Jeffrey Beall under CC BY 4.0.",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Great_Western_Sugar_Company_Effluent_Flume_and_Bridge.JPG"
+        }
+      ]
     }
   ]
 }
