@@ -1,0 +1,98 @@
+{
+  "countySlug": "pitkin",
+  "site": {
+    "id": "CO-PITKIN-ASPEN-MINE",
+    "name": "Aspen Mine",
+    "location": "Vallejo Gulch on Aspen Mountain",
+    "county": "Pitkin County",
+    "state": "Colorado",
+    "category": "Historic Silver-Lead-Zinc Mine",
+    "componentType": "Mine / Shaft",
+    "componentDetail": "Silver-Lead-Zinc Mine / Shaft and Connected Underground Workings",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-22T11:05:00Z",
+    "overview": [
+      "The Aspen Mine was a major early silver property on Aspen Mountain. Discovered in 1884, it became central to the legal battle over whether a mineral vein's owner could follow the ore beneath neighboring claims.",
+      "The identification point follows the USGS-mapped Aspen Mine property in Vallejo Gulch. The historic mine included a shaft and an extensive connected system of drifts, levels, winzes, and tunnels; it does not identify a safe or accessible opening."
+    ],
+    "timeline": [
+      {
+        "year": "1884",
+        "text": "Elmer T. Butler and partners are credited with discovering the Aspen Mine."
+      },
+      {
+        "year": "November 1884",
+        "text": "A lease operated by Aspen mayor J. D. Hooper struck high-grade silver ore at about 120 feet, accelerating the district's boom."
+      },
+      {
+        "year": "1885-1886",
+        "text": "The Aspen Mine became the focus of nationally watched apex-versus-sideline litigation over underground ore rights."
+      },
+      {
+        "year": "1888",
+        "text": "The competing interests reached a settlement that placed disputed holdings into the Compromise Mining Company and allowed development to resume."
+      },
+      {
+        "year": "1972",
+        "text": "USGS Map I-785-D documented the mine among Aspen-quadrangle silver, lead, and zinc producers and preserved its mapped property location."
+      }
+    ],
+    "moreHistory": [
+      "USGS-derived records describe twelve mine levels developed at 50- and 100-foot intervals between roughly 400 and 1,200 feet deep, with extensive drifting along the Contact, Aspen, and subordinate faults.",
+      "The Lower Durant Tunnel, driven about 2,700 feet for drainage and ore transport, connected with the Durant-Aspen workings west of the Aspen shaft.",
+      "Mineral records list silver, zinc, and lead as the primary commodities and identify sphalerite and argentite among the ore minerals.",
+      "Later accounts describe portions of the old Aspen workings as connected to the broader Compromise/Durant underground network. Historic mine openings and underground spaces are hazardous, and this entry does not imply public access."
+    ],
+    "displayImages": [
+      {
+        "id": "aspen-mine-tramway-ore-house-1893",
+        "title": "Aspen Mine tramway and ore house on the 1893 bird's-eye view of Aspen",
+        "remoteUri": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bird%27s_eye_view_of_Aspen%2C_Pitkin_Co.%2C_Colo._1893._LOC_75694514.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_Aspen%2C_Pitkin_Co.%2C_Colo._1893._LOC_75694514.jpg",
+        "sourceNote": "Augustus Koch's 1893 bird's-eye view of Aspen; indexed point of interest 28 is 'Aspen Mine Tramway and Ore House,' an exact named surface component of this Aspen Mine property. Library of Congress Geography and Map Division, LCCN 75694514.",
+        "rights": "Public domain; published in 1893. Wikimedia Commons marks the work and faithful reproduction public domain / Public Domain Mark 1.0.",
+        "creator": "Augustus Koch",
+        "license": "Public Domain Mark 1.0",
+        "attributionRequired": false,
+        "attribution": "Augustus Koch, Bird's eye view of Aspen, Pitkin Co., Colo., 1893; Library of Congress Geography and Map Division",
+        "mediaStatus": "PACKAGED"
+      }
+    ],
+    "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+    "coordinates": {
+      "latitude": 39.17833,
+      "longitude": -106.82278
+    },
+    "sourceReferences": [
+      {
+        "title": "U.S. Geological Survey Monograph 31 — Geology of the Aspen mining district, Colorado, with atlas",
+        "url": "https://pubs.usgs.gov/publication/m31",
+        "sourcePage": "https://pubs.usgs.gov/publication/m31"
+      },
+      {
+        "title": "U.S. Geological Survey Map I-785-D — Mines, prospects, and areas of significant silver, lead, and zinc production in the Aspen quadrangle",
+        "url": "https://pubs.usgs.gov/publication/i785D",
+        "sourcePage": "https://pubs.usgs.gov/publication/i785D"
+      },
+      {
+        "title": "MRDS-derived Aspen Mine record (USGS record 10013236)",
+        "url": "https://westernmininghistory.com/mine-detail/10013236/",
+        "sourcePage": "https://westernmininghistory.com/mine-detail/10013236/"
+      },
+      {
+        "title": "Aspen Journalism — Portal into time: Mine owner wants to preserve Aspen Mountain history",
+        "url": "https://aspenjournalism.org/portal-into-time-mine-owner-wants-to-preserve-last-vestiges-of-aspen-mountain-history/",
+        "sourcePage": "https://aspenjournalism.org/portal-into-time-mine-owner-wants-to-preserve-last-vestiges-of-aspen-mountain-history/"
+      },
+      {
+        "title": "Bird's eye view of Aspen, Pitkin Co., Colo. 1893",
+        "publisher": "Library of Congress / Wikimedia Commons",
+        "url": "https://www.loc.gov/item/75694514/",
+        "sourcePage": "https://www.loc.gov/item/75694514/",
+        "note": "Public-domain 1893 perspective map; indexed point of interest 28 is Aspen Mine Tramway and Ore House."
+      }
+    ]
+  }
+}
