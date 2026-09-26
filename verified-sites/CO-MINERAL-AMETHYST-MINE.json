@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MINERAL-AMETHYST-MINE",
   "countySlug": "mineral",
+  "countyPack": "packs/canonical/colorado-mineral.json",
+  "packGeneratedAt": "2026-09-26T17:59:59.914Z",
+  "verifiedAt": "2026-09-26T17:59:59.916Z",
+  "manifest": {
+    "id": "colorado-mineral",
+    "county": "Mineral County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-26T17:59:59.914Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mineral.json",
+    "siteCount": 11,
+    "exploreSiteCount": 4,
+    "idOnlySiteCount": 0
+  },
   "site": {
     "id": "CO-MINERAL-AMETHYST-MINE",
     "name": "Amethyst Mine",

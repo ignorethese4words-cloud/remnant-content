@@ -4,7 +4,7 @@
   "county": "Mineral County",
   "state": "Colorado",
   "version": "2",
-  "generatedAt": "2026-09-20T04:03:19.338Z",
+  "generatedAt": "2026-09-26T17:59:59.914Z",
   "sites": [
     {
       "id": "CO-MINERAL-BACHELOR-CITY-TOWNSITE",
@@ -274,6 +274,95 @@
         {
           "title": "USGS MRDS-derived Bird Creek Mine record",
           "url": "https://westernmininghistory.com/mine-detail/10014048/"
+        }
+      ]
+    },
+    {
+      "id": "CO-MINERAL-AMETHYST-MINE",
+      "name": "Amethyst Mine",
+      "location": "West Willow Creek north of Creede, Creede Mining District",
+      "county": "Mineral County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-22T14:05:22Z",
+      "overview": [
+        "The Amethyst Mine was one of the largest and richest historic producers in the Creede Mining District, developed on the Amethyst vein along West Willow Creek north of Creede.",
+        "Mining began during Creede's 1891 silver boom, and published state and federal histories document major silver, gold, lead, and zinc production along with extensive underground development."
+      ],
+      "timeline": [
+        {
+          "year": "1891",
+          "text": "N. C. Creede located the Amethyst lode in 1891; the mine began producing during the opening year of the Creede boom."
+        },
+        {
+          "year": "1892",
+          "text": "By the end of 1892, published federal history reported roughly 20,000 tons of ore produced with an estimated value of about $2 million."
+        },
+        {
+          "year": "1899",
+          "text": "Colorado Geological Survey's compiled mine history reports 7,480 tons produced in 1899, containing substantial silver, gold, and lead."
+        },
+        {
+          "year": "1911-1912",
+          "text": "The mine closed in 1911, then was leased in 1912 to the Creede Triune Mining Company, which opened new stopes and returned the mill to operation."
+        }
+      ],
+      "moreHistory": [
+        "Colorado Geological Survey records describe the Amethyst Mine about two miles north of Creede near West Willow Creek and Nelson Creek. The property was first developed by two shafts on the Amethyst vein and later through the Amethyst No. 5 Tunnel near West Willow Creek.",
+        "Federal mine history places the Amethyst on the steep slope of Bachelor Mountain between the Last Chance and Happy Thought mines and documents amethystine quartz carrying rich gold and silver near the outcrop.",
+        "The mapped identification point near 37.8850, -106.93722 is retained from the USGS Mineral Resources Data System-derived Amethyst Mine record as a defensible site-level reference. It is not presented as a field-surveyed surviving shaft collar, portal, property boundary, or statement of current access."
+      ],
+      "displayImages": [
+        {
+          "id": "amethyst-mine-loading-ore-c1891",
+          "title": "Loading Ore at the Amethyst Mine, c. 1891",
+          "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Loading_Ore_at_the_Amethyst_Mine%2C_Creede%2C_c1891.jpg",
+          "source": {
+            "uri": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Loading_Ore_at_the_Amethyst_Mine%2C_Creede%2C_c1891.jpg"
+          },
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Loading_Ore_at_the_Amethyst_Mine,_Creede,_c1891.jpg",
+          "sourceNote": "Exact operating-era photograph identified as loading ore at the Amethyst Mine near Creede around 1891; Commons cites the Klecker Family Collection, Creede Historical Society Archives.",
+          "creator": "Unknown",
+          "date": "circa 1891",
+          "rights": "Wikimedia Commons marks the work public domain in the United States because it was published before January 1, 1931; source attribution identifies the Klecker Family Collection, Creede Historical Society Archives.",
+          "license": "Public Domain (PD-US-expired)",
+          "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+          "attributionRequired": false,
+          "attribution": "Klecker Family Collection, Creede Historical Society Archives, via Wikimedia Commons",
+          "rightsVerifiedAt": "2026-09-22",
+          "mediaStatus": "PACKAGED"
+        }
+      ],
+      "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+      "coordinates": {
+        "latitude": 37.885,
+        "longitude": -106.93722
+      },
+      "sourceReferences": [
+        {
+          "title": "History, Geology, and Environmental Setting of Selected Mines near Creede, Rio Grande National Forest, Mineral County, Colorado — OF-99-18",
+          "publisher": "Colorado Geological Survey",
+          "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/OF-99-18.pdf",
+          "note": "Provides site-specific Amethyst Mine location, ownership context, workings, discovery, production history, and environmental setting.",
+          "sourcePage": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/OF-99-18.pdf"
+        },
+        {
+          "title": "Geology and Ore Deposits of the Creede District, Colorado — USGS Bulletin 718",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/bul/0718/report.pdf",
+          "note": "Provides authoritative Amethyst Mine location, claim history, production, workings, and early twentieth-century operating history.",
+          "sourcePage": "https://pubs.usgs.gov/bul/0718/report.pdf"
+        },
+        {
+          "title": "Amethyst Mine — USGS MRDS record 10087590 reproduction",
+          "publisher": "Western Mining History, reproducing U.S. Geological Survey MRDS data",
+          "url": "https://westernmininghistory.com/mine-detail/10087590/",
+          "note": "Preserves Mineral County/Creede District identity, commodities, production records, ownership records, elevation, and a mine-level reference coordinate.",
+          "sourcePage": "https://westernmininghistory.com/mine-detail/10087590/"
         }
       ]
     }
