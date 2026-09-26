@@ -4,7 +4,7 @@
   "county": "Summit County",
   "state": "Colorado",
   "version": "6",
-  "generatedAt": "2026-09-25T15:41:47.758Z",
+  "generatedAt": "2026-09-26T23:00:23.755Z",
   "sites": [
     {
       "id": "minnie",
@@ -628,6 +628,45 @@
           "sourcePage": "https://mapcarta.com/23169170",
           "url": "https://mapcarta.com/23169170",
           "note": "Independent map aggregation corroborates the Summit County locality and coordinates."
+        }
+      ]
+    },
+    {
+      "id": "CO-SUMMIT-ALICE-A-TUNNEL",
+      "name": "Alice A Tunnel",
+      "location": "Breckenridge mining area",
+      "county": "Summit County",
+      "state": "Colorado",
+      "category": "Mine / Tunnel Remains",
+      "componentType": "Adit / Portal",
+      "componentDetail": "Named historic tunnel locality in the Breckenridge mining area; the point is a site-level identification anchor, not a field-surveyed current portal.",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-19T21:59:02.239Z",
+      "overview": [
+        "Alice A Tunnel is a named historic lode-mining locality in the Breckenridge area of Summit County. The U.S. Geological Survey included the tunnel in its database of principal lode mines and mineralized areas in southern Summit County.",
+        "The map point identifies the historic locality at site level. It does not establish the condition or precise position of a surviving portal."
+      ],
+      "timeline": [],
+      "moreHistory": [
+        "This record is an identification marker rather than a visitor-access claim. Historic mine openings may be unstable, concealed, or on restricted property; do not enter mine workings and respect all closures and property boundaries."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.4925,
+        "longitude": -106.031667
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey Open-File Report 91-27-A — ASCII database of principal lode mines and mineralized areas in southern Summit County, Colorado",
+          "url": "https://www.usgs.gov/publications/ascii-database-principal-lode-mines-and-mineralized-areas-southern-summit-county"
+        },
+        {
+          "title": "U.S. Geological Survey Open-File Report 91-27-A — Table 1, Alphabetic List of Mines",
+          "url": "https://pubs.usgs.gov/of/1991/0027a/report.pdf"
         }
       ]
     }

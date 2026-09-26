@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-SUMMIT-ALICE-A-TUNNEL",
   "countySlug": "summit",
+  "countyPack": "packs/canonical/colorado-summit.json",
+  "packGeneratedAt": "2026-09-26T23:00:23.755Z",
+  "verifiedAt": "2026-09-26T23:00:23.757Z",
+  "manifest": {
+    "id": "colorado-summit",
+    "county": "Summit County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-26T23:00:23.755Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
+    "siteCount": 15,
+    "exploreSiteCount": 4,
+    "idOnlySiteCount": 11
+  },
   "site": {
     "id": "CO-SUMMIT-ALICE-A-TUNNEL",
     "name": "Alice A Tunnel",
