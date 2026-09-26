@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentVersion": "2026-09-18T14:13:56.915Z",
-  "generatedAt": "2026-09-26T19:04:45.066Z",
+  "generatedAt": "2026-09-26T20:04:53.170Z",
   "minimumAppContentSchema": 1,
   "delivery": "github-raw",
   "packs": [
@@ -369,10 +369,10 @@
       "state": "Colorado",
       "version": "5",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-pitkin.json",
-      "exploreSiteCount": 2,
+      "exploreSiteCount": 3,
       "idOnlySiteCount": 2,
-      "siteCount": 4,
-      "generatedAt": "2026-09-26T19:04:45.066Z"
+      "siteCount": 5,
+      "generatedAt": "2026-09-26T20:04:53.170Z"
     },
     {
       "id": "colorado-prowers",
