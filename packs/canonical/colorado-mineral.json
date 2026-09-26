@@ -4,7 +4,7 @@
   "county": "Mineral County",
   "state": "Colorado",
   "version": "2",
-  "generatedAt": "2026-09-26T17:59:59.914Z",
+  "generatedAt": "2026-09-26T22:04:48.237Z",
   "sites": [
     {
       "id": "CO-MINERAL-BACHELOR-CITY-TOWNSITE",
@@ -363,6 +363,48 @@
           "url": "https://westernmininghistory.com/mine-detail/10087590/",
           "note": "Preserves Mineral County/Creede District identity, commodities, production records, ownership records, elevation, and a mine-level reference coordinate.",
           "sourcePage": "https://westernmininghistory.com/mine-detail/10087590/"
+        }
+      ]
+    },
+    {
+      "id": "CO-MINERAL-ANNABELLE-MINE",
+      "name": "Annabelle Mine",
+      "location": "Creede area / Creede Mining District",
+      "county": "Mineral County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "componentDetail": "Named historic silver-mine locality shown on the USGS Creede topographic map",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "contentUpdatedAt": "2026-09-19T16:16:37-06:00",
+      "coordinates": {
+        "latitude": 37.85,
+        "longitude": -106.9253
+      },
+      "overview": [
+        "Annabelle Mine is a named historic silver-mine locality in Mineral County near Creede. The USGS Creede topographic map labels the mine, and mineral-location data place the identification point at approximately 37.85000, -106.92530.",
+        "Available sources support the mine's identity and mapped location but do not provide enough reliable mine-specific history for a fuller narrative. The point should be treated as a historic locality reference, not confirmation of a safe or accessible surviving opening.",
+        "Historic mine sites may be unstable, privately controlled, reclaimed, or otherwise unsafe. Respect closures and property boundaries and do not enter mine workings."
+      ],
+      "timeline": [],
+      "moreHistory": [],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "sourceReferences": [
+        {
+          "title": "US Topo 7.5-minute map for Creede, Colorado",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://ngmdb.usgs.gov/topoview/viewer/#15/37.8500/-106.9253",
+          "note": "The Creede quadrangle labels Annabelle Mine; used to verify the named historic mine locality and its map context."
+        },
+        {
+          "title": "Annabelle",
+          "publisher": "Western Mining History",
+          "url": "https://westernmininghistory.com/mine-detail/10013621/",
+          "note": "Mineral-location compilation identifies Annabelle as a silver mine at approximately 37.85000, -106.92530 and 8,799 feet elevation."
         }
       ]
     }

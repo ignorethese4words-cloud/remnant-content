@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-MINERAL-ANNABELLE-MINE",
   "countySlug": "mineral",
+  "countyPack": "packs/canonical/colorado-mineral.json",
+  "packGeneratedAt": "2026-09-26T22:04:48.237Z",
+  "verifiedAt": "2026-09-26T22:04:48.239Z",
+  "manifest": {
+    "id": "colorado-mineral",
+    "county": "Mineral County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-26T22:04:48.237Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-mineral.json",
+    "siteCount": 12,
+    "exploreSiteCount": 4,
+    "idOnlySiteCount": 1
+  },
   "site": {
     "id": "CO-MINERAL-ANNABELLE-MINE",
     "name": "Annabelle Mine",
