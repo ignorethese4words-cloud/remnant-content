@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-PITKIN-ASPEN-MINE",
   "countySlug": "pitkin",
+  "countyPack": "packs/canonical/colorado-pitkin.json",
+  "packGeneratedAt": "2026-09-26T19:04:45.066Z",
+  "verifiedAt": "2026-09-26T19:04:45.067Z",
+  "manifest": {
+    "id": "colorado-pitkin",
+    "county": "Pitkin County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-26T19:04:45.066Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-pitkin.json",
+    "siteCount": 4,
+    "exploreSiteCount": 2,
+    "idOnlySiteCount": 2
+  },
   "site": {
     "id": "CO-PITKIN-ASPEN-MINE",
     "name": "Aspen Mine",
