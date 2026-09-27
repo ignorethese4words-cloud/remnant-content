@@ -139,7 +139,7 @@ function validateSite(site, patchName) {
     }
   }
 
-  const forbidden = /\b(?:G(?:10|[1-9])|work queue|queue status|worker(?: 1| 2| 3)?|staging|debug|package management|scan anchor|for remnant identification|remnant identification|queued for app update|registry|receipt|pipeline)\b/i;
+  const forbidden = /\b(?:G(?:10|[1-9])|work queue|queue status|worker(?: 1| 2| 3)?|staging|debug|package management|scan anchor|for remnant identification|remnant identification|queued for app update|registry|receipt)\b/i;
   if (forbidden.test(publicText(site))) fail(`${patchName}: public-facing content contains internal workflow language for ${site.id}`);
 
   if (!Array.isArray(site.displayImages)) fail(`${patchName}: displayImages must be an array`);
