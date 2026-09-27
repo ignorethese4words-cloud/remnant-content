@@ -1,0 +1,87 @@
+{
+  "countySlug": "summit",
+  "site": {
+    "id": "CO-SUMMIT-SALLIE-BARBER",
+    "name": "Sallie Barber Mine",
+    "location": "Breckenridge / French Gulch",
+    "county": "Summit County",
+    "category": "Mine",
+    "componentType": "Mine",
+    "componentDetail": "Historic underground zinc-lead-silver mine with stabilized headframe, ore bin, shaft interpretation, and surface equipment",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-27T12:16:00Z",
+    "overview": [
+      "The Sallie Barber Mine is a preserved historic mine site east of Breckenridge in the French Gulch area. The mine opened in the 1880s and was worked intermittently into the 1940s.",
+      "The site is especially useful for understanding underground mine operations because surviving and restored surface features interpret the shaft, headframe, ore handling, hoisting, compressed-air drilling, and related equipment."
+    ],
+    "timeline": [
+      {
+        "year": "1880s",
+        "text": "The Sallie Barber Mine opened during the expansion of hard-rock mining east of Breckenridge."
+      },
+      {
+        "year": "Early 1900s",
+        "text": "The mine shipped zinc-rich ore during a period when zinc became an increasingly important commodity in the Breckenridge district."
+      },
+      {
+        "year": "1910s",
+        "text": "After an earlier shutdown, the mine reopened as wartime demand increased the value of zinc."
+      },
+      {
+        "year": "1940s",
+        "text": "Intermittent operation ended and the Sallie Barber ultimately closed."
+      },
+      {
+        "year": "2022",
+        "text": "Breckenridge History, Summit County, and the Town of Breckenridge stabilized the mine site, reinforced the ore bin, and restored artifacts."
+      },
+      {
+        "year": "2023",
+        "text": "Interpretive improvements documented the mine's underground layout and the function of surviving and reconstructed surface equipment."
+      }
+    ],
+    "moreHistory": [
+      "Breckenridge History describes the underground mine as having three levels and a sump extending to about 365 feet. Interpretation at the site explains how a steam plant and steam hoist powered ore buckets through the headframe.",
+      "Ore brought to the surface could be directed to the ore bin or moved by ore car to the hillside waste dump. Surviving interpretation also includes a belt-driven air compressor and a rock drill.",
+      "U.S. Geological Survey Professional Paper 75 describes the Sallie Barber vein and its zinc-rich mineralization, including sphalerite and pyrite in a mineralized fissure zone."
+    ],
+    "displayImages": [],
+    "mediaNotice": "Historic image not available",
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "coordinates": {
+      "latitude": 39.47861,
+      "longitude": -105.99611
+    },
+    "sourceReferences": [
+      {
+        "title": "Sallie Barber Mine Stabilization 2022",
+        "url": "https://breckhistory.org/discover/preservation-projects/",
+        "sourcePage": "https://breckhistory.org/discover/preservation-projects/",
+        "note": "Breckenridge History documents the 2022 stabilization, restored artifacts, ca. 1880 date, and importance of zinc production."
+      },
+      {
+        "title": "Sallie Barber Hike",
+        "url": "https://breckhistory.org/sallie-barber-hike/",
+        "sourcePage": "https://breckhistory.org/sallie-barber-hike/",
+        "note": "Breckenridge History documents the mine's operating span, three underground levels, 365-foot sump, hoisting system, ore handling, compressor, and drill interpretation."
+      },
+      {
+        "title": "Geology and ore deposits of the Breckenridge district, Colorado — Professional Paper 75",
+        "url": "https://pubs.usgs.gov/publication/pp75",
+        "sourcePage": "https://pubs.usgs.gov/publication/pp75",
+        "note": "USGS district study describes the Sallie Barber vein, mine geology, and zinc-bearing ore."
+      },
+      {
+        "title": "Sallie Barber Mine — USGS MRDS-derived record",
+        "url": "https://westernmininghistory.com/mine-detail/10098088/",
+        "sourcePage": "https://westernmininghistory.com/mine-detail/10098088/",
+        "note": "USGS MRDS-derived record corroborates the Summit County mine identity, coordinates, and principal zinc commodity."
+      }
+    ]
+  },
+  "removeSiteIds": [
+    "sallie-barber"
+  ]
+}
