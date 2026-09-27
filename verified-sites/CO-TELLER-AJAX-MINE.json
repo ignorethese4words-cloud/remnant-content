@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-TELLER-AJAX-MINE",
   "countySlug": "teller",
+  "countyPack": "packs/canonical/colorado-teller.json",
+  "packGeneratedAt": "2026-09-27T00:02:32.374Z",
+  "verifiedAt": "2026-09-27T00:02:32.375Z",
+  "manifest": {
+    "id": "colorado-teller",
+    "county": "Teller County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-27T00:02:32.374Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-teller.json",
+    "siteCount": 11,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
   "site": {
     "id": "CO-TELLER-AJAX-MINE",
     "name": "Ajax Mine & Battle Mountain Surface Plant",

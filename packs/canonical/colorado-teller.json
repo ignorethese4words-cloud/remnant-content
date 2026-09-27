@@ -4,21 +4,85 @@
   "county": "Teller County",
   "state": "Colorado",
   "version": "2",
-  "generatedAt": "2026-09-07T20:36:12.990Z",
+  "generatedAt": "2026-09-27T00:02:32.374Z",
   "sites": [
     {
       "id": "CO-TELLER-AJAX-MINE",
       "name": "Ajax Mine & Battle Mountain Surface Plant",
-      "location": "Battle Mountain, Teller County, Colorado",
+      "location": "Battle Mountain, north of Victor",
       "county": "Teller County",
-      "category": "Mine / Surface Plant Complex",
-      "componentType": "Mine",
-      "overview": [
-        "Ajax is a documented major underground mine and surface-plant complex on Battle Mountain. Historic mine identity and surviving surface features support a basic Scan record."
-      ],
       "state": "Colorado",
-      "appReady": false,
-      "betaVisible": false
+      "category": "Mine / Surface Plant Complex",
+      "componentType": "Mine / Surface Plant",
+      "componentDetail": "Historic Ajax underground mine and its surviving Battle Mountain surface plant/headframe complex north of Victor.",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-19T04:45:00Z",
+      "overview": [
+        "The Ajax Mine was one of the major gold producers of the Cripple Creek–Victor district. Colorado Geological Survey reporting places the start of production in 1895 and credits the Ajax vein system with more than 700,000 ounces of gold.",
+        "The mine developed a deep underground workings system beneath Battle Mountain while the surface plant, headframe, hoist facilities and waste-rock landscape became prominent features above Victor. Surviving surface structures remain important visual evidence of the district's hard-rock mining era."
+      ],
+      "timeline": [
+        {
+          "year": "1895",
+          "text": "The Ajax Mine began production during the rapid expansion of the Cripple Creek–Victor gold district."
+        },
+        {
+          "year": "Early 1900s",
+          "text": "The Ajax became one of the district's important underground gold mines, with extensive workings developed beneath Battle Mountain."
+        },
+        {
+          "year": "1913",
+          "text": "Contemporary mining literature described replacement deposits in the Ajax Mine, reflecting continued technical study of its ore bodies."
+        },
+        {
+          "year": "Mid-1900s",
+          "text": "USGS district studies continued to use the Ajax workings and Ajax fault as important examples in interpreting Cripple Creek geology and ore controls."
+        },
+        {
+          "year": "1970s–1980s",
+          "text": "Attempts were made to return the Ajax to underground production after a period of dormancy, and former miners later helped interpret the surviving surface plant."
+        },
+        {
+          "year": "Modern era",
+          "text": "Historic-preservation groups in Victor have used the Ajax surface complex and Battle Mountain trail as part of public interpretation of the district's mining landscape."
+        }
+      ],
+      "moreHistory": [
+        "Colorado Geological Survey describes the Ajax vein system as typical of the Cripple Creek district and notes a vertical exposure of more than 3,000 feet with little change in ore grade or mineralogy. That continuity helped make the Ajax a notable example of the district's deep vein-style gold mineralization.",
+        "USGS studies of the Cripple Creek district document the Ajax Mine in discussions of altered rock, vein systems and the Ajax fault, placing the property within the broader volcanic and structural framework that controlled the district's gold deposits.",
+        "The surviving surface plant should be interpreted as the above-ground industrial component of a much larger underground mine. Historic mine openings and structures can be unstable; visitors should remain on authorized public routes and should not enter mine workings or climb on industrial remnants."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 38.71556,
+        "longitude": -105.14222
+      },
+      "sourceReferences": [
+        {
+          "title": "Colorado Geological Survey — RockTalk: Cripple Creek & Victor Gold Mining District",
+          "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/RT-v06n02.pdf"
+        },
+        {
+          "title": "U.S. Geological Survey Bulletin 955-B — Geology and Ore Deposits of the Cripple Creek District",
+          "url": "https://pubs.usgs.gov/bul/0955b/report.pdf"
+        },
+        {
+          "title": "U.S. Geological Survey Bulletin 620-J — Potash in Certain Copper and Gold Ores",
+          "url": "https://pubs.usgs.gov/bul/0620j/report.pdf"
+        },
+        {
+          "title": "Victor / Southern Teller County Focus Group — historic Ajax mine tour and Battle Mountain preservation information",
+          "url": "https://www.victorcolorado.com/stcfgnews.htm"
+        },
+        {
+          "title": "Mindat — Ajax Mine, Cripple Creek Mining District, Teller County, Colorado",
+          "url": "https://www.mindat.org/loc-44515.html"
+        }
+      ]
     },
     {
       "id": "CO-TELLER-ANCHORIA-LELAND",
