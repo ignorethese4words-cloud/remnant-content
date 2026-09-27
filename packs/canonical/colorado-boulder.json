@@ -4,7 +4,7 @@
   "county": "Boulder County",
   "state": "Colorado",
   "version": "108",
-  "generatedAt": "2026-09-27T12:16:14.941Z",
+  "generatedAt": "2026-09-27T14:05:23.378Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -6419,6 +6419,74 @@
         {
           "title": "City of Boulder — Boulder's Waterworks Past & Present",
           "url": "https://bouldercolorado.gov/sites/default/files/2021-08/boulder-waterworks-history.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-LOUISVILLE-COAL",
+      "name": "Louisville Coal Mining Town & Hecla–Monarch Mine Landscape",
+      "location": "Louisville / Hecla Mine / Northern Colorado Coalfield",
+      "county": "Boulder County",
+      "category": "Coal Mining Town / Mine / Railroad Landscape",
+      "componentType": "Mine / Mining Landscape",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-18T17:50:00.000Z",
+      "overview": [
+        "Louisville grew from the Northern Colorado coalfield after large coal deposits were developed in the late 1870s, and mining remained central to the town's economy and community for decades.",
+        "The Hecla Mine northeast of town became a major industrial and labor-history site, while Louisville miners also worked at nearby operations including the Monarch No. 2, whose 1936 explosion killed eight men and deeply affected the community."
+      ],
+      "timeline": [
+        {
+          "year": "1877–1878",
+          "text": "Coal development accelerated on the Louisville townsite area, and Louisville emerged as a coal-mining community in the Northern Colorado coalfield."
+        },
+        {
+          "year": "1890s",
+          "text": "The Hecla operation developed northeast of Louisville; historical accounts document two Hecla shafts and later consolidation of the mine."
+        },
+        {
+          "year": "1910–1914",
+          "text": "The Hecla Mine became a center of the long Northern Coalfield strike. Armed guards, striking miners, and later federal troops made the Louisville area a significant northern episode of Colorado's coal-labor conflict."
+        },
+        {
+          "year": "1936",
+          "text": "An explosion at Monarch No. 2 south of Louisville killed eight miners. Many victims and workers were connected to Louisville families, making the disaster a major event in local memory."
+        },
+        {
+          "year": "1950s",
+          "text": "The last coal mines operating around Louisville closed as the Northern Coalfield's remaining coal became increasingly uneconomic to mine."
+        }
+      ],
+      "moreHistory": [
+        "Historic mapping identifies the Hecla Mine northeast of Louisville. Remnant uses the documented Hecla Mine locality near 39.99304, -105.12526 as the identification point for this broader Louisville coal-mining landscape; it is not presented as a field-surveyed surviving shaft or structure.",
+        "Louisville was unusual among some coal communities because the town itself was not a company-owned camp. Miners and their families built a community whose neighborhoods, businesses, immigrant traditions, rail connections, and labor history were closely tied to the mines.",
+        "The Monarch No. 2 mine was south of Louisville near today's Flatiron Crossing area, not at the Hecla identification point. Its 1936 explosion killed eight miners; two men escaped, and the disaster remained closely associated with Louisville because many local residents worked at the mine or knew the victims."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.99304,
+        "longitude": -105.12526
+      },
+      "sourceReferences": [
+        {
+          "title": "City of Louisville Historical Museum — Historic Overview / Industrial Development and coal-mining history",
+          "url": "https://www.louisvilleco.gov/departments/historical-museum/collection/local-history/historic-buildings-and-sites/"
+        },
+        {
+          "title": "City of Louisville Historical Museum — Discover Louisville: Hecla Mine (1890–1920)",
+          "url": "https://storymaps.arcgis.com/stories/22578850145c4227bffb442e60a5a2da"
+        },
+        {
+          "title": "City of Louisville Historical Museum — 90th anniversary of the Monarch No. 2 Mine explosion",
+          "url": "https://www.louisvilleco.gov/news/posts/january-20-marks-the-90-year-anniversary-of-the-monarch-no-2-mine-explosion/"
+        },
+        {
+          "title": "USGS Louisville quadrangle / GNIS Hecla Mine locality",
+          "url": "https://topoquest.com/map/usgs-24k/colorado/louisville/26718"
         }
       ]
     }
