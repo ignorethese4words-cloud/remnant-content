@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-SUMMIT-WELLINGTON",
   "countySlug": "summit",
+  "countyPack": "packs/canonical/colorado-summit.json",
+  "packGeneratedAt": "2026-09-27T12:18:18.710Z",
+  "verifiedAt": "2026-09-27T12:18:18.712Z",
+  "manifest": {
+    "id": "colorado-summit",
+    "county": "Summit County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-27T12:18:18.710Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
+    "siteCount": 15,
+    "exploreSiteCount": 5,
+    "idOnlySiteCount": 10
+  },
   "site": {
     "id": "CO-SUMMIT-WELLINGTON",
     "name": "Wellington Mine",
@@ -76,8 +92,5 @@
         "note": "EPA documents the Wellington-Oro complex, its later operating period, and modern remediation context."
       }
     ]
-  },
-  "removeSiteIds": [
-    "wellington"
-  ]
+  }
 }

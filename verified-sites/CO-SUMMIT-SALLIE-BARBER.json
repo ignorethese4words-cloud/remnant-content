@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-SUMMIT-SALLIE-BARBER",
   "countySlug": "summit",
+  "countyPack": "packs/canonical/colorado-summit.json",
+  "packGeneratedAt": "2026-09-27T12:18:18.710Z",
+  "verifiedAt": "2026-09-27T12:18:18.711Z",
+  "manifest": {
+    "id": "colorado-summit",
+    "county": "Summit County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-27T12:18:18.710Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-summit.json",
+    "siteCount": 15,
+    "exploreSiteCount": 5,
+    "idOnlySiteCount": 10
+  },
   "site": {
     "id": "CO-SUMMIT-SALLIE-BARBER",
     "name": "Sallie Barber Mine",
@@ -80,8 +96,5 @@
         "note": "USGS MRDS-derived record corroborates the Summit County mine identity, coordinates, and principal zinc commodity."
       }
     ]
-  },
-  "removeSiteIds": [
-    "sallie-barber"
-  ]
+  }
 }
