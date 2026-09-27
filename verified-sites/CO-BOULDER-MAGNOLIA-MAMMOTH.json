@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-MAGNOLIA-MAMMOTH",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packGeneratedAt": "2026-09-27T15:05:49.182Z",
+  "verifiedAt": "2026-09-27T15:05:49.191Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-27T15:05:49.182Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 123,
+    "exploreSiteCount": 65,
+    "idOnlySiteCount": 58
+  },
   "site": {
     "id": "CO-BOULDER-MAGNOLIA-MAMMOTH",
     "name": "Magnolia Mining District & Rocky Mountain Mammoth Mine Complex",

@@ -4,7 +4,7 @@
   "county": "Boulder County",
   "state": "Colorado",
   "version": "108",
-  "generatedAt": "2026-09-27T14:05:23.378Z",
+  "generatedAt": "2026-09-27T15:05:49.182Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -6487,6 +6487,99 @@
         {
           "title": "USGS Louisville quadrangle / GNIS Hecla Mine locality",
           "url": "https://topoquest.com/map/usgs-24k/colorado/louisville/26718"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-MAGNOLIA-MAMMOTH",
+      "name": "Magnolia Mining District & Rocky Mountain Mammoth Mine Complex",
+      "location": "Magnolia Mining District near Nederland, Boulder County",
+      "county": "Boulder County",
+      "state": "Colorado",
+      "category": "Mining District / Mine Complex",
+      "componentType": "Historic District",
+      "componentDetail": "Telluride-gold shaft-mine complex with preserved shaft house and cabin",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-18T19:06:00Z",
+      "coordinates": {
+        "latitude": 39.985556,
+        "longitude": -105.400278
+      },
+      "overview": [
+        "The Rocky Mountain Mammoth Mine is a historic telluride-gold shaft mine in the Magnolia Mining District. History Colorado identifies it as a contributor to a major mining revival in the district.",
+        "Its surviving shaft house and associated cabin form an unusually intact example of the small shaft mines that operated in Colorado from the 1890s through the 1910s.",
+        "This point marks the documented mine complex. Access is restricted or closed; view only from legal public routes, and do not enter mine workings or disturb historic structures."
+      ],
+      "timeline": [
+        {
+          "year": "Late 1890s",
+          "text": "Gold-mining activity expanded in the Magnolia district, and the Rocky Mountain Mammoth became part of the district's telluride-ore revival."
+        },
+        {
+          "year": "1890s–1910s",
+          "text": "The mine operated as the kind of small shaft mine represented by its surviving shaft house and related buildings."
+        },
+        {
+          "year": "2010",
+          "text": "The Rocky Mountain Mammoth Mine was listed in the National Register of Historic Places as reference 10000422."
+        }
+      ],
+      "moreHistory": [
+        "The property's importance rests both in its association with telluride-gold mining in the Magnolia district and in the survival of a highly intact small-mine complex.",
+        "Historic mining areas can contain unstable openings, deteriorated structures, and metal-contaminated soil or water. Respect closures, private property, and posted restrictions."
+      ],
+      "displayImages": [
+        {
+          "id": "rocky-mountain-mammoth-mine-commons",
+          "title": "Rocky Mountain Mammoth Mine shaft house",
+          "label": "SITE • Rocky Mountain Mammoth Mine shaft house",
+          "source": {
+            "uri": "https://upload.wikimedia.org/wikipedia/commons/7/70/Rocky_Mountain_Mammoth_Mine.jpg"
+          },
+          "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/7/70/Rocky_Mountain_Mammoth_Mine.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rocky_Mountain_Mammoth_Mine.jpg",
+          "sourceInstitution": "Wikimedia Commons",
+          "sourceCollection": "Wikipedia Summer of Monuments",
+          "creator": "Violin Theory",
+          "date": "2014-09-28",
+          "sourceNote": "Exact-site photograph: intact view of the Rocky Mountain Mammoth Mine shaft house from the nearby cabin; Commons coordinates match the Remnant site anchor.",
+          "rights": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0); copyright holder explicitly licenses sharing and adaptation with attribution and ShareAlike.",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "attributionRequired": true,
+          "attribution": "Rocky Mountain Mammoth Mine shaft house — Violin Theory, via Wikimedia Commons, CC BY-SA 3.0.",
+          "rightsVerifiedAt": "2026-09-18",
+          "provenanceVerifiedAt": "2026-09-18",
+          "mediaStatus": "PACKAGED"
+        }
+      ],
+      "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+      "sourceReferences": [
+        {
+          "title": "Rocky Mountain Mammoth Mine",
+          "publisher": "History Colorado",
+          "url": "https://www.historycolorado.org/location/rocky-mountain-mammoth-mine",
+          "note": "Documents the telluride-gold mine, its contribution to the Magnolia Mining District revival, and National Register identification."
+        },
+        {
+          "title": "Rocky Mountain Mammoth Mine Shaft House",
+          "publisher": "History Colorado",
+          "url": "https://www.historycolorado.org/location/rocky-mountain-mammoth-mine-shaft-house",
+          "note": "Describes the intact shaft house as an example of Colorado small shaft mines from the 1890s through the 1910s."
+        },
+        {
+          "title": "Hard Rock Mining Tour",
+          "publisher": "Boulder County",
+          "url": "https://discover.bouldercounty.gov/ActivityRegistration/15f5ace0-053b-4c40-96cd-41cd794e6183",
+          "note": "County interpretation includes the Rocky Mountain Mammoth Mine and identifies hazards associated with historic mining areas."
+        },
+        {
+          "title": "Rocky Mountain Mammoth Mine photograph",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Rocky_Mountain_Mammoth_Mine.jpg",
+          "note": "Exact-site image by Violin Theory, dated 28 September 2014, licensed CC BY-SA 3.0; direct original JPEG and attribution metadata verified 2026-09-18."
         }
       ]
     }
