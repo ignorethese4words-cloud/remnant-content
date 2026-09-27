@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-TELLER-GOLD-COIN",
+  "countySlug": "teller",
+  "countyPack": "packs/canonical/colorado-teller.json",
+  "packGeneratedAt": "2026-09-27T00:02:32.374Z",
+  "verifiedAt": "2026-09-27T01:01:26.676Z",
+  "manifest": {
+    "id": "colorado-teller",
+    "county": "Teller County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-27T00:02:32.374Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-teller.json",
+    "siteCount": 11,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-TELLER-GOLD-COIN",
+    "name": "Gold Coin Mine & Economic Mill Tunnel System",
+    "location": "Victor, Teller County, Colorado",
+    "county": "Teller County",
+    "category": "Mine / Mill / Tunnel Complex",
+    "componentType": "Mine",
+    "overview": [
+      "Gold Coin is a documented Woods enterprise mine complex in Victor, including the shaft and related tunnel-to-mill system. The historic identity and surviving surface remnants support a basic Scan record."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

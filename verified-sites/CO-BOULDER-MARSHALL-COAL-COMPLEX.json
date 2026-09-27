@@ -1,5 +1,21 @@
 {
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-BOULDER-MARSHALL-COAL-COMPLEX",
   "countySlug": "boulder",
+  "countyPack": "packs/canonical/colorado-boulder.json",
+  "packGeneratedAt": "2026-09-27T01:01:26.681Z",
+  "verifiedAt": "2026-09-27T01:01:26.690Z",
+  "manifest": {
+    "id": "colorado-boulder",
+    "county": "Boulder County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-27T01:01:26.681Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-boulder.json",
+    "siteCount": 120,
+    "exploreSiteCount": 62,
+    "idOnlySiteCount": 58
+  },
   "site": {
     "id": "CO-BOULDER-MARSHALL-COAL-COMPLEX",
     "name": "Marshall / Langford–Gorham Coal Camp & Mine Complex",

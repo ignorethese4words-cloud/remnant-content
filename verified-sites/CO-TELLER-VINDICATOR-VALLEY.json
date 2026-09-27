@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-TELLER-VINDICATOR-VALLEY",
+  "countySlug": "teller",
+  "countyPack": "packs/canonical/colorado-teller.json",
+  "packGeneratedAt": "2026-09-27T00:02:32.374Z",
+  "verifiedAt": "2026-09-27T01:01:26.677Z",
+  "manifest": {
+    "id": "colorado-teller",
+    "county": "Teller County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-27T00:02:32.374Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-teller.json",
+    "siteCount": 11,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-TELLER-VINDICATOR-VALLEY",
+    "name": "Vindicator Valley Mine & Railroad Complex",
+    "location": "Victor area, Teller County, Colorado",
+    "county": "Teller County",
+    "category": "Mine / Mining Camp / Railroad Landscape",
+    "componentType": "Mine / Railroad Complex",
+    "overview": [
+      "Vindicator Valley is a documented mining and railroad landscape centered on the Vindicator and Theresa workings. Surviving mine and railroad features support a basic Scan identity."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

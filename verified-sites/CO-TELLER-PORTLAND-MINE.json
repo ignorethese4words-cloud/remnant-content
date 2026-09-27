@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-TELLER-PORTLAND-MINE",
+  "countySlug": "teller",
+  "countyPack": "packs/canonical/colorado-teller.json",
+  "packGeneratedAt": "2026-09-27T00:02:32.374Z",
+  "verifiedAt": "2026-09-27T01:01:26.677Z",
+  "manifest": {
+    "id": "colorado-teller",
+    "county": "Teller County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-27T00:02:32.374Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-teller.json",
+    "siteCount": 11,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-TELLER-PORTLAND-MINE",
+    "name": "Portland Mine Nos. 1–2 & Battle Mountain Complex",
+    "location": "Battle Mountain, Teller County, Colorado",
+    "county": "Teller County",
+    "category": "Mine / Surface Plant Complex",
+    "componentType": "Mine",
+    "overview": [
+      "The Portland Mine complex is a documented flagship producer on Battle Mountain. Portland Nos. 1–2 and surviving surface features support a basic Scan identity."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

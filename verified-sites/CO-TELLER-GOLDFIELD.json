@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-TELLER-GOLDFIELD",
+  "countySlug": "teller",
+  "countyPack": "packs/canonical/colorado-teller.json",
+  "packGeneratedAt": "2026-09-27T00:02:32.374Z",
+  "verifiedAt": "2026-09-27T01:01:26.676Z",
+  "manifest": {
+    "id": "colorado-teller",
+    "county": "Teller County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-27T00:02:32.374Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-teller.json",
+    "siteCount": 11,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-TELLER-GOLDFIELD",
+    "name": "Goldfield Mining Town",
+    "location": "Goldfield, Teller County, Colorado",
+    "county": "Teller County",
+    "category": "Mining Town",
+    "componentType": "Town / Camp",
+    "overview": [
+      "Goldfield is a documented historic mining town in the Cripple Creek district. State and county records support the surviving community and its mining-town identity for basic Scan identification."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

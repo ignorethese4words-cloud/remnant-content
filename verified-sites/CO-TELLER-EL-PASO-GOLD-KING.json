@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-TELLER-EL-PASO-GOLD-KING",
+  "countySlug": "teller",
+  "countyPack": "packs/canonical/colorado-teller.json",
+  "packGeneratedAt": "2026-09-27T00:02:32.374Z",
+  "verifiedAt": "2026-09-27T01:01:26.676Z",
+  "manifest": {
+    "id": "colorado-teller",
+    "county": "Teller County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-27T00:02:32.374Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-teller.json",
+    "siteCount": 11,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-TELLER-EL-PASO-GOLD-KING",
+    "name": "El Paso Gold King Mine, Poverty Gulch Discovery & Headframe Landscape",
+    "location": "Cripple Creek mining district, Teller County, Colorado",
+    "county": "Teller County",
+    "category": "Mine / Discovery Landscape",
+    "componentType": "Mine",
+    "overview": [
+      "El Paso Gold King is a documented mine and discovery landscape in the Cripple Creek district. The named mine identity and surviving district features support a basic Scan record."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}

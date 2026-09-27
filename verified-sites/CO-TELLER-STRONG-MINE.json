@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-TELLER-STRONG-MINE",
+  "countySlug": "teller",
+  "countyPack": "packs/canonical/colorado-teller.json",
+  "packGeneratedAt": "2026-09-27T00:02:32.374Z",
+  "verifiedAt": "2026-09-27T01:01:26.677Z",
+  "manifest": {
+    "id": "colorado-teller",
+    "county": "Teller County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-27T00:02:32.374Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-teller.json",
+    "siteCount": 11,
+    "exploreSiteCount": 1,
+    "idOnlySiteCount": 0
+  },
+  "site": {
+    "id": "CO-TELLER-STRONG-MINE",
+    "name": "Strong Mine & Mill Surface Complex",
+    "location": "Cripple Creek mining district, Teller County, Colorado",
+    "county": "Teller County",
+    "category": "Mine / Mill Complex",
+    "componentType": "Mine / Mill Complex",
+    "overview": [
+      "Strong Mine is a documented historic mine and mill surface complex in the Cripple Creek district. The named property and identifiable surface remains support a basic Scan record."
+    ],
+    "state": "Colorado",
+    "appReady": false,
+    "betaVisible": false
+  }
+}
