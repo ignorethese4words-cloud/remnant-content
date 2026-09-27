@@ -1,0 +1,90 @@
+{
+  "countySlug": "boulder",
+  "site": {
+    "id": "CO-BOULDER-MARSHALL-COAL-COMPLEX",
+    "name": "Marshall / Langford–Gorham Coal Camp & Mine Complex",
+    "location": "Marshall / Marshall Mesa / South Boulder Creek",
+    "county": "Boulder County",
+    "category": "Coal Mining Camp / Mine / Railroad Complex",
+    "componentType": "Mine / Mining Landscape",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "contentUpdatedAt": "2026-09-21T11:12:00.000Z",
+    "overview": [
+      "Marshall was one of Boulder County's earliest coal-mining communities. Coal mining began here in the 1860s, and during the 1860s and 1870s the camp grew rapidly enough that its population exceeded Boulder's.",
+      "The Marshall landscape preserves the story of a coal camp, underground workings, mine-support buildings and transportation connections. Historic county sources identify the Fox Mine and Marshall Mesa as surviving reference points for this larger mining landscape."
+    ],
+    "timeline": [
+      {
+        "year": "1859–1864",
+        "text": "Coal was discovered near Marshall in 1859, and Boulder County records place the beginning of coal mining in the Boulder-Weld Coal Field at Marshall in 1864."
+      },
+      {
+        "year": "1860s–1870s",
+        "text": "Coal mining prospered at Marshall, and Boulder County's historic-site survey notes that the camp's population exceeded Boulder's during this period."
+      },
+      {
+        "year": "1883–1884",
+        "text": "The surviving Fox Mine Office dates to 1883; Boulder County records the Fox Mine as operating from 1884 until 1936."
+      },
+      {
+        "year": "1939",
+        "text": "The Boulder-Weld coal field around Marshall remained actively drift-mined into 1939, leaving extensive underground workings beneath the modern open-space landscape."
+      }
+    ],
+    "moreHistory": [
+      "Marshall was historically also associated with the name Langford. Period photographs preserved in Boulder County watershed history identify the Marshall Coal Mine near Langford in the late nineteenth century.",
+      "Remnant uses the documented Marshall Mesa mining landscape as the identification point for this broad historic complex rather than claiming a particular surviving underground opening. Historic mine workings are extensive and some coal seams remain active underground; visitors should remain on designated public routes.",
+      "The 1883 Fox Mine Office is a documented surviving building associated with coal mining in the Marshall area. The broader Marshall Mesa trail landscape includes interpretive information about local coal-mining and geologic history."
+    ],
+    "displayImages": [
+      {
+        "id": "fox-mine-office-2019-240dl",
+        "title": "Fox Mine Office",
+        "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Fox_Mine_Office.jpg",
+        "source": {
+          "uri": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Fox_Mine_Office.jpg"
+        },
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Fox_Mine_Office.jpg",
+        "sourceNote": "Exact surviving Fox Mine Office component of the Marshall coal-mining landscape; Wikimedia Commons file page identifies the building by NRHP reference 96000168 and records the photograph as the uploader's own work.",
+        "creator": "240dl",
+        "date": "2019-09-01",
+        "rights": "Copyright holder 240dl publishes this photograph under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Attribution and license link are required; ShareAlike applies to adaptations.",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attributionRequired": true,
+        "attribution": "Photo: 240dl, CC BY-SA 4.0, via Wikimedia Commons",
+        "rightsVerifiedAt": "2026-09-21",
+        "mediaStatus": "PACKAGED"
+      }
+    ],
+    "mediaSearchStatus": "FOUND_USABLE_MEDIA",
+    "coordinates": {
+      "latitude": 39.9528,
+      "longitude": -105.2317
+    },
+    "sourceReferences": [
+      {
+        "title": "Boulder County Historic Sites Self-Guided Tour — Marshall",
+        "url": "https://assets.bouldercounty.gov/wp-content/uploads/2020/10/boulder-county-historic-sites-self-guided-tour-brochure-150th-anniversary-2011.pdf",
+        "sourcePage": "https://assets.bouldercounty.gov/wp-content/uploads/2020/10/boulder-county-historic-sites-self-guided-tour-brochure-150th-anniversary-2011.pdf"
+      },
+      {
+        "title": "History Colorado — Fox Mine Office",
+        "url": "https://www.historycolorado.org/taxonomy/term/481?page=34",
+        "sourcePage": "https://www.historycolorado.org/taxonomy/term/481?page=34"
+      },
+      {
+        "title": "Boulder County — State of the Watershed",
+        "url": "https://assets.bouldercounty.gov/wp-content/uploads/2017/02/state-of-the-watershed.pdf",
+        "sourcePage": "https://assets.bouldercounty.gov/wp-content/uploads/2017/02/state-of-the-watershed.pdf"
+      },
+      {
+        "title": "Boulder County — Marshall Fire Investigative Summary",
+        "url": "https://assets.bouldercounty.gov/wp-content/uploads/2023/06/marshall-fire-investigative-summary.pdf",
+        "sourcePage": "https://assets.bouldercounty.gov/wp-content/uploads/2023/06/marshall-fire-investigative-summary.pdf"
+      }
+    ]
+  }
+}
