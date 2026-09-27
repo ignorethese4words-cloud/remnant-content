@@ -4,7 +4,7 @@
   "county": "Boulder County",
   "state": "Colorado",
   "version": "108",
-  "generatedAt": "2026-09-27T01:01:26.681Z",
+  "generatedAt": "2026-09-27T12:16:14.941Z",
   "sites": [
     {
       "id": "CO-BOULDER-1905-MINE",
@@ -6347,6 +6347,78 @@
           "title": "Boulder County — Marshall Fire Investigative Summary",
           "url": "https://assets.bouldercounty.gov/wp-content/uploads/2023/06/marshall-fire-investigative-summary.pdf",
           "sourcePage": "https://assets.bouldercounty.gov/wp-content/uploads/2023/06/marshall-fire-investigative-summary.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CO-BOULDER-BOULDER-CANYON-HYDRO",
+      "name": "Boulder Canyon Hydroelectric Project / Barker–Kossler System",
+      "location": "Barker Reservoir–Boulder Canyon / Kossler Reservoir",
+      "county": "Boulder County",
+      "category": "Hydroelectric / Water / Industrial Complex",
+      "componentType": "Power / Industrial",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-19T02:51:00.000Z",
+      "overview": [
+        "The Boulder Canyon Hydroelectric Project linked Barker Reservoir, a roughly 12-mile gravity pipeline, Kossler Reservoir, a high-pressure penstock and a powerhouse in Boulder Canyon. Completed in 1910, it used the large elevation drop from the mountains to generate electricity while moving water through the system.",
+        "The project became an important early high-head hydroelectric development in Colorado. The same infrastructure later became central to Boulder's municipal water supply, and the city purchased the Barker system in 2001."
+      ],
+      "timeline": [
+        {
+          "year": "1902",
+          "text": "An early proposal sought to harness Middle Boulder Creek for a large hydroelectric plant, but the first effort did not proceed."
+        },
+        {
+          "year": "1907–1908",
+          "text": "Property at Barker Meadows was acquired for the reservoir and a successor power company began construction of Barker Dam and the Boulder Canyon hydroelectric works."
+        },
+        {
+          "year": "1909–1910",
+          "text": "More than a thousand workers built the gravity pipeline across steep Boulder Canyon terrain. The line used three-foot reinforced-concrete pipe, tunnels, retaining walls and temporary construction camps."
+        },
+        {
+          "year": "August 1910",
+          "text": "The hydroelectric plant entered operation. City history records an initial full-power output of about 10,000 kilowatts."
+        },
+        {
+          "year": "1930s",
+          "text": "The project's generating capacity was expanded to roughly 20,000 kilowatts."
+        },
+        {
+          "year": "2001",
+          "text": "The City of Boulder purchased the Barker system from Public Service Company of Colorado, bringing the reservoir, pipeline and related hydroelectric facilities under city ownership."
+        }
+      ],
+      "moreHistory": [
+        "Water traveled from Barker Reservoir through the Barker Gravity Pipeline to Kossler Reservoir, then descended through a steel penstock to the Boulder Canyon powerhouse. The steep drop created the pressure needed for high-head hydroelectric generation.",
+        "Construction required extensive blasting, temporary camps, aerial tramways and large-scale pipe production. City records describe dangerous work conditions and document injuries and fatalities during construction.",
+        "The Barker system remains active infrastructure. It now serves both municipal water-supply and hydroelectric functions, so Remnant presents the historic system as an industrial landscape rather than implying unrestricted access to individual operating facilities."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 40.0039,
+        "longitude": -105.3418
+      },
+      "sourceReferences": [
+        {
+          "title": "City of Boulder — History of the Barker Gravity Pipeline",
+          "url": "https://bouldercolorado.gov/history-barker-gravity-pipeline"
+        },
+        {
+          "title": "City of Boulder — Source Water Master Plan, Barker System",
+          "url": "https://bouldercolorado.gov/media/7639/download?inline="
+        },
+        {
+          "title": "City of Boulder — Powering Boulder With Water",
+          "url": "https://bouldercolorado.gov/news/powering-boulder-water"
+        },
+        {
+          "title": "City of Boulder — Boulder's Waterworks Past & Present",
+          "url": "https://bouldercolorado.gov/sites/default/files/2021-08/boulder-waterworks-history.pdf"
         }
       ]
     }
