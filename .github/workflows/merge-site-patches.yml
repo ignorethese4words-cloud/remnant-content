@@ -8,6 +8,8 @@ on:
       - 'scripts/merge-site-patches.mjs'
       - '.github/workflows/merge-site-patches.yml'
   workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'
 
 permissions:
   contents: write
@@ -53,7 +55,16 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git commit -m "Merge verified Remnant public site patch"
           git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+          for attempt in 1 2 3; do
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "Push attempt ${attempt} failed; refreshing branch before retry."
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            sleep 5
+          done
+          echo "Unable to push merged patch after 3 attempts."
+          exit 1
 
       - name: Supabase secret not configured
         if: ${{ env.SUPABASE_SECRET_KEY == '' }}
