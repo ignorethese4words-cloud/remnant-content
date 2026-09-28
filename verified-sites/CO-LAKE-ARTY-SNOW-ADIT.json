@@ -3,9 +3,19 @@
   "operation": "upsert",
   "siteId": "CO-LAKE-ARTY-SNOW-ADIT",
   "countySlug": "lake",
-  "countyPack": "data/packs/lake-county.json",
-  "packGeneratedAt": "2026-09-28T03:01:46.669Z",
-  "verifiedAt": "2026-09-28T03:01:46.672Z",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packGeneratedAt": "2026-09-28T08:53:49.702Z",
+  "verifiedAt": "2026-09-28T08:53:49.705Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-28T08:53:49.702Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 33,
+    "exploreSiteCount": 26,
+    "idOnlySiteCount": 7
+  },
   "site": {
     "id": "CO-LAKE-ARTY-SNOW-ADIT",
     "name": "Arty-Snow Adit / Upper Wilkes-Barre Workings",
