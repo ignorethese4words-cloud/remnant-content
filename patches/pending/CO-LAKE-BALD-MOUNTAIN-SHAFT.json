@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-LAKE-BALD-MOUNTAIN-SHAFT",
+  "countySlug": "lake",
+  "site": {
+    "id": "CO-LAKE-BALD-MOUNTAIN-SHAFT",
+    "name": "Bald Mountain Shaft",
+    "county": "Lake",
+    "tier": "ID ONLY",
+    "appReady": false,
+    "betaVisible": false,
+    "coordinates": {
+      "latitude": 39.2361,
+      "longitude": -106.22641
+    },
+    "overview": [
+      "Named historic mine-shaft feature on Bald Mountain east of Leadville in the Leadville mining district. Historic USGS topographic mapping identifies the shaft at this location; this point is an identification anchor, not proof that an open or safely accessible shaft survives."
+    ],
+    "displayImages": [],
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "mediaNotice": "Historic image not available",
+    "contentUpdatedAt": "2026-09-28T09:28:25-06:00"
+  }
+}
