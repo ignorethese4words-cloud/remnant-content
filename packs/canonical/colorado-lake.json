@@ -4,7 +4,7 @@
   "county": "Lake County",
   "state": "Colorado",
   "version": "13",
-  "generatedAt": "2026-09-28T08:53:49.702Z",
+  "generatedAt": "2026-09-28T17:58:20.402Z",
   "sites": [
     {
       "id": "CO-LAKE-BLACK-CLOUD",
@@ -2010,6 +2010,25 @@
       "mediaNotice": "Historic image not available",
       "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "contentUpdatedAt": "2026-09-28T02:58:00Z"
+    },
+    {
+      "id": "CO-LAKE-BALD-MOUNTAIN-SHAFT",
+      "name": "Bald Mountain Shaft",
+      "county": "Lake",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2361,
+        "longitude": -106.22641
+      },
+      "overview": [
+        "Named historic mine-shaft feature on Bald Mountain east of Leadville in the Leadville mining district. Historic USGS topographic mapping identifies the shaft at this location; this point is an identification anchor, not proof that an open or safely accessible shaft survives."
+      ],
+      "displayImages": [],
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "mediaNotice": "Historic image not available",
+      "contentUpdatedAt": "2026-09-28T09:28:25-06:00"
     }
   ]
 }

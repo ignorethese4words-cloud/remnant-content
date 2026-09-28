@@ -3,6 +3,19 @@
   "operation": "upsert",
   "siteId": "CO-LAKE-BALD-MOUNTAIN-SHAFT",
   "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packGeneratedAt": "2026-09-28T17:58:20.402Z",
+  "verifiedAt": "2026-09-28T17:58:20.405Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-28T17:58:20.402Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 34,
+    "exploreSiteCount": 26,
+    "idOnlySiteCount": 8
+  },
   "site": {
     "id": "CO-LAKE-BALD-MOUNTAIN-SHAFT",
     "name": "Bald Mountain Shaft",
