@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "operation": "upsert",
+  "siteId": "CO-SUMMIT-WILD-IRISHMAN",
+  "countySlug": "summit",
+  "countyPack": "data/packs/summit-county.json",
+  "packGeneratedAt": "2026-09-29T07:29:42.064Z",
+  "verifiedAt": "2026-09-29T07:29:42.066Z",
+  "site": {
+    "id": "CO-SUMMIT-WILD-IRISHMAN",
+    "name": "Wild Irishman Mine",
+    "county": "Summit",
+    "tier": "EXPLORE",
+    "appReady": true,
+    "betaVisible": true,
+    "coordinates": {"latitude": 39.56027,"longitude": -105.88671},
+    "overview": ["Wild Irishman Mine is a historic underground mine in Summit County's Montezuma area. Federal mineral records identify the site with the Altoona and Herman names and place the Wild Irishman workings at adits near 39.56027, -105.88671. The mine was worked during several periods from the 1880s into the early twentieth century, with recorded production activity including 1883–1886, 1901–1902, 1907, and 1913.","Historic mine workings can contain unstable ground, concealed openings, loose rock, and other hazards. View remnants from a safe distance, do not enter adits or other underground workings, obey closures and posted restrictions, and respect current land-management rules."],
+    "timeline": [{"year":"1883–1886","text":"MRDS records a production period at the Wild Irishman Mine."},{"year":"1901–1902","text":"Additional recorded production period."},{"year":"1907","text":"Recorded production activity."},{"year":"1913","text":"MRDS records production and reports 369.07 metric tons of ore mined for the listed production record."}],
+    "moreHistory": "The mine lies in the Montezuma area on White River National Forest land. MRDS identifies it as an underground past producer hosted in gneiss; the related record distinguishes the associated workings as Altoona shaft, with Herman and Wild Irishman adits.",
+    "sourceReferences": [{"title":"U.S. Geological Survey Mineral Resources Data System — Wild Irishman Mine (MRDS #10143116 / DC05800)","sourcePage":"https://www.qvyshift.com/mrds/10143116","url":"https://www.qvyshift.com/mrds/10143116"},{"title":"U.S. Geological Survey Mineral Resources Data System — Wild Irishman, Altoona, Herman (MRDS #10018638 / DC05800)","sourcePage":"https://www.qvyshift.com/mrds/show-mrds.php?dep_id=10018638","url":"https://www.qvyshift.com/mrds/show-mrds.php?dep_id=10018638"}],
+    "displayImages": [],
+    "mediaSearchStatus": "SEARCH_EXHAUSTED",
+    "mediaNotice": "Historic image not available",
+    "contentUpdatedAt": "2026-09-29T01:28:23-06:00"
+  }
+}
