@@ -4,7 +4,7 @@
   "county": "Lake County",
   "state": "Colorado",
   "version": "13",
-  "generatedAt": "2026-09-28T17:58:20.402Z",
+  "generatedAt": "2026-09-29T00:17:31.673Z",
   "sites": [
     {
       "id": "CO-LAKE-BLACK-CLOUD",
@@ -2029,6 +2029,53 @@
       "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "mediaNotice": "Historic image not available",
       "contentUpdatedAt": "2026-09-28T09:28:25-06:00"
+    },
+    {
+      "id": "CO-LAKE-BALL-MOUNTAIN",
+      "name": "Ball Mountain",
+      "county": "Lake County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "tier": "ID ONLY",
+      "appReady": false,
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2317,
+        "longitude": -106.2281
+      },
+      "overview": [
+        "Ball Mountain is an inactive historic mine east of Leadville in Lake County, recorded for lead with silver, zinc, and gold also associated."
+      ],
+      "timeline": [
+        {
+          "year": "1902",
+          "text": "Engineering and Mining Journal reported that work by the Ball Mountain Tunnel Company was to resume on the property under M. P. Murray."
+        }
+      ],
+      "moreHistory": [
+        "The mapped point identifies the historic Ball Mountain mine locality and should not be treated as evidence of current public access or safe entry to mine workings."
+      ],
+      "sourceReferences": [
+        {
+          "title": "Ball Mountain — USGS MRDS-derived record",
+          "publisher": "Western Mining History",
+          "url": "https://westernmininghistory.com/mine-detail/10142060/",
+          "sourcePage": "https://westernmininghistory.com/mine-detail/10142060/",
+          "note": "Supports the Ball Mountain mine identity, locality, coordinates, and commodity association."
+        },
+        {
+          "title": "Engineering and Mining Journal, August 16, 1902",
+          "publisher": "Engineering and Mining Journal",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/The_Engineering_and_Mining_Journal_1902-08-16-_Vol_74_Iss_7_%28IA_sim_engineering-and-mining-journal_1902-08-16_74_7%29.pdf",
+          "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/3/3b/The_Engineering_and_Mining_Journal_1902-08-16-_Vol_74_Iss_7_%28IA_sim_engineering-and-mining-journal_1902-08-16_74_7%29.pdf",
+          "note": "Supports the 1902 Ball Mountain Tunnel Company work-resumption report."
+        }
+      ],
+      "displayImages": [],
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "mediaNotice": "Historic image not available",
+      "contentUpdatedAt": "2026-09-28T17:56:00Z"
     }
   ]
 }

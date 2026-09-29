@@ -3,6 +3,19 @@
   "operation": "upsert",
   "siteId": "CO-LAKE-BALL-MOUNTAIN",
   "countySlug": "lake",
+  "countyPack": "packs/canonical/colorado-lake.json",
+  "packGeneratedAt": "2026-09-29T00:17:31.673Z",
+  "verifiedAt": "2026-09-29T00:17:31.677Z",
+  "manifest": {
+    "id": "colorado-lake",
+    "county": "Lake County",
+    "state": "Colorado",
+    "generatedAt": "2026-09-29T00:17:31.673Z",
+    "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/packs/canonical/colorado-lake.json",
+    "siteCount": 35,
+    "exploreSiteCount": 26,
+    "idOnlySiteCount": 9
+  },
   "site": {
     "id": "CO-LAKE-BALL-MOUNTAIN",
     "name": "Ball Mountain",
