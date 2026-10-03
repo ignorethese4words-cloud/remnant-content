@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "colorado-summit",
+  "state": "Colorado",
+  "county": "Summit",
+  "generated_at": "2026-10-03T16:25:38.245663Z",
+  "sites": [
+    {
+      "name": "Gold Flake Mine",
+      "scan": {
+        "target": "Gold Flake Mine surface workings/remnant area at the documented Gold Flake locality on Farncomb Hill; target the mine workings rather than the broader Farncomb Hill or nearby Wire Patch workings."
+      },
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit",
+      "aliases": [],
+      "content": {
+        "history": "The Gold Flake was one of the important native-gold veins of Farncomb Hill, where narrow veins in altered shale and porphyry produced exceptionally rich pockets of crystalline wire and leaf gold. The mine became especially notable for the 1887 discovery of Tom's Baby, Colorado's celebrated large gold specimen, by miners Tom Groves and Harry Lytton. A Denver Public Library chronology records the July 23, 1887 Gold-Flake Mine discovery at Farncomb Hill, and Breckenridge History preserves the local association of the find with the Gold Flake Mine. USGS Professional Paper 75 provides the authoritative geologic and mining context for the Farncomb Hill vein system and names the Gold Flake among its principal veins.",
+        "overview": "On Farncomb Hill east of Breckenridge, the Gold Flake Mine worked one of the narrow but famously rich native-gold veins that made the district renowned for spectacular wire and leaf gold. Its best-known story came in July 1887, when Tom Groves and Harry Lytton recovered the enormous gold specimen remembered as Tom's Baby. The mine is a strong Remnant Explore site because its identity, location, geology, and signature historical event can all be tied to site-specific sources without borrowing the identity of nearby Farncomb Hill workings.",
+        "timeline": [
+          {
+            "date": "1887-07-23",
+            "event": "Tom Groves and Harry Lytton recovered the large gold specimen later known as Tom's Baby from the Gold Flake Mine on Farncomb Hill."
+          },
+          {
+            "date": "1911",
+            "event": "USGS Professional Paper 75 documented the Gold Flake among the principal named gold veins of Farncomb Hill."
+          }
+        ],
+        "identification": "Gold Flake Mine is a distinct historic lode-gold mine on Farncomb Hill in the French Gulch/Breckenridge mining district of Summit County. USGS Professional Paper 75 identifies Gold Flake among the principal named veins of Farncomb Hill, while Breckenridge History independently places the famous Tom's Baby discovery at the Gold Flake Mine on the northeast side of Farncomb Hill."
+      },
+      "site_id": "CO-SUMMIT-GOLD-FLAKE-MINE",
+      "sources": [
+        {
+          "url": "https://pubs.usgs.gov/pp/0075/report.pdf",
+          "title": "Geology and Ore Deposits of the Breckenridge District, Colorado — USGS Professional Paper 75",
+          "publisher": "U.S. Geological Survey",
+          "source_type": "USGS professional paper",
+          "evidence_tags": ["identity", "geology", "history"],
+          "publication_date_text": "1911"
+        },
+        {
+          "url": "https://www.mindat.org/loc-11406.html",
+          "title": "Gold Flake Mine, Farncomb Hill, French Gulch, Breckenridge Mining District, Summit County, Colorado",
+          "publisher": "Mindat.org",
+          "source_type": "mineral locality database",
+          "evidence_tags": ["identity", "location", "coordinates"],
+          "publication_date_text": null
+        },
+        {
+          "url": "https://breckhistory.org/es/wirepatch-mine-hike/",
+          "title": "Wirepatch Mine Hike",
+          "publisher": "Breckenridge History",
+          "source_type": "local historical society",
+          "evidence_tags": ["identity", "history", "location_context"],
+          "publication_date_text": null
+        },
+        {
+          "url": "https://history.denverlibrary.org/sites/history/files/ColoradoChronology2020.pdf",
+          "title": "Colorado Chronology",
+          "publisher": "Denver Public Library",
+          "source_type": "library historical chronology",
+          "evidence_tags": ["history", "date", "identity"],
+          "publication_date_text": "2020"
+        }
+      ],
+      "category": "Historic Mine",
+      "location": {
+        "latitude": 39.48222,
+        "longitude": -105.95528
+      },
+      "component_type": "Mine",
+      "schema_version": 1
+    }
+  ]
+}
