@@ -4,7 +4,7 @@
   "county": "Lake County",
   "state": "Colorado",
   "version": "13",
-  "generatedAt": "2026-09-29T00:17:31.673Z",
+  "generatedAt": "2026-10-03T16:24:33.580Z",
   "sites": [
     {
       "id": "CO-LAKE-BLACK-CLOUD",
@@ -2076,6 +2076,72 @@
       "mediaSearchStatus": "SEARCH_EXHAUSTED",
       "mediaNotice": "Historic image not available",
       "contentUpdatedAt": "2026-09-28T17:56:00Z"
+    },
+    {
+      "id": "CO-LAKE-ALL-RIGHT-MINE",
+      "name": "All Right Mine",
+      "location": "Fryer Hill / Chrysolite workings east of Leadville",
+      "county": "Lake County",
+      "state": "Colorado",
+      "category": "Historic Mine",
+      "componentType": "Mine",
+      "componentDetail": "Underground Zinc Mine / Chrysolite Workings",
+      "tier": "EXPLORE",
+      "appReady": true,
+      "betaVisible": true,
+      "contentUpdatedAt": "2026-09-16T10:42:40Z",
+      "overview": [
+        "The All Right Mine was an underground zinc producer on Fryer Hill in Leadville's historic mining district. Federal mineral records place it within the Chrysolite workings and identify the mapped point as an ore-body location.",
+        "The identification point comes from the U.S. Geological Survey Mineral Resources Data System. It marks the documented mine locality, not a field-verified safe entrance or surviving portal."
+      ],
+      "timeline": [
+        {
+          "year": "1886",
+          "text": "The U.S. Geological Survey's Leadville monograph and atlas mapped the All Right Mine within the Chrysolite workings on Fryer Hill."
+        },
+        {
+          "year": "1927",
+          "text": "USGS Professional Paper 148 provided the updated geologic and mine-workings framework for the Leadville district and is retained in the federal mineral record for the All Right Mine."
+        },
+        {
+          "year": "1974",
+          "text": "The federal mineral record listed Pandora Mines Co. as owner-operator of the All Right Mine."
+        },
+        {
+          "year": "1983",
+          "text": "The U.S. Bureau of Mines field office reported the site record later incorporated into the USGS Mineral Resources Data System."
+        }
+      ],
+      "moreHistory": [
+        "Federal records classify the All Right as a past-producing underground metallic mine with zinc as its recorded commodity.",
+        "The MRDS point of reference is the ore body at approximately 39.2561, -106.28089, in the northwest quarter of section 24, Township 9 South, Range 80 West.",
+        "The mine belongs to the dense network of Chrysolite workings on Fryer Hill rather than an unrelated pegmatite-pit locality. Historic underground workings are hazardous, and this entry does not imply public access."
+      ],
+      "displayImages": [],
+      "mediaNotice": "Historic image not available",
+      "mediaSearchStatus": "SEARCH_EXHAUSTED",
+      "coordinates": {
+        "latitude": 39.2561,
+        "longitude": -106.28089
+      },
+      "sourceReferences": [
+        {
+          "title": "U.S. Geological Survey Monograph 12 — Geology and mining industry of Leadville, Colorado, with atlas",
+          "url": "https://pubs.usgs.gov/publication/m12"
+        },
+        {
+          "title": "U.S. Geological Survey Professional Paper 148 — Geology and ore deposits of the Leadville mining district, Colorado",
+          "url": "https://www.usgs.gov/publications/geology-and-ore-deposits-leadville-mining-district-colorado"
+        },
+        {
+          "title": "U.S. Geological Survey Professional Paper 235 — Geology and ore deposits of the west slope of the Mosquito Range",
+          "url": "https://pubs.usgs.gov/pp/0235/report.pdf"
+        },
+        {
+          "title": "MRDS-derived All Right Mine record (USGS record 10118308)",
+          "url": "https://www.qvyshift.com/mrds/10118308"
+        }
+      ]
     }
   ]
 }
