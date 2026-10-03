@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "site_id": "CO-SUMMIT-GOLD-FLAKE-MINE",
+  "pack_id": "colorado-summit",
+  "pack_path": "v4/packs/colorado-summit.json",
+  "source_system": "Remnant v4 Supabase",
+  "source_table": "app_payloads",
+  "prepared_at": "2026-10-03T16:12:06.971689Z",
+  "published_at": "2026-10-03T16:25:38.245663Z",
+  "source_count": 4,
+  "tier": "EXPLORE",
+  "verified_site_id": "CO-SUMMIT-GOLD-FLAKE-MINE"
+}
