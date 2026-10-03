@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-03T16:25:38.245663Z",
+  "packs": [
+    {
+      "id": "colorado-summit",
+      "state": "Colorado",
+      "county": "Summit",
+      "path": "v4/packs/colorado-summit.json",
+      "site_count": 1
+    }
+  ]
+}
