@@ -1,13 +1,18 @@
 {
-  "schema_version": 1,
-  "generated_at": "2026-10-03T16:25:38.245663Z",
   "packs": [
     {
       "id": "colorado-summit",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/v4/packs/colorado-summit.json",
       "state": "Colorado",
-      "county": "Summit",
-      "path": "v4/packs/colorado-summit.json",
-      "site_count": 1
+      "county": "Summit County",
+      "siteCount": 53,
+      "generatedAt": "2026-10-04T13:57:52.451Z",
+      "idOnlySiteCount": 21,
+      "exploreSiteCount": 32
     }
-  ]
+  ],
+  "delivery": "github-raw-v4",
+  "generatedAt": "2026-10-04T13:57:52.451Z",
+  "schemaVersion": 1,
+  "minimumAppContentSchema": 1
 }
