@@ -1,0 +1,201 @@
+name: V4 Deterministic Export
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'v4/export-trigger.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+
+concurrency:
+  group: remnant-v4-export
+  cancel-in-progress: false
+
+jobs:
+  export-v4:
+    runs-on: ubuntu-latest
+    env:
+      EXPORT_FUNCTION_URL: https://gbgehvkacuoyavgoucou.supabase.co/functions/v1/v4-github-export
+      EXPORT_AUDIENCE: remnant-v4-export
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Request authenticated V4 snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          OIDC_RESPONSE=$(curl -fsSL \
+            -H "Authorization: Bearer ${ACTIONS_ID_TOKEN_REQUEST_TOKEN}" \
+            "${ACTIONS_ID_TOKEN_REQUEST_URL}&audience=${EXPORT_AUDIENCE}")
+          OIDC_TOKEN=$(printf '%s' "$OIDC_RESPONSE" | jq -r '.value')
+          test -n "$OIDC_TOKEN"
+
+          curl -fsSL -X POST "$EXPORT_FUNCTION_URL" \
+            -H "Authorization: Bearer $OIDC_TOKEN" \
+            -H 'Content-Type: application/json' \
+            --data '{"action":"snapshot"}' \
+            -o /tmp/v4-snapshot.json
+
+          jq -e '.generatedAt and (.packs | type == "array") and .manifestPath and .manifest and (.pendingSiteIds | type == "array")' /tmp/v4-snapshot.json >/dev/null
+
+      - name: Build and validate exact V4 files
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          snapshot = json.loads(Path('/tmp/v4-snapshot.json').read_text())
+          generated = snapshot['generatedAt']
+          packs = snapshot['packs']
+          manifest = snapshot['manifest']
+          manifest_path = snapshot['manifestPath']
+
+          if manifest_path != 'v4/pack-index.json':
+              raise SystemExit(f'unexpected manifest path: {manifest_path}')
+          if manifest.get('generatedAt') != generated:
+              raise SystemExit('manifest generatedAt mismatch')
+
+          manifest_packs = manifest.get('packs', [])
+          if len(manifest_packs) != len(packs):
+              raise SystemExit('manifest pack count mismatch')
+
+          eligible_ids = set(snapshot.get('eligibleSiteIds', []))
+          pending_ids = snapshot.get('pendingSiteIds', [])
+          if len(pending_ids) != len(set(pending_ids)):
+              raise SystemExit('duplicate pending site IDs')
+          if not set(pending_ids).issubset(eligible_ids):
+              raise SystemExit('pending site ID is not export eligible')
+
+          for pack in packs:
+              path = pack['path']
+              if not path.startswith('v4/packs/') or '..' in Path(path).parts:
+                  raise SystemExit(f'unsafe pack path: {path}')
+              content = pack['content']
+              if content.get('generatedAt') != generated:
+                  raise SystemExit(f'generatedAt mismatch in {path}')
+              if content.get('id') != pack['id']:
+                  raise SystemExit(f'pack id mismatch in {path}')
+              if content.get('state') != pack['state'] or content.get('county') != pack['county']:
+                  raise SystemExit(f'pack geography mismatch in {path}')
+
+              sites = content.get('sites', [])
+              ids = [site.get('id') for site in sites]
+              if any(not isinstance(site_id, str) or not site_id.strip() for site_id in ids):
+                  raise SystemExit(f'blank site id in {path}')
+              if len(ids) != len(set(ids)):
+                  raise SystemExit(f'duplicate site id in {path}')
+              if len(sites) != pack['siteCount']:
+                  raise SystemExit(f'site count mismatch in {path}')
+
+              out = Path(path)
+              out.parent.mkdir(parents=True, exist_ok=True)
+              out.write_text(json.dumps(content, ensure_ascii=False, indent=2) + '\n')
+
+          for descriptor in manifest_packs:
+              url = descriptor.get('url', '')
+              if '/v4/packs/' not in url or not url.startswith('https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/'):
+                  raise SystemExit(f'unsafe manifest URL: {url}')
+
+          Path(manifest_path).write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')
+          Path('/tmp/v4-finish.json').write_text(json.dumps({
+              'action': 'finish',
+              'generatedAt': generated,
+              'pendingSiteIds': pending_ids,
+          }))
+          Path('/tmp/v4-meta.json').write_text(json.dumps({
+              'generatedAt': generated,
+              'packCount': len(packs),
+              'siteCount': sum(p['siteCount'] for p in packs),
+              'pendingCount': len(pending_ids),
+              'paths': [p['path'] for p in packs] + [manifest_path],
+          }))
+          PY
+
+      - name: Commit and push verified V4 snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'Remnant V4 Exporter'
+          git config user.email 'actions@users.noreply.github.com'
+
+          mapfile -t PATHS < <(python3 - <<'PY'
+          import json
+          meta=json.load(open('/tmp/v4-meta.json'))
+          for path in meta['paths']:
+              print(path)
+          PY
+          )
+
+          git add -- "${PATHS[@]}"
+          if git diff --cached --quiet; then
+            echo 'Snapshot content unchanged; no export commit required.'
+          else
+            GENERATED=$(jq -r '.generatedAt' /tmp/v4-meta.json)
+            git commit -m "Export V4 content ${GENERATED}"
+            git push origin HEAD:main
+          fi
+
+      - name: Verify remote snapshot matches source
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)"
+
+          python3 - <<'PY'
+          import json, subprocess
+          from pathlib import Path
+
+          snapshot = json.loads(Path('/tmp/v4-snapshot.json').read_text())
+          expected = {p['path']: p['content'] for p in snapshot['packs']}
+          expected[snapshot['manifestPath']] = snapshot['manifest']
+
+          for path, want in expected.items():
+              raw = subprocess.check_output(['git', 'show', f'origin/main:{path}'], text=True)
+              got = json.loads(raw)
+              if got != want:
+                  raise SystemExit(f'remote verification mismatch: {path}')
+          PY
+
+      - name: Finalize V4 publication in Supabase
+        shell: bash
+        run: |
+          set -euo pipefail
+          OIDC_RESPONSE=$(curl -fsSL \
+            -H "Authorization: Bearer ${ACTIONS_ID_TOKEN_REQUEST_TOKEN}" \
+            "${ACTIONS_ID_TOKEN_REQUEST_URL}&audience=${EXPORT_AUDIENCE}")
+          OIDC_TOKEN=$(printf '%s' "$OIDC_RESPONSE" | jq -r '.value')
+          test -n "$OIDC_TOKEN"
+
+          curl -fsSL -X POST "$EXPORT_FUNCTION_URL" \
+            -H "Authorization: Bearer $OIDC_TOKEN" \
+            -H 'Content-Type: application/json' \
+            --data-binary @/tmp/v4-finish.json \
+            -o /tmp/v4-finish-response.json
+
+          jq -e '.ok == true' /tmp/v4-finish-response.json >/dev/null
+          EXPECTED=$(jq -r '.pendingCount' /tmp/v4-meta.json)
+          VERIFIED=$(jq -r '.verifiedCount' /tmp/v4-finish-response.json)
+          test "$EXPECTED" = "$VERIFIED"
+
+      - name: Export summary
+        if: always()
+        shell: bash
+        run: |
+          if [ -f /tmp/v4-meta.json ]; then
+            echo "### Remnant V4 export" >> "$GITHUB_STEP_SUMMARY"
+            echo "- Generated: $(jq -r '.generatedAt' /tmp/v4-meta.json)" >> "$GITHUB_STEP_SUMMARY"
+            echo "- Packs: $(jq -r '.packCount' /tmp/v4-meta.json)" >> "$GITHUB_STEP_SUMMARY"
+            echo "- Sites: $(jq -r '.siteCount' /tmp/v4-meta.json)" >> "$GITHUB_STEP_SUMMARY"
+            echo "- Newly published: $(jq -r '.pendingCount' /tmp/v4-meta.json)" >> "$GITHUB_STEP_SUMMARY"
+          fi
