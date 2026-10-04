@@ -6,13 +6,13 @@
       "state": "Colorado",
       "county": "Summit County",
       "siteCount": 53,
-      "generatedAt": "2026-10-04T13:57:52.451Z",
+      "generatedAt": "2026-10-04T14:00:39.273Z",
       "idOnlySiteCount": 21,
       "exploreSiteCount": 32
     }
   ],
   "delivery": "github-raw-v4",
-  "generatedAt": "2026-10-04T13:57:52.451Z",
+  "generatedAt": "2026-10-04T14:00:39.273Z",
   "schemaVersion": 1,
   "minimumAppContentSchema": 1
 }
