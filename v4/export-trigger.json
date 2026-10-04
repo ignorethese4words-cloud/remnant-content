@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-10-04T14:05:00Z",
-  "requestedBy": "V4 EXPORT MIGRATION TEST",
-  "reason": "Validate transactional one-site finalization after verified export"
+  "requestSequence": 1,
+  "requestedBy": "V4 DAILY EXPORTER",
+  "reason": "Scheduled daily V4 export"
 }
