@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-10-04T13:50:00Z",
+  "requestedAt": "2026-10-04T14:01:00Z",
   "requestedBy": "V4 EXPORT MIGRATION TEST",
-  "reason": "Validate deterministic Supabase-to-GitHub exporter"
+  "reason": "Retest after finalization array fix"
 }
