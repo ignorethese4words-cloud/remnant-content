@@ -1,0 +1,67 @@
+{
+  "id": "colorado-summitcounty",
+  "sites": [
+    {
+      "id": "CO-SUMMIT-BULLION-MINE",
+      "name": "Bullion Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Summit County County",
+      "overview": [
+        "Discovered around 1870 on Collier Mountain, the Bullion became one of Montezuma’s long-lived underground mining properties. Most of its ore came not from the Bullion vein itself but from the intersecting Yellowjacket vein. The mine grew from early hand development and local smelter shipments into a larger operation with an aerial tram, extensive underground workings, and several thousand tons of production during the early 1900s. It changed hands several times, survived long periods of inactivity, and was again listed for exploration and development in 1952."
+      ],
+      "timeline": [
+        {
+          "text": "Tyler brothers discovered the Bullion vein; the Yellowjacket vein was discovered shortly afterward.",
+          "year": "c. 1870"
+        },
+        {
+          "text": "Two tons of galena and gray-copper ore were sold to local smelters for $290 per ton.",
+          "year": "1882"
+        },
+        {
+          "text": "Mayhem Investment Company acquired the Bullion and began extensive development.",
+          "year": "c. 1900"
+        },
+        {
+          "text": "Several thousand tons of ore were produced after construction of the Bullion aerial tram.",
+          "year": "1902-1903"
+        },
+        {
+          "text": "H. B. Clifford shipped about 200 tons for beneficiation testing; work stopped during the Panic of 1907.",
+          "year": "1907"
+        },
+        {
+          "text": "Lessee Charles Dunn shipped a carload of ore.",
+          "year": "1926"
+        },
+        {
+          "text": "Aerial tram cables were dismantled.",
+          "year": "1928"
+        },
+        {
+          "text": "Colorado listed the Bullion Mine at Montezuma under Rhine & Goodman for exploration and development of lead, silver, and zinc.",
+          "year": "1952"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.59173,
+        "longitude": -105.80143
+      },
+      "moreHistory": [
+        "The Bullion vein was discovered by the Tyler brothers about 1870, followed shortly by the Yellowjacket vein, which supplied nearly all of the mine production. Colonel Williams developed the property through the 1880s and 1890s and sold ore to local smelters; in 1882, two tons of galena and gray-copper ore sold for $290 per ton. The Mayhem Investment Company acquired the mine around 1900 and undertook extensive development, with several thousand tons produced in 1902-03 after construction of an aerial tram. Ownership later passed through the Florence smelter to the Golden Cycle Company. H. B. Clifford shipped about 200 tons in 1907 while testing beneficiation methods, but operations stopped during the Panic of 1907. Lessee Charles Dunn shipped a carload in 1926. By 1928 the tram cables had been dismantled. USGS mapped substantial underground development, including the main adit, cross drift to the Yellowjacket, winzes and sublevels, and extensive stoping on the productive Yellowjacket ore shoot. A Colorado state report shows renewed exploration and development at the Bullion Mine at Montezuma in 1952 under Rhine & Goodman for lead, silver, and zinc."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-04T17:19:17.542Z"
+    }
+  ],
+  "state": "Colorado",
+  "county": "Summit County County",
+  "generatedAt": "2026-10-04T18:00:08.020Z",
+  "schemaVersion": 1
+}

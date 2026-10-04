@@ -23,6 +23,44 @@
       "contentUpdatedAt": "2026-10-03T20:13:53.296Z"
     },
     {
+      "id": "CO-SUMMIT-BOSS-MINE",
+      "name": "Boss Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [
+        "On the north side of North Rock Creek below Keller Mountain lies one of the Gore Range's most substantial historic mining sites. Known as the Boss Group and also the Boss-Thunderbolt, its underground workings followed silver-rich fissure veins through porphyry. The mine's strongest recorded production came from 1882 to 1897, when roughly $222,000 in high-grade silver ore was produced. Gold, lead, zinc and copper were also associated with the deposit. The surviving workings and prominent mine dumps mark a rare, well-documented industrial footprint in a part of the Gore Range where mining was otherwise limited."
+      ],
+      "timeline": [
+        {
+          "text": "Main recorded production period; about $222,000 in high-grade silver ore produced.",
+          "year": "1882-1897"
+        },
+        {
+          "text": "Contemporary mining press reported the Boss and Thunderbolt mines in Croesus holdings on Keller Mountain, with work planned through the Fish tunnel.",
+          "year": "1940"
+        },
+        {
+          "text": "USGS mineral-resource study documented the Boss Group and photographed the Boss mine dumps.",
+          "year": "1970"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.69639,
+        "longitude": -106.19583
+      },
+      "moreHistory": [
+        "The Boss Group was the most significant mining operation in the Gore Range near the Eagles Nest primitive area. USGS records describe an original holding of four patented lode claims, fifteen unpatented lode claims and one unpatented millsite, later including eight patented lode claims and sixteen unpatented, partly overlapping claims. Mining focused on the Boss and Thunderbolt fissure veins in porphyry: the Boss vein averages roughly 3.5 feet wide and the Thunderbolt roughly 5 feet, although mineralized portions were generally narrower and ore shoots commonly formed at vein intersections. The property produced about $222,000 in high-grade silver ore from 1882 through 1897, with smaller production afterward; associated metals included gold, lead, zinc and copper. By 1940 the Boss and Thunderbolt mines were part of Croesus holdings on Keller Mountain, with planned work through the Fish tunnel. USGS field documentation from 1970 also records the Boss mine dumps, preserving a visible surface remnant of the operation."
+      ],
+      "componentType": "underground_working",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-04T17:17:37.211Z"
+    },
+    {
       "id": "CO-SUMMIT-BOSTON-MINE",
       "name": "Boston Mine",
       "tier": "ID ONLY",
@@ -88,6 +126,27 @@
       "componentType": "Mine",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-03T17:14:09.472Z"
+    },
+    {
+      "id": "CO-SUMMIT-BULLION-KING-MINE",
+      "name": "Bullion King Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.49222,
+        "longitude": -106.03528
+      },
+      "moreHistory": [],
+      "componentType": "shaft",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-04T16:09:12.880Z"
     },
     {
       "id": "CO-SUMMIT-CALIFORNIA-MINE",
@@ -428,6 +487,40 @@
       "componentType": "Underground mine",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-04T08:10:44.461Z"
+    },
+    {
+      "id": "CO-SUMMIT-GENERAL-TELLER-MINE",
+      "name": "General Teller Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [
+        "High on Glacier Mountain above the Montezuma mining district, the General Teller records two distinct chapters of Colorado mining. It belonged to the district’s early silver-lode development and later drew federal attention during the mid-century search for radioactive minerals. USGS geologists documented a shaft, lower adit, crosscuts and drifts on a steep fissure vein, leaving a well-defined historic mining target that can still be tied to the mapped General Teller Mine locality."
+      ],
+      "timeline": [
+        {
+          "text": "General Teller Lode was developed as part of the Montezuma Silver Mining Company property on Glacier/Teller Mountain; a period mining review listed the lode at 800 feet.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS examined the General Teller prospect for anomalous radioactivity and documented its shaft, lower adit, crosscuts, drifts, vein geometry, access, and holder A. R. Rhine.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.5555424,
+        "longitude": -105.8819567
+      },
+      "moreHistory": [
+        "The General Teller was one of the silver-bearing lodes on Glacier/Teller Mountain associated with the Montezuma Silver Mining Company in the nineteenth-century Montezuma district. A historical mining review listed an 800-foot General Teller lode among the company property. By the mid-twentieth century the site was being examined as the General Teller prospect for anomalous radioactivity. USGS reported it held by A. R. Rhine of Denver, accessible by steep road from St. Johns Creek, with underground workings consisting of a shaft and lower adit with short crosscuts and drifts. The fissure vein struck about N. 63 E., dipped 75 NW., and was 36–42 inches thick. The broader Montezuma belt was chiefly known for silver-lead ores, while the General Teller and Bell vein were specifically noted for anomalous radioactivity."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-04T14:07:53.597Z"
     },
     {
       "id": "CO-SUMMIT-GERMANIA-MINE",
@@ -1707,6 +1800,44 @@
       "contentUpdatedAt": "2026-10-04T10:13:16.881Z"
     },
     {
+      "id": "CO-SUMMIT-WARRIORS-MARK-MINE",
+      "name": "Warriors Mark Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "Mine",
+      "location": "Summit County",
+      "overview": [
+        "High above Breckenridge in Indiana Gulch, Warriors Mark was more than another mining claim: it was the mine around which Father John Lewis Dyer tried to build a community. Dyer established a cabin below his workings in 1881, and the settlement that grew around it became Dyersville. The mine and ghost-town story remain tightly linked, with historic workings still located above the Dyersville ruins."
+      ],
+      "timeline": [
+        {
+          "text": "Father John Lewis Dyer established his cabin below the Warriors Mark Mine in Indiana Gulch; the settlement became Dyersville.",
+          "year": "1881"
+        },
+        {
+          "text": "Historical accounts report a mill erected to serve the mine.",
+          "year": "1883"
+        },
+        {
+          "text": "Secondary historical accounts commonly place the end of Warriors Mark mining operations in 1908.",
+          "year": "1908"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.41722,
+        "longitude": -105.98472
+      },
+      "moreHistory": [
+        "Father John Lewis Dyer, the Methodist circuit rider and prospector, located mining claims and established his Warriors Mark operation in upper Indiana Gulch. In January 1881 he built a cabin below the mine and founded the settlement that became Dyersville. Contemporary/local historical synthesis ties the community directly to the mine and records Dyer's attempt to create a quieter settlement away from Breckenridge. Secondary historical accounts report that Dyer worked the property briefly and sold his interest, that a mill was erected in 1883, and that mining continued into the early twentieth century, with closure commonly placed in 1908. The surviving mine site remains uphill from the Dyersville ruins and the mine's name later carried into the Warriors Mark neighborhood in Breckenridge."
+      ],
+      "componentType": "Mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-04T14:08:11.358Z"
+    },
+    {
       "id": "CO-SUMMIT-WASHINGTON-MINE",
       "name": "Washington Mine",
       "tier": "EXPLORE",
@@ -1897,6 +2028,6 @@
   ],
   "state": "Colorado",
   "county": "Summit County",
-  "generatedAt": "2026-10-04T14:04:52.470Z",
+  "generatedAt": "2026-10-04T18:00:08.020Z",
   "schemaVersion": 1
 }
