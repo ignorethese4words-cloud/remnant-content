@@ -2,12 +2,51 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta http-equiv="refresh" content="0; url=https://gbgehvkacuoyavgoucou.supabase.co/functions/v1/remnant-v4-dashboard">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#090909">
 <title>Remnant V4 Dashboard</title>
+<style>
+:root{--panel:#161616;--line:#303030;--gold:#e0b85d;--text:#f5f5f5;--muted:#9a9a9a}
+*{box-sizing:border-box}body{margin:0;background:linear-gradient(180deg,#070707,#101010 45%,#090909);color:var(--text);font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;min-height:100vh}.wrap{max-width:1050px;margin:auto;padding:18px 12px 40px}header{display:flex;justify-content:space-between;gap:14px;align-items:flex-end;margin-bottom:16px}h1{margin:0;font-size:28px;letter-spacing:.04em}header p{margin:4px 0 0;color:var(--gold);font-weight:800;font-size:11px;letter-spacing:.1em}.sync{text-align:right;color:var(--muted);font-size:10px;line-height:1.4}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:9px}.card{background:linear-gradient(180deg,#1b1b1b,#141414);border:1px solid var(--line);border-radius:13px;padding:14px;min-height:102px}.card .label{font-size:9px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-weight:800}.card .value{font-size:30px;font-weight:850;margin-top:8px;line-height:1}.card .note{font-size:10px;color:var(--muted);margin-top:7px;line-height:1.35}.card.hi{border-color:#6d5421;box-shadow:inset 0 0 0 1px rgba(224,184,93,.07)}.card.hi .value{color:var(--gold)}section{margin-top:14px;background:rgba(22,22,22,.97);border:1px solid var(--line);border-radius:13px;overflow:hidden}section h2{font-size:14px;margin:0;padding:13px;border-bottom:1px solid var(--line)}.scroll{overflow:auto}table{width:100%;border-collapse:collapse;min-width:500px}th,td{padding:10px 12px;border-bottom:1px solid #292929;text-align:left;font-size:11px}th{color:var(--muted);font-size:9px;text-transform:uppercase;letter-spacing:.07em}.status{margin-top:12px;color:var(--muted);font-size:10px}.refresh{display:inline-block;margin-top:14px;color:var(--gold);font-weight:700;font-size:12px;text-decoration:none}
+@media(max-width:700px){.grid{grid-template-columns:repeat(2,1fr)}h1{font-size:23px}.card .value{font-size:28px}.sync{font-size:9px}.wrap{padding:14px 10px 32px}}
+</style>
 </head>
-<body style="font-family:system-ui;background:#090909;color:#f5f5f5;padding:24px">
-<p>Opening the Remnant V4 dashboard…</p>
-<p><a style="color:#e0b85d" href="https://gbgehvkacuoyavgoucou.supabase.co/functions/v1/remnant-v4-dashboard">Open dashboard</a></p>
+<body>
+<div class="wrap">
+<header><div><h1>REMNANT</h1><p>V4 PIPELINE DASHBOARD</p></div><div class="sync" id="sync">Loading live V4 data…</div></header>
+<div class="grid">
+<div class="card hi"><div class="label">Total V4 sites</div><div class="value" id="total">162</div><div class="note" id="total-note">2 counties</div></div>
+<div class="card hi"><div class="label">Published</div><div class="value" id="published">97</div><div class="note" id="published-note">43 Explore · 54 ID-only</div></div>
+<div class="card hi"><div class="label">Research backlog</div><div class="value" id="researchq">42</div><div class="note" id="research-note">38 completed in last 24h</div></div>
+<div class="card hi"><div class="label">App prep backlog</div><div class="value" id="appq">2</div><div class="note" id="app-note">36 completed in last 24h</div></div>
+<div class="card"><div class="label">Discovered</div><div class="value" id="discovered">42</div><div class="note">Waiting for research</div></div>
+<div class="card"><div class="label">Researched</div><div class="value" id="researched">2</div><div class="note">Waiting for app prep</div></div>
+<div class="card"><div class="label">App ready</div><div class="value" id="appready">4</div><div class="note">Ready for export/publish</div></div>
+<div class="card"><div class="label">Holds</div><div class="value" id="holds">17</div><div class="note">Needs review or more evidence</div></div>
+</div>
+<section><h2>County breakdown</h2><div class="scroll"><table><thead><tr><th>County</th><th>Total</th><th>Discovered</th><th>Published</th><th>Holds</th></tr></thead><tbody id="county-body"><tr><td><b>Lake</b></td><td>15</td><td>15</td><td>0</td><td>0</td></tr><tr><td><b>Summit</b></td><td>147</td><td>27</td><td>97</td><td>17</td></tr></tbody></table></div></section>
+<a class="refresh" href="" id="refresh">Refresh numbers</a>
+<div class="status" id="status">Showing last verified numbers until live refresh completes.</div>
+</div>
+<script>
+const DATA_URL="https://gbgehvkacuoyavgoucou.supabase.co/functions/v1/remnant-v4-dashboard-data";
+const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
+const fmt=v=>{if(!v)return"—";try{return new Intl.DateTimeFormat("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit",timeZone:"America/Denver",timeZoneName:"short"}).format(new Date(v))}catch{return String(v)}};
+async function load(){
+ try{
+  const r=await fetch(DATA_URL,{cache:"no-store"}); if(!r.ok)throw new Error("HTTP "+r.status); const d=await r.json(); if(d.error)throw new Error(d.error);
+  const o=d.overview||{},p=d.pipeline||{},counties=d.counties||[];
+  document.getElementById("total").textContent=o.total??"—"; document.getElementById("total-note").textContent=`${o.counties??counties.length} counties`;
+  document.getElementById("published").textContent=o.published??"—"; document.getElementById("published-note").textContent=`${o.explore??0} Explore · ${o.id_only??0} ID-only`;
+  document.getElementById("researchq").textContent=p.research_queued??"—"; document.getElementById("research-note").textContent=`${p.research_24h??0} completed in last 24h`;
+  document.getElementById("appq").textContent=p.app_prep_queued??"—"; document.getElementById("app-note").textContent=`${p.app_prep_24h??0} completed in last 24h`;
+  document.getElementById("discovered").textContent=o.discovered??"—"; document.getElementById("researched").textContent=o.researched??"—"; document.getElementById("appready").textContent=o.app_ready??"—"; document.getElementById("holds").textContent=o.holds??"—";
+  document.getElementById("county-body").innerHTML=counties.map(c=>`<tr><td><b>${esc(c.county)}</b></td><td>${esc(c.total)}</td><td>${esc(c.discovered)}</td><td>${esc(c.published)}</td><td>${esc(c.holds)}</td></tr>`).join("");
+  document.getElementById("sync").innerHTML=`Live V4 data<br>${esc(fmt(d.generated_at))}`; document.getElementById("status").textContent="Live data loaded.";
+ }catch(e){document.getElementById("status").textContent="Live refresh unavailable — showing the last verified snapshot.";}
+}
+document.getElementById("refresh").addEventListener("click",e=>{e.preventDefault();load()});
+load(); setInterval(load,300000);
+</script>
 </body>
 </html>
