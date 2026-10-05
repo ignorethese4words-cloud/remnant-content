@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-10-05T21:14:55.415507+00:00",
+  "overview": {
+    "total": 162,
+    "published": 97,
+    "explore": 43,
+    "id_only": 54,
+    "discovered": 42,
+    "researched": 2,
+    "app_ready": 4,
+    "holds": 17,
+    "counties": 2
+  },
+  "pipeline": {
+    "research_queued": 42,
+    "research_claimed": 0,
+    "research_24h": 38,
+    "app_prep_queued": 2,
+    "app_prep_claimed": 0,
+    "app_prep_24h": 36
+  },
+  "counties": [
+    {"county":"Lake","total":15,"discovered":15,"researched":0,"app_ready":0,"published":0,"holds":0,"explore":0,"id_only":0},
+    {"county":"Summit","total":147,"discovered":27,"researched":2,"app_ready":4,"published":97,"holds":17,"explore":43,"id_only":54}
+  ],
+  "recent": [
+    {"site_id":"CO-LAKE-LEADVILLE-MINE-DRAINAGE-TUNNEL","name":"Leadville Mine Drainage Tunnel","county":"Lake","status":"DISCOVERED","tier":null,"updated_at":"2026-10-05T20:40:16.612573+00:00"},
+    {"site_id":"CO-LAKE-HARRISON-REDUCTION-WORKS","name":"Harrison Reduction Works","county":"Lake","status":"DISCOVERED","tier":null,"updated_at":"2026-10-05T20:40:08.839708+00:00"},
+    {"site_id":"CO-LAKE-YAK-TUNNEL","name":"Yak Tunnel","county":"Lake","status":"DISCOVERED","tier":null,"updated_at":"2026-10-05T20:39:58.839832+00:00"},
+    {"site_id":"CO-SUMMIT-PRESTON-TUNNEL","name":"Preston Tunnel","county":"Summit","status":"RESEARCHED","tier":"ID ONLY","updated_at":"2026-10-05T20:30:07.472366+00:00"},
+    {"site_id":"CO-SUMMIT-JOSEPHINE-MINE","name":"Josephine Mine","county":"Summit","status":"APP_READY","tier":"EXPLORE","updated_at":"2026-10-05T20:13:06.847144+00:00"},
+    {"site_id":"CO-SUMMIT-TIGER-MINE","name":"Tiger Mine","county":"Summit","status":"RESEARCHED","tier":"ID ONLY","updated_at":"2026-10-05T19:56:55.044155+00:00"},
+    {"site_id":"CO-SUMMIT-KEY-WEST-MINE","name":"Key West Mine","county":"Summit","status":"APP_READY","tier":"ID ONLY","updated_at":"2026-10-05T19:08:42.509938+00:00"},
+    {"site_id":"CO-LAKE-MINNIE-PUMP-SHAFT","name":"Minnie Pump Shaft","county":"Lake","status":"DISCOVERED","tier":null,"updated_at":"2026-10-05T18:46:42.183641+00:00"}
+  ]
+}
