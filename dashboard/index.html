@@ -2,52 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#090909">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="refresh" content="0; url=https://gbgehvkacuoyavgoucou.supabase.co/functions/v1/remnant-v4-dashboard">
 <title>Remnant V4 Dashboard</title>
-<style>
-:root{--bg:#090909;--panel:#161616;--line:#303030;--gold:#e0b85d;--green:#7fcf8b;--amber:#f2c46d;--red:#e88484;--text:#f5f5f5;--muted:#9a9a9a}
-*{box-sizing:border-box}body{margin:0;background:linear-gradient(180deg,#070707,#101010 45%,#090909);color:var(--text);font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;min-height:100vh}
-.wrap{max-width:1080px;margin:auto;padding:20px 14px 48px}header{display:flex;justify-content:space-between;gap:16px;align-items:flex-end;margin-bottom:18px}h1{margin:0;font-size:29px;letter-spacing:.04em}header p{margin:5px 0 0;color:var(--gold);font-weight:800;font-size:12px;letter-spacing:.1em}.sync{text-align:right;color:var(--muted);font-size:11px;line-height:1.5}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}.card{background:linear-gradient(180deg,#1b1b1b,#141414);border:1px solid var(--line);border-radius:14px;padding:15px;min-height:108px}.card .label{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-weight:800}.card .value{font-size:31px;font-weight:850;margin-top:8px;line-height:1}.card .note{font-size:11px;color:var(--muted);margin-top:8px}.gold{border-color:#6d5421}.gold .value{color:var(--gold)}.green .value{color:var(--green)}.amber .value{color:var(--amber)}.red .value{color:var(--red)}section{margin-top:16px;background:rgba(22,22,22,.97);border:1px solid var(--line);border-radius:14px;overflow:hidden}section h2{font-size:15px;margin:0;padding:15px;border-bottom:1px solid var(--line)}.scroll{overflow:auto}table{width:100%;border-collapse:collapse;min-width:720px}th,td{padding:11px 14px;border-bottom:1px solid #292929;text-align:left;font-size:12px}th{color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:.07em}.status{padding:14px;color:var(--muted);font-size:11px}@media(max-width:760px){.grid{grid-template-columns:repeat(2,1fr)}h1{font-size:24px}.card .value{font-size:28px}.sync{font-size:9px}}
-</style>
 </head>
-<body>
-<div class="wrap">
-<header><div><h1>REMNANT V4</h1><p>PIPELINE DASHBOARD</p></div><div class="sync" id="sync">Loading…</div></header>
-<div class="grid">
-<div class="card gold"><div class="label">Total V4 Sites</div><div class="value" id="total">—</div><div class="note" id="counties-note">— counties</div></div>
-<div class="card green"><div class="label">Published</div><div class="value" id="published">—</div><div class="note" id="tiers-note">— Explore · — ID-only</div></div>
-<div class="card amber"><div class="label">Research Backlog</div><div class="value" id="research-q">—</div><div class="note" id="research-note">— completed last 24h</div></div>
-<div class="card"><div class="label">App Prep Backlog</div><div class="value" id="app-q">—</div><div class="note" id="app-note">— completed last 24h</div></div>
-<div class="card"><div class="label">Discovered</div><div class="value" id="discovered">—</div><div class="note">Waiting on research</div></div>
-<div class="card"><div class="label">Researched</div><div class="value" id="researched">—</div><div class="note">Waiting on app prep</div></div>
-<div class="card"><div class="label">App Ready</div><div class="value" id="app-ready">—</div><div class="note">Waiting on export/publish</div></div>
-<div class="card red"><div class="label">Holds</div><div class="value" id="holds">—</div><div class="note">Needs evidence/manual review</div></div>
-</div>
-<section><h2>County breakdown</h2><div class="scroll"><table><thead><tr><th>County</th><th>Total</th><th>Discovered</th><th>Researched</th><th>App Ready</th><th>Published</th><th>Holds</th></tr></thead><tbody id="county-body"><tr><td colspan="7">Loading…</td></tr></tbody></table></div></section>
-<div class="status" id="status">Latest verified V4 snapshot.</div>
-</div>
-<script>
-const DATA_URL="./v4-data.json";
-const fmt=v=>{try{return new Intl.DateTimeFormat("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit",timeZone:"America/Denver",timeZoneName:"short"}).format(new Date(v))}catch{return "—"}};
-fetch(DATA_URL+"?t="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error();return r.json()}).then(d=>{
- const o=d.overview||{},p=d.pipeline||{},c=d.counties||[];
- document.getElementById("total").textContent=o.total??"—";
- document.getElementById("published").textContent=o.published??"—";
- document.getElementById("tiers-note").textContent=`${o.explore??0} Explore · ${o.id_only??0} ID-only`;
- document.getElementById("research-q").textContent=p.research_queued??"—";
- document.getElementById("research-note").textContent=`${p.research_24h??0} completed last 24h`;
- document.getElementById("app-q").textContent=p.app_prep_queued??"—";
- document.getElementById("app-note").textContent=`${p.app_prep_24h??0} completed last 24h`;
- document.getElementById("discovered").textContent=o.discovered??"—";
- document.getElementById("researched").textContent=o.researched??"—";
- document.getElementById("app-ready").textContent=o.app_ready??"—";
- document.getElementById("holds").textContent=o.holds??"—";
- document.getElementById("counties-note").textContent=`${o.counties??0} counties`;
- document.getElementById("sync").textContent=`Updated ${fmt(d.generated_at)}`;
- document.getElementById("county-body").innerHTML=c.map(x=>`<tr><td><b>${x.county}</b></td><td>${x.total}</td><td>${x.discovered}</td><td>${x.researched}</td><td>${x.app_ready}</td><td>${x.published}</td><td>${x.holds}</td></tr>`).join("")||'<tr><td colspan="7">No county data</td></tr>';
- document.getElementById("status").textContent="Simple V4 worker snapshot. Refresh the page for the latest saved numbers.";
-}).catch(()=>{document.getElementById("status").textContent="Dashboard snapshot could not load.";});
-</script>
+<body style="font-family:system-ui;background:#090909;color:#f5f5f5;padding:24px">
+<p>Opening the Remnant V4 dashboard…</p>
+<p><a style="color:#e0b85d" href="https://gbgehvkacuoyavgoucou.supabase.co/functions/v1/remnant-v4-dashboard">Open dashboard</a></p>
 </body>
 </html>
