@@ -1,0 +1,102 @@
+name: V4 Media Ingest
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'v4/media-requests/*.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: remnant-v4-media-ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch and verify approved media requests
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          requests=(v4/media-requests/*.json)
+          if [ ${#requests[@]} -eq 0 ]; then
+            echo 'No media requests found.'
+            exit 0
+          fi
+
+          for request in "${requests[@]}"; do
+            source_uri=$(jq -er '.sourceUri' "$request")
+            output_path=$(jq -er '.outputPath' "$request")
+            expected_mime=$(jq -r '.expectedMime // "image/jpeg"' "$request")
+
+            if [[ ! "$source_uri" =~ ^https:// ]]; then
+              echo "Unsafe media source URI in $request" >&2
+              exit 1
+            fi
+            if [[ ! "$output_path" =~ ^v4/media/[A-Za-z0-9._/-]+\.(jpg|jpeg|png|webp)$ ]] || [[ "$output_path" == *'..'* ]]; then
+              echo "Unsafe media output path in $request: $output_path" >&2
+              exit 1
+            fi
+
+            tmp=$(mktemp --suffix=.media)
+            curl --fail --location --retry 2 --connect-timeout 20 --max-time 120 \
+              -A 'Remnant-V4-Media-Ingest/1.0' \
+              "$source_uri" -o "$tmp"
+
+            actual_mime=$(file --brief --mime-type "$tmp")
+            if [[ "$actual_mime" != "$expected_mime" ]]; then
+              echo "Unexpected MIME for $request: expected $expected_mime, got $actual_mime" >&2
+              exit 1
+            fi
+
+            bytes=$(stat -c%s "$tmp")
+            if (( bytes < 10000 )); then
+              echo "Media too small to be a useful image for $request: $bytes bytes" >&2
+              exit 1
+            fi
+
+            mapfile -t tokens < <(jq -r '.expectedOcrTokens[]? // empty' "$request")
+            if (( ${#tokens[@]} > 0 )); then
+              if ! command -v tesseract >/dev/null 2>&1; then
+                sudo apt-get update -qq
+                sudo apt-get install -y -qq tesseract-ocr
+              fi
+              ocr=$(tesseract "$tmp" stdout 2>/dev/null | tr '\n' ' ')
+              for token in "${tokens[@]}"; do
+                if ! grep -Fqi -- "$token" <<<"$ocr"; then
+                  echo "OCR verification failed for $request: missing token '$token'" >&2
+                  echo "OCR sample: ${ocr:0:1200}" >&2
+                  exit 1
+                fi
+              done
+            fi
+
+            mkdir -p "$(dirname "$output_path")"
+            cp "$tmp" "$output_path"
+            rm -f "$tmp"
+            echo "Verified media: $output_path ($actual_mime, $bytes bytes)"
+          done
+
+      - name: Commit verified media bytes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'Remnant V4 Media Ingest'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -- v4/media/
+          if git diff --cached --quiet; then
+            echo 'No media byte changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Ingest verified V4 media assets'
+          git push origin HEAD:main
