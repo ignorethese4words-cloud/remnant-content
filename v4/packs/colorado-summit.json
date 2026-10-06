@@ -191,6 +191,111 @@
       "contentUpdatedAt": "2026-10-05T13:47:52.055Z"
     },
     {
+      "id": "CO-SUMMIT-ARRASTRE-QUEEN-MINE",
+      "name": "Arrastre Queen Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "Mine",
+      "location": "Summit County",
+      "overview": [
+        "Known first as the Rochester Queen and later as the Arrastre Queen, this North Fork Swan River mine helped give rise to the short-lived settlement of Rexford. Its early-1880s workings included a shaft, tunnel, drifts and winze, plus a mill connected to the portal by wooden tram. USGS records meaningful early production and shipments to the Argo smelter, making this a well-documented mining site rather than simply a mapped name."
+      ],
+      "timeline": [
+        {
+          "text": "Daniel Patrick discovered the Rochester Queen.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The mine reportedly produced about $5,000 in ore per month for three months and began shipments to the Argo smelter.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Ore shipments to the Argo smelter continued; Rexford developed a few hundred yards below the mine.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The property had a 75-foot shaft, 325 feet of drifts, a 100-foot tunnel and a 75-foot winze; USGS notes no work was done that year.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.533056,
+        "longitude": -105.901944
+      },
+      "moreHistory": [
+        "Discovered by Daniel Patrick about 1880, the Rochester Queen was substantially developed by 1883 with a 75-foot shaft, 325 feet of drifts, a 100-foot tunnel, and a 75-foot winze. The work was important enough that the settlement of Rexford arose a few hundred yards below the mine. A mill was built and linked to the mine portal by a wooden tram, and USGS reported that ore was milled for many years. Contemporary production summarized by USGS recorded about $5,000 worth of ore per month for three months in 1881, with shipments to the Argo smelter in 1881 and 1882."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T01:16:17.202Z"
+    },
+    {
+      "id": "CO-SUMMIT-ATLANTIC-MINE",
+      "name": "Atlantic Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "Mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.57195,
+        "longitude": -105.84805
+      },
+      "moreHistory": [],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T00:15:09.873Z"
+    },
+    {
+      "id": "CO-SUMMIT-BEMROSE-MINE",
+      "name": "Bemrose Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [
+        "High above the Blue River near Hoosier Pass, the Bemrose-Bostwick placer tells the story of miners trying to recover gold where elevation and water supply sharply limited the working season. William Bemrose is documented with the Hoosier Gulch placer by 1879, and federal mining reports describe Bemrose & Co. receiving worthwhile returns despite the short season and scant water. The historic operation later became known in records as the Bemrose-Bostwick placer and saw additional periods of activity, making it a useful window into the challenges of high-country placer mining in Summit County."
+      ],
+      "timeline": [
+        {
+          "text": "The Bemrose-Bostwick placer claim was reported as located in 1860 in later mining-directory accounts.",
+          "year": "1860"
+        },
+        {
+          "text": "Bemrose & Co. worked placer ground in Hoosier Gulch during short high-altitude seasons constrained by scarce water; federal reporting described remunerative returns.",
+          "year": "1870s"
+        },
+        {
+          "text": "Colorado mine-directory records identify William Bemrose with the Hoosier Gulch Placer in Summit County.",
+          "year": "1879"
+        },
+        {
+          "text": "Historical compilations document renewed/intermittent Bemrose-Bostwick placer activity, including work in the early twentieth century.",
+          "year": "20th century"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.3702662,
+        "longitude": -106.0614079
+      },
+      "moreHistory": [
+        "The Bemrose-Bostwick placer camp was an early high-elevation gold placer operation in Hoosier Gulch. Historical federal reporting describes Bemrose & Co. mining the Upper Blue River/Hoosier Gulch placers during a short season because of altitude and scarce water, yet receiving remunerative returns. The 1879 Colorado mine directory index identifies William Bemrose with the Hoosier Gulch Placer in Summit County. Later historical compilations describe William Bemrose and Henry M. Bostwick as operators of the camp, with principal production in the 1870s and renewed work in the twentieth century. The operation is therefore both specifically identifiable and historically substantial enough for an Explore treatment."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T11:12:26.814Z"
+    },
+    {
       "id": "CO-SUMMIT-BOSS-MINE",
       "name": "Boss Mine",
       "tier": "EXPLORE",
@@ -248,6 +353,27 @@
       "componentType": "Mine",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-04T04:11:04.006Z"
+    },
+    {
+      "id": "CO-SUMMIT-BRAGANZA-MINE",
+      "name": "Braganza Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "Mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.592487,
+        "longitude": -105.867234
+      },
+      "moreHistory": [],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-05T23:08:19.751Z"
     },
     {
       "id": "CO-SUMMIT-BRIAR-ROSE-MINE",
@@ -610,6 +736,27 @@
       "contentUpdatedAt": "2026-10-04T04:11:20.268Z"
     },
     {
+      "id": "CO-SUMMIT-COMMODORE-PLACER-MINE",
+      "name": "Commodore Placer Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.4711,
+        "longitude": -106.0253
+      },
+      "moreHistory": [],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T08:10:17.616Z"
+    },
+    {
       "id": "CO-SUMMIT-COUNTRY-BOY-MINE",
       "name": "Country Boy Mine",
       "tier": "EXPLORE",
@@ -715,6 +862,27 @@
       "contentUpdatedAt": "2026-10-04T09:12:43.319Z"
     },
     {
+      "id": "CO-SUMMIT-EL-DORADO-SHAFT-MINE",
+      "name": "El Dorado Shaft Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.4338763,
+        "longitude": -106.1886341
+      },
+      "moreHistory": [],
+      "componentType": "shaft",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T09:08:53.627Z"
+    },
+    {
       "id": "CO-SUMMIT-ELISE-MINE",
       "name": "Elise Mine",
       "tier": "ID ONLY",
@@ -734,6 +902,65 @@
       "componentType": "mine",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-05T10:11:43.263Z"
+    },
+    {
+      "id": "CO-SUMMIT-ELLA-MINE",
+      "name": "Ella Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.4902778,
+        "longitude": -106.0033333
+      },
+      "moreHistory": [],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-05T18:10:14.426Z"
+    },
+    {
+      "id": "CO-SUMMIT-EQUITY-MINE",
+      "name": "Equity Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "historic mining",
+      "location": "Summit County",
+      "overview": [
+        "On Glacier Mountain above Montezuma, the Equity Mine preserves a distinct chapter of the district’s underground mining history. Its adit was begun in the 1880s as miners tried to reach the Mark Twain Extension at depth. Renewed development in the early 1920s expanded the connected workings, and the vein cut by the Equity adit became the principal stoped vein in the group. The historic mine remains separately identifiable from the dense cluster of neighboring workings around Montezuma."
+      ],
+      "timeline": [
+        {
+          "text": "Equity and associated tunnels were begun to cut the Mark Twain Extension at depth.",
+          "year": "1880s"
+        },
+        {
+          "text": "Most development work was carried out by the Jerry Mining Co. and Washington Gold Quartz Mining Co.",
+          "year": "1922-1925"
+        },
+        {
+          "text": "The eastward-trending vein cut by the Equity adit was the only vein in the group stoped to any extent; limited ore was also shipped from a northeasterly vein in lower workings.",
+          "year": "1920s"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.576376,
+        "longitude": -105.870845
+      },
+      "moreHistory": [
+        "USGS Professional Paper 178 records that the Equity and associated Jerry-area tunnels were begun in the 1880s to intersect the Mark Twain Extension at depth. Most later development was performed by the Jerry Mining Co. and Washington Gold Quartz Mining Co. during 1922-1925. The Equity adit cut an eastward-trending vein that was the only vein in this group stoped to any extent; the lower workings also yielded a few carloads of ore from a northeasterly vein. This gives the Equity working meaningful site-specific development and mining history rather than merely a name on a map."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T07:13:31.034Z"
     },
     {
       "id": "CO-SUMMIT-EXCELSIOR-MINE",
@@ -1144,6 +1371,27 @@
       "contentUpdatedAt": "2026-10-05T17:12:48.804Z"
     },
     {
+      "id": "CO-SUMMIT-HENDRIX-GOLD-MINING-PROPERTY",
+      "name": "Hendrix Gold Mining Property",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "Mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.4860981,
+        "longitude": -106.0122398
+      },
+      "moreHistory": [],
+      "componentType": "Mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-05T22:14:08.689Z"
+    },
+    {
       "id": "CO-SUMMIT-HI-HO-MINE",
       "name": "Hi Ho Mine",
       "tier": "ID ONLY",
@@ -1412,6 +1660,48 @@
       "contentUpdatedAt": "2026-10-03T13:40:42.934Z"
     },
     {
+      "id": "CO-SUMMIT-JOSEPHINE-MINE",
+      "name": "Josephine Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [
+        "Located in the high country on the north slope of Kelso Mountain, the Josephine Mine was a lead-silver operation whose vein was first located in 1876. Early development was modest, but work expanded after 1900 into three substantial adits driven hundreds of feet into the mountain. USGS records show intermittent lead-silver production beginning around 1905 and preserve unusually detailed information about the mine’s workings, geology, and vein structure, making Josephine a well-documented example of mining in the Argentine district."
+      ],
+      "timeline": [
+        {
+          "text": "Josephine vein located.",
+          "year": "1876"
+        },
+        {
+          "text": "Upper and intermediate adits had been driven about 60 and 120 feet respectively.",
+          "year": "1883"
+        },
+        {
+          "text": "Most of the mine development was completed.",
+          "year": "after 1900"
+        },
+        {
+          "text": "Mine became an intermittent producer of lead-silver ore.",
+          "year": "1905 onward"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.672765,
+        "longitude": -105.800833
+      },
+      "moreHistory": [
+        "The Josephine vein was located in 1876. By 1883 the upper and intermediate adits had been driven 60 and 120 feet, but most development occurred after 1900. USGS documented three south-driven adits extending about 320, 1,090, and 960 feet. Production was probably small before 1905, after which Josephine became an intermittent producer of lead-silver ore. The vein strikes about N 12° E and dips about 67° W in Silver Plume granite and Idaho Springs schist and gneiss."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-05T20:13:06.847Z"
+    },
+    {
       "id": "CO-SUMMIT-JUMBO-MINE",
       "name": "Jumbo Mine",
       "tier": "EXPLORE",
@@ -1452,6 +1742,90 @@
       "componentType": "Mine",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-03T21:10:41.792Z"
+    },
+    {
+      "id": "CO-SUMMIT-JUNO-MINE",
+      "name": "Juno Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.5725,
+        "longitude": -106.111944
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T02:11:14.348Z"
+    },
+    {
+      "id": "CO-SUMMIT-KEY-WEST-MINE",
+      "name": "Key West Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.4875,
+        "longitude": -105.9602778
+      },
+      "moreHistory": [],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-05T19:08:42.509Z"
+    },
+    {
+      "id": "CO-SUMMIT-KIMBERLY-MINE",
+      "name": "Kimberly Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [
+        "High above the old Kokomo mining district, the Kimberly Mine became part of a substantial World War II-era base-metal operation. Contemporary mining reports describe the Kimberly mines shipping high-grade zinc-lead ore at roughly 1,500 tons per month in early 1944, with plans to raise output substantially. By the following year, the Kimberly-Breen operation was credited with more than 2.5 million pounds of lead and zinc produced during 1944, alongside gold and silver values. Federal investigators were also drilling from Kimberly's underground workings. The mapped Kimberly Mine is kept distinct here from the nearby Breene/Wilfley-Kimberly working so the scan target remains tied to the correct physical feature."
+      ],
+      "timeline": [
+        {
+          "text": "The Mining Journal reported Kokomo-Kimberly Mines, Inc. operating the Kimberly mines at Kokomo, shipping about 1,500 tons of high-grade zinc-lead ore monthly and working toward 2,600 tons per month.",
+          "year": "1944-02"
+        },
+        {
+          "text": "Company management reported roughly 80,000 tons of shipping-grade ore developed and another 150,000 tons partially developed.",
+          "year": "1944"
+        },
+        {
+          "text": "Kokomo Kimberly Mines, Inc. produced more than 2.5 million pounds of lead and zinc during the year from the Kimberly-Breen operation near Kokomo.",
+          "year": "1944"
+        },
+        {
+          "text": "Contemporary reporting noted U.S. Bureau of Mines district investigation and diamond drilling from underground Kimberly workings.",
+          "year": "1945"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.42139,
+        "longitude": -106.19666
+      },
+      "moreHistory": [
+        "Kimberly was an active Kokomo-area lead-zinc-gold-silver operation during World War II. A February 1944 Mining Journal report stated that Kokomo-Kimberly Mines, Inc. was operating the Kimberly mines at Kokomo and shipping about 1,500 tons of high-grade zinc-lead ore per month, with production being increased toward 2,600 tons monthly. President and general manager J. Ben Ross reported about 80,000 tons of shipping-grade ore developed and another 150,000 tons partially developed. In 1945 the same journal reported that Kokomo Kimberly Mines, Inc. had produced more than 2.5 million pounds of lead and zinc during 1944 from the Kimberly-Breen mines near Kokomo; ore values included lead, zinc, gold, and silver. It also reported U.S. Bureau of Mines investigation of the district and diamond drilling from underground Kimberly workings. These contemporary records establish substantial, site-specific wartime activity while also showing that Kimberly operated in conjunction with nearby Breen/Breene workings."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T11:11:51.255Z"
     },
     {
       "id": "CO-SUMMIT-KING-SOLOMON-MINE",
@@ -1515,6 +1889,48 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-03T22:17:58.175Z"
+    },
+    {
+      "id": "CO-SUMMIT-KITTY-INNES-MINE",
+      "name": "Kitty Innes Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Summit County",
+      "overview": [
+        "West of Frisco, the Kitty Innes Mine connects the town’s founding generation directly to the surrounding mineral landscape. Founder Henry Learned managed the mine while helping guide Frisco civic life. Historical records trace the property from its association with the Mount Royal Mining Company in the early 1880s through later underground development: in 1906 miners were extending a lower tunnel and preparing an upraise to connect with the No. 2 level before stoping. A mine building was also moved into Frisco around 1897, leaving a physical link between the workings and the town."
+      ],
+      "timeline": [
+        {
+          "text": "The Colorado Mining Directory indexes Kittie Innes in Summit County under the Mount Royal Mining Company.",
+          "year": "1883"
+        },
+        {
+          "text": "Henry Learned, identified by the Town of Frisco survey as manager of his Kitty Innes Mine, serves as Frisco mayor and justice of the peace.",
+          "year": "1885"
+        },
+        {
+          "text": "A building is moved from the Kitty Innes Mine to what is recorded as 420 Galena in Frisco.",
+          "year": "ca. 1897"
+        },
+        {
+          "text": "Engineering and Mining Journal reports an increased crew in the lower tunnel, with 60 feet of additional driving planned, followed by an upraise to connect with No. 2 tunnel level and then stoping.",
+          "year": "1906-09"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.565556,
+        "longitude": -106.124444
+      },
+      "moreHistory": [
+        "The mine was part of Frisco’s early mining era. The 1883 Colorado Mining Directory indexed Kittie Innes under the Mount Royal Mining Company. Frisco founder Henry Learned managed the Kitty Innes Mine while also serving the town in civic roles, including mayor in 1885 and justice of the peace. The Town of Frisco historic resource survey records that a building now associated with 420 Galena was moved from the Kitty Innes Mine about 1897. By September 1906 the Engineering and Mining Journal reported an increased workforce in the lower tunnel; crews planned another 60 feet of driving followed by an upraise to connect with the No. 2 tunnel level, after which stoping was to begin. These records establish both long-lived association with Frisco and specific underground development without conflating the nearby King Solomon or other mines."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T03:08:04.199Z"
     },
     {
       "id": "CO-SUMMIT-LENAWEE-MINE-MILL",
@@ -1605,6 +2021,44 @@
       "contentUpdatedAt": "2026-10-04T23:14:11.234Z"
     },
     {
+      "id": "CO-SUMMIT-LITTLE-CHICAGO-MINE",
+      "name": "Little Chicago Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Summit County",
+      "overview": [
+        "On Sheep Mountain in the Tenmile mining country, the Little Chicago was more than a name on a claim map. Its miners drove a deep incline shaft and a long tunnel into an unusual near-vertical contact vein, then extended hundreds of feet of drifts underground. Contemporary newspaper indexing shows the mine shipping or reporting ore in the early 1880s, while later USGS work preserved unusually detailed measurements of the underground workings and geology."
+      ],
+      "timeline": [
+        {
+          "text": "Contemporary newspaper indexes reported daily and weekly ore output from the Little Chicago Mine in the Ten Mile district.",
+          "year": "1881"
+        },
+        {
+          "text": "Rocky Mountain News indexing recorded mine activity, proposed ore treatment, and operation with good ore in the Kokomo district.",
+          "year": "1882-1883"
+        },
+        {
+          "text": "USGS historical synthesis documented the Little Chicago workings as a 288-foot incline shaft, 640-foot tunnel, and approximately 700 feet of drifting at the 240-foot level.",
+          "year": "1926"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.4177778,
+        "longitude": -106.2002778
+      },
+      "moreHistory": [
+        "USGS mining history records the Little Chicago as developed by a 288-foot incline shaft on the vein. A 640-foot tunnel cut the vein and intersected the shaft at the 240-foot level, where about 700 feet of drifting had been driven. The vein was described as a nearly vertical contact unlike other Sheep Mountain veins, with sedimentary footwall, yellow porphyry hanging wall, and coarse cubic galena associated with iron pyrite. Denver Public Library historical indexing records daily and weekly ore output in 1881 and reports the mine operating with good ore in 1883, showing active production-era development."
+      ],
+      "componentType": "Historic Site",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T05:09:06.627Z"
+    },
+    {
       "id": "CO-SUMMIT-LITTLE-CORPORAL-MINE",
       "name": "Little Corporal Mine",
       "tier": "ID ONLY",
@@ -1645,6 +2099,44 @@
       "componentType": "Mine",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-04T01:09:11.270Z"
+    },
+    {
+      "id": "CO-SUMMIT-LOMAX-PLACER-MINE",
+      "name": "Lomax Placer Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [
+        "Lomax preserves a tangible piece of Breckenridge’s earliest gold-mining landscape. Miners worked the gulch in the 1860s with hydraulic placer techniques, directing high-pressure water through gold-bearing gravels and recovering the heavier gold with sluices and pans. Today the preserved surface workings form a local history site where the mining method can still be interpreted in place. Some buildings and artifacts now displayed there came from elsewhere in the district, so they tell the broader Breckenridge mining story rather than representing original Lomax structures."
+      ],
+      "timeline": [
+        {
+          "text": "Lomax Gulch operated as a gold placer site using hydraulic mining methods, including high-pressure water and sluices.",
+          "year": "1860s"
+        },
+        {
+          "text": "The 1860s diggings were preserved/interpreted as the centerpiece of a 4.9-acre mining museum park complex.",
+          "year": "1986"
+        },
+        {
+          "text": "Breckenridge History operates the preserved site at 301 Ski Hill Road for historical interpretation and gold-panning programs.",
+          "year": "modern"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.4834306,
+        "longitude": -106.0531
+      },
+      "moreHistory": [
+        "Lomax Gulch was an active Breckenridge gold-mining site in the 1860s and used hydraulic placer methods: high-pressure water, sluice boxes, and pans separated gold from unconsolidated gravels. The historic placer landscape later became an interpreted mining complex. Architectural historian Thomas J. Noel describes the 1860s diggings as among the early hydraulic placer sites and records their later preservation as the centerpiece of a 4.9-acre park by 1986. The modern complex also contains relocated historic resources, including an assay office moved from the Tiger townsite, a barn moved from French Street, and a small miner cabin moved from Ridge Street; those relocated buildings should not be misrepresented as original Lomax structures. The underlying historic claim is documented as the Lomax Gulch Placer, U.S. Mineral Survey No. 1807."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T07:13:44.323Z"
     },
     {
       "id": "CO-SUMMIT-LONE-BUG-MINE",
@@ -1704,6 +2196,44 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-03T22:17:35.629Z"
+    },
+    {
+      "id": "CO-SUMMIT-LUCKY-BALDWIN-MINE",
+      "name": "Lucky Baldwin Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Summit County",
+      "overview": [
+        "High above the Montezuma district, the Lucky Baldwin claim was developed by two adits into a narrow mineralized vein probably continuing southwest from the Silver Wave system. When USGS geologists examined the lower working in 1929, they could follow hundreds of feet of underground development through schist and granite, including a sizeable stope where the vein widened. Quartz and pyrite dominated the vein, with copper, lead, and zinc minerals also recorded. Historic district mapping and the detailed USGS underground description make Lucky Baldwin a well-defined historic working rather than just a name on a modern database."
+      ],
+      "timeline": [
+        {
+          "text": "Colorado Geological Survey First Report district map identifies Lucky Baldwin as mine no. 14 in the Montezuma mining district.",
+          "year": "1908"
+        },
+        {
+          "text": "USGS geologists examined the lower Lucky Baldwin adit; the upper adit was inaccessible.",
+          "year": "1929"
+        },
+        {
+          "text": "USGS documented the lower adit as 425 feet long, following the vein for about 310 feet, with a stope roughly 25 by 30 feet.",
+          "year": "1929"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.5638889,
+        "longitude": -105.8366667
+      },
+      "moreHistory": [
+        "USGS Professional Paper 178 records two Lucky Baldwin adits at approximately 12,000 and 12,060 feet elevation. Both were driven northeast toward the claim end line; the lower adit was examined in 1929, measured 425 feet, and followed the vein for about 310 feet. The vein crossed Idaho Springs formation and Silver Plume granite, widened after entering granite, and supported a stope roughly 25 feet high by 30 feet long about 200 feet from the portal. The vein was generally 6–12 inches wide, chiefly quartz and pyrite, with chalcopyrite, copper staining, small amounts of galena and sphalerite, and some lead-zinc ore on the dump. USGS interpreted the claim as probably lying on the southwest extension of the Silver Wave vein. Colorado Geological Survey district mapping confirms Lucky Baldwin as a separately named mine in the Montezuma district by the early twentieth century."
+      ],
+      "componentType": "Historic Site",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T04:11:22.789Z"
     },
     {
       "id": "CO-SUMMIT-LUCKY-MINE",
@@ -2000,6 +2530,48 @@
       "contentUpdatedAt": "2026-10-04T06:15:47.440Z"
     },
     {
+      "id": "CO-SUMMIT-NICKEL-PLATE-MINE",
+      "name": "Nickel Plate Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "Mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.48971,
+        "longitude": -106.01585
+      },
+      "moreHistory": [],
+      "componentType": "Mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-05T22:13:53.337Z"
+    },
+    {
+      "id": "CO-SUMMIT-OLD-IRONSIDES-MINE",
+      "name": "Old Ironsides Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.477222,
+        "longitude": -106.023333
+      },
+      "moreHistory": [],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T13:09:49.326Z"
+    },
+    {
       "id": "CO-SUMMIT-ORPHAN-BOY-MINE",
       "name": "Orphan Boy Mine",
       "tier": "EXPLORE",
@@ -2144,6 +2716,48 @@
       "componentType": "Mine",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-04T06:15:58.644Z"
+    },
+    {
+      "id": "CO-SUMMIT-PLAYER-MINE",
+      "name": "Player Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "historic mining",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.46527,
+        "longitude": -106.02641
+      },
+      "moreHistory": [],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-05T18:10:02.862Z"
+    },
+    {
+      "id": "CO-SUMMIT-PRESTON-TUNNEL",
+      "name": "Preston Tunnel",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.564709,
+        "longitude": -105.887512
+      },
+      "moreHistory": [],
+      "componentType": "tunnel",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-05T21:15:47.192Z"
     },
     {
       "id": "CO-SUMMIT-PUZZLE-MINE",
@@ -2509,6 +3123,56 @@
       "contentUpdatedAt": "2026-10-03T14:11:14.499Z"
     },
     {
+      "id": "CO-SUMMIT-SARSFIELD-MINE",
+      "name": "Sarsfield Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "Mine",
+      "location": "Summit County",
+      "overview": [
+        "High on the mountains near Montezuma, the Sarsfield mine followed a compact but unusually rich lead-silver ore shoot. Historical workings included a lower adit driven roughly 200 feet to reach the vein, then about 400 feet along it. Production records show activity spanning the 1880s into the early 1900s, with silver, lead, zinc and smaller amounts of gold recovered. The mine is especially useful for understanding the Montezuma district because contemporary reports contrasted its narrow high-grade ore with neighboring mines that worked broader bodies of lower-grade milling ore."
+      ],
+      "timeline": [
+        {
+          "text": "Recorded production included 13 tons in 1884, 35 tons in 1885 and 26 tons in 1886.",
+          "year": "1884-1886"
+        },
+        {
+          "text": "Federal production records report 1,824 fine ounces of silver and 11,435 pounds of lead.",
+          "year": "1888"
+        },
+        {
+          "text": "Peak listed production: 198 tons yielded 5.36 oz gold, 16,121 oz silver, 185,856 lb lead and 65,125 lb zinc.",
+          "year": "1889"
+        },
+        {
+          "text": "75 tons produced 0.77 oz gold, 4,008 oz silver, 64,602 lb lead and 17,012 lb zinc.",
+          "year": "1890"
+        },
+        {
+          "text": "Recorded production resumed in each of these years, confirming early-20th-century activity.",
+          "year": "1905-1907"
+        },
+        {
+          "text": "Engineering and Mining Journal described Sarsfield as characterized by a streak of high-grade ore with little milling-grade ore associated.",
+          "year": "1908"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.5761,
+        "longitude": -105.8411
+      },
+      "moreHistory": [
+        "The Sarsfield/Sarsefield was a productive high-grade lead-silver mine in the Montezuma district. USGS Professional Paper 178 records production in the 1880s, 1890 and again from 1905 through 1907; the strongest listed year, 1889, produced 198 short tons containing 5.36 ounces of gold, 16,121 ounces of silver, 185,856 pounds of lead and 65,125 pounds of zinc. The same USGS account describes an upper ore shoot whose richest portion was nearly pure galena about three feet wide. A lower adit was driven about 200 feet east to the vein and then followed it northeast for roughly 400 feet. A 1908 Engineering and Mining Journal description characterized Sarsfield as one of the district mines with a narrow streak of high-grade ore and little associated milling-grade material."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T00:15:25.776Z"
+    },
+    {
       "id": "CO-SUMMIT-SILVER-CORD-MINE",
       "name": "Silver Cord Mine",
       "tier": "ID ONLY",
@@ -2756,6 +3420,48 @@
       "contentUpdatedAt": "2026-10-05T05:12:53.698Z"
     },
     {
+      "id": "CO-SUMMIT-TIGER-MINE",
+      "name": "Tiger Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.5675,
+        "longitude": -105.8744444444
+      },
+      "moreHistory": [],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-05T21:15:32.832Z"
+    },
+    {
+      "id": "CO-SUMMIT-TIP-TOP-MINE",
+      "name": "Tip Top Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "historic mining",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.5866536,
+        "longitude": -105.8525109
+      },
+      "moreHistory": [],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T05:09:18.680Z"
+    },
+    {
       "id": "CO-SUMMIT-TOMMY-MINE",
       "name": "Tommy Mine",
       "tier": "ID ONLY",
@@ -2961,6 +3667,27 @@
       "contentUpdatedAt": "2026-10-03T14:10:46.926Z"
     },
     {
+      "id": "CO-SUMMIT-WHEEL-OF-FORTUNE-MINE",
+      "name": "Wheel of Fortune Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "mine",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.415821,
+        "longitude": -106.213912
+      },
+      "moreHistory": [],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T11:12:42.523Z"
+    },
+    {
       "id": "CO-SUMMIT-WILD-IRISHMAN-MINE",
       "name": "Wild Irishman Mine",
       "tier": "EXPLORE",
@@ -3068,6 +3795,6 @@
   ],
   "state": "Colorado",
   "county": "Summit County",
-  "generatedAt": "2026-10-05T18:00:10.083Z",
+  "generatedAt": "2026-10-06T17:55:57.256Z",
   "schemaVersion": 1
 }

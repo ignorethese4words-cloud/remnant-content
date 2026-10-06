@@ -1,0 +1,465 @@
+{
+  "id": "colorado-lake",
+  "sites": [
+    {
+      "id": "CO-LAKE-CARLETON-TUNNEL",
+      "name": "Carleton Tunnel",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "ADIT_TUNNEL",
+      "location": "Lake County",
+      "overview": [
+        "Built to give the Colorado Midland a lower, more practical route beneath Hagerman Pass, the Busk-Ivanhoe Tunnel became one of the area’s unusual pieces of infrastructure to live several lives. It replaced the higher Hagerman crossing, later carried automobiles under the Carleton/Carlton name, and ultimately became part of a transmountain water-diversion system. The east portal near Busk Creek is the best defensible Remnant scan target and preserves the location where this railroad, highway, and water history converge."
+      ],
+      "timeline": [
+        {
+          "text": "Busk-Ivanhoe Tunnel developed as a lower-elevation Colorado Midland crossing beneath Hagerman Pass.",
+          "year": "1890s"
+        },
+        {
+          "text": "USGS historical account records return to the Busk-Ivanhoe route after severe snow shut the higher Hagerman Tunnel.",
+          "year": "1899"
+        },
+        {
+          "text": "USGS historical trail map records the Busk-Ivanhoe Tunnel as being called the Carlton Tunnel and used by automobiles.",
+          "year": "after 1921"
+        },
+        {
+          "text": "USGS Water-Supply Paper records transmountain-diversion measurements at the Busk-Ivanhoe tunnel east portal.",
+          "year": "1924-1960"
+        },
+        {
+          "text": "Farm Security Administration photographer Marion Post Wolcott documented the road from Carleton Tunnel near Leadville.",
+          "year": "1941"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2486111,
+        "longitude": -106.4708333
+      },
+      "moreHistory": [
+        "The tunnel was developed as the lower-elevation Busk-Ivanhoe crossing beneath Hagerman Pass to improve the Colorado Midland route. USGS historical mapping records that the Busk-Ivanhoe Tunnel lay 575 feet below the Hagerman Tunnel at about 10,953 feet, eliminating substantial climbing as well as 13 snowsheds and 12 bridges/trestles. The tunnel later became known as the Carlton/Carleton Tunnel and carried automobiles after railroad use ended. By the twentieth century it also served as a transmountain diversion from the Fryingpan/Colorado River side toward the Arkansas basin; USGS water records document measurements at its east portal from the 1920s onward. A 1941 Farm Security Administration photograph by Marion Post Wolcott specifically documents the road from Carleton Tunnel near Leadville, providing primary-period evidence for the Carleton spelling and its highway-era landscape."
+      ],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T15:14:45.460Z"
+    },
+    {
+      "id": "CO-LAKE-CORONADO-MINE",
+      "name": "Coronado Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "The Coronado Mine was one of the flashpoints of Leadville’s bitter 1896-1897 miners strike. After the mine reopened during the wage dispute, violence erupted there on September 21, 1896, damaging the mine and helping trigger deployment of the Colorado National Guard. Historic photographs preserve the aftermath, while federal historical documentation connects the Coronado directly to the strikebreaking campaign that followed. The mine’s mapped location on the north side of Leadville provides a defensible historic scan anchor, although the anchor should not be interpreted as proof that an open shaft survives today."
+      ],
+      "timeline": [
+        {
+          "text": "Armed violence at the Coronado Mine during the Leadville miners strike damaged/burned the mine surface works and precipitated calls for state troops.",
+          "year": "1896-09-21"
+        },
+        {
+          "text": "Sixty-five replacement miners from Missouri arrived and were escorted toward the Emmet and Coronado mines by militia, enabling some mine operations to resume.",
+          "year": "1896-09-25"
+        },
+        {
+          "text": "The Leadville strike ended after roughly nine months; USGS historical documentation records that the miners did not obtain a uniform $3 daily wage.",
+          "year": "1897-03"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2536007,
+        "longitude": -106.2891904
+      },
+      "moreHistory": [
+        "The Coronado Mine became a central site in the Leadville miners strike of 1896-1897. USGS historical-trail documentation records that replacement miners were escorted to the Coronado and Emmet mines by Colorado militia after the September 1896 violence, helping the mines resume operation and weakening the strike. Contemporary-period photographic holdings at the Carnegie Library for Local History include an 1896 image explicitly cataloged as the Coronado mine after the blow-up. Denver Public Library chronology records that on September 21, 1896 striking miners attacked the Coronado with rifles and bombs, after which the conflict shifted to the Emmett mine and Governor Albert McIntire called out the National Guard. The strike continued into March 1897. The site therefore has unusually strong, site-specific labor and social history beyond a bare mine identification."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T17:13:49.347Z"
+    },
+    {
+      "id": "CO-LAKE-DIAMOND-MINE",
+      "name": "Diamond Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "At the head of Evans Gulch, the Diamond Mine preserves a visible shaft-and-headframe target tied to more than a century of Leadville mining. Federal field investigators described its double-compartment vertical shaft and surface hoist remains, while historic photographs show the Diamond and neighboring Resurrection as distinct mines. The Diamond later became part of the interconnected Diamond-Resurrection and Yak Tunnel system, linking this individual shaft to the much larger underground story of Leadville mining, drainage and later reclamation."
+      ],
+      "timeline": [
+        {
+          "text": "U.S. Bureau of Mines study identifies 1916 as the beginning of the Diamond Mine operating period.",
+          "year": "1916"
+        },
+        {
+          "text": "Diamond operated as a lead-gold-silver-zinc mine according to the federal abandoned-mine-opening study.",
+          "year": "1916-1960"
+        },
+        {
+          "text": "MRDS reports about 0.95 million tons of sulfide ore from the consolidated Diamond-Resurrection property; this is combined-property production, not Diamond-shaft-only output.",
+          "year": "1936-1956"
+        },
+        {
+          "text": "Colorado DRMS later reported no excavation at the Diamond Resurrection Shaft since about 1986.",
+          "year": "1986"
+        },
+        {
+          "text": "Colorado DRMS reports the Diamond Shaft permit was revoked and its bond forfeited in January 2006.",
+          "year": "2006"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.25972,
+        "longitude": -106.21639
+      },
+      "moreHistory": [
+        "The Diamond Mine was a lead-gold-silver-zinc operation at the head of Evans Gulch. A U.S. Bureau of Mines field study records operation from 1916 to 1960 and describes the surviving double-compartment shaft, hoist structures and waste dump. The mine became physically and operationally linked with the broader Resurrection/Black Cloud system and the Yak Tunnel. MRDS records later Diamond-Resurrection consolidation and reports combined historic production of about 1.3 million tons of oxide ore from 1879-1917 and 0.95 million tons of sulfide ore from 1936-1956; those figures describe the consolidated Diamond-Resurrection property and are not assigned to the Diamond shaft alone. Colorado DRMS records a later Diamond Resurrection Shaft permit, notes the shaft near the end of the Yak Tunnel, no excavation after about 1986, later flooding after Yak Tunnel blockage, and permit revocation/bond forfeiture in January 2006."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T16:07:58.297Z"
+    },
+    {
+      "id": "CO-LAKE-DINERO-MINE-TUNNEL",
+      "name": "Dinero Mine Tunnel",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "ADIT_TUNNEL",
+      "location": "Lake County",
+      "overview": [
+        "West of Leadville, the Dinero Tunnel is both a surviving piece of Sugar Loaf mining infrastructure and a well-documented example of the long environmental afterlife of hard-rock mining. Driven in the late 1800s, the roughly 3,000-foot tunnel reached the Dinero Shaft and served as a drainage and access route to workings higher on the mountain. In 1909 miners were still pushing an upraise toward an older shaft and preparing to develop ore at the tunnel face. A century later, attention shifted from ore to water: drainage from the abandoned tunnel carried elevated metals toward Lake Fork Creek. Reclamation removed nearby waste rock, and in 2009 a bulkhead was installed deep inside the tunnel to reduce discharge. Modern USGS studies continue to use the Dinero site to understand mine-water movement and remediation in the Sugar Loaf district."
+      ],
+      "timeline": [
+        {
+          "text": "Dinero Tunnel driven primarily for silver, extending roughly 3,000 feet to the Dinero Shaft.",
+          "year": "late 1800s"
+        },
+        {
+          "text": "Engineering and Mining Journal reported work resumed; an upraise was being pushed to connect with an old shaft before developing ore at the tunnel breast.",
+          "year": "1909-02-06"
+        },
+        {
+          "text": "Dinero mine-waste piles in the wetland area were removed/reclaimed upslope; USGS monitored discharge immediately below the tunnel.",
+          "year": "2003"
+        },
+        {
+          "text": "A bulkhead was installed about 390 meters inside the Dinero Tunnel to reduce mine drainage.",
+          "year": "2009"
+        },
+        {
+          "text": "USGS reported post-bulkhead discharge and zinc/manganese load reductions of up to 97 percent at the Dinero portal and downstream monitoring sites.",
+          "year": "2015"
+        },
+        {
+          "text": "USGS continued geophysical and water-quality investigations around the Dinero tunnel and wetland.",
+          "year": "2023-2025"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2511111111,
+        "longitude": -106.3811111111
+      },
+      "moreHistory": [
+        "The Dinero Tunnel was driven in the late nineteenth century primarily for silver and extended about 3,000 feet to the Dinero Shaft. Contemporary Engineering and Mining Journal reporting from February 1909 recorded that work had resumed at the Sugar Loaf property, with an upraise being driven to connect the tunnel with an old shaft before development of a large ore body at the tunnel breast. Later USGS work describes the Dinero as one of the principal Sugar Loaf district tunnels, used both for drainage and access to higher mine workings. After mining, the tunnel became an important source of zinc- and manganese-rich drainage to Lake Fork Creek. Mine waste near the wetland was reclaimed in 2003, and a bulkhead was installed about 390 meters into the tunnel in 2009. USGS monitoring found the bulkhead sharply reduced discharge and zinc and manganese loads at the Dinero portal, while also documenting hydrologic effects on nearby workings, especially the distinct Nelson tunnel."
+      ],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T15:14:32.929Z"
+    },
+    {
+      "id": "CO-LAKE-LITTLE-JONNY-MINE",
+      "name": "Little Jonny Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Lake County",
+      "overview": [
+        "On Breece Hill east of Leadville, the Little Jonny became the core of the Ibex operation and one of the district's best-known gold producers. Earlier silver-lead work gave way to a major gold-producing period in the 1890s. J.J. Brown served as superintendent of the Ibex properties. USGS credits Little Jonny, later the Ibex, with about $13 million in gold production from 1893 to 1923."
+      ],
+      "timeline": [
+        {
+          "text": "Little Jonny claim surveyed.",
+          "year": "1879"
+        },
+        {
+          "text": "Actively worked for silver-lead ore carrying gold.",
+          "year": "1883"
+        },
+        {
+          "text": "J.J. Brown became superintendent of the Ibex properties.",
+          "year": "1893"
+        },
+        {
+          "text": "USGS reports about $13 million in gold production.",
+          "year": "1893-1923"
+        },
+        {
+          "text": "Output reportedly reached about $250,000 per month.",
+          "year": "1897"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.24583,
+        "longitude": -106.23278
+      },
+      "moreHistory": [
+        "Little Jonny began as a silver-lead producer and became a major Leadville gold mine. USGS historical mapping reports about $13 million in gold production from 1893 to 1923 and output up to about $250,000 per month by 1897. Historical mining records document an 1879 survey, Ibex Company development, J.J. Brown as superintendent from 1893, rich gold discoveries, and extensive later workings."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T14:12:00.919Z"
+    },
+    {
+      "id": "CO-LAKE-MAID-OF-ERIN-MINE",
+      "name": "Maid of Erin Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "The Maid of Erin Mine on Carbonate Hill is a well-documented Leadville working whose history spans changing ore economics. Court records tie the named lode to prominent Colorado mining investors in the early 1880s. By 1886, operators were concentrating material from the mine dump that had previously looked worthless, illustrating how improved treatment could change the value of old mine waste. Federal mining history records a large copper discovery on the Maid of Erin and neighboring Henriette properties in 1890, while later geological work documented zinc-bearing minerals at Maid of Erin as Carbonate Hill became important for zinc production."
+      ],
+      "timeline": [
+        {
+          "text": "Colorado Supreme Court case record states H.A.W. Tabor, David H. Moffat, Jacob J.B. Du Bois, James G. Blaine, Jerome B. Chaffee, and Charles E. Rider owned/possessed the Maid of Erin Lode, Survey Lot 568 / Mineral Entry 384.",
+          "year": "1882-1883"
+        },
+        {
+          "text": "Engineering and Mining Journal reported a steam concentrating plant at the foot of the Maid of Erin dump producing concentrates from apparently worthless material.",
+          "year": "1886"
+        },
+        {
+          "text": "USGS Professional Paper 138 records discovery of a large copper deposit in the Henriette and Maid of Erin properties.",
+          "year": "1890"
+        },
+        {
+          "text": "USGS Bulletin 681 documented oxidized zinc mineralization/minerals at the Maid of Erin in its study of Leadville zinc ores.",
+          "year": "1918"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.24916,
+        "longitude": -106.27533
+      },
+      "moreHistory": [
+        "The Maid of Erin was a significant Carbonate Hill Leadville property with a documented late-19th-century operating history. A Colorado Supreme Court decision records named ownership and possession of the Maid of Erin Lode in 1882-1883 and its formal survey/entry identifiers. An 1886 Engineering and Mining Journal report described a steam concentrating plant at the foot of the Maid of Erin dump producing concentrates from material that had appeared worthless. USGS Professional Paper 138 records discovery of a large copper deposit in the Henriette and Maid of Erin properties in 1890. Later USGS work on Leadville oxidized zinc ores documents Maid of Erin mineralization including smithsonite/sphalerite and related minerals, placing the mine within Carbonate Hill’s later zinc story. These mine-specific records provide meaningful history beyond district context while preserving separation from same-name properties elsewhere in Colorado."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T14:12:10.878Z"
+    },
+    {
+      "id": "CO-LAKE-MATCHLESS-MINE",
+      "name": "Matchless Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Lake County",
+      "overview": [
+        "On Fryer Hill above Leadville, the Matchless Mine links the city's silver boom to the famous rise and fall of Horace and Baby Doe Tabor. Rich ore discovered after Tabor acquired the property turned the mine into a major source of his fortune. As production declined, the Matchless became equally remembered for Baby Doe, who lived for years in the cabin beside the workings. The preserved shaft, headframe, hoist house, powder magazine, and cabin give the site unusually strong physical and documentary context for interpreting Leadville's mining history."
+      ],
+      "timeline": [
+        {
+          "text": "Horace Tabor acquired the Matchless Mine; the National Mining Hall of Fame and Museum dates the purchase to July 17, 1880, and reports discovery of rich ore that September.",
+          "year": "1880"
+        },
+        {
+          "text": "The Matchless produced substantial wealth for Tabor; NMHFM estimates about $1.2 million in earnings during this period.",
+          "year": "1880-1886"
+        },
+        {
+          "text": "Ore depletion sharply reduced Matchless profits, according to NMHFM.",
+          "year": "1887"
+        },
+        {
+          "text": "History Colorado identifies the Matchless Mine with Elizabeth Baby Doe Tabor during this period.",
+          "year": "1901-1935"
+        },
+        {
+          "text": "Baby Doe Tabor was photographed at her cabin next to the Matchless Mine and died there that year.",
+          "year": "1935"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.255996,
+        "longitude": -106.271157
+      },
+      "moreHistory": [
+        "The Matchless became one of the defining mines of Leadville's silver era. The National Mining Hall of Fame and Museum records that Horace Tabor purchased it in 1880 after earlier Fryer Hill successes, that rich ore was found that September, and that the mine generated about $1.2 million for Tabor from 1880 through 1886 before ore depletion sharply reduced profits. History Colorado recognizes the property for both industrial significance as a working silver mine and its social-history association with Tabor from 1879-1899 and Baby Doe Tabor from 1901-1935. Baby Doe later lived at the mine; History Colorado preserves a circa-1935 photograph of her at the cabin beside the Matchless. The surviving shaft/headframe and surface buildings make the historic operation physically legible today."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T13:10:09.425Z"
+    },
+    {
+      "id": "CO-LAKE-RESURRECTION-MINE",
+      "name": "Resurrection Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "The Resurrection Mine was one of the long-lived operations at the eastern end of Leadville’s Evans Gulch. Its story spans the carbonate boom of the 1880s, connection to the Yak Tunnel underground network in the early 1900s, and renewed twentieth-century production under Resurrection Mining Company. The mine worked both oxidized and sulfide replacement ores containing lead, zinc, gold, and silver, and its later history illustrates how Leadville mining evolved from isolated shafts into consolidated, connected underground systems."
+      ],
+      "timeline": [
+        {
+          "text": "The Resurrection operated as an early Leadville manto/replacement mine; later firsthand recollection described it as an old property dating to the 1880s.",
+          "year": "1880s"
+        },
+        {
+          "text": "The Yak Tunnel workings reached Resurrection No. 1, connecting it to the district underground drainage and haulage network.",
+          "year": "1908"
+        },
+        {
+          "text": "Yak Tunnel development reached Resurrection No. 2.",
+          "year": "1909"
+        },
+        {
+          "text": "USGS/MRDS reports roughly 0.95 million tons of sulfide ore produced from the combined Diamond-Resurrection operation during this period.",
+          "year": "1936-1956"
+        },
+        {
+          "text": "Colorado state records list Resurrection Mining Company, B. B. Greenlee manager, producing gold, silver, lead and zinc at Leadville.",
+          "year": "1952"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.25333,
+        "longitude": -106.22139
+      },
+      "moreHistory": [
+        "The Resurrection was an old Leadville mine dating to the 1880s, exploiting replacement (manto) and massive-sulfide ore carrying lead, zinc, gold, and silver. The Yak Tunnel reached Resurrection No. 1 in 1908 and Resurrection No. 2 in 1909, integrating the Evans Gulch mines into a long underground haulage and drainage network. USGS/MRDS records report combined Diamond-Resurrection historic production of about 1.3 million tons of oxide ore from 1879-1917 and about 0.95 million tons of sulfide ore from 1936-1956. A 1952 Colorado state mining report lists Resurrection Mining Company, managed by B. B. Greenlee, producing gold, silver, lead, and zinc at Leadville. Metallurgist Frank McQuiston later recalled Newmont acquiring the old Resurrection property during World War II and building an approximately 800-ton mill to treat its difficult lead-zinc-gold-silver ores. Historical photographs preserve the mine buildings and headframe and identify the Resurrection Mine at the head of Evans Gulch."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T16:08:10.037Z"
+    },
+    {
+      "id": "CO-LAKE-ROBERT-EMMET-MINE",
+      "name": "Robert Emmet Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "The Robert Emmet Mine is one of the named historic workings of Leadville's Stray Horse Gulch. Its documented story spans the mature silver-lead era through twentieth-century zinc and later mining activity: it was established by the 1880s, survived the turbulent 1896 Leadville labor conflict, shipped zinc ore under lessees in 1910, changed hands as part of a productive Stray Horse property group in 1916, and was still listed by Colorado under American Smelting & Refining Co. in 1952. A surviving headframe and consistent mine mapping provide a strong physical anchor for interpreting that history on site."
+      ],
+      "timeline": [
+        {
+          "text": "Engineering and Mining Journal listed the Robert Emmet among Leadville mining properties connected with J. B. Wheeler in an ownership dispute.",
+          "year": "1885"
+        },
+        {
+          "text": "During the Leadville strike violence, attackers moved into Stray Horse Gulch and attempted to attack the Marian and Robert Emmet mines; the mines were defended.",
+          "year": "1896"
+        },
+        {
+          "text": "Robert Emmet leasers temporarily suspended zinc-ore shipments while developing the ore from below for more economical extraction.",
+          "year": "1910"
+        },
+        {
+          "text": "Empire Mine Co. purchased a Stray Horse Gulch group including Robert Emmet; contemporary reporting said the included claims had records of large production.",
+          "year": "1916"
+        },
+        {
+          "text": "Colorado's state mining report listed Robert Emmet Mine at Leadville under American Smelting & Refining Co.",
+          "year": "1952"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.24972,
+        "longitude": -106.27083
+      },
+      "moreHistory": [
+        "Robert Emmet was an established Stray Horse Gulch mine by the 1880s. In 1885 the Engineering and Mining Journal listed it among J. B. Wheeler mining properties involved in an ownership dispute. During the violent 1896 Leadville strike, historical accounts place Robert Emmet among the Stray Horse Gulch mines that strikers attempted to attack after the Coronado fighting. By 1910 contemporary reporting described Robert Emmet leasers temporarily suspending zinc-ore shipments so they could attack the ore from below and extract it more economically. In 1916 the Empire Mine Co. purchased a Stray Horse Gulch group including Robert Emmet, Forest City, Result, Gonabroad and Ranchero; the report described those claims as having records of large production and the group as then producing polymetallic ore. The mine remained part of Leadville mining decades later: Colorado's 1952 mining report listed the Robert Emmet Mine under American Smelting & Refining Co. USGS Bulletin 779 also treats Robert Emmet as a named mine in its Leadville ore-deposit framework."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T17:13:30.007Z"
+    },
+    {
+      "id": "CO-LAKE-WOLFTONE-MINE",
+      "name": "Wolftone Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Lake County",
+      "overview": [
+        "The Wolftone Mine is one of Leadville’s especially story-rich historic workings: an 1876 discovery that evolved from early lead-silver development into an important zinc-era property. Its deep workings, unusual zinc minerals, and a documented 1911 underground banquet give the site both mining and social history beyond a simple mine identification."
+      ],
+      "timeline": [
+        {
+          "text": "Samuel Morgan and Aden Alexander located the Wolftone Mine on Carbonate Hill.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Malta Smelting and Mining Company requested survey; patent was granted later that year.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Ore was reported at 633 feet, including a seven-foot body of pyrite mixed with galena.",
+          "year": "Historic period"
+        },
+        {
+          "text": "S. D. Nicholson searched old Wolftone workings for oxidized zinc and found a major zinc-silicate body.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A formal Robert Burns banquet was held underground at the Wolftone Mine.",
+          "year": "1911-01-25"
+        },
+        {
+          "text": "The Wolftone shaft was reported at 1,120 feet deep with eight levels.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.24778,
+        "longitude": -106.27333
+      },
+      "moreHistory": [
+        "Located in 1876 by Samuel Morgan and Aden Alexander, the Wolftone began with five shallow shafts. Malta Smelting and Mining Company sought survey in 1880 and patent followed that year. By 1882 a deep shaft had encountered a seven-foot pyrite-galena body at 633 feet. The mine later joined the Adams and Maid of Erin as the A.M.W. properties under S. D. Nicholson. Around 1910 Nicholson searched old Wolftone workings after oxidized zinc became valuable and found what was described as the district’s largest body of zinc silicate. The mine became noted for zinc minerals and unusual mineralogy; by 1920 its shaft had reached about 1,120 feet with eight levels. A formal Robert Burns banquet was held underground at the Wolftone on January 25, 1911, documented by the Lake County Public Library historical collection."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-06T13:10:25.204Z"
+    }
+  ],
+  "state": "Colorado",
+  "county": "Lake County",
+  "generatedAt": "2026-10-06T17:55:57.256Z",
+  "schemaVersion": 1
+}
