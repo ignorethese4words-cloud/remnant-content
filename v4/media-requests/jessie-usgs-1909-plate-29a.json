@@ -1,0 +1,13 @@
+{
+  "siteId": "CO-SUMMIT-JESSIE-MINE-MILL",
+  "mediaId": "jessie-usgs-1909-plate-29a",
+  "sourceUri": "https://digital.library.unt.edu/iiif/ark:/67531/metadc852993/m1/196/full/max/0/default.jpg",
+  "sourcePage": "https://digital.library.unt.edu/ark:/67531/metadc852993/m1/196/",
+  "outputPath": "v4/media/colorado/summit/CO-SUMMIT-JESSIE-MINE-MILL/jessie-usgs-1909-plate-29a-source.jpg",
+  "expectedMime": "image/jpeg",
+  "expectedOcrTokens": [
+    "PLATE XXIX",
+    "JESSIE"
+  ],
+  "purpose": "Approved V4 media ingest test. Exact-site 1909 Jessie Mine photograph published as USGS Professional Paper 75, Plate XXIX-A."
+}
