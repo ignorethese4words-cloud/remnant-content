@@ -1,5 +1,5 @@
 {
-  "requestSequence": 5,
-  "requestedBy": "V4 GITHUB CUTOVER",
-  "reason": "One-time catch-up export after native GitHub scheduling"
+  "requestSequence": 6,
+  "requestedBy": "V4 MEDIA MIGRATION",
+  "reason": "Publish all six stored/verified v4 media assets in county packs"
 }
