@@ -5,6 +5,9 @@ on:
     branches: [main]
     paths:
       - 'v4/export-trigger.json'
+  schedule:
+    # Runs independently of ChatGPT daily at 19:17 UTC.
+    - cron: '17 19 * * *'
   workflow_dispatch:
 
 permissions:
