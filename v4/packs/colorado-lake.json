@@ -69,6 +69,44 @@
       "contentUpdatedAt": "2026-10-07T05:13:15.151Z"
     },
     {
+      "id": "CO-LAKE-AGWALT-TUNNEL",
+      "name": "Agwalt Tunnel",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "tunnel",
+      "location": "Lake County",
+      "overview": [
+        "Agwalt Tunnel was a large 1890s Leadville mining exploration project. In 1895 it had reached roughly 3,300 feet as miners sought ore associated with the nearby Little Johnny mine. The historic portal later collapsed, and the site received drainage cleanup in 1996. Its marker identifies an approximate historic locality."
+      ],
+      "timeline": [
+        {
+          "text": "Tunnel reported at 3,300 feet; company sought Little Johnny ore chute.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Agwalt company leased Tribune claim on Breece Hill.",
+          "year": "Historic period"
+        },
+        {
+          "text": "EPA cleanup installed portal collection and drainage channels.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2375,
+        "longitude": -106.24333
+      },
+      "moreHistory": [
+        "Contemporary reports in August and September 1895 describe Agwalt Mining Company led by Tingley S. Wood, a tunnel 3,300 feet long, plans to intersect the Little Johnny ore chute and a Tribune claim lease. USGS later mapped the tunnel. EPA recorded a collapsed portal and waste rock pile in Whites Gulch and installed drainage controls in 1996. No confirmed ore discovery or production total is established."
+      ],
+      "componentType": "tunnel",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T04:09:06.475Z"
+    },
+    {
       "id": "CO-LAKE-ALL-RIGHT-MINE",
       "name": "All Right Mine",
       "tier": "ID ONLY",
@@ -109,6 +147,111 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-08T12:09:52.668Z"
+    },
+    {
+      "id": "CO-LAKE-BADGER-STATE-MINE",
+      "name": "Badger State Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.243323,
+        "longitude": -106.251967
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T00:11:27.798Z"
+    },
+    {
+      "id": "CO-LAKE-BECK-SHAFT",
+      "name": "Beck Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "Mine",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2172126,
+        "longitude": -106.2433557
+      },
+      "moreHistory": [],
+      "componentType": "Shaft",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T00:12:26.634Z"
+    },
+    {
+      "id": "CO-LAKE-BELCHER-SHAFT",
+      "name": "Belcher Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2172126,
+        "longitude": -106.2350222
+      },
+      "moreHistory": [],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T15:09:54.532Z"
+    },
+    {
+      "id": "CO-LAKE-BESSIE-WILGUS-SHAFT",
+      "name": "Bessie Wilgus Shaft",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Bessie Wilgus Shaft on Rock Hill reached over 400 feet by late 1904. Miners explored deeper limestone, developed underground workings and made a ventilation connection to nearby Reindeer. By 1907 it was shipping ore, with plans for further deepening. The mapped point is approximate and does not identify a safe entrance."
+      ],
+      "timeline": [
+        {
+          "text": "Shaft exceeded 400 feet.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Drifting and raising.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Ventilation connection to Reindeer.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Ore shipments and proposed deepening.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2266569,
+        "longitude": -106.2633563
+      },
+      "moreHistory": [
+        "In 1904 the shaft reached over 400 feet in blue limestone. Prospecting in 1905 involved drifting and raising. In 1906 work paused for a ventilation connection to Reindeer. In 1907 the mine was reported shipping ore regularly and contracted to deepen 300 feet toward 800 feet; completion not verified. USGS 1926 related its ore bodies to down-faulted Rock Hill deposits. Reindeer and Sequin are separate mines."
+      ],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-08T22:09:45.808Z"
     },
     {
       "id": "CO-LAKE-BIG-PITTSBURG-MINE",
@@ -407,6 +550,52 @@
       "contentUpdatedAt": "2026-10-06T23:08:05.855Z"
     },
     {
+      "id": "CO-LAKE-CLEAR-GRIT-MINE",
+      "name": "Clear Grit Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2255459,
+        "longitude": -106.2272443
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T14:12:54.498Z"
+    },
+    {
+      "id": "CO-LAKE-CLOUD-CITY-SHAFT",
+      "name": "Cloud City Shaft",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Beneath Leadville's streets, the Cloud City Shaft helped reveal the complex geology of the downtown mining district. In 1904 its operators shipped iron and manganese ore used in smelting while deepening the shaft in search of additional deposits. The mine encountered a major fault that took its name from the shaft, and underground water complicated further work. A 1905 report describes an attempted drift connection toward neighboring Home Extension workings. The mapped point is approximate: the original shaft opening has not been verified on the ground."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.246934,
+        "longitude": -106.280857
+      },
+      "moreHistory": [
+        "Cloud City Shaft was sunk within Leadville city blocks as the downtown mining district expanded westward. A report for 1904 names the Empire Tunnel Company of Georgetown as operator and describes shipments of iron and high-grade manganese ore for use as smelter flux. That year the company was also sinking the shaft in hopes of reaching the Midas ore shoot; this is a development objective, not evidence that Cloud City produced Midas ore. A September 1905 mining-journal report describes a drift being driven from Cloud City toward a projected underground connection with the separate Home Extension shaft. USGS Bulletin 320 (1907) documents that the shaft passed through about 425 feet of Wash and Lake deposits and some White porphyry before encountering the Cloud City fault. The fault offset, underground water, and difficulties gaining access to the local pumping association hampered deeper work. The USGS also illustrated Cloud City in a geological section alongside the separate Starr and Alice shafts. No surviving entrance is verified."
+      ],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T07:15:41.901Z"
+    },
+    {
       "id": "CO-LAKE-CORONADO-MINE",
       "name": "Coronado Mine",
       "tier": "EXPLORE",
@@ -464,6 +653,52 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-06T23:08:10.304Z"
+    },
+    {
+      "id": "CO-LAKE-CRESCENTIA-SHAFT",
+      "name": "Crescentia Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.23305,
+        "longitude": -106.26863
+      },
+      "moreHistory": [],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T08:17:26.653Z"
+    },
+    {
+      "id": "CO-LAKE-CROWN-POINT-MINE",
+      "name": "Crown Point Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Rock Hill above Leadville, Crown Point was more than another mine name on a map. In the 1880s, its underground ore claims were caught in a dispute over who owned valuable mineral veins beneath neighboring placer ground—a case that reached the U.S. Supreme Court in 1888. Years later, water-filled workings presented another challenge. By 1897, a company leasing Crown Point ground had drained the mine, resumed ore shipments, and reported a new sulfide-ore discovery. Today's mapped location marks the historic mine locality, not a verified open shaft; the area is private land."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.22942,
+        "longitude": -106.26288
+      },
+      "moreHistory": [
+        "Crown Point was a lode mine on Rock Hill, east of Leadville. The Crown Point and Pinnacle claims became parties to a major mining-rights dispute involving the Wells and Moyer placer and Iron Silver Mining Company. The U.S. Supreme Court's January 23, 1888 decision in Iron Silver Mining Co. v. Reynolds (124 U.S. 374) documents claims of ore-bearing lodes and competing rights to mineral veins dipping beneath patented placer ground; it reversed the lower court judgment because relevant title evidence was excluded, not a final determination of ownership of all disputed ore. The 1888 Leadville directory lists Crown Point–Pinnacle Mine on Rock Hill under manager W. G. Wood. In May 1895 contemporary mining reporting described plans to drain the Rock Hill ground through the Crown Point shaft. In March 1897, the Engineering and Mining Journal reported that the Nisi Prius Mining Company had leased Crown Point ground on Rock Hill, successfully drained accumulated water, shipped ore, and opened another sulfide-ore face. Crown Point should not be merged with the separate Pinnacle claim or nearby Crown Point No. 3 dump."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T17:16:51.399Z"
     },
     {
       "id": "CO-LAKE-DELANTE-SHAFT",
@@ -548,6 +783,64 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-07T20:11:00.146Z"
+    },
+    {
+      "id": "CO-LAKE-DERRY-DREDGE",
+      "name": "Derry Dredge",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINING",
+      "location": "Lake County",
+      "overview": [
+        "In 1915, a giant electric dredge began working gold-bearing gravel at the Derry Ranch. Its buckets dug 30 feet deep while the machine floated on a pond it created, leaving mounds of tailings. A crew of roughly 25 lived in nearby cabins. After operations shifted to Box Creek, the dredge was dismantled in 1926. The machine is gone, but its historic Corske Creek mining landscape remains documented by the National Park Service. This map marker is approximate and does not establish visitor access."
+      ],
+      "timeline": [
+        {
+          "text": "Derry family patented and developed the ranch.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Saguache Gold Mining Company acquired the ranch and resumed placer work.",
+          "year": "Historic period"
+        },
+        {
+          "text": "New York Engineering Company purchased the property and began shipping dredge machinery.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The 600-ton Derry bucket dredge began mining along Corske Creek.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Worker cabins built for the dredge crew.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Dredge sold and relocated to Box Creek.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Dredge dismantled.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Derry Mining Site Camp listed on National Register.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.12336,
+        "longitude": -106.34435
+      },
+      "moreHistory": [
+        "Samuel Derry developed a ranch on land patented in 1878. After his son died in 1908, Saguache Gold Mining Company resumed placer mining. New York Engineering Company acquired the land in 1913, transported dredge components from Yonkers, and assembled about 600 tons of machinery in 1915. The electric bucket dredge used 13,000-volt power, dug as deep as 30 feet and floated in a moving excavation pond. The National Register nomination reports 3,500 ounces of gold recovered in its first two months. The company built cabins in 1916 for about 25 workers, and the dredge produced all recorded Lake County placer gold from 1916 through 1923. It was sold to Mt. Elbert Gold Dredging Company in 1923, moved to Box Creek and dismantled in 1926. The associated camp still had dredge tailings, ditches, ponds and cabins at the time of its 2000 NRHP listing."
+      ],
+      "componentType": "DREDGE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-08T20:12:07.157Z"
     },
     {
       "id": "CO-LAKE-DIAMOND-MINE",
@@ -646,6 +939,27 @@
       "contentUpdatedAt": "2026-10-06T15:14:32.929Z"
     },
     {
+      "id": "CO-LAKE-DODRIDGE-MINE",
+      "name": "Dodridge Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "Mine",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.22999,
+        "longitude": -106.26171
+      },
+      "moreHistory": [],
+      "componentType": "Mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-08T23:16:49.353Z"
+    },
+    {
       "id": "CO-LAKE-EVENING-STAR-MINE",
       "name": "Evening Star Mine",
       "tier": "EXPLORE",
@@ -728,6 +1042,31 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-07T18:11:01.005Z"
+    },
+    {
+      "id": "CO-LAKE-FORSAKEN-MINE",
+      "name": "Forsaken Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Forsaken Mine was part of the bustling silver-and-lead mining landscape on Carbonate Hill above Leadville. In 1879 miners worked two shafts, linked underground passages and hauled ore using equipment shared with the nearby Buckeye Belle. The property later became part of the larger Morning Star mining enterprise. An 1883 geologist's firsthand study mapped both the Forsaken and Old Forsaken shafts and recorded the ore-bearing rocks underground. Today the mapped point identifies the historic mine area—not a verified shaft entrance—and should be viewed as a historical interpretation rather than directions into mine workings."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.24895,
+        "longitude": -106.27875
+      },
+      "moreHistory": [
+        "A December 1879 report documented active upper and lower Forsaken shafts with new ore houses and interconnected drifts. The lower shaft was hoisted by an engine on neighboring Buckeye Belle, and reported output had been about 15 tons daily earlier in December. In 1880 Forsaken became one of the lodes associated with the Morning Star Consolidated Mining Company, alongside Waterloo, Buckeye Belle and Half-Way House; the $6 million deed was a conveyance of existing interests, not an independently verified mine valuation. In 1882-83 geologist Louis D. Ricketts studied the Forsaken shaft firsthand and distinguished it from Old Forsaken; he documented the shaft's ore-bearing contact at roughly 80 feet and a lower level about 25 feet deeper, with underground connections to nearby workings. By August 1884 a mining report described two men prospecting in Forsaken with little ore then present. Lead-bearing galena and cerussite are documented mineral species. The Forsaken Shaft is separately named in a later federal historic-resource inventory, within multi-component cultural site 5LK1024. These neighboring workings must not be conflated into a single shaft or their histories attributed indiscriminately to Forsaken."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T19:17:14.281Z"
     },
     {
       "id": "CO-LAKE-FORTUNE-MINE",
@@ -835,6 +1174,147 @@
         }
       ],
       "contentUpdatedAt": "2026-10-08T04:05:37.955Z"
+    },
+    {
+      "id": "CO-LAKE-GARIBALDI-TUNNEL",
+      "name": "Garibaldi Tunnel",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "tunnel",
+      "location": "Lake County",
+      "overview": [
+        "At the head of California Gulch, the Garibaldi Tunnel reached deep into Ball Mountain to explore mineralized veins and drain the Sunday No. 2 mine workings. Period reports trace its growth from about a quarter mile in 1903 to 1,500 feet in 1905, while later federal geologists mapped a 2,400-foot passage. The tunnel's story spans prospecting, ore and sulfur-bearing rock, underground engineering and eventual environmental cleanup. A 1995 federal assessment found its entrance collapsed, with a waste-rock pile and old equipment nearby. The map marker is approximate; never enter abandoned mine workings."
+      ],
+      "timeline": [
+        {
+          "text": "W. L. Cooper reportedly resumed work under lease from Garibaldi Mining Company; tunnel was about a quarter mile long.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Tunnel had advanced to roughly 1,500 feet; Bray & Davis reported sulfur-rich pyritic material and prospective sales.",
+          "year": "Historic period"
+        },
+        {
+          "text": "G. F. Loughlin studied and mapped the Garibaldi tunnel.",
+          "year": "Historic period"
+        },
+        {
+          "text": "C. H. Behre Jr. conducted a brief follow-up underground study, aided by E. D. Dickerman.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Colorado state mining report listed Robert L. Jones as Garibaldi Tunnel lessee from ASARCO in the Sunday-Ibex area.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Cultural resource inventory documented site 5LK805; drainage diversions were constructed around portal and waste pile.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Engineering assessment recorded collapsed portal, nearby steam engine remains, ~1.6-acre waste-rock pile and mine drainage issues.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2322124,
+        "longitude": -106.2353001
+      },
+      "moreHistory": [
+        "Contemporary 1903 reporting says W. L. Cooper resumed work on Garibaldi Tunnel under lease from Garibaldi Mining Company, with roughly a quarter mile already driven through low-grade iron-bearing material. In August 1905, the tunnel was reported 1,500 feet long; lessees Bray & Davis were negotiating sales of sulfur-rich pyritic iron. The USGS later described a 2,400-foot main haulageway trending N.58°E. from the head of California Gulch toward Ball Mountain, exploring the Weston fault and Sunday vein and providing drainage for Sunday No. 2 workings. Geologist G. F. Loughlin studied the tunnel in 1934 and C. H. Behre Jr. revisited it in 1942. A 1952 Colorado state mining report lists Robert L. Jones as lessee from ASARCO for the Garibaldi Tunnel (Sunday-Ibex area), with gold, silver, lead and zinc as listed products; the report's 'Climax' property-location field conflicts with the documented portal geography and should not be used to relocate the site. A 1990 cultural survey recorded the Garibaldi Mine as 5LK805, found not eligible for the National Register by the Colorado SHPO. The EPA's July 1995 evaluation documented a collapsed portal, adjacent steam engine remains, an approximately 1.6-acre waste-rock pile, 1990-91 drainage diversions and ongoing acidic, metal-bearing runoff. These are historic observations, not claims that the machinery remains visible today."
+      ],
+      "componentType": "tunnel",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T02:10:27.974Z"
+    },
+    {
+      "id": "CO-LAKE-GORDON-MINE",
+      "name": "Gordon Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "High on the slopes west of Twin Lakes, the Gordon Mine followed a narrow quartz vein carrying native gold and other minerals. Early miners worked four underground levels, often chasing the richest pockets rather than extracting every section of the vein. When a state geologist examined the property in the 1910s, parts of the old workings had already caved. A gravity tram had been built but never put into service. Historic diagrams and an ore specimen photograph preserve a rare detailed look at this mine. The map marker shows its approximate historic locality, not a confirmed or accessible entrance."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.084714,
+        "longitude": -106.404748
+      },
+      "moreHistory": [
+        "Colorado Geological Survey geologist J. V. Howell documented Gordon (Gordon-Tiger) during 1915–1916 fieldwork, later published in Bulletin 17 (1918), pp. 95–97. The mine had operated intermittently for decades and was said to have yielded substantial gold, but Howell cautioned that reliable figures for ore value and production were unavailable. Four underground levels followed a well-defined quartz vein striking southwest and dipping northwest, with a variable width of three to eight feet. Free gold occurred with pyrite, galena, chalcopyrite, and some sphalerite. Miners had selectively extracted richer pockets rather than systematically removing ore; by the field examination many workings had caved. A gravity tram was installed at Gordon but reportedly never operated. An 1902 federal appellate case documents a dispute over an execution sale of the Gordon and Bengal Tiger lode claims, which were related properties but separately named claims. A 1906 trade-journal report describes a Sunnyside tunnel as a northern extension of Gordon; it is not evidence that this tunnel was itself one of Gordon's four levels. The historic source includes a vertical section of Gordon workings (fig. 24) and an ore specimen image (fig. 25)."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T19:16:47.264Z"
+    },
+    {
+      "id": "CO-LAKE-GREENBACK-MINE",
+      "name": "Greenback Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "The Greenback Mine stood among the underground operations of Leadville's Graham Park. Its story reaches back to 1878, when miner Patrick Mulrooney reportedly located the claim. By the early 1900s, contemporary accounts described a shaft more than 1,200 feet deep and plans for a large new hoist. The mine later became a source of pyrite as well as silver-, zinc-, and gold-bearing ores under Western Chemical Manufacturing Company. Historic photographs from about 1920 and 1928 preserve views of the mine and its neighbors. Today's map marker identifies the approximate historic complex, not a verified open shaft or safe access route."
+      ],
+      "timeline": [
+        {
+          "text": "Patrick Mulrooney reported locating the Greenback mine in May 1878.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Mulrooney's biographical account reports a period of Greenback operations.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A contemporary account cited by USGS describes a 1,240-foot shaft and plans for a 750-ton-per-day hoisting plant; actual installed capacity unconfirmed.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Mulrooney's biography describes another sustained period of Greenback operations.",
+          "year": "Historic period"
+        },
+        {
+          "text": "State mining report notes pumping through Greenback and Wolftone shafts to help dewater nearby Robert Emmet workings.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Western Chemical Manufacturing Company purchased Greenback in May, according to the 1917–1918 state mining report.",
+          "year": "Historic period"
+        },
+        {
+          "text": "State mining report documents sulphide, pyrite and silver-iron ore production; a January 1919 trade review confirms pyrite operations in 1918.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A local historical photograph identifies Greenback alongside the distinct Mikado and Wolftone mines in northern Graham Park.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Keystone View Company stereograph depicts the Greenback mine buildings.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.25028,
+        "longitude": -106.26889
+      },
+      "moreHistory": [
+        "According to an 1918 biography, Patrick Mulrooney located Greenback in May 1878 and worked it intermittently, notably in 1894–1898 and 1902–1916. A mining account preserved by USGS describes a 1,240-foot shaft and a proposed 750-ton-per-day hoist for 1902; that is a proposed plant rating, not verified actual daily output. The 1915–1916 Colorado mine report mentions pumping through Greenback and Wolftone shafts to help dewater neighboring Robert Emmet workings. Colorado's 1917–1918 mine report says Western Chemical Manufacturing Company bought Greenback in May 1917 and produced substantial sulphide ore carrying silver, zinc, and gold, pyrite for its sulfur, and some silver-iron ore. A January 1919 trade review confirms pyrite mining by Western Chemical during 1918. Local historical photographs identify Greenback beside the separate Mikado and Wolftone workings around 1920, while a 1928 stereograph documents mine buildings. USGS PP235 names Greenback at Graham Park in a mineralogical discussion. Ownership and production totals beyond the cited periods remain unverified."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-08T19:16:30.228Z"
     },
     {
       "id": "CO-LAKE-HARRISON-REDUCTION-WORKS",
@@ -949,6 +1429,31 @@
       "contentUpdatedAt": "2026-10-08T03:11:51.830Z"
     },
     {
+      "id": "CO-LAKE-HELENA-MINE",
+      "name": "Helena Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "The Helena Mine, also written Hellena, worked ore-bearing ground in Iowa Gulch east of Leadville. Before 1909, its shallow workings reportedly produced about $100,000 worth of ore, but water became a serious obstacle. Operators returned in 1928 and 1929, only to shut down in 1930 amid expensive pumping and disputes over the property. By then the main shaft had reached 766 feet. A 1953 U.S. Geological Survey report describes the mine's connection to the Helena fault and the complex geology that helped concentrate ore here. The map pin marks the approximate historic mine locality—not a confirmed, accessible shaft entrance. Nearby mines shown on maps are separate workings."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.224713,
+        "longitude": -106.225855
+      },
+      "moreHistory": [
+        "USGS geologist C. H. Behre Jr. devoted a named section of Professional Paper 235 (1953, p. 139 onward) to the Helena/Hellena Mine in lower Iowa Gulch. The report says earlier shallow operations before 1909 reportedly produced ore valued at about $100,000, but water problems curtailed work. Mining resumed in 1928 and 1929; disputes between the operator and landowners, together with increasing pumping costs, caused shutdown in 1930. The Helena shaft, sunk at the surface trace of the Helena fault, was 766 feet deep in 1930. The mine sits in a structurally complicated zone where the Helena and Weston fault branches intersect other major faults. Behre identified it as the only large Iowa Gulch mine accessible during his investigations. The historical production figure is a reported estimate, not an independently audited total; the mine is distinct from neighboring First National/Julia-Fisk, Clear Grit/Ella Beeler and later Black Cloud workings."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T19:17:02.851Z"
+    },
+    {
       "id": "CO-LAKE-HIBERNIA-MINE",
       "name": "Hibernia Mine",
       "tier": "EXPLORE",
@@ -991,6 +1496,77 @@
       "contentUpdatedAt": "2026-10-07T21:12:28.452Z"
     },
     {
+      "id": "CO-LAKE-IRENE-NO-2-MINE",
+      "name": "Irene Number 2 Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "Mine",
+      "location": "Lake County",
+      "overview": [
+        "The Irene No. 2 shaft on Breece Hill was built in the 1950s and extended roughly 1,750 feet underground. Operated by ASARCO, it closed amid weak metal prices in 1957 and reopened in 1965. Later connected underground to the Black Cloud Mine, its steel headframe is a reminder of Leadville's twentieth-century mining era."
+      ],
+      "timeline": [
+        {
+          "text": "ASARCO listed for exploration and development.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Irene shaft closed due to low metal prices.",
+          "year": "Historic period"
+        },
+        {
+          "text": "ASARCO and Resurrection reopened Irene workings.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Separate Black Cloud shaft sunk and production began; later connected to Irene.",
+          "year": "Historic period"
+        },
+        {
+          "text": "EPA identified Irene No. 2 as active.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2433233,
+        "longitude": -106.2316889
+      },
+      "moreHistory": [
+        "Built in the 1950s, Irene was a roughly 1750-foot shaft in the Resurrection mining complex. The 1952 Colorado report lists ASARCO as operator, John Mitchell as manager, and gold, silver, lead and zinc exploration. EPA records a shutdown in 1957 due to low metal prices and reopening by ASARCO and Resurrection in 1965. The separate Black Cloud shaft was sunk in 1969 and began production in 1971; its workings connected to Irene. A 1986 EPA plan identifies Irene No. 2 as active. Mining historians documented the surviving steel headframe in 2007 and 2017."
+      ],
+      "componentType": "Mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T01:12:51.808Z"
+    },
+    {
+      "id": "CO-LAKE-JOHN-REED-MINE",
+      "name": "John Reed Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Near Fremont Pass, the abandoned John Reed Mine became known for something smaller than its underground workings: brilliant rose-pink rhodochrosite crystals. Mineralogists were describing its unusually clear red specimens by 1887 and studying their properties in the early twentieth century. A 1961 USGS account recalled crystals as large as half an inch, including a remarkable group of forty from one small cavity. The mine had long been abandoned by then, though occasional specimens could still be found on its dump. Remnant marks the approximate historic mine locality, not a verified safe entrance; the similarly named mine in Park County is a separate mapped feature."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.35478,
+        "longitude": -106.16717
+      },
+      "moreHistory": [
+        "The John Reed Mine in Lake County's old Alicante district is particularly significant in the history of Colorado rhodochrosite. A mineralogical description by G. F. Kunz in 1887, later summarized by Wayland (1942), identified rich-red transparent crystals from this mine. Larsen and Wherry examined John Reed rhodochrosite in 1917, and subsequent mineralogical literature used these specimens in comparisons of crystal properties. USGS Bulletin 846-C (1933) documents the locality in Climax-area geology. Edwin Eckel's USGS 1961 survey called the long-abandoned John Reed mine a well-known source of rose-pink, gem-quality rhodochrosite, describing crystals up to about half an inch and a reported cavity containing forty crystals. Occasional specimens were still found on the dump by that time. MRDS records it as an underground past producer and lists gold, lead, silver, zinc and gemstone commodities, but no verified owners, production totals, or start/end dates have been established. The historic Alicante settlement's tramway and mill must not be attributed to this mine without separate evidence."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T18:13:20.096Z"
+    },
+    {
       "id": "CO-LAKE-JULIA-FISK-MINE",
       "name": "Julia Fisk Mine",
       "tier": "EXPLORE",
@@ -1031,6 +1607,27 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-07T02:10:07.828Z"
+    },
+    {
+      "id": "CO-LAKE-LAKEWOOD-MINE",
+      "name": "Lakewood Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.274444,
+        "longitude": -106.389722
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T01:12:47.904Z"
     },
     {
       "id": "CO-LAKE-LEADVILLE-MINE-DRAINAGE-TUNNEL",
@@ -1085,6 +1682,27 @@
       "componentType": "TUNNEL",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-06T21:10:44.625Z"
+    },
+    {
+      "id": "CO-LAKE-LITTLE-ALICE-TUNNEL",
+      "name": "Little Alice Tunnel",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "ADIT_TUNNEL",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.22166,
+        "longitude": -106.22586
+      },
+      "moreHistory": [],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T14:12:38.192Z"
     },
     {
       "id": "CO-LAKE-LITTLE-BOB-SHAFT",
@@ -1349,6 +1967,31 @@
       "contentUpdatedAt": "2026-10-08T13:14:07.146Z"
     },
     {
+      "id": "CO-LAKE-LONG-AND-DERRY-MINE",
+      "name": "Long and Derry Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Long and Derry was part of the early silver-and-lead mining history around Leadville. Miners explored dark, metal-rich rock along Long and Derry Hill, where several closely spaced shafts and tunnels came to be known collectively as the Long and Derry mines. Historical records mention the mines by 1879, document a mining company in 1882, and list the mine among Lake County's silver-and-lead properties in 1915–16. The map marker represents the historic mine locality, not a confirmed entrance. Do not enter abandoned mine workings."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2161015,
+        "longitude": -106.2378
+      },
+      "moreHistory": [
+        "Long and Derry was an early Leadville silver-lead mining locality. A June 1879 contemporary letter mentions the Long and Derry mines, and an 1882 stock certificate documents a Long and Derry Hill Mining Company. The 1886 USGS Emmons monograph and 1953 USGS Behre study describe several closely spaced prospects collectively called the Long and Derry mines: Faint Hope, Diana, Homestake, Gildersleeve, Campbell, Porphyry and Himalaya. The 1953 study describes two shafts about 50 feet deep and a caved tunnel, with galena the main primary ore mineral and cerussite and silver chloride associated with it. A 1912 directory names Hawkins, Long and Derry Mining and Tunnel Company, but exact corporate continuity is unproven. The Colorado Bureau of Mines listed Long and Derry as a silver-and-lead mine with wagon transport to Leadville in 1915–16. Historic accounts concern the named mine group and cannot assign every individual working to one point."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T22:08:14.182Z"
+    },
+    {
       "id": "CO-LAKE-MAID-OF-ERIN-MINE",
       "name": "Maid of Erin Mine",
       "tier": "EXPLORE",
@@ -1435,6 +2078,27 @@
       "componentType": "mine",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-06T13:10:09.425Z"
+    },
+    {
+      "id": "CO-LAKE-MIKE-MINE",
+      "name": "Mike Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2389,
+        "longitude": -106.2531
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T18:13:11.146Z"
     },
     {
       "id": "CO-LAKE-MINNIE-PUMP-SHAFT",
@@ -1717,6 +2381,27 @@
       "contentUpdatedAt": "2026-10-08T04:16:31.762Z"
     },
     {
+      "id": "CO-LAKE-PENN-NO-3-MINE",
+      "name": "Penn No. 3 Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.24829,
+        "longitude": -106.24501
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T04:16:14.907Z"
+    },
+    {
       "id": "CO-LAKE-PRINTER-BOY-MINE",
       "name": "Printer Boy Mine",
       "tier": "EXPLORE",
@@ -1859,6 +2544,27 @@
       "contentUpdatedAt": "2026-10-06T16:08:10.037Z"
     },
     {
+      "id": "CO-LAKE-REVEILLE-MINE",
+      "name": "Reveille Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.225,
+        "longitude": -106.2375
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T03:08:39.373Z"
+    },
+    {
       "id": "CO-LAKE-ROBERT-E-LEE-MINE",
       "name": "Robert E. Lee Mine",
       "tier": "EXPLORE",
@@ -1962,6 +2668,27 @@
       "contentUpdatedAt": "2026-10-06T17:13:30.007Z"
     },
     {
+      "id": "CO-LAKE-SAINT-LOUIS-TUNNEL",
+      "name": "Saint Louis Tunnel",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "ADIT_TUNNEL",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.25193,
+        "longitude": -106.2353
+      },
+      "moreHistory": [],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T13:12:16.206Z"
+    },
+    {
       "id": "CO-LAKE-SHERMAN-MINE",
       "name": "Sherman Mine",
       "tier": "EXPLORE",
@@ -2006,6 +2733,169 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-06T23:08:14.514Z"
+    },
+    {
+      "id": "CO-LAKE-SILVER-CORD-MINE",
+      "name": "Silver Cord Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINING",
+      "location": "Lake County",
+      "overview": [
+        "On Iron Hill above Leadville, the Silver Cord was far more than a single hole in the ground. By 1880 its operators reported a deep shaft, thousands of feet of underground passages and regular shipments of silver-lead ore. A later court case gives a rare glimpse of life below ground, describing rail cars on a steep incline, a signaling system and more than a hundred miners. The mine also helped inspire a drainage and haulage tunnel that eventually became part of the much larger Yak system. This map marker identifies the approximate historic Silver Cord mine locality, not a confirmed open entrance."
+      ],
+      "timeline": [
+        {
+          "text": "August mining journal described substantial silver-lead ore in the Silver Cord combination under superintendent Arthur B. Litchfield; reported assays are contemporary estimates.",
+          "year": "Historic period"
+        },
+        {
+          "text": "December report described a 380-foot main shaft, approximately 2,000 feet of drifts, six claims totaling about 60 acres, and regular ore shipments.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Silver Cord Combination Mining Company continued development, with work noted near the Williard claim, Gros shaft and 1,100-foot level.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Colorado Supreme Court decision documented the company's 835-foot rail incline and a workforce exceeding 100 miners; incident occurred before the decision.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Historical reconstruction places completion of the original Blow drainage/haulage tunnel to the Silver Cord incline by June; the later Yak Tunnel was a separate expanded system.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.23942,
+        "longitude": -106.26376
+      },
+      "moreHistory": [
+        "Silver Cord Combination was an extensively developed silver-lead mine on Iron Hill near Leadville. Contemporary mining reports in August and December 1880 describe ore development under Arthur B. Litchfield, a 380-foot main shaft, about 2,000 feet of drifts, six locations totaling roughly 60 acres, a connection with the Cleora shaft, and regular ore shipments. A report from October 1889 describes exploration near the Williard claim, the Gros shaft and the 1,100-foot level. A Colorado Supreme Court decision issued in January 1890 provides an unusual primary account of underground work: more than 100 employees, an approximately 835-foot rail incline, haulage cars and a signaling practice implicated in a worker's injury. The original Blow drainage/haulage tunnel was intended to connect with the Silver Cord incline; a historical reconstruction places this connection by June 1892. Later expansion into the Yak Tunnel system served numerous mines and must not be mistaken for the Silver Cord mine itself. Emmons' USGS studies and mineralogical indexing record silver-bearing galena, cerussite, pyrite and associated minerals at the Silver Cord locality. The site's present-day exact shaft and incline entrances are not established by these records."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T05:11:03.874Z"
+    },
+    {
+      "id": "CO-LAKE-SILVER-WAVE-MINE",
+      "name": "Silver Wave Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINING",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2388889,
+        "longitude": -106.2663889
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T06:11:31.513Z"
+    },
+    {
+      "id": "CO-LAKE-SUNDAY-NO-2-MINE",
+      "name": "Sunday No. 2 Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "High above Leadville on the west side of Ball Mountain, Sunday No. 2 was a historic underground mine with its own shaft, separate from the nearby Sunday No. 1 and Bald Mountain workings. Federal geologists mapped the shafts and surrounding veins, while a 1946 Bureau of Mines survey investigated the district's old mine openings. Decades later, USGS scientists returned to study the abandoned Sunday No. 2 waste pile, documenting ore-related minerals and a barren runoff zone downslope. The map marker indicates the historic mine locality, not a safe entrance or a precisely surveyed opening."
+      ],
+      "timeline": [
+        {
+          "text": "A later mine-history photo caption dates sinking of the Sunday No. 2 shaft to 1904, reporting a cost of $84,000; primary record not yet checked.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS Professional Paper 148 maps Sunday No. 2 among the Leadville district workings (Plate 45).",
+          "year": "Historic period"
+        },
+        {
+          "text": "U.S. Bureau of Mines investigated Leadville shafts, including a separately indexed Sunday No. 2 shaft; a modern caption reports lease arrangements and removal of the deteriorated headframe, pending primary verification.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS Professional Paper 235 mapped Sunday No. 2 shaft distinctly from Sunday No. 1, along with nearby faults, veins, and tunnels.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS surveyed the abandoned Sunday #2 mine-waste pile on Ball Mountain, documenting dump topography and vegetation-damage zones.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS characterized Sunday No. 2 mine-waste minerals and later published electrical-property research, keeping Sunday #2 separate from the Venir mine.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2355556,
+        "longitude": -106.2272222
+      },
+      "moreHistory": [
+        "The Sunday No. 2 mine occupied the west flank of Ball Mountain above Leadville, at a mapped mine locality around 11,900 feet. USGS mapping (1927 and 1953) distinguishes its shaft from Sunday No. 1 and shows the Sunday vein and adjacent faults/tunnels, but these connected features should not be conflated with a single mine's output. A 2022 historical-photo caption reports the shaft was sunk in 1904 for $84,000 and identifies 1946 Dickerman/ASARCO/Jones-Nylene arrangements and headframe removal; those fine-grained claims are attributed to the caption because the primary 1949 Bureau of Mines shaft subsection was not available for direct review. The 1949 Bureau of Mines RI 4518 is indexed as having investigated Sunday No. 2 in the 1946 field campaign. In 1998 the USGS surveyed the abandoned Sunday #2 waste pile, and in 2000 described a single conical dump in Johnson Gulch Porphyry containing pyrite, galena and sphalerite and a seasonal downslope vegetation-kill zone; in 2003 it published further electrical-property work. This is a distinct and traceable mine site with a documented mining-era shaft and subsequent environmental legacy."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-08T18:14:05.574Z"
+    },
+    {
+      "id": "CO-LAKE-TENDERFOOT-SHAFT",
+      "name": "Tenderfoot Shaft",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Tenderfoot was one of the underground mines east of Leadville. In 1914, a serious cave-in blocked access to its main mining areas. Crews drove a new passage around the damaged ground, and contemporary reports say shipments resumed that October. Historic records also identify manganese mining here, although the exact shaft entrance and total production remain unverified."
+      ],
+      "timeline": [
+        {
+          "text": "Tenderfoot Consolidated Mining Company associated with Tenderfoot, Alps No. 3, and Mary claims in historical compilation; contemporaneous stock certificates corroborate the company's existence but not individual shaft location.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Contemporary mining report states a cave-in interrupted work at Leadville's Tenderfoot mine.",
+          "year": "1914-06-27"
+        },
+        {
+          "text": "Report describes serious drift cave-in and a new curved bypass drift to regain access to principal stopes; ore described as high-grade lead.",
+          "year": "1914-08-15"
+        },
+        {
+          "text": "After reopening caved workings, the mine was reported back on the shipping list.",
+          "year": "1914-10-10"
+        },
+        {
+          "text": "Federal mining review includes Tenderfoot among Leadville-area mines shipping ore.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.25167,
+        "longitude": -106.22861
+      },
+      "moreHistory": [
+        "The Tenderfoot workings east of Leadville formed part of the area's late-19th-century mining activity. A historical locality compilation associates the Tenderfoot, Alps No. 3 and Mary claims with Tenderfoot Consolidated Mining Company in 1880; primary stock records document that company's existence, but the individual claims and shaft collars require separate map verification. USGS-derived mineral inventory lists Tenderfoot Shaft as a past-producing underground manganese mine. Contemporary Engineering and Mining Journal reports provide unusually detailed evidence of a 1914 ground failure: a cave-in interrupted production by June; by August the collapsed drift leading to the main stopes was being bypassed with a curving drift, and the report described high-grade lead ore. By October the mine was reportedly shipping again after reopening the affected ground. A federal review of 1915 mining names Tenderfoot among Leadville mines shipping ore. These sources do not establish an exact shaft depth, verified tonnage, or a surveyed portal position; manganese and lead descriptions reflect different records and should not be collapsed into a single ore-grade claim."
+      ],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T07:15:54.117Z"
     },
     {
       "id": "CO-LAKE-TUCSON-MINE",
@@ -2110,6 +3000,119 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-08T17:09:31.699Z"
+    },
+    {
+      "id": "CO-LAKE-VIRGINIUS-MINE",
+      "name": "Virginius Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2547,
+        "longitude": -106.2289
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T20:17:20.317Z"
+    },
+    {
+      "id": "CO-LAKE-VULTURE-MINE",
+      "name": "Vulture Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Vulture Mine was a rich silver-and-lead working on Fryer Hill. Its story includes a shaft, a neighboring disputed claim, an 1880 mine fire, and an 1883 lease. Marker shows an approximate locality only."
+      ],
+      "timeline": [
+        {
+          "text": "Vulture supplied Leadville ore sampling operations; underground fire reported in its workings.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Original discoverer J. C. Langhorne leased southern Vulture ground.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS described Vulture No. 1 shaft and the lead-silver ore body.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2549896,
+        "longitude": -106.2789124
+      },
+      "moreHistory": [
+        "USGS Emmons (1886) described Vulture No. 1 shaft opening a rich lead-silver ore body within the Chrysolite group. A nearby Triangle/Eaton claim was separate. In 1880 an underground fire affected Vulture workings; 1883 reporting identified original discoverer J. C. Langhorne as lessee of southern Vulture ground."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-09T17:16:40.615Z"
+    },
+    {
+      "id": "CO-LAKE-WILKESBARRE-MINE",
+      "name": "Wilkesbarre Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On a hillside above Shingle Mill Gulch, the Wilkesbarre Mine was driven toward a silver vein already worked from higher tunnels. The Arty and Snow vein was located in 1884, and the mining group later shipped silver-bearing ore. In 1924 miners worked on a lower tunnel intended to reach ore beneath the upper workings. Geologists mapped parts of this lower tunnel in 1951, preserving a detailed record of its fractured granite and vein geology. Historic reports frequently combine production from the upper and lower workings; the $15,000 reported for 1920–23 belongs to the upper Arty and Snow operation, not necessarily this portal. The map pin shows an approximate historic location; the entrance and land access are not verified."
+      ],
+      "timeline": [
+        {
+          "text": "The Arty and Snow silver vein was located; this was the vein later accessed by the Wilkesbarre mining group, not proof that the lower Wilkesbarre tunnel already existed.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Robert Morseman and associates drove more than 300 feet of adit on the Wilkesbarre group and encountered silver-bearing oxide ore; the precise attribution of this early drive to today's lower portal is uncertain.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The Wilkesbarre Mine shipped siliceous gold-silver ore.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Upper Arty and Snow workings yielded about $15,000 in gross production; this is group-level history, not proven production from the lower Wilkesbarre adit.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Workers developed a lower drift, probably today's Wilkesbarre adit #102, to intercept the Snow Lode vein beneath earlier upper workings.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS geologists could enter much of the lower Wilkesbarre adit and mapped its underground geology.",
+          "year": "Historic period"
+        },
+        {
+          "text": "State mine inventories and subsequent Colorado Geological Survey research documented the Wilkesbarre adits and their waste-rock/environmental issues.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2955556,
+        "longitude": -106.3788889
+      },
+      "moreHistory": [
+        "The Wilkesbarre mining group in the St. Kevin district developed the silver-bearing Arty and Snow vein. USGS reported that the vein was located in 1884, and that the lower Wilkesbarre portal lay in Shingle Mill Gulch, distinct from the upper Arty and Snow adit roughly 330 feet northeast. CGS archival research documents 1904 development of over 300 feet of group adit, 1910 siliceous gold-silver ore shipments, and lower-tunnel development in 1924 intended to intercept silver ore beneath the upper workings. Upper Arty/Snow workings shipped silver-bearing ore in the early 1920s; USGS valued their 1920-23 gross output at about $15,000, but this is not lower-adit-specific production. USGS geologists mapped accessible lower Wilkesbarre workings in 1951. CGS later inventoried the lower adit as #102 and noted waste-rock/environmental concerns. Historical records often combine the Wilkesbarre group and upper Arty/Snow production, so they must not be conflated with lower adit #102 or neighboring Griffin workings."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T02:17:13.613Z"
     },
     {
       "id": "CO-LAKE-WOLFTONE-MINE",
@@ -2256,6 +3259,6 @@
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-08T18:02:48.382Z",
+  "generatedAt": "2026-10-10T04:23:07.484Z",
   "schemaVersion": 1
 }
