@@ -33,12 +33,14 @@ jobs:
 
       - name: Select changed ready requests only
         id: select
+        env:
+          REQUEST_PATH: ${{ inputs.request_path }}
         shell: bash
         run: |
           set -euo pipefail
           : > /tmp/media-requests.txt
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
-            requested='${{ inputs.request_path }}'
+            requested="$REQUEST_PATH"
             if [[ ! "$requested" =~ ^v4/media-requests/[a-zA-Z0-9._-]+\.json$ ]] || [[ ! -f "$requested" ]]; then
               echo 'Unsafe or missing media request path' >&2
               exit 1
