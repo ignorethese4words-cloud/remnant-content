@@ -300,6 +300,27 @@
       "contentUpdatedAt": "2026-10-08T16:08:17.818Z"
     },
     {
+      "id": "CO-LAKE-BIRDELLA-SHAFT",
+      "name": "Birdella Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.3038774,
+        "longitude": -106.3711375
+      },
+      "moreHistory": [],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T09:17:00.695Z"
+    },
+    {
       "id": "CO-LAKE-BISON-SHAFT",
       "name": "Bison Shaft",
       "tier": "EXPLORE",
@@ -323,6 +344,27 @@
       "componentType": "SHAFT",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-08T04:16:19.813Z"
+    },
+    {
+      "id": "CO-LAKE-BOYD-TUNNEL",
+      "name": "Boyd Tunnel",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "ADIT_TUNNEL",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2666555,
+        "longitude": -106.3861375
+      },
+      "moreHistory": [],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T07:14:19.606Z"
     },
     {
       "id": "CO-LAKE-BREECE-IRON-MINE",
@@ -434,6 +476,56 @@
       "contentUpdatedAt": "2026-10-06T15:14:45.460Z"
     },
     {
+      "id": "CO-LAKE-CASTLE-VIEW-MINE",
+      "name": "Castle View Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Leadville's Carbonate Hill, Castle View was more than a name on a mining map. Its workings were documented in the 1880s, and its shaft later served the neighboring Big Chief property. By 1911–1912, Colorado mine inspectors counted Castle View among the hill's major ore shippers. Reports trace a changing mix of iron, lead, zinc and manganese-bearing ore, and describe renewed zinc shipments through Castle View shaft in 1917–1918. Some reported tonnage belongs to groups of mines or shared shafts, not Castle View alone. The map marker indicates the historic locality, not an identified safe entrance."
+      ],
+      "timeline": [
+        {
+          "text": "A contemporary mining report described Castle View workings and a proposed drainage connection to the Henriett & Maid system; the connection's completion was not established.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The Castle View shaft served the Big Chief property; a contemporary report estimated about 150 tons of ore per day through the shaft. This was shaft/Big Chief output, not Castle View-claim-only tonnage.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS Bulletin 427 published multiple chemical analyses explicitly labeled as Castle View mine ore.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The Colorado state mine inspector named Castle View among three major Carbonate Hill ore shippers; the reported roughly 600 tons per day was a combined figure for all three properties.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A mining journal reported that Castle View lessee Nicholson sublet work to a group planning to mine oxidized-zone iron ore.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A state mine report documented M. A. Nicholson operating Big Chief and Castle View claims via Castle View shaft and shipping zinc ore.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2474897,
+        "longitude": -106.2730788
+      },
+      "moreHistory": [
+        "Castle View was an important Carbonate Hill mining locality active by the late 1880s. In 1888 a trade journal described its existing ore workings and a proposed drainage connection to neighboring mines. In 1905 the Castle View shaft handled ore from the Big Chief property, illustrating shared infrastructure rather than necessarily separate Castle View-claim production. USGS published Castle View ore analyses in 1910. Colorado's 1911–1912 state mine inspector named Castle View as one of three major carbonate-zinc shippers on the hill, with other silver-lead and manganese-bearing iron ores; the report's roughly 600 tons per day applies to all three properties combined. A 1914 report described lessee Nicholson subletting oxidized-zone iron mining, and the 1917–1918 state report documented M. A. Nicholson working Big Chief and Castle View claims through Castle View shaft and shipping zinc ore. These accounts establish a multi-decade, site-specific operational history, but no precise modern shaft entrance is verified."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T12:17:34.793Z"
+    },
+    {
       "id": "CO-LAKE-CATALPA-MINE",
       "name": "Catalpa Mine",
       "tier": "ID ONLY",
@@ -501,15 +593,15 @@
           "rights": "Reuse permitted with attribution and ShareAlike requirements.",
           "creator": "Nickt",
           "license": "CC BY-SA 3.0",
-          "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/7/77/ChampionMill.png",
-          "sourceNote": "Photograph of the southern side of Champion Mill in Lake County, Colorado.",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-CHAMPION-MILL/CO-LAKE-CHAMPION-MILL-MODERN-001-657cf4455d104ab7793d.png",
+          "sourceNote": "Photograph of the southern side of Champion Mill in Lake County, Colorado. Durable asset retrieval uses Commons Special:FilePath to avoid stale content-hash URL. | Original image URL: https://commons.wikimedia.org/wiki/Special:FilePath/ChampionMill.png",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:ChampionMill.png",
           "attribution": "Nickt, ChampionMill.png, via Wikimedia Commons, CC BY-SA 3.0",
           "mediaStatus": "PACKAGED",
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-07T16:53:35.167Z"
+      "contentUpdatedAt": "2026-10-10T13:54:40.274Z"
     },
     {
       "id": "CO-LAKE-CHRYSOLITE-MINE",
@@ -1162,18 +1254,18 @@
           "id": "CO-LAKE-GARBUTT-MINE-HIST-001",
           "label": "Historic underground photograph",
           "title": "Four miners underground at Garbutt Mine",
-          "rights": "Wikimedia Commons file description explicitly lists PD-US. U.S. commercial reuse permitted; international copyright status may differ.",
+          "rights": "Wikimedia Commons lists PD-US for this original image. U.S. commercial reuse is permitted; other jurisdictions may differ.",
           "creator": "Photographer unknown",
           "license": "Public domain — U.S. (PD-US)",
-          "remoteUri": "https://commons.wikimedia.org/wiki/Special:FilePath/GarbuttMine.gif",
-          "sourceNote": "Original historic photograph from National Mining Hall of Fame and Museum, reproduced by Colorado School of Mines; Wikimedia Commons notes the candle holder attached to mine timber at right. 541 x 499 pixels. Supplemental image only, not hero.",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-GARBUTT-MINE/CO-LAKE-GARBUTT-MINE-HIST-001-53651debbbf612cdb842.gif",
+          "sourceNote": "Original historic photograph from National Mining Hall of Fame and Museum, reproduced by Colorado School of Mines; Wikimedia Commons image description confirms miners underground at Garbutt Mine, photographed circa 1895–1915. Supplemental image, not hero. | Original image URL: https://commons.wikimedia.org/wiki/Special:FilePath/GarbuttMine.gif",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:GarbuttMine.gif",
           "attribution": "National Mining Hall of Fame and Museum; Colorado School of Mines; via Wikimedia Commons (GarbuttMine.gif)",
           "mediaStatus": "PACKAGED",
           "attributionRequired": false
         }
       ],
-      "contentUpdatedAt": "2026-10-08T04:05:37.955Z"
+      "contentUpdatedAt": "2026-10-10T13:57:27.922Z"
     },
     {
       "id": "CO-LAKE-GARIBALDI-TUNNEL",
@@ -1496,6 +1588,68 @@
       "contentUpdatedAt": "2026-10-07T21:12:28.452Z"
     },
     {
+      "id": "CO-LAKE-HOPEMORE-MINE",
+      "name": "Hopemore Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Lake County",
+      "overview": [
+        "On Breece Hill east of Leadville, Hopemore Mine tells a later chapter of the district's underground mining history. Its gold-, silver-, lead- and zinc-bearing workings were linked to a dedicated processing mill, with documented activity in the late 1980s and 1990s. A modern headframe was photographed during a 2007 mining-history field tour, and the mine later hosted tours demonstrating underground equipment and miners' working conditions. Records disagree on the exact start of production, and the map pin marks an approximate historic locality rather than a confirmed shaft entrance. Do not enter old workings or assume the site is open for tours."
+      ],
+      "timeline": [
+        {
+          "text": "A building permit was obtained for the separate Leadville mill intended to process Hopemore ore.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The mill operator reports that Hopemore Mine and the associated mill began sporadic production, continuing for roughly five years; this conflicts with an MRDS first-production field of 1997.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Colorado mining permit M1990-057 'Hopemore Shaft' was issued to Leadville Mining and Milling, covering the Breece Hill mine and separate mill.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Sunshine exploration files cited in MRDS reported estimated proven/probable mineral reserves; these were estimates, not actual production.",
+          "year": "Historic period"
+        },
+        {
+          "text": "MRDS lists Leadville Mining and Milling as owner and 1997 as first-production year, differing from the mill operator's 1989 chronology.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A Mining History Association field tour documented the modern Hopemore headframe behind Ibex Mine dumps on Breece Hill.",
+          "year": "Historic period"
+        },
+        {
+          "text": "According to the mill operator, Robert Calder/Lockland acquired Hopemore Mine around this time.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Hopemore became known for underground heritage tours led by Bob Calder; mine and mill permit arrangements also changed.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A geotagged photograph documented the named Hopemore Mine locality; its camera coordinates do not locate the shaft.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2447121,
+        "longitude": -106.2347446
+      },
+      "moreHistory": [
+        "Hopemore was a polymetallic underground mine on Breece Hill. USGS MRDS-derived data records gold, silver, lead, zinc, copper and iron; it describes the Ibex No. 4 fault vein through the mine area and estimated mineral reserves in 1992, not extracted tonnage. The operator of the related but geographically separate Leadville mill says mine/mill production began in 1989 and continued sporadically about five years, with permit M1990-057 issued in 1990. MRDS records first production as 1997, a conflict not resolved here. A Mining History Association 2007 field tour identified the Hopemore headframe behind Ibex dumps. Around 2008 Robert Calder/Lockland acquired the mine; the site subsequently hosted underground heritage tours. Nearby Ibex, Whites Hill Comstock, and a separate same-name Hopemore record must not be conflated."
+      ],
+      "componentType": "Historic Site",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T10:12:06.398Z"
+    },
+    {
       "id": "CO-LAKE-IRENE-NO-2-MINE",
       "name": "Irene Number 2 Mine",
       "tier": "EXPLORE",
@@ -1773,11 +1927,11 @@
           "id": "CO-LAKE-LITTLE-CHIEF-MINE-HIST-001",
           "label": "Historic image",
           "title": "The Little Chief mine",
-          "rights": "Public domain in the United States; mechanical scan of a public-domain original.",
+          "rights": "Public domain in the United States; mechanical scan of a public-domain original; commercial reuse in U.S. permitted.",
           "creator": "W. H. Jackson & Co.",
           "license": "Public domain (PD-scan / PD-US)",
-          "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/8/81/The_Little_Chief_mine%2C_by_W._H._Jackson_%26_Co..jpg",
-          "sourceNote": "NYPL Robert N. Dennis collection of stereoscopic views; Digital ID G90F043_008ZF.",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-LITTLE-CHIEF-MINE/CO-LAKE-LITTLE-CHIEF-MINE-HIST-001-78a87e2b4090483dced4.jpg",
+          "sourceNote": "NYPL Robert N. Dennis collection of stereoscopic views; NYPL Digital ID G90F043_008ZF. Historic stereoscopic image with the Little Chief mine identified by the collection title. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/8/81/The_Little_Chief_mine%2C_by_W._H._Jackson_%26_Co..jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Little_Chief_mine,_by_W._H._Jackson_%26_Co..jpg",
           "attribution": "W. H. Jackson & Co.; New York Public Library, Robert N. Dennis collection of stereoscopic views; via Wikimedia Commons.",
           "mediaStatus": "PACKAGED",
@@ -1790,15 +1944,15 @@
           "rights": "Public domain in the United States; mechanical scan of a public-domain original.",
           "creator": "J. Thurlow",
           "license": "Public domain (PD-scan / PD-US)",
-          "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/6/68/Shafts_and_mines_%22Little_Pittsburg%22_and_%22Little_Chief.%22%2C_by_Thurlow%2C_J.%2C_1831-1878.jpg",
-          "sourceNote": "NYPL Robert N. Dennis collection of stereoscopic views; Digital ID G90F043_016ZF. Source identifies both Little Pittsburg and Little Chief; do not identify a specific structure as Little Chief without additional evidence.",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-LITTLE-CHIEF-MINE/CO-LAKE-LITTLE-CHIEF-MINE-HIST-002-85e8f34ff9149dfc3cd2.jpg",
+          "sourceNote": "NYPL Robert N. Dennis collection of stereoscopic views; Digital ID G90F043_016ZF. Source identifies both Little Pittsburg and Little Chief; do not identify a specific structure as Little Chief without additional evidence. | Original image URL: https://commons.wikimedia.org/wiki/Special:FilePath/Shafts_and_mines_%22Little_Pittsburg%22_and_%22Little_Chief.%22%2C_by_Thurlow%2C_J.%2C_1831-1878.jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:Shafts_and_mines_%22Little_Pittsburg%22_and_%22Little_Chief.%22,_by_Thurlow,_J.,_1831-1878.jpg",
           "attribution": "J. Thurlow; New York Public Library, Robert N. Dennis collection of stereoscopic views; via Wikimedia Commons.",
           "mediaStatus": "PACKAGED",
           "attributionRequired": false
         }
       ],
-      "contentUpdatedAt": "2026-10-07T16:43:22.229Z"
+      "contentUpdatedAt": "2026-10-10T13:55:31.373Z"
     },
     {
       "id": "CO-LAKE-LITTLE-ELLEN-MINE",
@@ -1893,15 +2047,15 @@
           "rights": "Commercial use and adaptation permitted with appropriate attribution, a link to the Creative Commons BY 2.0 license, and indication of modifications. License reviewed by Commons FlickreviewR May 3, 2015.",
           "creator": "James St. John",
           "license": "CC BY 2.0",
-          "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/5/56/Gold_%28Little_Jonny_Mine%2C_Breece_Hill%2C_Leadville%2C_Colorado%2C_USA%29_%2817161825282%29.jpg",
-          "sourceNote": "This is a modern photograph of a genuine 24-ounce gold specimen found in 1892 at the Little Jonny Mine, also called Ibex Mine. The specimen was photographed on public display at the Leadville Mining Museum on 29 July 2007. Supplemental Explore media only; do not treat as a historical mine exterior or hero image.",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-LITTLE-JONNY-MINE/CO-LAKE-LITTLE-JONNY-MINE-ARTIFACT-001-93819f50cb6410546e79.jpg",
+          "sourceNote": "This is a modern photograph of a genuine 24-ounce gold specimen found in 1892 at the Little Jonny Mine, also called Ibex Mine. The specimen was photographed on public display at the Leadville Mining Museum on 29 July 2007. Supplemental Explore media only; do not treat as a historical mine exterior or hero image. | Original image URL: https://commons.wikimedia.org/wiki/Special:FilePath/Gold_%28Little_Jonny_Mine%2C_Breece_Hill%2C_Leadville%2C_Colorado%2C_USA%29_%2817161825282%29.jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:Gold_(Little_Jonny_Mine,_Breece_Hill,_Leadville,_Colorado,_USA)_(17161825282).jpg",
           "attribution": "Photo: James St. John, via Wikimedia Commons. CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). No edits to source image.",
           "mediaStatus": "PACKAGED",
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-08T04:13:25.277Z"
+      "contentUpdatedAt": "2026-10-10T13:55:55.056Z"
     },
     {
       "id": "CO-LAKE-LITTLE-KEYSTONE-SHAFT",
@@ -2611,15 +2765,15 @@
           "rights": "Wikimedia Commons marks the photographic work public domain in the United States because it was published before January 1, 1931. U.S. commercial reuse is permitted.",
           "creator": "William Henry Jackson",
           "license": "Public domain in the United States (PD-US)",
-          "remoteUri": "https://upload.wikimedia.org/wikipedia/commons/9/94/Robert_E._Lee_Mine%2C_Leadville%2C_Colorado.jpg",
-          "sourceNote": "Historic view explicitly identified as the Robert E. Lee Mine in Leadville. Wikimedia Commons cites the Yale University Library image viewer: https://brbl-zoom.library.yale.edu/viewer/1023936. Original file 2812 x 1676 pixels.",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-ROBERT-E-LEE-MINE/CO-LAKE-ROBERT-E-LEE-MINE-HIST-001-bbcd5ebb982c3a758123.jpg",
+          "sourceNote": "Historic view explicitly identified as the Robert E. Lee Mine in Leadville. Wikimedia Commons cites the Yale University Library image viewer: https://brbl-zoom.library.yale.edu/viewer/1023936. Original file 2812 x 1676 pixels. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/9/94/Robert_E._Lee_Mine%2C_Leadville%2C_Colorado.jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:Robert_E._Lee_Mine,_Leadville,_Colorado.jpg",
           "attribution": "William Henry Jackson; Yale University Library; via Wikimedia Commons.",
           "mediaStatus": "PACKAGED",
           "attributionRequired": false
         }
       ],
-      "contentUpdatedAt": "2026-10-08T03:54:52.837Z"
+      "contentUpdatedAt": "2026-10-10T13:53:28.816Z"
     },
     {
       "id": "CO-LAKE-ROBERT-EMMET-MINE",
@@ -3115,6 +3269,27 @@
       "contentUpdatedAt": "2026-10-10T02:17:13.613Z"
     },
     {
+      "id": "CO-LAKE-WOLCOTT-MINE",
+      "name": "Wolcott Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.25444,
+        "longitude": -106.28889
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T09:17:17.348Z"
+    },
+    {
       "id": "CO-LAKE-WOLFTONE-MINE",
       "name": "Wolftone Mine",
       "tier": "EXPLORE",
@@ -3259,6 +3434,6 @@
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-10T04:23:07.484Z",
+  "generatedAt": "2026-10-10T13:58:05.583Z",
   "schemaVersion": 1
 }
