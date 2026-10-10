@@ -1195,8 +1195,23 @@
         "The Gold Flake was one of the important native-gold veins of Farncomb Hill, where narrow veins in altered shale and porphyry produced exceptionally rich pockets of crystalline wire and leaf gold. The mine became especially notable for the 1887 discovery of Tom's Baby, Colorado's celebrated large gold specimen, by miners Tom Groves and Harry Lytton. A Denver Public Library chronology records the July 23, 1887 Gold-Flake Mine discovery at Farncomb Hill, and Breckenridge History preserves the local association of the find with the Gold Flake Mine. USGS Professional Paper 75 provides the authoritative geologic and mining context for the Farncomb Hill vein system and names the Gold Flake among its principal veins."
       ],
       "componentType": "Mine",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T16:12:06.971Z"
+      "displayImages": [
+        {
+          "id": "CO-SUMMIT-GOLD-FLAKE-MINE-TOMS-BABY-SPECIMEN-001",
+          "label": "Tom's Baby gold specimen, found at Gold Flake Mine in 1887; photographed in a museum in 2012 — NOT the mine exterior.",
+          "title": "Tom's Baby — gold vein specimen recovered from Gold Flake Mine",
+          "rights": "Creative Commons Attribution 2.0 Generic explicitly permits commercial use, copying, redistribution and offline storage with creator credit, original source and license link, and modification indication; original file unmodified.",
+          "creator": "James St. John",
+          "license": "CC BY 2.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-SUMMIT-GOLD-FLAKE-MINE/CO-SUMMIT-GOLD-FLAKE-MINE-TOMS-BABY-SPECIMEN-001-444a5aa0a6abfc8331c8.jpg",
+          "sourceNote": "Exact-site historical artifact: the celebrated 'Tom's Baby' high-grade gold/limonite specimen was recovered from the Gold Flake Mine on Farncomb Hill on 23 July 1887. This is a modern photograph of the specimen on display at Denver Museum of Nature & Science, not a photograph of the mine, shaft, surface works, or original 1887 discovery. Supplemental image only; the specimen should not be portrayed as a mine exterior or a site-condition photograph. Unmodified original image. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/7/73/Gold_vein_stockwork_in_limonite_%28Gold_Flake_Vein%2C_Farncomb_Hill%2C_near_Breckenridge%2C_Colorado%2C_USA%29_12_%2816891788938%29.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Gold_vein_stockwork_in_limonite_(Gold_Flake_Vein,_Farncomb_Hill,_near_Breckenridge,_Colorado,_USA)_12_(16891788938).jpg",
+          "attribution": "Photo: James St. John, 'Gold vein stockwork in limonite (Gold Flake Vein...) 12', 25 Oct 2012, via Wikimedia Commons. CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Original photograph unmodified.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-10T18:51:31.401Z"
     },
     {
       "id": "CO-SUMMIT-GOLD-NUGGET-PLACER-MINE",
@@ -3069,8 +3084,23 @@
         "Saints John was one of the earliest important silver properties in the Montezuma area. USGS Professional Paper 178 documents the geology and ore deposits of the Montezuma quadrangle and is the principal government geologic reference for the property. Historical accounts place the Saints John lode discovery in the 1860s and its acquisition by Boston capital in the late 1860s; the associated Boston Silver operation built milling and smelting infrastructure and the mining settlement grew around it. A 1907 mining account described the Saints John as the largest producer in that part of Colorado during the 1870s and said the Glacier Mountain workings extended several thousand feet. Colorado DRMS documents intermittent mine, mill, and smelter operation from the 1860s into the 1930s and identifies surviving/reclaimed features including a draining adit, waste-rock dumps, mill tailings, and mill ruins. The mine's long operating history, its role in the development of Saints John, and the surviving physical mine complex provide enough site-specific depth for an Explore page."
       ],
       "componentType": "Mine",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T17:14:20.270Z"
+      "displayImages": [
+        {
+          "id": "CO-SUMMIT-SAINTS-JOHN-MINE-MILL-MODERN-001",
+          "label": "Associated Saints John Mill ruins — 2022; NOT the mine adit",
+          "title": "Collapsed remains of the Saints John Mill (associated with Saints John Mine)",
+          "rights": "Commercial reproduction, redistribution and offline caching allowed under CC BY 3.0; retain creator attribution, source URL, license URL and modification status. No image modifications made.",
+          "creator": "D&RG Railfan",
+          "license": "CC BY 3.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-SUMMIT-SAINTS-JOHN-MINE/CO-SUMMIT-SAINTS-JOHN-MINE-MILL-MODERN-001-65e456ea39083fb9af1a.jpg",
+          "sourceNote": "Uploader's own photograph of the collapsed Saints John Mill at the namesake ghost town near Montezuma, taken 2022-09-05. This is a documented processing facility associated with the Saints John Mine and Mill Complex, NOT a photograph of the mine entrance or upper mine workings. Caption must always preserve that distinction. Original 4032x2268 JPEG. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/e/e1/The_Saints_John_Mill_at_the_Colorado_Ghost_Town_of_Saints_John%2C_in_September_2022.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Saints_John_Mill_at_the_Colorado_Ghost_Town_of_Saints_John,_in_September_2022.jpg",
+          "attribution": "Photo: D&RG Railfan, 'The Saints John Mill at the Colorado Ghost Town of Saints John, in September 2022', via Wikimedia Commons. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Original image, unmodified.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-10T17:56:51.739Z"
     },
     {
       "id": "CO-SUMMIT-SALLIE-BARBER-MINE",
@@ -3795,6 +3825,6 @@
   ],
   "state": "Colorado",
   "county": "Summit County",
-  "generatedAt": "2026-10-10T13:58:05.583Z",
+  "generatedAt": "2026-10-10T22:37:12.585Z",
   "schemaVersion": 1
 }

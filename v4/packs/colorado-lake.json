@@ -405,6 +405,44 @@
       "contentUpdatedAt": "2026-10-07T17:09:20.879Z"
     },
     {
+      "id": "CO-LAKE-BRIAN-BORU-MINE",
+      "name": "Brian Boru Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Printer Boy Hill, Brian Boru was one of the Leadville district's leased mining properties in the early 1880s. A mining report in 1883 described several leases, lead-rich ore and a shaft being sunk. Decades later, USGS geologists mapped its own adit, separate from the nearby Altoona entrance, and found portions of the old workings caved. The marker indicates an approximate historic locality, not an accessible mine entrance."
+      ],
+      "timeline": [
+        {
+          "text": "A contemporary Printer Boy Hill report described five Brian Boru leases, three reaching mineralized ground; an upper lease next to Nellie S. had a 31-foot shaft and reported lead-carbonate ore carrying gold.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Brian Boru was listed among Leadville mines being worked wholly or partly by lessees.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS Professional Paper 235 described the Brian Boru adit (P-62) as largely caved, with about 300 feet of then-examinable workings and two small mined-out blanket deposits near the portal. This documents conditions at the time of investigation, not present access.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.225556,
+        "longitude": -106.245833
+      },
+      "moreHistory": [
+        "In May 1883, contemporary reporting described five leases on Brian Boru, three in mineral, and an upper lease near Nellie S. with a 31-foot shaft and lead-carbonate ore reportedly carrying gold. In May 1884 the mine remained among Leadville properties worked by lessees. A 1953 USGS study distinguished the Brian Boru adit from the nearby Altoona adit in the Lillian workings: Brian Boru P-62 was then largely caved, with roughly 300 feet of examinable workings in Leadville dolomite and two mined-out small blanket deposits. Ore details for these later-described deposits were unknown; do not attribute Altoona or Nellie S. production to Brian Boru."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T19:15:16.808Z"
+    },
+    {
       "id": "CO-LAKE-BUCKEYE-MINE",
       "name": "Buckeye Mine",
       "tier": "EXPLORE",
@@ -686,6 +724,27 @@
       "componentType": "SHAFT",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-09T07:15:41.901Z"
+    },
+    {
+      "id": "CO-LAKE-COON-VALLEY-MINE",
+      "name": "Coon Valley Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.226934,
+        "longitude": -106.268912
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T20:15:36.609Z"
     },
     {
       "id": "CO-LAKE-CORONADO-MINE",
@@ -1052,6 +1111,102 @@
       "contentUpdatedAt": "2026-10-08T23:16:49.353Z"
     },
     {
+      "id": "CO-LAKE-DOLLY-B-MINE",
+      "name": "Dolly B Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Dolly B Mine has a longer story than its modest name suggests. The mine was shipping ore by the end of the 1890s, when its owners were also pursuing additional workings nearby. Court records from the early 1900s preserve a dispute among the Connolly brothers over financing and control of the Dolly B mining claims. By World War II, state mining officials described Dolly B as a steady source of lead-carbonate ore, with occasional sulfide shipments. It remained on Colorado's operating-mine lists in 1951 and 1952, later worked under lease from Resurrection Mining Company. The map marker identifies the approximate historic mine locality, not a confirmed shaft entrance; nearby mines and workings are separate sites."
+      ],
+      "timeline": [
+        {
+          "text": "A contemporary mining review reported sustained Dolly B ore output; its owners were also developing a separate shaft on the Board of Trade group.",
+          "year": "Historic period"
+        },
+        {
+          "text": "On August 13, the Connolly brothers entered a written agreement governing interests in their Leadville mining properties, including the Dolly B Group.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A federal court case described the financing and disputed management of the four-claim Dolly B Group; it did not identify a precise shaft location.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS leveling surveyors documented benchmarks by Dolly B Mine, including a nearby road and water tank, placing the mine in the historic Evansville/Ibex corridor.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Colorado's mine commissioner described Dolly B as a consistent but smaller shipper of lead-carbonate ores, with occasional sulfide ore shipments.",
+          "year": "Historic period"
+        },
+        {
+          "text": "State records listed Dolly B as an operating mine managed by Sam Shimmin for John Roberts & Associates, with gold, silver, lead and zinc products.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The mine remained listed as operating under Roberts & Company, managed by John Roberts and leased from Resurrection Mining Company; products listed were gold, silver and lead.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2575,
+        "longitude": -106.2213889
+      },
+      "moreHistory": [
+        "Dolly B was producing ore by 1899, when a contemporary mining journal described steady output and its owners' separate expansion toward a Board of Trade group shaft. In 1900 the Connolly brothers formalized financial and property interests in the Dolly B Group; a 1905 federal case later detailed their financing disputes. USGS leveling records in 1911 located the mine along a road near a water tank. During 1942–1943 the Colorado mine commissioner described Dolly B as a steady but modest producer of lead-carbonate ore with occasional sulfide shipments. State operating-mine lists document John Roberts & Associates and Sam Shimmin in 1951, then Roberts & Company under John Roberts in 1952, when the property was leased from Resurrection Mining Company. These records establish continuity of a named operation, not uninterrupted production across all intervening years. Exact surviving workings and entrance are not verified."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T17:09:54.455Z"
+    },
+    {
+      "id": "CO-LAKE-EVELYN-MINE",
+      "name": "Evelyn Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On the Carbonate Hill slope near Leadville, the Evelyn Mine was one of the underground workings searching for rich ore below the district's earlier mining levels. Contemporary accounts describe miners reaching sulfide-bearing rock by 1901, driving the shaft to a reported 1,000 feet in 1902, and following a narrow ore streak in 1905. A 1926 U.S. Geological Survey report later documented a substantial ore body where limestone met the Gray porphyry. Its possible connection to nearby mines was a geological hypothesis, not a proven underground link. The map point marks Evelyn's approximate historic locality, not a confirmed mine entrance."
+      ],
+      "timeline": [
+        {
+          "text": "A contemporary Graham Park mining dispatch reported that Evelyn's shaft had reached sulfide-bearing rock; future ore shipments were anticipated, not yet demonstrated by that report.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The Engineering and Mining Journal reported that Evelyn had sunk to approximately 1,000 feet and was drifting toward a projected sulfide ore shoot.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A December report described a narrow ore streak newly encountered in a lower level; it was not sufficient for steady shipments, and operators continued searching for a larger body.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS geologist G. F. Loughlin documented a large Evelyn ore body at the second (Gray porphyry) contact; possible continuity with nearby Wolftone and Castle View ore shoots remained unverified.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.244157,
+        "longitude": -106.275301
+      },
+      "moreHistory": [
+        "Evelyn was an underground mine in the Graham Park/Carbonate Hill area of the Leadville district. A 1901 mining dispatch reported its shaft had reached sulfide-bearing ground. By July 1902, a contemporary report said the shaft was about 1,000 feet deep and that drifts were being advanced in search of a sulfide ore shoot. In December 1905, a narrow ore streak was reported in the lower workings, but it was not sufficient for steady shipments; a larger body was still being sought. USGS Bulletin 779 (1926) described a large ore body at the second or Gray porphyry contact and considered a possible, unproven relationship to Wolftone and Castle View ore shoots. A later USGS report recorded 8–9 oz of silver per ton in a sample from silicified Leadville dolomite at Evelyn in Graham Park, but this cannot be generalized to mine-wide production. Dates of first discovery, operators, verified total output, and the exact surviving shaft entrance remain unestablished."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T14:16:43.217Z"
+    },
+    {
       "id": "CO-LAKE-EVENING-STAR-MINE",
       "name": "Evening Star Mine",
       "tier": "EXPLORE",
@@ -1088,6 +1243,27 @@
       "componentType": "mine",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-07T01:17:21.820Z"
+    },
+    {
+      "id": "CO-LAKE-FAMOUS-MINE",
+      "name": "Famous Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.25722,
+        "longitude": -106.22333
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T17:10:07.881Z"
     },
     {
       "id": "CO-LAKE-FANNY-RAWLINGS-MINE",
@@ -2234,6 +2410,31 @@
       "contentUpdatedAt": "2026-10-06T13:10:09.425Z"
     },
     {
+      "id": "CO-LAKE-MAY-QUEEN-MINE",
+      "name": "May Queen Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Fryer Hill above Leadville, the May Queen Mine helped change what miners looked for underground. Its Hayden shaft had already yielded lead ore by 1892. In 1910, a leasing team led by Howard E. Burton found commercially valuable high-grade oxidized zinc ore there. The discovery helped launch a broader search through Leadville's older workings, where zinc minerals once overlooked became important products. Contemporary reports show May Queen was still shipping newly opened zinc-carbonate ore in 1912. The map marker indicates the approximate historic May Queen locality, not an identified open shaft or a public-access route."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.25285,
+        "longitude": -106.27179
+      },
+      "moreHistory": [
+        "An 1880 claims map held by History Colorado documents the May Queen and Surprise claims and names several shafts, including Hayden. In February 1892 lessees at May Queen's Hayden shaft were extracting lead-carbonate ore. In 1910 Howard E. Burton, H. K. White and Alfred Thielen, working a lease at Hayden, discovered high-grade oxidized zinc ore and began shipping it. USGS reports distinguish this breakthrough from earlier, lower-grade zinc finds at the Robert E. Lee mine. By November 1912 contemporary reporting described new zinc-carbonate ore in May Queen's lower level and steady shipments. The mine's history is a documented part of Leadville's shift toward commercial oxidized-zinc production."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T21:13:57.173Z"
+    },
+    {
       "id": "CO-LAKE-MIKE-MINE",
       "name": "Mike Mine",
       "tier": "ID ONLY",
@@ -2956,6 +3157,56 @@
       "contentUpdatedAt": "2026-10-09T06:11:31.513Z"
     },
     {
+      "id": "CO-LAKE-STORKE-TUNNEL",
+      "name": "Storke Tunnel",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "ADIT_TUNNEL",
+      "location": "Lake County",
+      "overview": [
+        "The Storke Tunnel was part of the immense underground molybdenum mine at Climax near Fremont Pass. State mining reports named the tunnel in the early 1950s, and by 1961 miners had completed a shaft within the tunnel system to reach deeper levels. It was one part of the workings that helped make Climax a major molybdenum producer. Its mapped portal is distinct from the better-known Storke Shaft headframe nearby. The marker shows an approximate historic portal location, not an entrance to approach or enter."
+      ],
+      "timeline": [
+        {
+          "text": "Colorado Bureau of Mines listed Storke Tunnel as a Lake County molybdenum operation, naming Gibbons & Reed and Boyle Brothers and manager William McGlothlin.",
+          "year": "Historic period"
+        },
+        {
+          "text": "State mining records listed Storke Tunnel as exploration and development work associated with Climax Molybdenum Company.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Mining engineers published a contemporary technical study of the Storke Level's role in Climax's large underground operation.",
+          "year": "Historic period"
+        },
+        {
+          "text": "State report recorded completion of No. 4 Shaft inside Storke Tunnel for 600- and 900-level development and construction of a separate No. 5 Shaft outside the portal.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Mining History Association contributor Mike Kaas later recalled working on the Storke and Phillipson underground levels in summer 1962.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The broader Climax mine shifted from underground block-caving toward open-pit mining; this is context for the Storke system, not a documented exact tunnel closure date.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.36082,
+        "longitude": -106.1753
+      },
+      "moreHistory": [
+        "Colorado Bureau of Mines records separately identify the Storke Tunnel as a molybdenum operation at Climax in 1951 and as exploration/development in 1952, naming Gibbons & Reed and Boyle Brothers and manager William (W. K.) McGlothlin. A 1954 AIME paper details Storke Level operations within the huge Climax underground mine. The 1961 state report records No. 4 Shaft completed within Storke Tunnel to reach the 600 and 900 levels, while No. 5 Shaft was being developed outside the Storke Level portal. A Mining History Association firsthand retrospective recalls work on the Storke Level in 1962. Subsequent mine-wide conversion to open-pit methods changed the context of these workings. The Storke Tunnel/Portal is not identical to the surviving Storke Shaft headframe; mine-wide production totals should not be attributed solely to the tunnel."
+      ],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T18:10:11.450Z"
+    },
+    {
       "id": "CO-LAKE-SUNDAY-NO-2-MINE",
       "name": "Sunday No. 2 Mine",
       "tier": "EXPLORE",
@@ -3434,6 +3685,6 @@
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-10T13:58:05.583Z",
+  "generatedAt": "2026-10-10T22:37:12.585Z",
   "schemaVersion": 1
 }
