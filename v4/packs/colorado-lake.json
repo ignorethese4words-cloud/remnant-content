@@ -2,6 +2,56 @@
   "id": "colorado-lake",
   "sites": [
     {
+      "id": "CO-LAKE-ADAMS-SHAFT",
+      "name": "Adams Shaft",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Yankee Hill above Leadville's Stray Horse Gulch, the Adams Shaft was part of the district's intense 1880s search for valuable ore. Mining reports from 1886 describe workers sinking toward deeper deposits, upgrading their hoisting equipment, and encountering chloride, galena, and carbonate mineralization. It belonged to the larger Adams Mining Company property, but was a separate working from the nearby Brookland and Keene shafts. A historical photograph held by the Lake County Public Library identifies the shaft in the gulch. The map marker shows an approximate historic location, not a verified surviving shaft entrance; do not enter old workings or cross private property."
+      ],
+      "timeline": [
+        {
+          "text": "Adams Mining Company organized to develop Leadville claims (company-level context).",
+          "year": "Historic period"
+        },
+        {
+          "text": "Contemporary report locates Adams Shaft on Yankee Hill, near Keene Mine, while sinking toward the ore horizon.",
+          "year": "1886-03-20"
+        },
+        {
+          "text": "Adams Shaft reported high-grade chloride ore; new hoisting and pumping equipment purchased.",
+          "year": "1886-04-24"
+        },
+        {
+          "text": "Adams Shaft reported galena/carbonate mineralization; Brookland Shaft separately reported.",
+          "year": "1886-10-02"
+        },
+        {
+          "text": "Adams Mining Company property leased to David H. Moffatt (company-wide, not shaft-specific).",
+          "year": "Historic period"
+        },
+        {
+          "text": "Nicholson lease began, involving combined operation from the separate Wolftone shaft (company-wide).",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2505453,
+        "longitude": -106.2736345
+      },
+      "moreHistory": [
+        "Contemporary Engineering and Mining Journal accounts describe Adams Shaft on Yankee Hill, near the Keene workings, during active 1886 exploration. In March the shaft was being advanced toward a prospective ore horizon. In April miners reported a streak of high-grade chloride ore, prompting a new hoisting and pumping plant; the previous Adams hoist was slated for the distinct Brookland discovery shaft. In October the Adams shaft encountered galena and carbonate ore, reported at about 12 ounces silver per ton and 46.5% lead. The Adams Mining Company had been organized in 1883, and its wider Leadville holdings later passed through Moffatt and Nicholson leases, as described in a 1922 federal appellate opinion. Those company-wide leases, dividends, and later operations must not be represented as production or activity of this specific shaft. The Lake County Public Library preserves catalog metadata for a historic photograph depicting the Adams Shaft at Stray Horse Gulch; rights are restricted and the photograph has not been imported into the app."
+      ],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T15:14:26.360Z"
+    },
+    {
       "id": "CO-LAKE-ADELAIDE-MINE",
       "name": "Adelaide Mine",
       "tier": "EXPLORE",
@@ -170,6 +220,27 @@
       "contentUpdatedAt": "2026-10-10T00:11:27.798Z"
     },
     {
+      "id": "CO-LAKE-BANGKOK-MINE",
+      "name": "Bangkok Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2574896,
+        "longitude": -106.2672455
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T21:11:18.381Z"
+    },
+    {
       "id": "CO-LAKE-BECK-SHAFT",
       "name": "Beck Shaft",
       "tier": "ID ONLY",
@@ -210,6 +281,27 @@
       "componentType": "SHAFT",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-09T15:09:54.532Z"
+    },
+    {
+      "id": "CO-LAKE-BELGIAN-MINE",
+      "name": "Belgian Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2438788,
+        "longitude": -106.2608563
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T01:12:43.203Z"
     },
     {
       "id": "CO-LAKE-BESSIE-WILGUS-SHAFT",
@@ -346,6 +438,52 @@
       "contentUpdatedAt": "2026-10-08T04:16:19.813Z"
     },
     {
+      "id": "CO-LAKE-BLIND-TOM-MINE",
+      "name": "Blind Tom Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Iron Hill near Leadville, Blind Tom Mine has a history preserved in original mining journals and federal geological records. In 1892 it was reported under lease, with a newly encountered narrow ore vein. Records from 1914 and 1915 show later production, including oxidized zinc ore. Blind Tom also gave its name to a mining company whose holdings included neighboring—but separate—mines. The map pin shows the approximate historic locality rather than a verified mine entrance."
+      ],
+      "timeline": [
+        {
+          "text": "John S. Reid incorporated the Blind Tom Company, which held 20 acres including Blind Tom and the separate Frio and Poor Old Soldier mines; the exact incorporation year is not given.",
+          "year": "Late 1800s"
+        },
+        {
+          "text": "A contemporary mining journal reported the Blind Tom on Iron Hill under lease to Dr. MacLean for several months and a reported six-inch chloride-bearing vein.",
+          "year": "1892-04-30"
+        },
+        {
+          "text": "A contemporary report of Iron Silver Mining Company's 1914 results listed 395 tons of Blind Tom ore with reported value of $1,549.",
+          "year": "1914"
+        },
+        {
+          "text": "USGS records Blind Tom among Leadville mines producing oxidized zinc ores in both years.",
+          "year": "1914–1915"
+        },
+        {
+          "text": "A railway historical compilation lists abandonment of a 2.44-mile three-rail Leadville-to-Blind-Tom-Mine track; this is not evidence that mining ceased that year.",
+          "year": "1936-10-12"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2397,
+        "longitude": -106.2683
+      },
+      "moreHistory": [
+        "Blind Tom was an Iron Hill property within the Leadville mining district. A historical biography says John S. Reid organized a company whose 20-acre holdings included the Blind Tom, Frio, and Poor Old Soldier mines. In April 1892 a mining trade journal described a lease to Dr. MacLean and reported a narrow chloride-bearing vein. Iron Silver Mining Company's 1914 property breakdown, published in 1915, lists 395 tons of ore and a value of $1,549 for Blind Tom. USGS Bulletin 681 identifies Blind Tom as an oxidized-zinc-ore producer in 1914 and 1915. A later railroad-history compilation lists a 2.44-mile rail connection to the mine as abandoned in 1936, without establishing mine closure. A local tourism account says the mine took its name from a blind mule and identifies a headframe near Graham Park; its 1860 lightning anecdote is chronologically suspect and is not treated as established history. MRDS labels a manganese surface mine while period accounts describe other ore and underground workings; exact relationships among phases and structures remain uncertain."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T03:10:14.742Z"
+    },
+    {
       "id": "CO-LAKE-BOYD-TUNNEL",
       "name": "Boyd Tunnel",
       "tier": "ID ONLY",
@@ -441,6 +579,31 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-10T19:15:16.808Z"
+    },
+    {
+      "id": "CO-LAKE-BROOKLAND-MINE",
+      "name": "Brookland Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Brookland Mine was one of the historic workings on Carbonate Hill, part of Leadville's silver-and-lead mining district. By the early 1880s it had substantial underground development, including a deep shaft and steam-powered equipment. Later records describe the Brookland shaft and its connection to neighboring Clontarf workings. Historical accounts of production often combine the two mines, so their figures should not be read as Brookland-only output. The mapped point marks an approximate mine locality, not a confirmed shaft entrance or publicly accessible structure."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.247222,
+        "longitude": -106.274444
+      },
+      "moreHistory": [
+        "Brookland Mine on Carbonate Hill had a shaft described as 483 feet deep with steam hoisting and pumping equipment in an 1883 mining directory. An 1882 newspaper index also records pump installation. During the 1880s the Brookland workings were operationally linked with Clontarf under the Adams Mining Company, but contemporary 1886 reporting clearly names a Brookland shaft distinct from Clontarf, a south drift driven toward Clontarf, and an ore body north of Brookland. A USGS historical account records significant output from the combined Clontarf–Brookland operation; combined production must not be assigned solely to Brookland."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T17:09:17.110Z"
     },
     {
       "id": "CO-LAKE-BUCKEYE-MINE",
@@ -640,6 +803,31 @@
         }
       ],
       "contentUpdatedAt": "2026-10-10T13:54:40.274Z"
+    },
+    {
+      "id": "CO-LAKE-CHIPPEWA-MINE",
+      "name": "Chippewa Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Breece Hill east of Leadville, Chippewa Mine was one of the district's long-lived underground mining properties. Reports from 1900 describe new shaft development, followed by ore discoveries and leased mining operations. Remarkably, miners were still shipping gold-, silver- and lead-bearing ore from the Chippewa in 1940. Its mapped position is approximate; the original entrance has not been confirmed."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2469343,
+        "longitude": -106.2447448
+      },
+      "moreHistory": [
+        "Chippewa Mine was part of the Breece Hill mining landscape east of Leadville. Contemporary trade journals record new shaft development by Chippewa Mining Company around 1900 and an ore discovery reported in the 1900 season. In 1902 the Chippewa Consolidated Mining Company owned Breece Hill ground worked by Chippewa Leasing Company, receiving royalty income while lessees pursued an ore streak. The mine remained active in 1940, when Nick Randall and Eugene Maki reportedly shipped 100–150 tons monthly of gold-, silver- and lead-bearing ore. These are period reports rather than independently audited lifetime production totals."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T18:08:20.183Z"
     },
     {
       "id": "CO-LAKE-CHRYSOLITE-MINE",
@@ -1165,6 +1353,27 @@
       "contentUpdatedAt": "2026-10-10T17:09:54.455Z"
     },
     {
+      "id": "CO-LAKE-ELKHORN-SHAFT",
+      "name": "Elkhorn Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.3316552,
+        "longitude": -106.2955803
+      },
+      "moreHistory": [],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T16:09:04.563Z"
+    },
+    {
       "id": "CO-LAKE-EVELYN-MINE",
       "name": "Evelyn Mine",
       "tier": "EXPLORE",
@@ -1310,6 +1519,31 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-07T18:11:01.005Z"
+    },
+    {
+      "id": "CO-LAKE-FIRST-NATIONAL-MINE",
+      "name": "First National Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Printer Boy Hill above Iowa Gulch, First National Mine was one of Leadville's historic underground workings. State and federal records document shipments of lead and zinc sulphide ores around 1915–1916, while later geologists studied minerals from its shaft dump. A mining-history field tour photographed a First National headframe in 2007. The map pin marks an approximate historic locality, not a confirmed safe mine entrance."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.22497,
+        "longitude": -106.23513
+      },
+      "moreHistory": [
+        "First National was a separately named shaft and claim adjoining Julia-Fisk on Printer Boy Hill above Iowa Gulch. The properties later became associated through First National Gold Mining and Leasing Company, but Julia-Fisk's shaft depths, assays and reopening history are not attributed to First National. The USGS reported lead-sulphide ore shipped from First National in 1915. Colorado's mine inspector reported that First National Leasing Company had dewatered its shaft and was producing a small tonnage of zinc-sulphide ore in the 1915–1916 reporting period. USGS Professional Paper 235 (1953) described arsenopyrite and associated sulphide minerals on the First National shaft dump. A Mining History Association 2007 field-tour gallery identified its historic headframe. Exact dates of establishment, closure and current condition remain unknown."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T12:15:30.749Z"
     },
     {
       "id": "CO-LAKE-FORSAKEN-MINE",
@@ -1764,6 +1998,27 @@
       "contentUpdatedAt": "2026-10-07T21:12:28.452Z"
     },
     {
+      "id": "CO-LAKE-HIGHLAND-MARY-TUNNEL",
+      "name": "Highland Mary Tunnel",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "ADIT_TUNNEL",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2494342,
+        "longitude": -106.2658565
+      },
+      "moreHistory": [],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T23:16:30.428Z"
+    },
+    {
       "id": "CO-LAKE-HOPEMORE-MINE",
       "name": "Hopemore Mine",
       "tier": "EXPLORE",
@@ -2173,6 +2428,27 @@
       "contentUpdatedAt": "2026-10-07T19:12:32.397Z"
     },
     {
+      "id": "CO-LAKE-LITTLE-EVA-MINE",
+      "name": "Little Eva Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2555452,
+        "longitude": -106.278079
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T20:10:22.185Z"
+    },
+    {
       "id": "CO-LAKE-LITTLE-JONNY-MINE",
       "name": "Little Jonny Mine",
       "tier": "EXPLORE",
@@ -2320,6 +2596,48 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-09T22:08:14.182Z"
+    },
+    {
+      "id": "CO-LAKE-LOWER-WATERLOO-MINE",
+      "name": "Lower Waterloo Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Carbonate Hill near Leadville, the Lower Waterloo shaft opened into the Morning Star mine's underground silver-and-lead workings. An 1883 firsthand account describes an unusually well-equipped shaft house, with a Denver-built hoisting engine and pumps to move water from below ground. The mine's ore-bearing rocks included lead carbonate and silver-rich galena, and its workings connected with the nearby Forsaken area. Contemporary mining journals mention Lower Waterloo operations in the 1880s and again among the Morning Star shafts in 1903. The map pin marks an approximate historical locality, not a confirmed shaft opening or public access point."
+      ],
+      "timeline": [
+        {
+          "text": "Lower Waterloo workings were operating as part of the Morning Star property on Carbonate Hill; a contemporary mining journal noted improvement in that portion of the mine.",
+          "year": "1882"
+        },
+        {
+          "text": "Louis D. Ricketts examined the Lower Waterloo shaft and workings firsthand, documenting hoisting and pumping machinery and the ore-bearing geology.",
+          "year": "1882–1883"
+        },
+        {
+          "text": "The Engineering and Mining Journal reported substantial ore exposure in Lower Waterloo workings and further development of the Waterloo incline.",
+          "year": "1883"
+        },
+        {
+          "text": "A trade-journal report still listed Lower Waterloo among the shafts producing on Morning Star territory; its 75-ton daily figure was for the combined shafts, not Lower Waterloo alone.",
+          "year": "1903"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2491667,
+        "longitude": -106.2786111
+      },
+      "moreHistory": [
+        "Lower Waterloo was a distinct shaft and group of underground workings in the Morning Star mining property on Carbonate Hill, not a synonym for the entire Morning Star mine. In a firsthand field study undertaken in 1882 and published in 1883, geologist Louis D. Ricketts identified the Lower Waterloo shaft, described its two-compartment arrangement (one adapted for pumping), and singled out its well-organized shaft house, hoisting engine made by J. W. Jackson of Denver, air compressor, pumps, and ore dumps. His observations connected the Lower Waterloo and Forsaken workings through a common ore-bearing horizon and documented lead carbonate (cerussite), silver-bearing galena and iron/manganese-rich materials. A contemporary January 1883 trade report described substantial ore exposures in the Lower Waterloo workings. In August 1903, a mining report still listed Upper and Lower Waterloo among several active shafts on Morning Star territory, but the reported combined 75 tons per day cannot be assigned to Lower Waterloo alone. The exact original shaft collar is not independently surveyed at the mapped modern locality."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T18:08:06.240Z"
     },
     {
       "id": "CO-LAKE-MAID-OF-ERIN-MINE",
@@ -2475,6 +2793,31 @@
       "componentType": "SHAFT",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-06T18:09:09.949Z"
+    },
+    {
+      "id": "CO-LAKE-MODEST-GIRL-MINE",
+      "name": "Modest Girl Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On southern Carbonate Hill near Leadville, the Modest Girl was one of the smaller historic mine workings explored for ore below the hill. Reports from 1884 describe pockets of promising ore. In 1910, miners reported a zinc-bearing zone and plans to follow it from a lower tunnel. A 1926 U.S. Geological Survey study later confirmed that exploration through the Modest Girl shaft had found a small ore body, though no large discovery was documented. The map marker shows an approximate historic locality, not a verified entrance; nearby mines are separate sites."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.23889,
+        "longitude": -106.27861
+      },
+      "moreHistory": [
+        "Period reporting describes limited pockets of good ore at the Modest Girl in 1884. In December 1910 a mining journal reported a five-foot zone of zinc carbonate in upper workings, said to average 40 percent zinc, and a proposal for a lower tunnel; neither grade nor tunnel completion is independently confirmed. USGS geologist G. F. Loughlin later recorded a small ore body found during exploration through the Modest Girl shaft, while noting that the broader southern Carbonate Hill explorations had not discovered large bodies. The historic shaft is distinct from nearby Toledo Avenue, California Gulch, and Thespian workings. USGS MRDS-derived modern commodity metadata lists manganese, while contemporary reporting specifically concerns zinc carbonate; the discrepancy should not be resolved by inventing a production history."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T06:08:30.941Z"
     },
     {
       "id": "CO-LAKE-MORNING-STAR-MINE",
@@ -2755,6 +3098,31 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-10T04:16:14.907Z"
+    },
+    {
+      "id": "CO-LAKE-PENROSE-MINE",
+      "name": "Penrose Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "The Penrose Mine was more than an ore producer: its powerful pumps helped drain Leadville's flooded downtown mines. Begun in 1891, it endured a major labor shutdown and several restarts before an ambitious electrically powered dewatering system went to work in 1915. At its height, Penrose supported a busy network of underground workings and employed about 150 people. Operations faded in the 1920s, and later environmental cleanup altered much of the visible mine complex. This map point marks the approximate historic mine locality, not a confirmed shaft opening or public access point."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.24861,
+        "longitude": -106.28389
+      },
+      "moreHistory": [
+        "Major A. V. Bohn started sinking the Penrose shaft in summer 1891, seeking deep carbonate ore beneath Leadville. The mine helped open the downtown basin before the 1896-97 labor strike halted pumping. The Leadville Pumping Association restarted major drainage work in 1898, enabling nearby mines to reopen. By 1905 the Penrose shaft was reported to be 920 feet deep. The Down Town Mines Company organized in 1914 and installed major electric centrifugal pumping equipment in 1915; the Penrose served as a central drainage point for surrounding mines. Contemporary reports describe substantial lead, manganese, zinc and silver-bearing ores and approximately 150 workers in 1918. Mining weakened amid costs and smelter rates after 1920; major pumps were removed in 1923. Renewed pumping attempts in 1927-29 failed to restore production. Federal cultural-resource investigations in the 1990s documented the Penrose mine-waste dump, shaft foundation, dewatering tunnel and transformer house; cleanup substantially changed the historic surface landscape."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-10T23:16:46.719Z"
     },
     {
       "id": "CO-LAKE-PRINTER-BOY-MINE",
@@ -3303,6 +3671,52 @@
       "contentUpdatedAt": "2026-10-09T07:15:54.117Z"
     },
     {
+      "id": "CO-LAKE-THESPIAN-MINE",
+      "name": "Thespian Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On the slopes of Carbonate Hill near Leadville, the Thespian Mine illustrates the persistence—and uncertainty—of Colorado's silver-era underground exploration. Mining crews had driven a shaft hundreds of feet deep by 1883. Later reports described silver-bearing iron ore, miles of underground development measured in thousands of feet, and water problems that made extraction difficult. Contemporary journals and a later USGS study tell a nuanced story of small ore discoveries and ambitious exploration rather than a proven bonanza. Its mapped location is approximate; the original shaft entrance has not been verified."
+      ],
+      "timeline": [
+        {
+          "text": "Contemporary mining news reported shaft sinking underway at the Thespian property on Carbonate Hill.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Thespian shaft was reported 590 feet deep; drilling had crossed contact material and entered limestone, with drifting planned.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A trade journal reported low-grade silver-bearing iron ore at about 520 feet, with a winze showing at least 14 feet of ore.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A later USGS account dates a small Thespian ore-body discovery to 1894; chronology is not fully reconciled with the 1891 report.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The old shaft was described as roughly 600 feet deep with over 5,000 feet of drifting; water hampered work and diamond drilling was planned.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.23999,
+        "longitude": -106.274745
+      },
+      "moreHistory": [
+        "Thespian was a deeply developed underground prospect on Carbonate Hill. Contemporary mining reporting records shaft sinking in 1882, a 590-foot shaft by February 1883 and plans to drift along the geological contact. In April 1891 the Engineering and Mining Journal reported a low-grade argentiferous iron-ore body at about 520 feet and a winze showing 14 feet of ore. USGS Bulletin 779 retrospectively identifies a small Thespian ore-body discovery in 1894 and describes limited mineralization overall; the difference in reported discovery dates should not be smoothed over. By June 1900, the old shaft was said to be roughly 600 feet deep, with more than 5,000 feet of drifts between the 565- and 600-foot levels. Some ore had been shipped, but water problems hindered development; diamond drilling was proposed to test lower contacts. Do not conflate these facts with nearby mines."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T04:14:29.412Z"
+    },
+    {
       "id": "CO-LAKE-TUCSON-MINE",
       "name": "Tucson Mine",
       "tier": "EXPLORE",
@@ -3464,6 +3878,31 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-09T17:16:40.615Z"
+    },
+    {
+      "id": "CO-LAKE-WHITE-CAP-MINE",
+      "name": "White Cap Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Iron Hill east of Leadville, White Cap was part of a network of underground workings connected to the district's lead and silver mining era. A report from 1884 identifies its shaft as an ore-hoisting route for the Iron Hill Consolidated property. In 1901 a new lessee returned to the old shaft and pursued deeper mineralized ground, reaching a reported 712-foot station. Historic records document the workings, but the mine's exact entrance is not verified today."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.23499,
+        "longitude": -106.263356
+      },
+      "moreHistory": [
+        "In June 1884, contemporary mining reporting listed White Cap as one of Iron Hill Consolidated's claims leased on a royalty basis, amid pressure from falling lead prices. By September 1884, lessees Bunker and Kyle were working parts of the consolidated property, with ore from a north level hoisted through the White Cap shaft. In March 1901 the Nayr Mining Company leased the old White Cap Mine and adjoining Iron Hill ground, proposing to deepen its shaft to 760 feet in search of sulphide ore. By July 1901 a station was being cut at 712 feet in copper- and gold-bearing mineralized ground. Company-wide production or adjacent claims should not be misattributed to White Cap."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-11T03:10:01.327Z"
     },
     {
       "id": "CO-LAKE-WILKESBARRE-MINE",
@@ -3685,6 +4124,6 @@
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-10T22:37:12.585Z",
+  "generatedAt": "2026-10-11T22:57:23.827Z",
   "schemaVersion": 1
 }
