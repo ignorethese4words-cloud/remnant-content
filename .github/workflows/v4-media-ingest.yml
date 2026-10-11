@@ -31,6 +31,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Use pinned Python for optional PDF figure preparation
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
       - name: Select changed ready requests only
         id: select
         env:
@@ -64,6 +69,13 @@ jobs:
               echo "Skipping non-ready/legacy request: $request"
               continue
             fi
+            submission_file="$request"
+            if jq -e '(.sourcePdfUri // "") | (type == "string" and length > 0)' "$request" >/dev/null; then
+              python3 -m pip install --disable-pip-version-check --quiet 'PyMuPDF==1.24.14'
+              submission_file=$(mktemp)
+              rm -f "$submission_file"
+              python3 scripts/v4_pdf_figure_payload.py "$request" "$submission_file"
+            fi
             oidc_response=$(curl --fail --silent --show-error \
               -H "Authorization: Bearer ${ACTIONS_ID_TOKEN_REQUEST_TOKEN}" \
               "${ACTIONS_ID_TOKEN_REQUEST_URL}&audience=remnant-v4-media")
@@ -74,7 +86,7 @@ jobs:
               -X POST "$INGEST_URL" \
               -H "Authorization: Bearer $oidc_token" \
               -H 'Content-Type: application/json' \
-              --data-binary @"$request")
+              --data-binary @"$submission_file")
             if [[ "$http_code" != "200" ]] || ! jq -e '.ok == true and .receiptVerified == true' "$response" >/dev/null; then
               echo "Media ingest rejected $request (HTTP $http_code):" >&2
               cat "$response" >&2
@@ -82,6 +94,7 @@ jobs:
             fi
             jq '{siteId,mediaId,bytes,storagePath,receiptVerified}' "$response"
             count=$((count+1))
+            if [[ "$submission_file" != "$request" ]]; then rm -f "$submission_file"; fi
             rm -f "$response"
           done < /tmp/media-requests.txt
           echo "### V4 media ingest" >> "$GITHUB_STEP_SUMMARY"
