@@ -62,6 +62,38 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          # Preserve a failed download/extraction as a durable SOURCE_BLOCKED lead
+          # without creating or approving any media. A signed OIDC callback does
+          # the write; GitHub itself remains the source of execution logs.
+          report_failure() {
+            local code="$1" line="$2"
+            trap - ERR
+            if [[ -n "${request:-}" && -f "$request" ]]; then
+              local site_id media_id token_reply token report_path
+              site_id=$(jq -r '.siteId // empty' "$request" 2>/dev/null || true)
+              media_id=$(jq -r '.mediaId // empty' "$request" 2>/dev/null || true)
+              if [[ "$site_id" =~ ^CO-[A-Z0-9-]+$ && "$media_id" =~ ^[A-Za-z0-9-]+$ ]]; then
+                report_path=$(mktemp)
+                jq -n --arg siteId "$site_id" --arg mediaId "$media_id" \
+                  --arg requestPath "$request" \
+                  --arg error "Native GitHub ingest failed (exit $code, shell line $line). Check exact workflow job logs for source/download/validation error." \
+                  '{action:"report_failure",siteId:$siteId,mediaId:$mediaId,requestPath:$requestPath,error:$error}' > "$report_path"
+                token_reply=$(curl --fail --silent --show-error \
+                  -H "Authorization: Bearer ${ACTIONS_ID_TOKEN_REQUEST_TOKEN}" \
+                  "${ACTIONS_ID_TOKEN_REQUEST_URL}&audience=remnant-v4-media" || true)
+                token=$(printf '%s' "$token_reply" | jq -r '.value // empty' 2>/dev/null || true)
+                if [[ -n "$token" ]]; then
+                  curl --fail --silent --show-error --max-time 30 -X POST "$INGEST_URL" \
+                    -H "Authorization: Bearer $token" \
+                    -H 'Content-Type: application/json' --data-binary @"$report_path" \
+                    || echo "WARNING: Could not record media failure callback; inspect GitHub logs." >&2
+                fi
+                rm -f "$report_path"
+              fi
+            fi
+            exit "$code"
+          }
+          trap 'report_failure "$?" "$LINENO"' ERR
           count=0
           while IFS= read -r request; do
             [[ -n "$request" ]] || continue
