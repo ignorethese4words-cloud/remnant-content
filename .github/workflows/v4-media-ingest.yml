@@ -122,7 +122,8 @@ jobs:
             if [[ "$http_code" != "200" ]] || ! jq -e '.ok == true and .receiptVerified == true' "$response" >/dev/null; then
               echo "Media ingest rejected $request (HTTP $http_code):" >&2
               cat "$response" >&2
-              exit 1
+              # Trigger the ERR trap so the lead is marked SOURCE_BLOCKED.
+              false
             fi
             jq '{siteId,mediaId,bytes,storagePath,receiptVerified}' "$response"
             count=$((count+1))
