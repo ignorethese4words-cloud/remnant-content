@@ -5,10 +5,10 @@
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/v4/packs/colorado-lake.json",
       "state": "Colorado",
       "county": "Lake County",
-      "siteCount": 115,
-      "generatedAt": "2026-10-11T22:57:23.827Z",
-      "idOnlySiteCount": 37,
-      "exploreSiteCount": 78
+      "siteCount": 144,
+      "generatedAt": "2026-10-13T01:23:49.426Z",
+      "idOnlySiteCount": 50,
+      "exploreSiteCount": 94
     },
     {
       "id": "colorado-summit",
@@ -16,13 +16,13 @@
       "state": "Colorado",
       "county": "Summit County",
       "siteCount": 122,
-      "generatedAt": "2026-10-11T22:57:23.827Z",
+      "generatedAt": "2026-10-13T01:23:49.426Z",
       "idOnlySiteCount": 69,
       "exploreSiteCount": 53
     }
   ],
   "delivery": "github-raw-v4",
-  "generatedAt": "2026-10-11T22:57:23.827Z",
+  "generatedAt": "2026-10-13T01:23:49.426Z",
   "schemaVersion": 1,
   "minimumAppContentSchema": 1
 }
