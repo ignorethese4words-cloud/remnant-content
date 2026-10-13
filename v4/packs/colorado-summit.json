@@ -3760,8 +3760,23 @@
         "The Wild Irishman vein was discovered about 1880 and developed rapidly. USGS records it as a steady ore shipper from 1883 through 1886, followed by renewed shipments in 1901 and 1902 and later production. A small concentrating mill was built at the mine in 1884, but the attempt failed because barite could not be effectively separated from the sulphides and the mill was soon abandoned. By the 1929 USGS field investigation the underground mine was inaccessible, but its workings were mapped from records and the vein was examined at the surface. The lower-adit dump showed manganosiderite with moderate galena; higher on the vein the gangue changed toward fine quartz with coarse barite. MRDS classifies the property as an underground past producer and records gold, silver, lead, copper and zinc commodities, with pyrite, galena and sphalerite among the ore minerals."
       ],
       "componentType": "Mine",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T17:14:32.332Z"
+      "displayImages": [
+        {
+          "id": "CO-SUMMIT-WILD-IRISHMAN-MINE-MODERN-2022-001",
+          "label": "Timber foundation remains at the Wild Irishman Mine site — not a mine portal",
+          "title": "Remains of a timber structure at the Wild Irishman Mine site (2022)",
+          "rights": "Commercial reproduction, redistribution and offline caching permitted under CC BY 3.0, with creator attribution, source and license links and change notice. No modifications.",
+          "creator": "D&RG Railfan",
+          "license": "CC BY 3.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-SUMMIT-WILD-IRISHMAN-MINE/CO-SUMMIT-WILD-IRISHMAN-MINE-MODERN-2022-001-84660e4d0496c9e18dc5.jpg",
+          "sourceNote": "Original 4032x2268 JPEG photographed 2022-09-05. Shows timber structure foundation at Wild Irishman mine site, not the adit or a confirmed ore-processing mill. Original image, unmodified. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/a/aa/Remains_of_a_Structure_at_The_Wild_Irishman_Mine_in_Colorado.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Remains_of_a_Structure_at_The_Wild_Irishman_Mine_in_Colorado.jpg",
+          "attribution": "Photo: D&RG Railfan, 'Remains of a Structure at The Wild Irishman Mine in Colorado', Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Original image, unmodified.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-13T04:51:19.218Z"
     },
     {
       "id": "CO-SUMMIT-WIRE-PATCH-MINE",
@@ -3825,6 +3840,6 @@
   ],
   "state": "Colorado",
   "county": "Summit County",
-  "generatedAt": "2026-10-13T01:23:49.426Z",
+  "generatedAt": "2026-10-13T23:17:58.697Z",
   "schemaVersion": 1
 }

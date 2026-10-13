@@ -312,6 +312,44 @@
       "contentUpdatedAt": "2026-10-12T11:08:51.339Z"
     },
     {
+      "id": "CO-LAKE-BALLARD-MINE",
+      "name": "Ballard Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Leadville's Breece Hill, the Ballard Mine shipped gold-bearing ore in the late 1890s and drew attention for unusually bismuth-rich material. Contemporary accounts described a shaft reaching 450 feet by 1899. In 1902 the mine became the site of Leadville's first cyanide mill in its gold belt, an effort to recover gold from siliceous ore. The map marker identifies the historic mine locality, not an accessible shaft or mill ruin."
+      ],
+      "timeline": [
+        {
+          "text": "Contemporary Leadville mining reports described Ballard as an active ore shipper on Breece Hill; the shaft was reported at 450 feet deep, with ore extracted at the 415-foot level and bismuth-rich material shipped separately.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS historical compilation, quoting period reporting, identified James Golob of Ballard Mine as a promoter of the Golob-Colley Milling Company. The separate venture's planned feed from other mines must not be assigned to Ballard.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A cyanide mill was built at the Ballard Mine to treat siliceous gold ores; USGS characterized it as the first such mill in Leadville's gold belt.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2491565,
+        "longitude": -106.2447449
+      },
+      "moreHistory": [
+        "Contemporary reporting in The Engineering and Mining Journal (21 October 1899) describes Ballard's newly opened ore bodies, daily shipments reportedly around 30 tons, a shaft 450 feet deep, and mining at the 415-foot level. Its ores contained gold, silver, lead and notable bismuth; some bismuth-rich ore was shipped to London brokers. A USGS historical compilation identifies Ballard among Breece Hill's heavy ore shippers in 1899 and names James Golob as associated with Ballard in a separate milling venture. In 1902, a cyanide mill was erected at the Ballard Mine to treat siliceous gold ores; the USGS called it the first cyanide mill in Leadville's gold belt. A modern USGS study independently identifies Ballard among Breece Hill's bismuth-bearing gold deposits, but regional production totals must not be attributed solely to Ballard."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T20:14:29.865Z"
+    },
+    {
       "id": "CO-LAKE-BANGKOK-MINE",
       "name": "Bangkok Mine",
       "tier": "ID ONLY",
@@ -869,6 +907,27 @@
       "contentUpdatedAt": "2026-10-08T08:11:19.268Z"
     },
     {
+      "id": "CO-LAKE-BULLSEYE-MINE",
+      "name": "Bullseye Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2233235,
+        "longitude": -106.2608562
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T22:10:34.266Z"
+    },
+    {
       "id": "CO-LAKE-CADY-MINE",
       "name": "Cady Mine",
       "tier": "EXPLORE",
@@ -1106,6 +1165,44 @@
       "contentUpdatedAt": "2026-10-10T13:54:40.274Z"
     },
     {
+      "id": "CO-LAKE-CHAMPION-MINE",
+      "name": "Champion Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Champion Mine produced gold, silver, copper and lead high on Mount Champion. USGS records more than 27,000 ounces of gold produced during 1912-1940. The mine and its separate mill were connected by mountain infrastructure. This marker identifies the mine locality, not a verified entrance."
+      ],
+      "timeline": [
+        {
+          "text": "USGS recorded production of gold, silver, copper and lead.",
+          "year": "Historic period"
+        },
+        {
+          "text": "No further production recorded in USGS Bulletin 1636.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS noted the road between Champion Mine and Champion Mill had recently been graded.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.125824,
+        "longitude": -106.519474
+      },
+      "moreHistory": [
+        "USGS Bulletin 1636 records Champion Mine production during 1912-1940 of 27,032 ounces gold, 12,731 ounces silver, 30,690 pounds copper and 97,839 pounds lead, with no recorded production after 1940. A road connected the mine to the separate Champion Mill and was graded before the 1980s USGS field survey. Secondary accounts describe an aerial tram connecting the mine to the mill."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T19:16:57.262Z"
+    },
+    {
       "id": "CO-LAKE-CHIPPEWA-MINE",
       "name": "Chippewa Mine",
       "tier": "EXPLORE",
@@ -1190,6 +1287,64 @@
       "contentUpdatedAt": "2026-10-09T14:12:54.498Z"
     },
     {
+      "id": "CO-LAKE-CLIMAX-MINE",
+      "name": "Climax Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "High on the Continental Divide at Fremont Pass, Climax became one of the world's most consequential molybdenum mines. Its mineral was vital for tough, heat-resistant steel. First worked in the 1910s, the operation grew from underground tunnels beneath Bartlett Mountain into an enormous open pit. It shut down when demand collapsed after World War I, returned to production, supported steelmaking in World War II, and reopened in 2012 after a 17-year hiatus. The active mine is private industrial property: the marker identifies the mapped pit, not a visitor entrance. See it only from public overlooks and obey posted restrictions."
+      ],
+      "timeline": [
+        {
+          "text": "Charles J. Senter found the mineralized outcrop on the western slope of Bartlett Mountain; the material was not yet recognized as molybdenite.",
+          "year": "1879"
+        },
+        {
+          "text": "Colorado School of Mines professor Rudolph George identified samples from Bartlett Mountain as molybdenite.",
+          "year": "1895"
+        },
+        {
+          "text": "Early molybdenum ore shipments began in 1915; Climax Molybdenum Company was formed in 1918 and sustained production developed during the First World War.",
+          "year": "1915–1918"
+        },
+        {
+          "text": "Mining halted after the First World War as demand fell; the 1933 USGS history dates the shutdown from April 1919 to August 1924.",
+          "year": "1919–1924"
+        },
+        {
+          "text": "Production resumed with peacetime steel-alloy demand; the 1933 USGS report documented a 2,000-ton-capacity mill, with roughly 1,000–1,200 tons processed daily in 1930.",
+          "year": "1924–1930"
+        },
+        {
+          "text": "Climax molybdenum was important to wartime steel production; History Colorado reports annual mine output valued above $13 million during the 1940s.",
+          "year": "1940s"
+        },
+        {
+          "text": "An open-pit operation was developed alongside the earlier underground workings, according to the USGS MRDS-derived mine record.",
+          "year": "1973"
+        },
+        {
+          "text": "The mine ceased production in 1995. Freeport-McMoRan documented restart work in 2010 and shipment of new concentrate on May 10, 2012.",
+          "year": "1995–2012"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.37641,
+        "longitude": -106.17144
+      },
+      "moreHistory": [
+        "Charles J. Senter encountered mineralized rock on Bartlett Mountain in 1879; its molybdenite identity was recognized in 1895. Initial ore shipments began in 1915, and the Climax Molybdenum Company was formed in 1918. The metal's wartime value was followed by a demand-driven shutdown in 1919–24, then expansion in peacetime alloy markets. USGS investigators documented the deposit's geology, underground workings and large mill in 1933. During World War II the mine's molybdenum strengthened industrial and military steels. Operations later developed open-pit extraction (MRDS records 1973), and the mine was placed on care and maintenance in 1995. After redevelopment, Freeport-McMoRan shipped new concentrate in May 2012. The historical underground levels and modern open pit are related parts of one mine, not interchangeable points."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T13:13:44.017Z"
+    },
+    {
       "id": "CO-LAKE-CLOUD-CITY-SHAFT",
       "name": "Cloud City Shaft",
       "tier": "EXPLORE",
@@ -1257,6 +1412,27 @@
       "contentUpdatedAt": "2026-10-12T17:13:53.076Z"
     },
     {
+      "id": "CO-LAKE-COLUMBIA-TUNNEL",
+      "name": "Columbia Tunnel",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "ADIT_TUNNEL",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.23276,
+        "longitude": -106.2681
+      },
+      "moreHistory": [],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T23:14:28.857Z"
+    },
+    {
       "id": "CO-LAKE-CONTINENTAL-CHIEF-MINE",
       "name": "Continental Chief Mine",
       "tier": "EXPLORE",
@@ -1280,6 +1456,27 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-12T17:14:02.447Z"
+    },
+    {
+      "id": "CO-LAKE-CONTRACT-SHAFT",
+      "name": "Contract Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2399898,
+        "longitude": -106.2783567
+      },
+      "moreHistory": [],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T02:14:48.102Z"
     },
     {
       "id": "CO-LAKE-COON-VALLEY-MINE",
@@ -1721,6 +1918,48 @@
       "contentUpdatedAt": "2026-10-10T17:09:54.455Z"
     },
     {
+      "id": "CO-LAKE-DOME-MINE",
+      "name": "Dome Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On the south side of California Gulch, the Dome Mine was part of Leadville's early lead-and-silver mining boom. By 1881 miners were extracting ore from Dome's underground workings and had driven a connection to the neighboring Rock Mine. The connection mattered: Dome's ore had been raised with a whim, while Rock had more efficient hoisting equipment and an ore house. Contemporary accounts describe a plan to move much of Dome's ore out through Rock. Both mines belonged to the Iron Silver Mining Company, but their combined production figures should not be mistaken for Dome's individual output. Today's mapped point identifies the historic mine locality, not a confirmed shaft opening."
+      ],
+      "timeline": [
+        {
+          "text": "Contemporary reporting described active ore production at the Dome, a northward drift connecting to Rock's first level, and a planned shift to hoist Dome ore through Rock's better-equipped incline.",
+          "year": "1881-04-09"
+        },
+        {
+          "text": "The Iron Silver Mining Company reported about 75 tons/day jointly from the Rock and Dome mines; no separate Dome tonnage was given.",
+          "year": "1881-10-01"
+        },
+        {
+          "text": "USGS Monograph 12 documented Dome among the California Gulch mine workings, separately from Rock.",
+          "year": "1886"
+        },
+        {
+          "text": "USGS Professional Paper 148 provided later geological context for the Dome incline and associated Rock workings.",
+          "year": "1927"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.22944,
+        "longitude": -106.26417
+      },
+      "moreHistory": [
+        "In April 1881 the Dome and Rock mines, on the south side of California Gulch, were reported as properties of the Iron Silver Mining Company, producing about 70 tons of ore per day jointly. The Dome had its own incline and was producing ore; a northward drift driven from the Dome connected with the first level of the Rock mine. The Dome's hoisting then used a whim, while Rock had a powered hoister and ore house; management intended to raise most Dome ore through Rock to reduce handling costs. In October 1881 the Iron Silver Mining Company's total output was reported near 200 tons/day, including about 75 tons/day jointly from Rock and Dome. These combined figures must not be represented as Dome-only production. USGS historical geology records preserve Dome as a distinct claim and incline among California Gulch workings."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T08:08:32.681Z"
+    },
+    {
       "id": "CO-LAKE-ELKHORN-SHAFT",
       "name": "Elkhorn Shaft",
       "tier": "ID ONLY",
@@ -1912,6 +2151,48 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-11T12:15:30.749Z"
+    },
+    {
+      "id": "CO-LAKE-FLORENCE-MINE",
+      "name": "Florence Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Printer Boy Hill, the Florence Mine helped turn Leadville's mineral-rich slopes into an industrial mining landscape. Operating by 1878, its workings produced lead-carbonate ore containing silver and gold. In July 1884 alone, a contemporary mining journal reported that Florence shipped 1,138 tons of ore. The property later joined nearby mines in the Lilian Mining Company, while geological surveys singled out Florence for bismuth minerals and native gold. The map pin marks an approximate historic mine locality, not a confirmed shaft entrance."
+      ],
+      "timeline": [
+        {
+          "text": "Federal mining history reports Florence producing lead-carbonate ores containing silver and gold from this year onward.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The Florence and adjacent mines were consolidated under the Lilian Mining Company earlier in the year.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Florence reportedly produced and shipped 1,138 tons of ore during July.",
+          "year": "1884-07"
+        },
+        {
+          "text": "Emmons's USGS monograph documented the Florence mineral locality and ore mineralogy.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2255556,
+        "longitude": -106.2416667
+      },
+      "moreHistory": [
+        "The Florence Mine was already producing lead-carbonate ore carrying silver and gold by 1878, according to a federal mining history. The original property comprised the Florence and J. D. Ward claims. A contemporary August 23, 1884 mining-journal report recorded 1,138 tons of Florence ore produced and shipped in July 1884, making it one of Leadville's leading producing mines that month. Earlier in 1884 the Florence was consolidated with adjacent properties under the Lilian Mining Company; company-wide acreage, shareholders and dividend must not be misrepresented as Florence-only figures. Geological literature describes Florence as an unusual locality for bismuth-bearing minerals and native gold within Leadville's predominantly lead-silver ore system."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T05:08:38.839Z"
     },
     {
       "id": "CO-LAKE-FORSAKEN-MINE",
@@ -2716,6 +2997,27 @@
       "contentUpdatedAt": "2026-10-07T02:10:07.828Z"
     },
     {
+      "id": "CO-LAKE-KENO-SHAFT",
+      "name": "Keno Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.231379,
+        "longitude": -106.268079
+      },
+      "moreHistory": [],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T04:10:26.524Z"
+    },
+    {
       "id": "CO-LAKE-LAKEWOOD-MINE",
       "name": "Lakewood Mine",
       "tier": "ID ONLY",
@@ -3141,6 +3443,44 @@
       "contentUpdatedAt": "2026-10-09T22:08:14.182Z"
     },
     {
+      "id": "CO-LAKE-LOUISVILLE-MINE",
+      "name": "Louisville Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Louisville Mine on Leadville's Iron Hill was active in the 1880s. Miners developed a lower limestone-hosted ore zone, and J.J. Brown, later husband of Margaret 'Molly' Brown, rose from foreman to superintendent. Historic maps identify this mine locality, but not a safe or confirmed entrance."
+      ],
+      "timeline": [
+        {
+          "text": "Lower ore-zone development documented in limestone; D.H. Moffat and W.M. Clayton identified as Louisville owners.",
+          "year": "Historic period"
+        },
+        {
+          "text": "J.J. Brown superintendent after serving as foreman in 1886.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Directory lists Eben Smith managing Louisville and separate Colorado No. 2.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.241379,
+        "longitude": -106.260578
+      },
+      "moreHistory": [
+        "An April 24, 1886 Engineering and Mining Journal report described lower ore-zone development at Louisville on Iron Hill, following an ore channel in limestone to sulfide ore. The same report named D.H. Moffat and W.M. Clayton as Louisville owners while acquiring the separate Colorado No. 2 mine. The Molly Brown House Museum identifies J.J. Brown as Louisville foreman in 1886 and superintendent by 1887. An 1888 Leadville directory lists Eben Smith as manager of Louisville and Colorado No. 2 mines. USGS MRDS identifies Louisville as a past-producing surface operation with manganese listed. Production totals and an exact mine entrance remain unverified."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T21:16:14.630Z"
+    },
+    {
       "id": "CO-LAKE-LOWER-PRINTER-BOY-MINE",
       "name": "Lower Printer Boy Mine",
       "tier": "EXPLORE",
@@ -3313,8 +3653,23 @@
         "The Matchless became one of the defining mines of Leadville's silver era. The National Mining Hall of Fame and Museum records that Horace Tabor purchased it in 1880 after earlier Fryer Hill successes, that rich ore was found that September, and that the mine generated about $1.2 million for Tabor from 1880 through 1886 before ore depletion sharply reduced profits. History Colorado recognizes the property for both industrial significance as a working silver mine and its social-history association with Tabor from 1879-1899 and Baby Doe Tabor from 1901-1935. Baby Doe later lived at the mine; History Colorado preserves a circa-1935 photograph of her at the cabin beside the Matchless. The surviving shaft/headframe and surface buildings make the historic operation physically legible today."
       ],
       "componentType": "mine",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T13:10:09.425Z"
+      "displayImages": [
+        {
+          "id": "CO-LAKE-MATCHLESS-MINE-MODERN-2011-001",
+          "label": "Modern photograph — preserved Matchless Mine complex",
+          "title": "Matchless Mine preserved headframe, hoist house and cabin (2011)",
+          "rights": "Commercial app redistribution and offline copies allowed under CC BY-SA 3.0 with attribution and ShareAlike for adaptations.",
+          "creator": "Jeffrey Beall",
+          "license": "CC BY-SA 3.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-MATCHLESS-MINE/CO-LAKE-MATCHLESS-MINE-MODERN-2011-001-fc4f6a8a54ac96bf6cdc.jpg",
+          "sourceNote": "Original photo 4755x3107 by Jeffrey Beall, 14 Oct 2011. Use Commons 1280px JPEG rendition to limit mobile/offline payload; source image visually inspected. Depicts Matchless headframe, hoist house and cabin; no unrelated site. Original photograph otherwise unmodified. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Matchless_Mine.JPG/1280px-Matchless_Mine.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Matchless_Mine.JPG",
+          "attribution": "Jeffrey Beall, 'Matchless Mine.JPG', Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Resized to 1280px from original.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-13T21:56:14.460Z"
     },
     {
       "id": "CO-LAKE-MAY-QUEEN-MINE",
@@ -3340,6 +3695,31 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-10T21:13:57.173Z"
+    },
+    {
+      "id": "CO-LAKE-MIDAS-MINE",
+      "name": "Midas Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Near Leadville's downtown mining district, the Midas Mine was one of several deep underground operations working ore beneath the city. A 1907 U.S. Geological Survey report describes the Midas shaft and the geology of its silver-, gold- and lead-bearing ore. Historical reports describe substantial shipments and later underground work connected to the neighboring Penrose mine. The app marker shows the recorded Midas Mine locality, not a confirmed open shaft or public access point."
+      ],
+      "timeline": [],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2497118,
+        "longitude": -106.2825235
+      },
+      "moreHistory": [
+        "The historic Midas mine formed part of Leadville's downtown mining area near the Penrose workings. USGS Bulletin 320 (1907), pp. 48–49, documents a distinct Midas shaft and describes ore in the upper Blue limestone near gray and white porphyry contacts. North of the shaft the oxidized ore zone was described as roughly 20–30 feet thick and 150 feet wide; east of the shaft an ore zone along the Pendery fault reached about 50 feet in thickness, with silver, gold and lead assays. A USGS retrospective describes Midas as a major downtown shipper in its productive period, reporting roughly 5,000 tons a month and mining at approximately 515 feet. A contemporary 25 January 1908 Engineering and Mining Journal account describes a lease of the old Midas property, exploration at the 500-foot level, and ore trammed underground to the separate Penrose shaft for hoisting. The USGS MRDS-derived catalog lists manganese as a commodity and records the mine as an underground past producer, but provides no production dates or mine-mouth survey. Do not confuse Midas with Penrose, Bison, Elk or similarly named mines outside Lake County."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T16:10:41.553Z"
     },
     {
       "id": "CO-LAKE-MIKE-MINE",
@@ -3668,6 +4048,52 @@
       "contentUpdatedAt": "2026-10-08T04:16:31.762Z"
     },
     {
+      "id": "CO-LAKE-ORO-LA-PLATA-MINE",
+      "name": "Oro la Plata Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Oro La Plata was a lead-rich silver mine near Leadville's California Gulch, just below the separate Rock mine. By April 1881 it was shipping an estimated 30–40 tons of ore daily. Contemporary reports describe an 800-foot tunnel, a new 70-foot winze, and plans to connect the workings to the Rustin shaft for easier hoisting. Later USGS research documented unusual oxidized zinc mineralization around the mine's older lead stopes. Its mapped point identifies the historic mine locality, not a verified surviving entrance."
+      ],
+      "timeline": [
+        {
+          "text": "Oro La Plata was named among mines supplying ore in the Leadville district.",
+          "year": "1880-03-06"
+        },
+        {
+          "text": "Contemporary reporting described the La Plata company's mine group near Rock mine, including a tunnel, crosscuts, winzes, and the Rustin shaft; these were company-group workings, not necessarily all on the Oro La Plata claim.",
+          "year": "1881-03-05"
+        },
+        {
+          "text": "Oro La Plata was reported shipping 30-40 tons of lead-rich ore per day. An 800-foot tunnel, 70-foot winze, and drift toward the Rustin shaft were described.",
+          "year": "1881-04-09"
+        },
+        {
+          "text": "USGS Monograph 12 documented the Oro la Plata mine in its Leadville district survey.",
+          "year": "1886"
+        },
+        {
+          "text": "A USGS study used diagrams of Oro La Plata's oxidized zinc mineralization relative to older lead stopes; this is a study publication date, not a date of mine operation.",
+          "year": "1964"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.23245,
+        "longitude": -106.25994
+      },
+      "moreHistory": [
+        "Oro La Plata was an active lead-rich silver mining property in the California Gulch/Iron Hill area near Leadville. The Engineering and Mining Journal listed it among producing mines in March 1880. In March 1881 the La Plata Mining and Smelting Company described its nearby three-claim group with a tunnel, levels, winzes and the Rustin shaft; these group workings should not all be assigned solely to the Oro La Plata claim. On April 9, 1881 the journal specifically reported Oro La Plata, situated below the Rock mine, shipping 30 to 40 tons of high-lead ore daily. It described an 800-foot tunnel, a 70-foot winze at its end that exposed sand-carbonate ore, and a drift being driven toward the Rustin shaft to improve hoisting. Emmons's 1886 USGS monograph identifies the named mine, and a 1964 USGS study later illustrated oxidized zinc replacement around lead stopes at Oro La Plata. Neither Rock nor Dome mine production belongs to Oro La Plata; later geological study does not establish continued operations in 1964."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T08:08:46.299Z"
+    },
+    {
       "id": "CO-LAKE-PENN-NO-3-MINE",
       "name": "Penn No. 3 Mine",
       "tier": "ID ONLY",
@@ -3758,6 +4184,44 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-06T18:08:55.298Z"
+    },
+    {
+      "id": "CO-LAKE-READY-CASH-MINE",
+      "name": "Ready Cash Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "Ready Cash Mine above Iowa Gulch was also known as the Two Mile High adit. It produced gold- and silver-bearing ore, with a reported historic output of $480,000. In 1900 an avalanche swept away buildings near the mine; a blacksmith survived 18 hours buried in snow before rescue. The mapped locality is distinct from the neighboring Big Chicago tunnel."
+      ],
+      "timeline": [
+        {
+          "text": "Houx and Tucker listed at Lake County Ready Cash mine.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Avalanche near mine; blacksmith Sam Kibler rescued after 18 hours.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS documents Ready Cash/Two Mile High adit, ore geology and reported output.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2208237,
+        "longitude": -106.2222442
+      },
+      "moreHistory": [
+        "Colorado mining directory records Houx and Tucker at Lake County Ready Cash in 1879. USGS PP235 p.148 identifies the Ready Cash or Two Mile High adit, mineralized gold-silver-lead veins in granite and a reported gross output of $480,000 (1934 oral account). Summit County Journal reported an April 1900 avalanche carrying away buildings near the mine and rescue of blacksmith Sam Kibler after 18 hours, reproduced in USDA Forest Service GTR-38."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T16:10:19.158Z"
     },
     {
       "id": "CO-LAKE-REINDEER-SHAFT",
@@ -4603,6 +5067,27 @@
       "contentUpdatedAt": "2026-10-08T17:09:31.699Z"
     },
     {
+      "id": "CO-LAKE-VESUVIUS-MINE",
+      "name": "Vesuvius Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.071103,
+        "longitude": -106.431138
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T04:10:09.630Z"
+    },
+    {
       "id": "CO-LAKE-VINING-SHAFT",
       "name": "Vining Shaft",
       "tier": "EXPLORE",
@@ -4938,6 +5423,27 @@
       "contentUpdatedAt": "2026-10-06T19:15:24.357Z"
     },
     {
+      "id": "CO-LAKE-YALE-TUNNEL",
+      "name": "Yale Tunnel",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "ADIT_TUNNEL",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.252212,
+        "longitude": -106.2397448
+      },
+      "moreHistory": [],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-13T15:09:30.894Z"
+    },
+    {
       "id": "CO-LAKE-YANKEE-DOODLE-MINE",
       "name": "Yankee Doodle Mine",
       "tier": "EXPLORE",
@@ -4986,6 +5492,6 @@
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-13T01:23:49.426Z",
+  "generatedAt": "2026-10-13T23:17:58.697Z",
   "schemaVersion": 1
 }
