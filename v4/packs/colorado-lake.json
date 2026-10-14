@@ -1262,8 +1262,23 @@
         "The Chrysolite was one of Fryer Hill's prominent Leadville mines. Contemporary Engineering and Mining Journal reporting in May 1880 described active development from Chrysolite shaft No. 1 and the Roberts shaft, high-grade sand-carbonate ore, and shipments of about 115 tons per day. By 1888 the Chrysolite Silver Mining Company of New York listed S. F. Parish as general manager, with its office and mines on Fryer Hill at the head of East Twelfth Street. USGS work on Leadville's oxidized zinc ores later documented the Chrysolite Mine and its cerussite-bearing mineralization. The Lake County Public Library preserves a historic image specifically identified as the Chrysolite Mine on Fryer Hill."
       ],
       "componentType": "MINE",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T23:08:05.855Z"
+      "displayImages": [
+        {
+          "id": "CO-LAKE-CHRYSOLITE-MINE-MAP-1879-001",
+          "label": "Historic mine workings map",
+          "title": "Map of mining claims of the Chrysolite Silver Mining Co. (1879)",
+          "rights": "No Copyright - United States (NoC-US); 1879 original map in U.S. public domain. U.S. commercial reuse and offline redistribution permitted; foreign jurisdictions not independently cleared.",
+          "creator": "George H. Robinson (surveyor); James J. McGowan (reduced map)",
+          "license": "Public domain in the United States (PD-US)",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-CHRYSOLITE-MINE/CO-LAKE-CHRYSOLITE-MINE-MAP-1879-001-07a6bac23e5e651b18d8.jpg",
+          "sourceNote": "Original 1879 company survey map of Chrysolite Silver Mining Co. on Fryer Hill, including Chrysolite claim, Roberts shaft, surrounding company claims and underground workings. Original held by University of Colorado Boulder Libraries, DPLA item 3fc6f8b58721b889df39cdb41cf0f171. Full 1536 x 1189 JPEG viewed 2026-10-14. Supplementary zoomable map, not a mine photograph. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/f/f4/Map_of_mining_claims_of_the_Chrysolite_Silver_Mining_Co._-_Fryer_Hill%2C_Leadville%2C_Col._-_DPLA_-_3fc6f8b58721b889df39cdb41cf0f171.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Map_of_mining_claims_of_the_Chrysolite_Silver_Mining_Co._-_Fryer_Hill,_Leadville,_Col._-_DPLA_-_3fc6f8b58721b889df39cdb41cf0f171.jpg",
+          "attribution": "George H. Robinson; James J. McGowan; Chrysolite Silver Mining Co., 1879; University of Colorado Boulder Libraries, via DPLA and Wikimedia Commons.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": false
+        }
+      ],
+      "contentUpdatedAt": "2026-10-14T10:55:41.515Z"
     },
     {
       "id": "CO-LAKE-CLEAR-GRIT-MINE",
@@ -3376,6 +3391,48 @@
       "contentUpdatedAt": "2026-10-08T14:13:42.988Z"
     },
     {
+      "id": "CO-LAKE-LITTLE-VINNIE-MINE",
+      "name": "Little Vinnie Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "On Breece Hill, Little Vinnie operated in the late nineteenth and early twentieth centuries. Historical records document an 1879 interest sale, heavy shipments in 1899, leased work in 1902 and later production. The map point is not a confirmed mine opening."
+      ],
+      "timeline": [
+        {
+          "text": "Interest sold",
+          "year": "Historic period"
+        },
+        {
+          "text": "Heavy ore shipper",
+          "year": "Historic period"
+        },
+        {
+          "text": "Leased operations",
+          "year": "Historic period"
+        },
+        {
+          "text": "Recorded production",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2466566,
+        "longitude": -106.2344668
+      },
+      "moreHistory": [
+        "Contemporary mining journals report sale of five-twelfths interest in 1879 for $10,000, heavy ore shipments in 1899, and work under lease by Vinnie Mining Company in 1902. MRDS reports underground production in 1902 and 1905-06. Entrance, closure date and mine-specific tonnage remain unknown."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-14T01:10:53.929Z"
+    },
+    {
       "id": "CO-LAKE-LITTLE-WINNIE-SHAFT",
       "name": "Little Winnie Shaft",
       "tier": "EXPLORE",
@@ -4507,6 +4564,56 @@
       "contentUpdatedAt": "2026-10-12T11:08:33.677Z"
     },
     {
+      "id": "CO-LAKE-SAWATCH-TUNNEL",
+      "name": "Sawatch Tunnel",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "ADIT_TUNNEL",
+      "location": "Lake County",
+      "overview": [
+        "The Sawatch Tunnel—also recorded as the Siwatch Tunnel—was driven into the Sugar Loaf mining district west of Leadville to explore veins deep beneath the mountainside. By 1912 it extended roughly 4,400 feet and employed 14 miners. Early engineering accounts describe electric mine cars, powered rock drills and timber supports inside the granite tunnel. In 1914 miners reported intersecting the Venture vein and testing gold- and silver-bearing ore, although a later USGS study found only limited production from that tunnel intersection. Its mapped tunnel trace runs northwest from a drainage outlet near Strawberry Gulch. This is a separate working from the nearby Venture shaft and other Sugar Loaf tunnels."
+      ],
+      "timeline": [
+        {
+          "text": "Contemporary mining reporting said the Siwatch tunnel intersected three important veins.",
+          "year": "Historic period"
+        },
+        {
+          "text": "By March, the main tunnel was reported at 4,400 feet, with a west lateral of 700 feet and 14 employees.",
+          "year": "Historic period"
+        },
+        {
+          "text": "In February, reports described an intersection with the Venture vein 580 feet below outcrop and efforts to drain/connect old workings.",
+          "year": "Historic period"
+        },
+        {
+          "text": "An engineering text documented electric-powered drilling and haulage, a roughly 6-by-7.5-foot tunnel in granite, timbered sections, and intermittent development.",
+          "year": "Historic period"
+        },
+        {
+          "text": "In September, a local leasing group reportedly resumed development and found gold- and silver-bearing ore on a raise at the Venture vein.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS retrospective documented the Siwatch crosscut and characterized the vein exploration reached by the tunnel as limited in ore yield.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.24305556,
+        "longitude": -106.3855556
+      },
+      "moreHistory": [
+        "In 1911 the Engineering and Mining Journal reported that three significant veins had been intersected in the Siwatch tunnel. Its March 1912 account described about 4,400 feet of main development, a 700-foot west lateral, and 14 workers. Brunton and Davis's 1914 engineering survey described an approximately 5,000-foot granite tunnel with a 6-by-7.5-foot rectangular section, powered drilling, electric haulage, two-shift work, and roughly 600 feet of timbering; the drive was intermittent and not yet complete. Contemporary reports in February and September 1914 described reaching the Venture vein deep below its outcrop, attempts to connect/drain older workings, and renewed development by local lessees, with reported gold-silver mineralization in a 40-foot raise. The USGS's 1955 retrospective identified Siwatch as a long crosscutting prospect adit that intersected the Gertrude-Venture vein about 400–450 feet below surface; about 400 feet of that vein were explored, with only small quantities of low-grade ore reported at that intersection. These observations do not imply the Siwatch tunnel owned or produced all ore from the separate Venture mine. A 2013 USGS-authored study maps its distinct NW-SE tunnel alignment, and USGS monitored a tunnel-specific drainage site at its southeastern end."
+      ],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-14T11:16:33.671Z"
+    },
+    {
       "id": "CO-LAKE-SEDALIA-MINE",
       "name": "Sedalia Mine",
       "tier": "ID ONLY",
@@ -4689,6 +4796,52 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-12T18:11:52.276Z"
+    },
+    {
+      "id": "CO-LAKE-ST-KEVIN-MINE",
+      "name": "St. Kevin Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [
+        "The St. Kevin Mine was an important historic silver mine above Turquoise Lake. By 1890, miners had sunk an inclined shaft and followed the ore vein on several underground levels. Later efforts included deepening the shaft in 1914 and driving the nearby Rosse tunnel toward the vein. Historic USGS maps distinguish the St. Kevin shaft from neighboring Grandview shaft and Rosse tunnel. The map pin marks the historically mapped St. Kevin shaft location, not a field-confirmed open entrance; old workings may be unsafe or inaccessible."
+      ],
+      "timeline": [
+        {
+          "text": "Mine map attributed to Jay A. Wilcox showed St. Kevin inclined shaft and workings at 217- and 256-foot levels; separate Grandview shaft accessed a deeper level.",
+          "year": "Historic period"
+        },
+        {
+          "text": "St. Kevin shaft deepened approximately 60 feet to investigate ground below the 256-foot level; results uncertain.",
+          "year": "Historic period"
+        },
+        {
+          "text": "McNair's August survey found the related Rosse tunnel had not yet reached the St. Kevin vein.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS reports intermittent output totaling 1,412 tons of ore, based on available records.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS Bulletin 1027-E documented the St. Kevin workings, vein geometry, and historic output.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.2922107,
+        "longitude": -106.3925267
+      },
+      "moreHistory": [
+        "USGS geologist Q. D. Singewald described St. Kevin as among the more productive mines in its district, with historic output possibly approaching one million dollars in value, an estimate rather than an audited total. The mine worked the St. Kevin vein in a Precambrian crystalline-rock setting, with silver the primary objective and some gold. A mine plan attributed to Jay A. Wilcox showed that by 1890 miners had worked from the inclined St. Kevin shaft on levels 217 and 256 feet below the collar. A deeper, separate Grandview shaft reached a level 355 feet below the St. Kevin shaft collar, illustrating the connected vein system but not an identical surface feature. In 1914, miners reportedly deepened the St. Kevin shaft about 60 feet to explore below the 256-foot level; Singewald could not establish the extent or outcome. The related Rosse tunnel was driven to crosscut the vein at a projected depth exceeding 400 feet below the St. Kevin collar, but a survey in August 1917 showed it had not yet reached the vein. Available records listed intermittent production totaling 1,412 tons of ore from 1914 through 1946. These facts concern the St. Kevin mine workings specifically and should not be conflated with district-wide production."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-14T16:13:16.994Z"
     },
     {
       "id": "CO-LAKE-STAR-OF-THE-WEST-MINE",
@@ -5492,6 +5645,6 @@
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-13T23:17:58.697Z",
+  "generatedAt": "2026-10-14T22:19:43.659Z",
   "schemaVersion": 1
 }
