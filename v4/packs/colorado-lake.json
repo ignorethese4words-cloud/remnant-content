@@ -1758,8 +1758,23 @@
         "Samuel Derry developed a ranch on land patented in 1878. After his son died in 1908, Saguache Gold Mining Company resumed placer mining. New York Engineering Company acquired the land in 1913, transported dredge components from Yonkers, and assembled about 600 tons of machinery in 1915. The electric bucket dredge used 13,000-volt power, dug as deep as 30 feet and floated in a moving excavation pond. The National Register nomination reports 3,500 ounces of gold recovered in its first two months. The company built cabins in 1916 for about 25 workers, and the dredge produced all recorded Lake County placer gold from 1916 through 1923. It was sold to Mt. Elbert Gold Dredging Company in 1923, moved to Box Creek and dismantled in 1926. The associated camp still had dredge tailings, ditches, ponds and cabins at the time of its 2000 NRHP listing."
       ],
       "componentType": "DREDGE",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T20:12:07.157Z"
+      "displayImages": [
+        {
+          "id": "CO-LAKE-DERRY-DREDGE-MODERN-2016-001",
+          "label": "Modern photograph — Derry camp ruins and dredge tailings, not the dredge machine",
+          "title": "Derry Mining Site Camp ruins and dredge tailings (2016)",
+          "rights": "Commercial app redistribution and offline copies permitted under CC BY-SA 4.0; credit and license link required, ShareAlike for adaptations.",
+          "creator": "Donald J Holmgren",
+          "license": "CC BY-SA 4.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-DERRY-DREDGE/CO-LAKE-DERRY-DREDGE-MODERN-2016-001-e6650f180ead26d1ac41.jpg",
+          "sourceNote": "Original 3875x2699 JPEG by Donald J Holmgren, 28 September 2016. Exact-site photo from Lake County Road 24, visually inspected original and 1280px Commons rendition. Shows camp ruins and foreground dredge tailings, not the 1915 dredge machine. Original photo otherwise unmodified; resized rendition for app/offline efficiency. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Derry_Mining_Camp.jpg/1280px-Derry_Mining_Camp.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Derry_Mining_Camp.jpg",
+          "attribution": "Donald J Holmgren, 'Derry Mining Camp.jpg', Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Resized to 1280px from original.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-15T08:48:21.904Z"
     },
     {
       "id": "CO-LAKE-DIAMOND-MINE",
@@ -2858,8 +2873,23 @@
         "Built in the 1950s, Irene was a roughly 1750-foot shaft in the Resurrection mining complex. The 1952 Colorado report lists ASARCO as operator, John Mitchell as manager, and gold, silver, lead and zinc exploration. EPA records a shutdown in 1957 due to low metal prices and reopening by ASARCO and Resurrection in 1965. The separate Black Cloud shaft was sunk in 1969 and began production in 1971; its workings connected to Irene. A 1986 EPA plan identifies Irene No. 2 as active. Mining historians documented the surviving steel headframe in 2007 and 2017."
       ],
       "componentType": "Mine",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T01:12:51.808Z"
+      "displayImages": [
+        {
+          "id": "CO-LAKE-IRENE-NO-2-MINE-MODERN-2024-001",
+          "label": "Modern photograph — Irene No. 2 steel headframe in background; foreground tailings belong to Triumph Mine",
+          "title": "Irene No. 2 shaft headframe behind Triumph Mine tailings (2024)",
+          "rights": "Commercial app redistribution and offline county-pack copies permitted by CC BY-SA 4.0; credit and license link required, adaptations under compatible ShareAlike.",
+          "creator": "Clyde Charles Brown",
+          "license": "CC BY-SA 4.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-IRENE-NO-2-MINE/CO-LAKE-IRENE-NO-2-MINE-MODERN-2024-001-08a40c064733623be0f4.jpg",
+          "sourceNote": "Photographed 10 October 2024 by Clyde Charles Brown. Original Commons photo 6000x4000; visually inspected original and Wikimedia 1280px resized JPEG. Steel headframe of Irene Number 2 Mine is in middle distance, while foreground tailings are from separate Triumph Mine. Resized without other modification for app and offline image efficiency. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Triumph_Mine_%28foreground_tailings_pile%29_and_Irene_Number_2_Mine_%28structure%29%2C_Colorado%2C_US.jpg/1280px-Triumph_Mine_%28foreground_tailings_pile%29_and_Irene_Number_2_Mine_%28structure%29%2C_Colorado%2C_US.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Triumph_Mine_(foreground_tailings_pile)_and_Irene_Number_2_Mine_(structure),_Colorado,_US.jpg",
+          "attribution": "Clyde Charles Brown, 'Triumph Mine (foreground tailings pile) and Irene Number 2 Mine (structure), Colorado, US', Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Resized to 1280px.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-15T14:55:35.902Z"
     },
     {
       "id": "CO-LAKE-JENNIE-JUNE-MINE",
@@ -5645,6 +5675,6 @@
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-14T22:19:43.659Z",
+  "generatedAt": "2026-10-15T22:23:37.260Z",
   "schemaVersion": 1
 }

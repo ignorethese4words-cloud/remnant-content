@@ -6,7 +6,7 @@
       "state": "Colorado",
       "county": "Lake County",
       "siteCount": 162,
-      "generatedAt": "2026-10-14T22:19:43.659Z",
+      "generatedAt": "2026-10-15T22:23:37.260Z",
       "idOnlySiteCount": 56,
       "exploreSiteCount": 106
     },
@@ -16,13 +16,13 @@
       "state": "Colorado",
       "county": "Summit County",
       "siteCount": 122,
-      "generatedAt": "2026-10-14T22:19:43.659Z",
+      "generatedAt": "2026-10-15T22:23:37.260Z",
       "idOnlySiteCount": 69,
       "exploreSiteCount": 53
     }
   ],
   "delivery": "github-raw-v4",
-  "generatedAt": "2026-10-14T22:19:43.659Z",
+  "generatedAt": "2026-10-15T22:23:37.260Z",
   "schemaVersion": 1,
   "minimumAppContentSchema": 1
 }
