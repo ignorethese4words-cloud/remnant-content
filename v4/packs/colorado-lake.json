@@ -2827,8 +2827,23 @@
         "Hopemore was a polymetallic underground mine on Breece Hill. USGS MRDS-derived data records gold, silver, lead, zinc, copper and iron; it describes the Ibex No. 4 fault vein through the mine area and estimated mineral reserves in 1992, not extracted tonnage. The operator of the related but geographically separate Leadville mill says mine/mill production began in 1989 and continued sporadically about five years, with permit M1990-057 issued in 1990. MRDS records first production as 1997, a conflict not resolved here. A Mining History Association 2007 field tour identified the Hopemore headframe behind Ibex dumps. Around 2008 Robert Calder/Lockland acquired the mine; the site subsequently hosted underground heritage tours. Nearby Ibex, Whites Hill Comstock, and a separate same-name Hopemore record must not be conflated."
       ],
       "componentType": "Historic Site",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T10:12:06.398Z"
+      "displayImages": [
+        {
+          "id": "CO-LAKE-HOPEMORE-MINE-MODERN-2024-001",
+          "label": "Modern photograph — surface ruins and mine waste at named Hopemore Mine locality; structures not individually identified",
+          "title": "Hopemore Mine locality surface ruins (2024)",
+          "rights": "Commercial app redistribution and offline county-pack copies permitted under CC BY-SA 4.0 with credit, license link, resize notice, and ShareAlike for adaptations.",
+          "creator": "Clyde Charles Brown",
+          "license": "CC BY-SA 4.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-HOPEMORE-MINE/CO-LAKE-HOPEMORE-MINE-MODERN-2024-001-517a352da85de27a464b.jpg",
+          "sourceNote": "Original photograph by Clyde Charles Brown on 10 October 2024, from Wikimedia Commons. Visually inspected 1280px image showing collapsed timber surface workings, a small standing building, and mine waste. 1280px resized JPEG selected for efficient app and offline copies. Exact structures and shaft collar not independently identified; do not portray this as a historical photograph or an entrance. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hopemore_Mine%2C_Colorado%2C_US.jpg/1280px-Hopemore_Mine%2C_Colorado%2C_US.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hopemore_Mine,_Colorado,_US.jpg",
+          "attribution": "©2024 Clyde Charles Brown, 'Hopemore Mine, Colorado, US', Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Resized to 1280px.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-16T09:54:00.551Z"
     },
     {
       "id": "CO-LAKE-IRENE-NO-2-MINE",
@@ -5675,6 +5690,6 @@
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-15T22:23:37.260Z",
+  "generatedAt": "2026-10-16T22:07:06.135Z",
   "schemaVersion": 1
 }

@@ -1,0 +1,285 @@
+{
+  "id": "colorado-clear-creek",
+  "sites": [
+    {
+      "id": "CO-CLEAR-CREEK-ARGO-MILL",
+      "name": "Argo Mill",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "ORE_PROCESSING",
+      "location": "Clear Creek County",
+      "overview": [
+        "Above Clear Creek in Idaho Springs stands the seven-story Argo Mill, built to process ore carried out of the nearby Argo Tunnel. Starting in 1913, it used gravity and innovative ore-concentration equipment to turn lower-grade ore from surrounding mines into material worth shipping to smelters. Its work ended after a devastating underground flood in 1943. Today the distinctive mill survives as a historic industrial landmark and visitor attraction. Scan the mill building itself; the nearby Argo Tunnel portal is a separate feature."
+      ],
+      "timeline": [
+        {
+          "text": "Work began on Samuel Newhouse's mine-drainage and ore-transportation tunnel, later known as the Argo Tunnel.",
+          "year": "1893"
+        },
+        {
+          "text": "The Argo Tunnel was completed, bringing ore from connected mines toward Idaho Springs.",
+          "year": "1910"
+        },
+        {
+          "text": "Construction began on the large seven-story Argo ore-concentration mill beside the tunnel outlet.",
+          "year": "June 1912"
+        },
+        {
+          "text": "Argo Reduction and Ore Purchasing Company began milling operations.",
+          "year": "April 1913"
+        },
+        {
+          "text": "A contemporary engineering journal praised the mill's innovative metallurgical process; the National Register nomination describes approximately 300 tons/day capacity.",
+          "year": "1914"
+        },
+        {
+          "text": "A deadly flooding accident associated with the Argo underground workings ended tunnel and mill operations.",
+          "year": "January 19, 1943"
+        },
+        {
+          "text": "Argo Tunnel and Mill was listed in the National Register of Historic Places (78000836).",
+          "year": "January 31, 1978"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.742867,
+        "longitude": -105.506612
+      },
+      "moreHistory": [
+        "Construction of the Argo Mill began in June 1912; the Argo Reduction and Ore Purchasing Company began processing ore in April 1913. The mill stood at the outlet of Samuel Newhouse's Argo drainage and haulage tunnel, completed in 1910, which helped sustain deep mining in the Central City–Idaho Springs area. According to the original National Register nomination, the mill's large seven-story, steel-framed corrugated-iron building was designed around gravity-fed ore concentration and could handle roughly 300 tons per day. Ore originally came from the Gunnell, Prize, Ophir and Poco mines; later the Gem, Sun and Moon and smaller mines also supplied ore. Its advanced process combined wet stamping, chemical treatment, amalgamation and concentrating tables, allowing lower-grade sulphide ore to be shipped economically to smelters. On January 19, 1943, a deadly underground flooding accident shut down the tunnel and mill. The surviving mill and equipment became a preservation and visitor-education site; the combined Argo Tunnel and Mill was listed in the National Register on January 31, 1978. These are facts about the MILL's role, not claims that the mill was itself a producing underground mine."
+      ],
+      "componentType": "MILL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-16T08:17:22.965Z"
+    },
+    {
+      "id": "CO-CLEAR-CREEK-CAPITAL-PRIZE-MINE",
+      "name": "Capital Prize Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Clear Creek County",
+      "overview": [
+        "At the edge of Georgetown, the Capital Prize Mine tells the story of miners tunneling deep beneath Griffith Mountain in search of gold and silver. A 1915 engineer's report describes a remarkable crosscut, two tunnel mouths, a mill, and an ambitious ventilation project that struggled against poor air and difficult rock. Today the surviving mine complex is operated as a guided underground tour. The app's location marks the signed public visitor area, not an invitation to enter historic workings independently."
+      ],
+      "timeline": [
+        {
+          "text": "George and David Griffith discovered mineralization near Georgetown; later Capital Prize operators trace the mine's origins to their Griffith district claims.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A Griffith location certificate for the Mills County Lode was filed January 4; a later Capital Prize engineering account connects the claim history to the mine group.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The long Capital Prize crosscut adit was started from the Georgetown town edge to reach the Aetna vein at depth.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A concentrator mill was built to treat ore from the Capital operation.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Ritter documented the two-mouth crosscut, the Aetna-vein workings, and an unsuccessful 877-foot ventilation raise.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Major industrial operations had largely ceased, though later small leasing and intermittent work continued.",
+          "year": "Historic period"
+        },
+        {
+          "text": "A town special-use permit supported renewed rehabilitation; the operator's engineering compilation records 1,440 feet of main tunnel rehabilitated.",
+          "year": "Historic period"
+        },
+        {
+          "text": "The operator reports reopening for public tours after rehabilitation.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.7095517,
+        "longitude": -105.6924693
+      },
+      "moreHistory": [
+        "The Griffith brothers' mining claims helped launch Georgetown's mining district in the 1860s. The later Capital Mining and Tunnel Company drove a long crosscut from the town edge beginning around 1905 to reach the Aetna vein at depth. In January 1915 mining engineer Etienne A. Ritter described two branches near the tunnel mouth: a south entrance serving the rock dump and compressor house and a north entrance serving the mill and outbuildings. The long branch reached the Aetna vein after about 3,520 feet; the company extended the crosscut beyond that intersection and drifted along the vein. Ventilation was a major obstacle: an 877-foot raise could not be completed because of poor air, and a borehole drilled from above lost its tools. A concentrator mill built in 1907 treated ore, but heavy development expenses and unstable ground burdened the operation. Later engineering records say major operations ceased around 1918 while smaller lease work continued intermittently, and document rehabilitation of 1,440 feet of the main access tunnel after a 1983 Georgetown permit. The mine was later reopened as a guided visitor attraction. The Aetna/Comet lode and nearby mine claims are related geological context, not alternate names for the Capital Prize portal."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-16T09:14:21.018Z"
+    },
+    {
+      "id": "CO-CLEAR-CREEK-CENTENNIAL-MILL",
+      "name": "Centennial Mill",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "ORE_PROCESSING",
+      "location": "Clear Creek County",
+      "overview": [
+        "Georgetown last surviving ore mill was rebuilt in 1929, used flotation processing and has been preserved since 2004."
+      ],
+      "timeline": [
+        {
+          "text": "Relocated and rebuilt",
+          "year": "Historic period"
+        },
+        {
+          "text": "Acquired for preservation",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.70394,
+        "longitude": -105.69666
+      },
+      "moreHistory": [
+        "Western States Mining Company relocated and rebuilt the former Griffith Mill in 1929 by the Colorado Central Railroad. The mill used flotation ore processing. Historic Georgetown acquired it in 2004; Colorado State Historical Fund awarded acquisition/stabilization support under site 5CC.3.333. No tours."
+      ],
+      "componentType": "MILL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-16T14:11:52.636Z"
+    },
+    {
+      "id": "CO-CLEAR-CREEK-LEBANON-MILL",
+      "name": "Lebanon Mill",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "ORE_PROCESSING",
+      "location": "Clear Creek County",
+      "overview": [
+        "Lebanon Mill crushed and sampled ore using water power. Patented in 1872, it was rebuilt for Georgetown Loop interpretation in 1978."
+      ],
+      "timeline": [
+        {
+          "text": "Mill patented.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Mill leased.",
+          "year": "Historic period"
+        },
+        {
+          "text": "National Register listing.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Mill rebuilt.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.69821,
+        "longitude": -105.71256
+      },
+      "moreHistory": [
+        "The 1971 NPS nomination describes a two-story 30-by-60-foot wooden mill. Ore was received below, lifted, jaw-crushed, sampled and bagged upstairs. Clear Creek water drove a wheel; the adjacent dam crossed the creek. Superintendent Julius G. Pohle patented the mill in 1872, processing Lebanon Mine and custom ore, then leased it in 1877. Its closure date is unknown. Excavations found outbuilding foundations in 1970. Listed in 1971, the mill was rebuilt in 1978."
+      ],
+      "componentType": "MILL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-16T12:14:35.725Z"
+    },
+    {
+      "id": "CO-CLEAR-CREEK-LEBANON-MINE-TUNNEL",
+      "name": "Lebanon Mine Tunnel",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "ADIT_TUNNEL",
+      "location": "Clear Creek County",
+      "overview": [
+        "The Lebanon Tunnel was driven into Republican Mountain in 1870 as part of Georgetown's silver boom. Its workings reached about 1,200 feet by 1886, and it is still recognizable by its signed portal. Preservation efforts reopened the tunnel in 1969 and restored the surrounding mine buildings in 1978. The mine is now visited only through the Georgetown Loop Railroad's guided tours."
+      ],
+      "timeline": [
+        {
+          "text": "Lebanon Mining Company drives tunnel into Republican Mountain.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Lebanon among approximately 50 Georgetown mines producing ore.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Tunnel approximately 1,200 feet; Hise Lode reached at 1,100 feet.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Preservation crews clear and light Lebanon tunnel; discover associated building footprints.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Reconstructed Lebanon mine buildings open to public.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.698339,
+        "longitude": -105.713344
+      },
+      "moreHistory": [
+        "History Colorado records the Lebanon Mining Company driving the Lebanon Tunnel into Republican Mountain in 1870. Clear Creek County tourism says Lebanon was among about 50 Georgetown-area mines producing ore in 1885. In 1886 its tunnel extended approximately 1,200 feet and met the Hise Lode around 1,100 feet from the portal; work ended late that decade amid falling silver prices. Preservation crews cleared and lit the Lebanon tunnel in 1969, locating former blacksmith shop, miners' dry, manager office and tool shed footprints. Reconstructed mine buildings opened in 1978. Today the railroad operator leads visitors 500 feet, or over 1,000 feet on extended tours, into the historic tunnel. The Lebanon Mill and Everett Tunnel are separate resources."
+      ],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-16T08:17:33.697Z"
+    },
+    {
+      "id": "CO-CLEAR-CREEK-PHOENIX-GOLD-MINE",
+      "name": "Phoenix Gold Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Clear Creek County",
+      "overview": [
+        "Opened in 1871, Phoenix Gold Mine preserves underground gold-mining workings near Idaho Springs. The Mosch family discovered the Resurrection Vein in the 1970s and has offered guided tours since 1988. Visitor access is controlled by the operator."
+      ],
+      "timeline": [
+        {
+          "text": "Mine opened",
+          "year": "1871"
+        },
+        {
+          "text": "Mosch family acquisition, per operator",
+          "year": "1968"
+        },
+        {
+          "text": "Resurrection Vein discovery",
+          "year": "1970s"
+        },
+        {
+          "text": "Public tours began",
+          "year": "1988"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.74889,
+        "longitude": -105.56619
+      },
+      "moreHistory": [
+        "Opened in 1871, Phoenix was worked in several periods by successive operators. Phoenix No. 1 and No. 2 and a mill site were reportedly patented in 1875. The Mosch family reports buying the mine in 1968. In the 1970s David and Cyndi Mosch identified the Resurrection Vein, a new gold-bearing occurrence within the Phoenix workings. Underground crosscut work followed in the 1980s, and public tours began in 1988. Clear Creek tourism identifies both Phoenix and Resurrection veins at the site. Some secondary accounts disagree about exact ownership dates."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-16T10:10:45.393Z"
+    }
+  ],
+  "state": "Colorado",
+  "county": "Clear Creek County",
+  "generatedAt": "2026-10-16T22:07:06.135Z",
+  "schemaVersion": 1
+}
