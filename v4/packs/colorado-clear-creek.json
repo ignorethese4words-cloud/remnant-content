@@ -56,6 +56,56 @@
       "contentUpdatedAt": "2026-10-16T08:17:22.965Z"
     },
     {
+      "id": "CO-CLEAR-CREEK-ARGO-TUNNEL",
+      "name": "Argo Tunnel",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "ADIT_TUNNEL",
+      "location": "Clear Creek County",
+      "overview": [
+        "At this Idaho Springs portal, miners began a four-mile tunnel in 1893 to drain deep gold mines and bring ore out by rail. Originally called the Newhouse Tunnel, it eventually reached toward Central City and helped keep mines operating far below the surface. A fatal flood in 1943 ended the mining era, but water continued flowing from the tunnel. Today the entrance is part of the historic Argo complex, while a nearby treatment plant handles the metal-rich drainage. The Argo Mill is a separate historic structure."
+      ],
+      "timeline": [
+        {
+          "text": "Samuel Newhouse's drainage-and-haulage tunnel project began from Idaho Springs, first by hand then with powered drills.",
+          "year": "1893-09"
+        },
+        {
+          "text": "Tunnel reached its final 21,968-foot terminus under Eureka Gulch after intermittent construction.",
+          "year": "1910-11-18"
+        },
+        {
+          "text": "The associated Argo ore mill was constructed at the tunnel complex and began milling in April 1913; it is a separate physical site.",
+          "year": "1912–1913"
+        },
+        {
+          "text": "A flood triggered by work on a lateral to the Kansas shaft killed four miners and ended operations.",
+          "year": "1943-01-19"
+        },
+        {
+          "text": "Argo Tunnel and Mill listed in National Register of Historic Places (NRIS 78000836).",
+          "year": "1978-01-31"
+        },
+        {
+          "text": "Argo water-treatment plant began full operation treating metal-rich tunnel discharge.",
+          "year": "1998-04-07"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.7436,
+        "longitude": -105.50777
+      },
+      "moreHistory": [
+        "The Argo (originally Newhouse) Tunnel was conceived by mining promoter Samuel Newhouse to solve the costly water, ventilation and ore-transport problems of deep gold mines between Idaho Springs and Central City. Work started at the Idaho Springs portal in September 1893. Intermittent driving ended November 18, 1910 at 21,968 feet (4.16 miles) under Eureka Gulch. The tunnel followed a gentle drainage grade, carried a rail haulage system, and opened deep connections to mines across Clear Creek and Gilpin Counties; the 1978 National Register nomination describes the first 13,100 feet as 8 by 8 feet, with smaller dimensions farther in. An associated ore mill began operating in April 1913, but the tunnel portal is a separate historic feature. On January 19, 1943, water broke into the tunnel from work on a lateral near the Kansas shaft, killing four miners and ending operations. The tunnel continued discharging metal-rich water after closure. EPA's Argo treatment plant began operation April 7, 1998, treating discharge collected just outside the portal. The historic tunnel and mill complex is on the National Register of Historic Places; the portal is now interpreted as part of the Argo visitor experience."
+      ],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-17T10:14:02.848Z"
+    },
+    {
       "id": "CO-CLEAR-CREEK-CAPITAL-PRIZE-MINE",
       "name": "Capital Prize Mine",
       "tier": "EXPLORE",
@@ -148,6 +198,90 @@
       "contentUpdatedAt": "2026-10-16T14:11:52.636Z"
     },
     {
+      "id": "CO-CLEAR-CREEK-CRAZY-GIRL-MINE",
+      "name": "Crazy Girl Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Clear Creek County",
+      "overview": [
+        "The Crazy Girl Mine worked a gold-, silver-, lead-, zinc- and copper-bearing vein on Alps Mountain. Miners sank a shaft serving three underground levels and added a separate crosscut tunnel. From 1902 to 1952, intermittent operations shipped 1,928 tons of ore. In 1952, falling lead prices abruptly ended a period of production. The USGS mapped the mine's shaft and described the mineral-rich vein. Remnant marks the historically mapped shaft location; whether any opening or structure survives there has not been verified. Mine workings are hazardous, and no public access is implied."
+      ],
+      "timeline": [
+        {
+          "text": "Intermittent documented ore production; total 1,928 tons shipped during this period.",
+          "year": "1902–1952"
+        },
+        {
+          "text": "USGS geologists documented the shaft, three underground levels, separate Crazy Girl crosscut, and incomplete Baby Eddy tunnel connection.",
+          "year": "1952"
+        },
+        {
+          "text": "Mine shut down abruptly after a drop in the price of lead.",
+          "year": "July 1952"
+        },
+        {
+          "text": "Harrison and Wells published their geological and historical account of the Freeland-Lamartine district.",
+          "year": "1954"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.7338767,
+        "longitude": -105.5913889
+      },
+      "moreHistory": [
+        "USGS Harrison and Wells (1954) documented the Crazy Girl Mine as a shaft connected to workings on three levels, with a separate crosscut tunnel into the first level. The Baby Eddy tunnel was driven toward the third level but was never completed; it is a distinct portal. The shaft collar was about 9,700 ft elevation. Production records show intermittent operation between 1902 and 1952 and 1,928 tons of ore shipped, yielding 231 oz gold, 6,885 oz silver, 4,591 lb copper, 412,818 lb lead, and 73,881 lb zinc. At the 1952 USGS visit, K. J. King and J. M. East of Boulder leased the mine and ore was being removed from a second-level stope. Falling lead prices caused an abrupt shutdown in July 1952. USGS described a northeast-striking Crazy Girl vein with pyrite, chalcopyrite, tetrahedrite, galena and sphalerite; ore occurred in irregular lenses and pods. Nearby Yankee Girl and Belle Creole workings lie along possible vein extensions but are not the Crazy Girl shaft or its scan target. Current remains, access, and safety are not established."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-17T15:11:57.362Z"
+    },
+    {
+      "id": "CO-CLEAR-CREEK-DUNKIRK-MINE",
+      "name": "Dunkirk Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Clear Creek County",
+      "overview": [
+        "The Dunkirk Mine was a significant nineteenth-century silver working above Silver Plume. By about 1880 it reportedly employed 70 people and had a shaft nearly 600 feet deep. Its main entrance is documented in federal mine records, although the entrance may no longer be visible."
+      ],
+      "timeline": [
+        {
+          "text": "Contemporary history reports about 70 workers, nearly 600-foot main shaft, at least 1,800 feet of underground levels and approximately $130,000 in recent production.",
+          "year": "circa 1880"
+        },
+        {
+          "text": "U.S. Mint annual report names Dunkirk as a producing Republican Mountain mine.",
+          "year": "1880"
+        },
+        {
+          "text": "U.S. Bureau of Mines MRDS record documents Dunkirk main-entrance position.",
+          "year": "1983"
+        },
+        {
+          "text": "Dan A. Polhemus documents Dunkirk eastern tailings.",
+          "year": "2019"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.69999,
+        "longitude": -105.7262
+      },
+      "moreHistory": [
+        "Contemporary historian Aaron Frost described the Dunkirk Mine east of Dives and west of Pay Rock on Republican Mountain. He reported ownership by Herman Silver Mining Company of New York and supervision by Charles H. Morris. After seven years of development before profitable ore, the mine reportedly yielded about $130,000 in just over a year. By about 1880, it employed 70 workers and had a main shaft nearly 600 feet deep with at least 1,800 feet of levels. An 1880 US Mint report separately lists Dunkirk among Republican Mountain silver workings. A 1983 U.S. Bureau of Mines record identifies Dunkirk as a past-producing underground silver mine. Site-specific eastern tailings were photographed in 2019."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-17T20:09:38.100Z"
+    },
+    {
       "id": "CO-CLEAR-CREEK-LEBANON-MILL",
       "name": "Lebanon Mill",
       "tier": "EXPLORE",
@@ -236,6 +370,27 @@
       "contentUpdatedAt": "2026-10-16T08:17:33.697Z"
     },
     {
+      "id": "CO-CLEAR-CREEK-MINT-MINE",
+      "name": "Mint Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Clear Creek County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.761099,
+        "longitude": -105.678337
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-17T21:12:41.065Z"
+    },
+    {
       "id": "CO-CLEAR-CREEK-PHOENIX-GOLD-MINE",
       "name": "Phoenix Gold Mine",
       "tier": "EXPLORE",
@@ -276,10 +431,56 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-16T10:10:45.393Z"
+    },
+    {
+      "id": "CO-CLEAR-CREEK-URAD-MINE",
+      "name": "Urad Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Clear Creek County",
+      "overview": [
+        "The Urad Mine was an important Colorado molybdenum producer. Its story stretches from World War I-era mining through major expansion in the 1960s and closure in 1974. Today the mine is sealed and the area has undergone extensive reclamation. Nearby Henderson is a separate, deeper deposit."
+      ],
+      "timeline": [
+        {
+          "text": "Substantial development began.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Primos Chemical shipped concentrates.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Mine and 200-ton-per-day mill operated.",
+          "year": "Historic period"
+        },
+        {
+          "text": "AMAX restarted large-scale production.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Urad mine closed and was sealed.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.75611,
+        "longitude": -105.82694
+      },
+      "moreHistory": [
+        "Urad was developed beginning in 1914. Primos Chemical shipped molybdenum concentrates in 1918-1919. Vanadium Corporation bought the property in 1921. The mine reopened in 1941, with a 200-ton-per-day mill in 1944-1946. AMAX leased it in 1961, purchased it in 1963, and restarted large-scale mining in 1967. Nearly 48 to 50 million pounds of molybdenum were produced before depletion and closure in 1974. Six underground levels were developed, including the A portal level at about 10280 feet. The portal was sealed and the tailings reclaimed. The related Henderson orebody lies deeper and is a separate operation."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-17T17:13:30.843Z"
     }
   ],
   "state": "Colorado",
   "county": "Clear Creek County",
-  "generatedAt": "2026-10-16T22:07:06.135Z",
+  "generatedAt": "2026-10-17T21:29:34.566Z",
   "schemaVersion": 1
 }

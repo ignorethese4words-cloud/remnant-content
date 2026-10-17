@@ -1469,8 +1469,23 @@
         "The Continental Chief, above timberline near Dyer Mountain, produced silver-bearing lead-zinc ores in the Iowa Amphitheater. Contemporary 1905 Engineering and Mining Journal dispatches record renewed development after several idle years under lessee Patrick Mulrooney: deeper work planned in August, reopening and reported shipments of about 50 tons daily by September, high-grade silver ore reported in October and December, and continued winter work. A nearby Maguire tunnel about 200 feet south sought the same ore trend but was a separate excavation. USGS geologist C.H. Behre Jr. documented Continental Chief as mine N-99 in Professional Paper 235 (1953), the largest mine in this type of deposit in Iowa Amphitheater; its eastward adit ran roughly 125 feet before branching to north and south drifts, stopes, and main eastern workings in Leadville dolomite below shale. Legacy MRDS sources report approximately $3 million of production value before 1920, and cite Sunshine Mining's 1980 exploration estimates; these are historical reported figures rather than audited production or modern reserves. Federal exploration-assistance archive lists a 1960 lead-zinc docket for Continental Chief Property, but this does not establish renewed mining. USGS research also documented zinc-bearing clay and oxidized zinc minerals. No verified portal coordinate, access rights, or image-reuse rights are established."
       ],
       "componentType": "MINE",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T17:14:02.447Z"
+      "displayImages": [
+        {
+          "id": "continental-chief-ore-chute-2008-holm",
+          "label": "Ore chute (2008)",
+          "title": "Collapsed ore chute at Continental Chief Mine (2008)",
+          "rights": "Author John Holm licensed this exact Flickr-origin image under CC BY 2.0, verified on Wikimedia Commons in 2011. Commercial app use and offline distribution permitted with attribution and license link; unmodified copy requested.",
+          "creator": "John Holm",
+          "license": "CC BY 2.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-CONTINENTAL-CHIEF-MINE/continental-chief-ore-chute-2008-holm-88c86514bf0b62286344.jpg",
+          "sourceNote": "Original photo by John Holm, Flickr ID 3218029656, uploaded to Wikimedia Commons 2011-07-19. The collapsed wooden ore delivery chute is identified at Continental Chief Mine in Iowa Amphitheater, Lake County, Colorado. Original 565x640 JPEG. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/3/32/Continental_Chief_mine_ore_chute.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Continental_Chief_mine_ore_chute.jpg",
+          "attribution": "John Holm, 'Continental Chief mine ore chute' (2008), CC BY 2.0, via Wikimedia Commons; unmodified.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-17T12:55:37.870Z"
     },
     {
       "id": "CO-LAKE-CONTRACT-SHAFT",
@@ -5690,6 +5705,6 @@
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-16T22:07:06.135Z",
+  "generatedAt": "2026-10-17T21:29:34.566Z",
   "schemaVersion": 1
 }
