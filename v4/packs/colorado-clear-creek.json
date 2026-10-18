@@ -366,8 +366,69 @@
         "History Colorado records the Lebanon Mining Company driving the Lebanon Tunnel into Republican Mountain in 1870. Clear Creek County tourism says Lebanon was among about 50 Georgetown-area mines producing ore in 1885. In 1886 its tunnel extended approximately 1,200 feet and met the Hise Lode around 1,100 feet from the portal; work ended late that decade amid falling silver prices. Preservation crews cleared and lit the Lebanon tunnel in 1969, locating former blacksmith shop, miners' dry, manager office and tool shed footprints. Reconstructed mine buildings opened in 1978. Today the railroad operator leads visitors 500 feet, or over 1,000 feet on extended tours, into the historic tunnel. The Lebanon Mill and Everett Tunnel are separate resources."
       ],
       "componentType": "TUNNEL",
+      "displayImages": [
+        {
+          "id": "CO-CLEAR-CREEK-LEBANON-PORTAL-2012-001",
+          "label": "Modern photograph — signed Lebanon Tunnel portal",
+          "title": "Lebanon Tunnel signed entrance (2012)",
+          "rights": "Commercial and offline redistribution permitted with attribution and ShareAlike for adaptations.",
+          "creator": "Magicpiano",
+          "license": "CC BY-SA 4.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-CLEAR-CREEK-LEBANON-MINE-TUNNEL/CO-CLEAR-CREEK-LEBANON-PORTAL-2012-001-b04131134f7f6f0460bf.jpg",
+          "sourceNote": "Original 1024x680 JPEG, photographer Magicpiano, taken 13 June 2012, uploaded 2 July 2012. Visually inspected actual signed portal. Original unmodified. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/b/ba/GeorgetownCO_LebanonMineEntrance.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:GeorgetownCO_LebanonMineEntrance.jpg",
+          "attribution": "Magicpiano, 'GeorgetownCO LebanonMineEntrance.jpg', Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-18T15:56:19.139Z"
+    },
+    {
+      "id": "CO-CLEAR-CREEK-LITTLE-EMMA-TUNNEL",
+      "name": "Little Emma Tunnel",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "ADIT_TUNNEL",
+      "location": "Clear Creek County",
+      "overview": [
+        "Little Emma was a small gold, silver, lead and zinc mine in Virginia Canyon above Idaho Springs. Although its adit was short, federal records document ore shipments in 1912 and 1921–1926. USGS geologists mapped the narrow mineralized veins underground. A later state survey identified the mine’s separate waste-rock pile and building remnants, distinct from the neighboring Brighton Mine. The historic site is mapped, but the current condition of the tunnel entrance is unknown."
+      ],
+      "timeline": [
+        {
+          "text": "USGS records a small ore shipment from the Little Emma adit.",
+          "year": "Historic period"
+        },
+        {
+          "text": "U.S. Bureau of Mines records 56 tons of crude ore shipped, yielding gold, silver, lead and zinc.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Idaho Springs Sampling Works records additional ore assays from the Little Emma workings.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS publishes a mine-specific description and underground plan (fig. 54).",
+          "year": "Historic period"
+        },
+        {
+          "text": "Colorado reclamation survey identifies Little Emma as site #108, documenting its waste-rock pile and building remnants.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.7607222222,
+        "longitude": -105.5223611111
+      },
+      "moreHistory": [
+        "USGS identifies Little Emma as a short drift adit in Virginia Canyon at about 8,690 feet. A small shipment occurred in 1912. Bureau of Mines figures record 56 tons of crude ore shipped from 1921 through 1926, yielding 27 troy ounces of gold, 1,616 troy ounces of silver, 22,398 pounds of lead and 2,223 pounds of zinc. The adit cuts granite gneiss, pegmatite and biotite gneiss; narrow, branching veins contain pyrite, chalcopyrite, galena, sphalerite and quartz. The 1966 USGS report includes a plan of the workings (fig. 54) and ore assay records including 1930. A 2001 Colorado reclamation report separately identified Little Emma site #108 beside Brighton #41, documenting about 1,000 cubic yards of Little Emma waste rock and the remains of a building then visible from the old road. The report describes erosion affecting waste rock in Boomerang Gulch. No claim is made that the historic portal or structures survive today."
+      ],
+      "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-16T08:17:33.697Z"
+      "contentUpdatedAt": "2026-10-17T22:14:26.539Z"
     },
     {
       "id": "CO-CLEAR-CREEK-MINT-MINE",
@@ -433,6 +494,40 @@
       "contentUpdatedAt": "2026-10-16T10:10:45.393Z"
     },
     {
+      "id": "CO-CLEAR-CREEK-SILVER-KING-MINE",
+      "name": "Silver King Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Clear Creek County",
+      "overview": [
+        "The Silver King Mine near Dumont had upper and lower tunnels following an ore-bearing vein. USGS mapped its workings in 1952 and recorded shipments of gold, silver, copper, lead and zinc from 1944 to 1947. The historic lower portal site is the scan target; its present-day condition is unknown."
+      ],
+      "timeline": [
+        {
+          "text": "1353 tons of ore shipped from Silver King group.",
+          "year": "Historic period"
+        },
+        {
+          "text": "USGS mapped upper and lower portals and underground vein.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.76972,
+        "longitude": -105.57667
+      },
+      "moreHistory": [
+        "USGS recorded 1353 tons shipped 1944-47 containing 25 oz gold, 1900 oz silver, 3630 lb copper, 52692 lb lead and 5280 lb zinc. The main vein was mapped for about 1200 ft, with galena-sphalerite ore concentrated near 500 ft inward. The lower and upper portals were mapped in 1952; the Silver King Extension is separate."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-18T04:15:55.085Z"
+    },
+    {
       "id": "CO-CLEAR-CREEK-URAD-MINE",
       "name": "Urad Mine",
       "tier": "EXPLORE",
@@ -481,6 +576,6 @@
   ],
   "state": "Colorado",
   "county": "Clear Creek County",
-  "generatedAt": "2026-10-17T21:29:34.566Z",
+  "generatedAt": "2026-10-18T21:32:26.019Z",
   "schemaVersion": 1
 }

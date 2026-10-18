@@ -1356,8 +1356,23 @@
         "Charles J. Senter encountered mineralized rock on Bartlett Mountain in 1879; its molybdenite identity was recognized in 1895. Initial ore shipments began in 1915, and the Climax Molybdenum Company was formed in 1918. The metal's wartime value was followed by a demand-driven shutdown in 1919–24, then expansion in peacetime alloy markets. USGS investigators documented the deposit's geology, underground workings and large mill in 1933. During World War II the mine's molybdenum strengthened industrial and military steels. Operations later developed open-pit extraction (MRDS records 1973), and the mine was placed on care and maintenance in 1995. After redevelopment, Freeport-McMoRan shipped new concentrate in May 2012. The historical underground levels and modern open pit are related parts of one mine, not interchangeable points."
       ],
       "componentType": "MINE",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T13:13:44.017Z"
+      "displayImages": [
+        {
+          "id": "climax-mine-historic-1924-usgs-plate-x",
+          "label": "Historic Climax mine workings (1924)",
+          "title": "Climax Molybdenum Company workings, USGS Plate X (1924)",
+          "rights": "Original USGS 1924 photograph, federal government work in the public domain; commercial redistribution and offline storage allowed. No known figure-level third-party exception.",
+          "creator": "U.S. Geological Survey / Frank L. Hess (Bulletin author)",
+          "license": "Public Domain (US Government)",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-CLIMAX-MINE/climax-mine-historic-1924-usgs-plate-x-635cebec8e63092aea4c.png",
+          "sourceNote": "Standalone 1179x1689 PNG raster of historical USGS Bulletin 761 Plate X; exact file visually inspected, shows mine buildings and tents against Bartlett Mountain. Direct raster, not PDF extraction. Unmodified original image. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/f/f7/Climax-Mine-1924.png",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Climax-Mine-1924.png",
+          "attribution": "U.S. Geological Survey, Bulletin 761 (1924), Plate X, via Wikimedia Commons.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": false
+        }
+      ],
+      "contentUpdatedAt": "2026-10-18T00:53:10.136Z"
     },
     {
       "id": "CO-LAKE-CLOUD-CITY-SHAFT",
@@ -5705,6 +5720,6 @@
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-17T21:29:34.566Z",
+  "generatedAt": "2026-10-18T21:32:26.019Z",
   "schemaVersion": 1
 }
