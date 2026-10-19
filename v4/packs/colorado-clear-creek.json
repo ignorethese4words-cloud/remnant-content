@@ -164,6 +164,27 @@
       "contentUpdatedAt": "2026-10-16T09:14:21.018Z"
     },
     {
+      "id": "CO-CLEAR-CREEK-CASHIER-MINE-EMPIRE",
+      "name": "Cashier Mine (Empire)",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Clear Creek County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.760821,
+        "longitude": -105.677503
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-19T12:13:28.899Z"
+    },
+    {
       "id": "CO-CLEAR-CREEK-CENTENNIAL-MILL",
       "name": "Centennial Mill",
       "tier": "EXPLORE",
@@ -576,6 +597,6 @@
   ],
   "state": "Colorado",
   "county": "Clear Creek County",
-  "generatedAt": "2026-10-18T21:32:26.019Z",
+  "generatedAt": "2026-10-19T22:55:20.923Z",
   "schemaVersion": 1
 }
