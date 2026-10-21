@@ -257,6 +257,71 @@
       "contentUpdatedAt": "2026-10-16T14:11:52.636Z"
     },
     {
+      "id": "CO-CLEAR-CREEK-CHARLIE-TAYLER-WATERWHEEL",
+      "name": "Charlie Tayler Waterwheel",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "ORE_PROCESSING",
+      "location": "Clear Creek County",
+      "overview": [
+        "This 30-foot wooden waterwheel once powered Charlie Tayler's stamp mill, where water-driven machinery crushed ore from Ute Creek mines. Originally built around 1893, it worked at a different location southwest of Idaho Springs before being moved here below Bridal Veil Falls in the mid-1940s. After repairs in the 1970s, local volunteers restored the landmark in 1988, preserving important original metal components. The wheel is a Colorado State Register historic property (5CC.229). Look for it from the public Clear Creek Greenway path: the wheel itself—not the falls or the old mill site—is the historic feature."
+      ],
+      "timeline": [
+        {
+          "text": "Charlie Tayler's waterwheel was constructed on Ute Creek to power ore-crushing stamp-mill machinery; USGS and local accounts give 1893, while a CDOT survey allows construction through 1907.",
+          "year": "1893–1907"
+        },
+        {
+          "text": "The wheel drove Tayler's Ute Creek stamp mill, crushing ore from nearby mining operations; this was at the original mill site, not the wheel's present location.",
+          "year": "c. 1907–1940"
+        },
+        {
+          "text": "After Tayler's death and donation to Idaho Springs, the wheel was dismantled and relocated to its present display below Bridal Veil Falls. Sources differ on the exact move year (1945, 1946 or 1948).",
+          "year": "Mid-1940s"
+        },
+        {
+          "text": "The wheel underwent repairs/rebuilding after deterioration, with Henderson Mine/AMAX and city involvement.",
+          "year": "1973–1974"
+        },
+        {
+          "text": "Idaho Springs volunteers undertook major restoration, replacing damaged wooden parts while retaining original metal components, hub and axle; the wheel was rededicated during Gold Rush Days in July.",
+          "year": "1988"
+        },
+        {
+          "text": "The wheel was listed on the Colorado State Register of Historic Places as 5CC.229, recognized as a community landmark. It is not equivalent to National Register listing.",
+          "year": "September 9, 1998"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.74045,
+        "longitude": -105.51593
+      },
+      "moreHistory": [
+        "Charlie Tayler's large waterwheel is an unusually tangible survivor of Clear Creek County's ore-processing history. Built in the late nineteenth century (traditionally dated 1893; an architectural survey places construction between 1893 and 1907), the wheel originally stood on Ute Creek southwest of Idaho Springs. Diverted creek water turned it to drive a stamp mill, whose heavy stamps crushed gold- and silver-bearing ore from local mining operations. A Colorado Department of Transportation historic survey identifies operation of Tayler's mill from approximately 1907 to 1940. The extant wheel is NOT at the mill's original footprint: after Tayler's death in 1945, the wheel was donated to Idaho Springs and moved to a roadside display below Bridal Veil Falls beside Clear Creek. Sources disagree whether relocation occurred in 1945, 1946 or 1948; the defensible account is mid-1940s. At roughly 30 feet in diameter and 6,000 pounds, the wheel became a conspicuous landmark. It deteriorated and underwent repairs in 1973–74. A major 1988 community reconstruction added concrete foundations, new supports and wooden components while retaining the original hub, axle and metal parts. Its present water supply comes from an Idaho Springs municipal overflow, not from its historic Ute Creek diversion, and winter water is diverted away to reduce ice damage. The reconstruction also changed its water-drive arrangement to overshot operation, per CDOT's architectural survey. Listed in the Colorado State Register of Historic Places in 1998 as 5CC.229, the wheel now interprets local mining and milling from an accessible greenway viewpoint. The State Register listing should not be confused with National Register listing; a previous NRHP assessment found it not eligible."
+      ],
+      "componentType": "WATER_WHEEL",
+      "displayImages": [
+        {
+          "id": "charlie-tayler-wheel-hathorn-2010",
+          "label": "Historic waterwheel today",
+          "title": "Charlie Tayler Waterwheel, close view (2010)",
+          "rights": "Commercial and offline reproduction allowed under CC BY-SA 3.0 with creator credit and license link; adaptations of photo must remain ShareAlike, no image DRM.",
+          "creator": "Billy Hathorn",
+          "license": "CC BY-SA 3.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-CLEAR-CREEK-CHARLIE-TAYLER-WATERWHEEL/charlie-tayler-wheel-hathorn-2010-b0074942ed0cef05fbda.jpg",
+          "sourceNote": "Original creator-uploaded Wikimedia Commons photograph, 4000x3000 JPEG. Original photograph preserved unmodified; CC BY-SA 3.0 requires creator attribution, license link and ShareAlike for adaptations. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/e/ee/Charlie_Tayler_waterwheel%2C_Idaho_Springs%2C_CO_IMG_5429.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Charlie_Tayler_waterwheel,_Idaho_Springs,_CO_IMG_5429.JPG",
+          "attribution": "Photo: Billy Hathorn / Wikimedia Commons, CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ (unmodified; source: https://commons.wikimedia.org/wiki/File:Charlie_Tayler_waterwheel,_Idaho_Springs,_CO_IMG_5429.JPG)",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-21T08:51:13.609Z"
+    },
+    {
       "id": "CO-CLEAR-CREEK-CRAZY-GIRL-MINE",
       "name": "Crazy Girl Mine",
       "tier": "EXPLORE",
@@ -703,6 +768,6 @@
   ],
   "state": "Colorado",
   "county": "Clear Creek County",
-  "generatedAt": "2026-10-20T22:20:12.029Z",
+  "generatedAt": "2026-10-21T22:24:19.499Z",
   "schemaVersion": 1
 }
