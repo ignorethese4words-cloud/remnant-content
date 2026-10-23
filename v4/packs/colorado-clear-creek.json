@@ -406,6 +406,27 @@
       "contentUpdatedAt": "2026-10-17T20:09:38.100Z"
     },
     {
+      "id": "CO-CLEAR-CREEK-FIREMEN-AND-CONDUCTORS-TUNNEL-SPRING-GULCH",
+      "name": "Firemen and Conductors Tunnel (Spring Gulch)",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": false,
+      "category": "ADIT_TUNNEL",
+      "location": "Clear Creek County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.7766544,
+        "longitude": -105.5869443
+      },
+      "moreHistory": [],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-23T14:14:08.306Z"
+    },
+    {
       "id": "CO-CLEAR-CREEK-GEHRMANN-SHAFT-HOUSE",
       "name": "Gehrmann Shaft House",
       "tier": "EXPLORE",
@@ -768,6 +789,6 @@
   ],
   "state": "Colorado",
   "county": "Clear Creek County",
-  "generatedAt": "2026-10-22T22:22:50.651Z",
+  "generatedAt": "2026-10-23T22:15:12.492Z",
   "schemaVersion": 1
 }
