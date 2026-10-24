@@ -53,7 +53,9 @@
       ],
       "componentType": "MILL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-16T08:17:22.965Z"
+      "contentUpdatedAt": "2026-10-16T08:17:22.965Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-ARGO-TUNNEL",
@@ -103,7 +105,9 @@
       ],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-17T10:14:02.848Z"
+      "contentUpdatedAt": "2026-10-17T10:14:02.848Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-BELLE-CREOLE-TUNNEL",
@@ -141,7 +145,9 @@
       ],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-20T00:14:51.029Z"
+      "contentUpdatedAt": "2026-10-20T00:14:51.029Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-CAPITAL-PRIZE-MINE",
@@ -199,7 +205,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-16T09:14:21.018Z"
+      "contentUpdatedAt": "2026-10-16T09:14:21.018Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-CASHIER-MINE-EMPIRE",
@@ -220,7 +228,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-19T12:13:28.899Z"
+      "contentUpdatedAt": "2026-10-19T12:13:28.899Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-CENTENNIAL-MILL",
@@ -254,7 +264,9 @@
       ],
       "componentType": "MILL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-16T14:11:52.636Z"
+      "contentUpdatedAt": "2026-10-16T14:11:52.636Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-CHARLIE-TAYLER-WATERWHEEL",
@@ -319,7 +331,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-21T08:51:13.609Z"
+      "contentUpdatedAt": "2026-10-21T08:51:13.609Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-CRAZY-GIRL-MINE",
@@ -361,7 +375,49 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-17T15:11:57.362Z"
+      "contentUpdatedAt": "2026-10-17T15:11:57.362Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-CLEAR-CREEK-DIAMOND-JOE-TUNNEL-VIRGINIA-CANYON",
+      "name": "Diamond Joe Tunnel (Virginia Canyon)",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "ADIT_TUNNEL",
+      "location": "Clear Creek County",
+      "overview": [
+        "Diamond Joe Tunnel was investigated for uranium after radioactivity was noticed in its workings in 1953. U.S. Geological Survey geologists documented the 1,285-foot tunnel, its connections to neighboring mines, and traces of the fluorescent mineral zippeite. Remnant marks only the approximate historic Diamond Joe mining area; it does not identify the actual entrance or a place to enter or approach mine workings."
+      ],
+      "timeline": [
+        {
+          "text": "A lessee reported unusual radioactivity in parts of the Diamond Joe Tunnel.",
+          "year": "Early 1953"
+        },
+        {
+          "text": "The U.S. Atomic Energy Commission and USGS investigated fluorescent secondary uranium minerals including zippeite in sections of the mine.",
+          "year": "1953"
+        },
+        {
+          "text": "USGS documented a roughly 1,285-foot long tunnel connected underground to the Specie Payment and Two Brothers workings.",
+          "year": "1950s"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.76582,
+        "longitude": -105.53722
+      },
+      "moreHistory": [
+        "The Diamond Joe Tunnel in upper Virginia Canyon was a roughly 1,285-foot-long mine working driven generally west on the Specie Payment vein, which included lead-, zinc-, and copper-bearing minerals. Underground connections linked the tunnel to the Specie Payment mine by a raise and the Two Brothers mine by a stope. During 1953 a lessee noticed unusually radioactive parts of the tunnel. Investigators from the U.S. Atomic Energy Commission and U.S. Geological Survey found fluorescent patches of uranium mineralization along sections of its underground walls. USGS identified zippeite and tested samples, but reported that commercial quantities of this mineral were not present. This episode illustrates how older Colorado metal mines became a focus of uranium exploration during the 1950s. The mine entrance is not surveyed to modern phone-GPS precision, and access to underground workings is not authorized or recommended."
+      ],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-24T17:10:06.736Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
     },
     {
       "id": "CO-CLEAR-CREEK-DUNKIRK-MINE",
@@ -403,7 +459,53 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-17T20:09:38.100Z"
+      "contentUpdatedAt": "2026-10-17T20:09:38.100Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-CLEAR-CREEK-ECLIPSE-MINE-ECLIPSE-GULCH",
+      "name": "Eclipse Mine (Eclipse Gulch)",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Clear Creek County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Clear Creek County",
+      "overview": [
+        "Eclipse Mine worked two tunnels above Eclipse Gulch and produced gold, silver and lead in the late 1800s. Its historic lower entrance was described at roughly 9,060 feet elevation, and both openings were reported caved by USGS investigators in the 1950s. Remnant marks the approximate historic mine area, not a known portal or a recommended approach. The mapped location is approximate within the 51-meter source-comparison rule; remain on lawful public access and never enter mine workings."
+      ],
+      "timeline": [
+        {
+          "text": "Director of the Mint production table reported approximately 48 oz gold, 12,030 oz silver and 11,850 pounds lead from the Eclipse Mine.",
+          "year": "1887"
+        },
+        {
+          "text": "Recorded Eclipse production continued, at approximately 6.1 oz gold, 1,349 oz silver and 1,978 pounds lead.",
+          "year": "1888"
+        },
+        {
+          "text": "Federal investigators reported the Eclipse Mine workings inaccessible.",
+          "year": "1906"
+        },
+        {
+          "text": "USGS field investigators found both Eclipse tunnel portals caved and described the lower tunnel at approximately 9,060 feet elevation.",
+          "year": "1950s"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.7191545,
+        "longitude": -105.595278
+      },
+      "moreHistory": [
+        "Eclipse Mine was worked through two tunnel levels on the southwest slope near the head of Eclipse Gulch. A U.S. Geological Survey study identified the lower portal at approximately 9,060 feet elevation, although both portals were already caved when visited in the 1950s. Earlier reports described sizeable workings but did not supply a surviving mine map. Historic Director of the Mint production returns demonstrate mining: about 48 ounces of gold, 12,030 ounces of silver and 11,850 pounds of lead in 1887; about 6.1 ounces of gold, 1,349 ounces of silver and 1,978 pounds of lead in 1888. These site-specific records illuminate the mix of precious and base-metal production characteristic of the Clear Creek district. The original entrances and any remaining workings have not been precisely surveyed or shown to be safe for access."
+      ],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-24T17:09:50.341Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
     },
     {
       "id": "CO-CLEAR-CREEK-FIREMEN-AND-CONDUCTORS-TUNNEL-SPRING-GULCH",
@@ -424,7 +526,9 @@
       "moreHistory": [],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-23T14:14:08.306Z"
+      "contentUpdatedAt": "2026-10-23T14:14:08.306Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-GEHRMANN-SHAFT-HOUSE",
@@ -449,7 +553,9 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-20T03:37:14.292Z"
+      "contentUpdatedAt": "2026-10-20T03:37:14.292Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-LEBANON-MILL",
@@ -534,7 +640,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-20T05:55:44.069Z"
+      "contentUpdatedAt": "2026-10-20T05:55:44.069Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-LEBANON-MINE-TUNNEL",
@@ -595,7 +703,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-18T15:56:19.139Z"
+      "contentUpdatedAt": "2026-10-18T15:56:19.139Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-LITTLE-EMMA-TUNNEL",
@@ -641,7 +751,9 @@
       ],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-17T22:14:26.539Z"
+      "contentUpdatedAt": "2026-10-17T22:14:26.539Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-MINT-MINE",
@@ -662,7 +774,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-17T21:12:41.065Z"
+      "contentUpdatedAt": "2026-10-17T21:12:41.065Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-PHOENIX-GOLD-MINE",
@@ -704,7 +818,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-16T10:10:45.393Z"
+      "contentUpdatedAt": "2026-10-16T10:10:45.393Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-SILVER-KING-MINE",
@@ -738,7 +854,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-18T04:15:55.085Z"
+      "contentUpdatedAt": "2026-10-18T04:15:55.085Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-CLEAR-CREEK-URAD-MINE",
@@ -784,11 +902,13 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-17T17:13:30.843Z"
+      "contentUpdatedAt": "2026-10-17T17:13:30.843Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     }
   ],
   "state": "Colorado",
   "county": "Clear Creek County",
-  "generatedAt": "2026-10-23T22:15:12.492Z",
+  "generatedAt": "2026-10-24T21:38:45.484Z",
   "schemaVersion": 1
 }

@@ -20,7 +20,9 @@
       "moreHistory": [],
       "componentType": "shaft",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T19:15:50.908Z"
+      "contentUpdatedAt": "2026-10-04T19:15:50.908Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ALADDIN-MINE",
@@ -41,7 +43,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T20:13:53.296Z"
+      "contentUpdatedAt": "2026-10-03T20:13:53.296Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ALICE-A-TUNNEL",
@@ -62,7 +66,9 @@
       "moreHistory": [],
       "componentType": "tunnel",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T00:11:11.711Z"
+      "contentUpdatedAt": "2026-10-05T00:11:11.711Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ALLAM-EMORY-MINE",
@@ -83,7 +89,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T03:12:53.489Z"
+      "contentUpdatedAt": "2026-10-05T03:12:53.489Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ALVA-MINE",
@@ -104,7 +112,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T02:14:30.688Z"
+      "contentUpdatedAt": "2026-10-05T02:14:30.688Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-AMERICAN-EAGLE-MINE",
@@ -125,7 +135,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:04:57.347Z"
+      "contentUpdatedAt": "2026-10-05T14:04:57.347Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ANDERSON-TUNNEL",
@@ -146,7 +158,9 @@
       "moreHistory": [],
       "componentType": "tunnel",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T20:11:57.819Z"
+      "contentUpdatedAt": "2026-10-04T20:11:57.819Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ARABELLA-MINE",
@@ -167,7 +181,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T02:14:42.086Z"
+      "contentUpdatedAt": "2026-10-05T02:14:42.086Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ARAPAHO-MINE",
@@ -188,7 +204,9 @@
       "moreHistory": [],
       "componentType": "Historic Site",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T13:47:52.055Z"
+      "contentUpdatedAt": "2026-10-05T13:47:52.055Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ARRASTRE-QUEEN-MINE",
@@ -230,7 +248,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T01:16:17.202Z"
+      "contentUpdatedAt": "2026-10-06T01:16:17.202Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ATLANTIC-MINE",
@@ -251,7 +271,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T00:15:09.873Z"
+      "contentUpdatedAt": "2026-10-06T00:15:09.873Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-BEMROSE-MINE",
@@ -293,7 +315,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T11:12:26.814Z"
+      "contentUpdatedAt": "2026-10-06T11:12:26.814Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-BOSS-MINE",
@@ -331,7 +355,9 @@
       ],
       "componentType": "underground_working",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T17:17:37.211Z"
+      "contentUpdatedAt": "2026-10-04T17:17:37.211Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-BOSTON-MINE",
@@ -352,7 +378,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T04:11:04.006Z"
+      "contentUpdatedAt": "2026-10-04T04:11:04.006Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-BRAGANZA-MINE",
@@ -373,7 +401,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T23:08:19.751Z"
+      "contentUpdatedAt": "2026-10-05T23:08:19.751Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-BRIAR-ROSE-MINE",
@@ -419,7 +449,32 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T17:14:09.472Z"
+      "contentUpdatedAt": "2026-10-03T17:14:09.472Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-SUMMIT-BUDA-MINE",
+      "name": "Buda Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Summit County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.60795556,
+        "longitude": -105.82934167
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-24T17:10:22.417Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
     },
     {
       "id": "CO-SUMMIT-BUENA-VISTA-MINE",
@@ -440,7 +495,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:04:57.347Z"
+      "contentUpdatedAt": "2026-10-05T14:04:57.347Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-BULLION-KING-MINE",
@@ -461,7 +518,9 @@
       "moreHistory": [],
       "componentType": "shaft",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T16:09:12.880Z"
+      "contentUpdatedAt": "2026-10-04T16:09:12.880Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-BULLION-MINE",
@@ -519,7 +578,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:04:57.347Z"
+      "contentUpdatedAt": "2026-10-05T14:04:57.347Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-CALIFORNIA-MINE",
@@ -561,7 +622,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T01:08:56.488Z"
+      "contentUpdatedAt": "2026-10-04T01:08:56.488Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-CALLY-MINE",
@@ -582,7 +645,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T23:14:23.364Z"
+      "contentUpdatedAt": "2026-10-04T23:14:23.364Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-CARBONATE-MINE",
@@ -624,7 +689,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T18:08:51.243Z"
+      "contentUpdatedAt": "2026-10-03T18:08:51.243Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-CASHIER-MINE",
@@ -670,7 +737,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T07:08:12.599Z"
+      "contentUpdatedAt": "2026-10-04T07:08:12.599Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-CINCINNATI-MINE",
@@ -712,7 +781,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T02:16:37.423Z"
+      "contentUpdatedAt": "2026-10-04T02:16:37.423Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-COLUMBIA-GROUP-MINE",
@@ -733,7 +804,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T04:11:20.268Z"
+      "contentUpdatedAt": "2026-10-04T04:11:20.268Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-COMMODORE-PLACER-MINE",
@@ -754,7 +827,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T08:10:17.616Z"
+      "contentUpdatedAt": "2026-10-06T08:10:17.616Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-COUNTRY-BOY-MINE",
@@ -796,7 +871,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T14:11:26.619Z"
+      "contentUpdatedAt": "2026-10-03T14:11:26.619Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-DETROIT-MINE",
@@ -838,7 +915,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T18:08:41.641Z"
+      "contentUpdatedAt": "2026-10-03T18:08:41.641Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-DEWEY-MINE",
@@ -859,7 +938,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T09:12:43.319Z"
+      "contentUpdatedAt": "2026-10-04T09:12:43.319Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-EL-DORADO-SHAFT-MINE",
@@ -880,7 +961,9 @@
       "moreHistory": [],
       "componentType": "shaft",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T09:08:53.627Z"
+      "contentUpdatedAt": "2026-10-06T09:08:53.627Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ELISE-MINE",
@@ -901,7 +984,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T10:11:43.263Z"
+      "contentUpdatedAt": "2026-10-05T10:11:43.263Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ELLA-MINE",
@@ -922,7 +1007,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T18:10:14.426Z"
+      "contentUpdatedAt": "2026-10-05T18:10:14.426Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-EQUITY-MINE",
@@ -960,7 +1047,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T07:13:31.034Z"
+      "contentUpdatedAt": "2026-10-06T07:13:31.034Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-EXCELSIOR-MINE",
@@ -981,7 +1070,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T08:11:08.061Z"
+      "contentUpdatedAt": "2026-10-04T08:11:08.061Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-FLORENCE-MINE",
@@ -1002,7 +1093,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T09:12:24.319Z"
+      "contentUpdatedAt": "2026-10-05T09:12:24.319Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-FRED-WILL-MINE",
@@ -1023,7 +1116,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T09:12:10.548Z"
+      "contentUpdatedAt": "2026-10-05T09:12:10.548Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-FRISCO-MINE",
@@ -1044,7 +1139,9 @@
       "moreHistory": [],
       "componentType": "Underground mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T08:10:44.461Z"
+      "contentUpdatedAt": "2026-10-04T08:10:44.461Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-GENERAL-TELLER-MINE",
@@ -1078,7 +1175,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T14:07:53.597Z"
+      "contentUpdatedAt": "2026-10-04T14:07:53.597Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-GERMANIA-MINE",
@@ -1120,7 +1219,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T16:11:42.253Z"
+      "contentUpdatedAt": "2026-10-03T16:11:42.253Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-GOLD-BELL-MINE",
@@ -1141,7 +1242,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T00:07:41.118Z"
+      "contentUpdatedAt": "2026-10-04T00:07:41.118Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-GOLD-CORD-TUNNEL",
@@ -1162,7 +1265,9 @@
       "moreHistory": [],
       "componentType": "Mine tunnel",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T07:08:36.819Z"
+      "contentUpdatedAt": "2026-10-04T07:08:36.819Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-GOLD-FLAKE-MINE",
@@ -1211,7 +1316,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-10T18:51:31.401Z"
+      "contentUpdatedAt": "2026-10-10T18:51:31.401Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-GOLD-NUGGET-PLACER-MINE",
@@ -1232,7 +1339,9 @@
       "moreHistory": [],
       "componentType": "PLACER",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:04:57.347Z"
+      "contentUpdatedAt": "2026-10-05T14:04:57.347Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-GOLDEN-CREST-MINE",
@@ -1274,7 +1383,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T06:08:32.300Z"
+      "contentUpdatedAt": "2026-10-05T06:08:32.300Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-GOVERNOR-MINE",
@@ -1312,7 +1423,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:04:57.347Z"
+      "contentUpdatedAt": "2026-10-05T14:04:57.347Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-HAMILTON-MINE",
@@ -1362,7 +1475,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T07:28:49.818Z"
+      "contentUpdatedAt": "2026-10-05T07:28:49.818Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-HARRISON-TUNNEL",
@@ -1383,7 +1498,9 @@
       "moreHistory": [],
       "componentType": "tunnel",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T17:12:48.804Z"
+      "contentUpdatedAt": "2026-10-05T17:12:48.804Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-HENDRIX-GOLD-MINING-PROPERTY",
@@ -1404,7 +1521,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T22:14:08.689Z"
+      "contentUpdatedAt": "2026-10-05T22:14:08.689Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-HI-HO-MINE",
@@ -1425,7 +1544,9 @@
       "moreHistory": [],
       "componentType": "underground_working",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T19:15:36.291Z"
+      "contentUpdatedAt": "2026-10-04T19:15:36.291Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-HUNKIDORI-MINE",
@@ -1467,7 +1588,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T18:08:30.593Z"
+      "contentUpdatedAt": "2026-10-03T18:08:30.593Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-HUNTER-MINE",
@@ -1488,7 +1611,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:04:57.347Z"
+      "contentUpdatedAt": "2026-10-05T14:04:57.347Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-IDA-BELLE-MINE",
@@ -1542,7 +1667,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T12:08:59.820Z"
+      "contentUpdatedAt": "2026-10-04T12:08:59.820Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-IRON-KING-MINE",
@@ -1563,7 +1690,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T15:14:59.597Z"
+      "contentUpdatedAt": "2026-10-05T15:14:59.597Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ISRAEL-WILLIAMS-MINE",
@@ -1584,7 +1713,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T11:10:08.469Z"
+      "contentUpdatedAt": "2026-10-04T11:10:08.469Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-IXL-ROYAL-TIGER-MINE",
@@ -1630,7 +1761,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T16:11:56.232Z"
+      "contentUpdatedAt": "2026-10-03T16:11:56.232Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-JESSIE-MINE-MILL",
@@ -1672,7 +1805,9 @@
       ],
       "componentType": "Mine and stamp mill complex",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T13:40:42.934Z"
+      "contentUpdatedAt": "2026-10-03T13:40:42.934Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-JOSEPHINE-MINE",
@@ -1714,7 +1849,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T20:13:06.847Z"
+      "contentUpdatedAt": "2026-10-05T20:13:06.847Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-JUMBO-MINE",
@@ -1756,7 +1893,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T21:10:41.792Z"
+      "contentUpdatedAt": "2026-10-03T21:10:41.792Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-JUNO-MINE",
@@ -1777,7 +1916,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T02:11:14.348Z"
+      "contentUpdatedAt": "2026-10-06T02:11:14.348Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-KEY-WEST-MINE",
@@ -1798,7 +1939,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T19:08:42.509Z"
+      "contentUpdatedAt": "2026-10-05T19:08:42.509Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-KIMBERLY-MINE",
@@ -1840,7 +1983,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T11:11:51.255Z"
+      "contentUpdatedAt": "2026-10-06T11:11:51.255Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-KING-SOLOMON-MINE",
@@ -1882,7 +2027,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T02:16:57.517Z"
+      "contentUpdatedAt": "2026-10-04T02:16:57.517Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-KISTLER-MINE",
@@ -1903,7 +2050,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T22:17:58.175Z"
+      "contentUpdatedAt": "2026-10-03T22:17:58.175Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-KITTY-INNES-MINE",
@@ -1945,7 +2094,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T03:08:04.199Z"
+      "contentUpdatedAt": "2026-10-06T03:08:04.199Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-LENAWEE-MINE-MILL",
@@ -1966,7 +2117,9 @@
       "moreHistory": [],
       "componentType": "Mine and mill",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T04:10:48.638Z"
+      "contentUpdatedAt": "2026-10-04T04:10:48.638Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-LEONA-MINE",
@@ -1987,7 +2140,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T00:11:25.259Z"
+      "contentUpdatedAt": "2026-10-05T00:11:25.259Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-LING-MINE",
@@ -2033,7 +2188,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T23:14:11.234Z"
+      "contentUpdatedAt": "2026-10-04T23:14:11.234Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-LITTLE-CHICAGO-MINE",
@@ -2071,7 +2228,9 @@
       ],
       "componentType": "Historic Site",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T05:09:06.627Z"
+      "contentUpdatedAt": "2026-10-06T05:09:06.627Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-LITTLE-CORPORAL-MINE",
@@ -2092,7 +2251,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T13:41:23.106Z"
+      "contentUpdatedAt": "2026-10-03T13:41:23.106Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-LITTLE-SALLY-BARBER-MINE",
@@ -2113,7 +2274,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T01:09:11.270Z"
+      "contentUpdatedAt": "2026-10-04T01:09:11.270Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-LOMAX-PLACER-MINE",
@@ -2151,7 +2314,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T07:13:44.323Z"
+      "contentUpdatedAt": "2026-10-06T07:13:44.323Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-LONE-BUG-MINE",
@@ -2172,7 +2337,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:04:57.347Z"
+      "contentUpdatedAt": "2026-10-05T14:04:57.347Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-LOWER-CHATAUQUA-MINE",
@@ -2210,7 +2377,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T22:17:35.629Z"
+      "contentUpdatedAt": "2026-10-03T22:17:35.629Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-LUCKY-BALDWIN-MINE",
@@ -2248,7 +2417,9 @@
       ],
       "componentType": "Historic Site",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T04:11:22.789Z"
+      "contentUpdatedAt": "2026-10-06T04:11:22.789Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-LUCKY-MINE",
@@ -2294,7 +2465,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T02:16:27.135Z"
+      "contentUpdatedAt": "2026-10-04T02:16:27.135Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-MAXWELL-MINE",
@@ -2315,7 +2488,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:04:57.347Z"
+      "contentUpdatedAt": "2026-10-05T14:04:57.347Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-MIDDLESEX-MINE",
@@ -2336,7 +2511,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T01:10:48.755Z"
+      "contentUpdatedAt": "2026-10-05T01:10:48.755Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-MINNIE-MINE",
@@ -2382,7 +2559,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T15:11:37.260Z"
+      "contentUpdatedAt": "2026-10-03T15:11:37.260Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-MONITOR-MINE",
@@ -2403,7 +2582,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:04:57.347Z"
+      "contentUpdatedAt": "2026-10-05T14:04:57.347Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-MONTE-CRISTO-MINE",
@@ -2441,7 +2622,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:30:07.846Z"
+      "contentUpdatedAt": "2026-10-05T14:30:07.846Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-NATIONAL-TREASURY-MINE",
@@ -2462,7 +2645,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T09:13:07.656Z"
+      "contentUpdatedAt": "2026-10-04T09:13:07.656Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-NAVY-MINE",
@@ -2500,7 +2685,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T06:15:36.792Z"
+      "contentUpdatedAt": "2026-10-04T06:15:36.792Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-NEBRASKA-MINE",
@@ -2521,7 +2708,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T08:15:23.000Z"
+      "contentUpdatedAt": "2026-10-05T08:15:23.000Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-NEW-YORK-MINE",
@@ -2542,7 +2731,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T06:15:47.440Z"
+      "contentUpdatedAt": "2026-10-04T06:15:47.440Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-NICKEL-PLATE-MINE",
@@ -2563,7 +2754,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T22:13:53.337Z"
+      "contentUpdatedAt": "2026-10-05T22:13:53.337Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-OLD-IRONSIDES-MINE",
@@ -2584,7 +2777,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T13:09:49.326Z"
+      "contentUpdatedAt": "2026-10-06T13:09:49.326Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ORPHAN-BOY-MINE",
@@ -2638,7 +2833,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T21:10:53.195Z"
+      "contentUpdatedAt": "2026-10-03T21:10:53.195Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-PACIFIC-GOLD-DUST-MINE",
@@ -2659,7 +2856,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:04:57.347Z"
+      "contentUpdatedAt": "2026-10-05T14:04:57.347Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-PENNSYLVANIA-MINE",
@@ -2709,7 +2908,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T21:10:21.565Z"
+      "contentUpdatedAt": "2026-10-03T21:10:21.565Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-PERUVIAN-MINE",
@@ -2730,7 +2931,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T06:15:58.644Z"
+      "contentUpdatedAt": "2026-10-04T06:15:58.644Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-PLAYER-MINE",
@@ -2751,7 +2954,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T18:10:02.862Z"
+      "contentUpdatedAt": "2026-10-05T18:10:02.862Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-PRESTON-TUNNEL",
@@ -2772,7 +2977,9 @@
       "moreHistory": [],
       "componentType": "tunnel",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T21:15:47.192Z"
+      "contentUpdatedAt": "2026-10-05T21:15:47.192Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-PUZZLE-MINE",
@@ -2818,7 +3025,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T20:13:24.598Z"
+      "contentUpdatedAt": "2026-10-03T20:13:24.598Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-QUAIL-MINE",
@@ -2876,7 +3085,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T10:13:47.484Z"
+      "contentUpdatedAt": "2026-10-04T10:13:47.484Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-QUEEN-OF-THE-WEST-MINE",
@@ -2897,7 +3108,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T08:10:56.058Z"
+      "contentUpdatedAt": "2026-10-04T08:10:56.058Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-RADICAL-MINE",
@@ -2947,7 +3160,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T22:17:47.181Z"
+      "contentUpdatedAt": "2026-10-03T22:17:47.181Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-RED-WING-MINE",
@@ -2968,7 +3183,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:29:21.725Z"
+      "contentUpdatedAt": "2026-10-05T14:29:21.725Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-REVENUE-BRITTLE-SILVER-DELAWARE",
@@ -3014,7 +3231,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T06:08:43.327Z"
+      "contentUpdatedAt": "2026-10-05T06:08:43.327Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-ROBINSON-MINE",
@@ -3035,7 +3254,53 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T10:13:34.757Z"
+      "contentUpdatedAt": "2026-10-04T10:13:34.757Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-SUMMIT-ROSE-OF-BRECKENRIDGE-MINE",
+      "name": "Rose of Breckenridge Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Summit County",
+      "appReady": true,
+      "category": "Mine",
+      "location": "Summit County",
+      "overview": [
+        "Rose of Breckenridge was a historic mine on Mineral Hill above French Gulch. Its tunnels explored lead-, silver- and zinc-bearing veins, and the mine drew attention after a reported rich ore strike in 1891. Historic mining maps distinguish it from the neighboring Minnie and Lucky workings. Remnant identifies the approximate historic site area, not a surveyed mine entrance. Historic mine openings may be unstable; do not enter workings or leave permitted routes."
+      ],
+      "timeline": [
+        {
+          "text": "The Colorado & New Mexico Consolidated Mining & Smelting interests worked the Rose of Breckenridge crosscut tunnel, reported at about 850 feet.",
+          "year": "Late 1800s"
+        },
+        {
+          "text": "The Engineering and Mining Journal reported a rich ore strike at the Rose of Breckenridge Mine on Mineral Hill.",
+          "year": "1891"
+        },
+        {
+          "text": "USGS mapped Rose of Breckenridge as distinct mine #41 in the Breckenridge district, next to separate Minnie and Lucky workings.",
+          "year": "1908–1911"
+        },
+        {
+          "text": "Breckenridge History described the historic Rose mine locality on its X10U8 trail interpretation route.",
+          "year": "2025"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.4862444444444,
+        "longitude": -106.003597222222
+      },
+      "moreHistory": [
+        "The Rose of Breckenridge was a historic silver-lead-zinc mine on Mineral Hill above French Gulch, operated during Breckenridge's nineteenth-century hard-rock mining era. Period mining reports describe an approximately 850-foot crosscut tunnel driven toward the ore vein, which intersected several smaller mineralized veins including galena, zinc blende (sphalerite) and some gray copper. The Engineering and Mining Journal in September 1891 reported a rich strike by the Rose of Breckenridge Mining Company, demonstrating active late-nineteenth-century prospecting and investment. The U.S. Geological Survey's 1908-1911 mapped district distinguishes the Rose from the neighboring Minnie and Lucky mines, which were developed by their own underground tunnels and milling operations. The locally interpreted historic Rose of Breckenridge mine locality can still be recognized as a stop along trails near the X10U8 junction, though the original mine entrance has not been surveyed or established as safe to approach."
+      ],
+      "componentType": "Mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-24T18:09:12.415Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
     },
     {
       "id": "CO-SUMMIT-SAINTS-JOHN-MINE",
@@ -3100,7 +3365,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-10T17:56:51.739Z"
+      "contentUpdatedAt": "2026-10-10T17:56:51.739Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-SALLIE-BARBER-MINE",
@@ -3150,7 +3417,9 @@
       ],
       "componentType": "Historic Site",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T14:11:14.499Z"
+      "contentUpdatedAt": "2026-10-03T14:11:14.499Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-SARSFIELD-MINE",
@@ -3200,7 +3469,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T00:15:25.776Z"
+      "contentUpdatedAt": "2026-10-06T00:15:25.776Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-SILVER-CORD-MINE",
@@ -3221,7 +3492,9 @@
       "moreHistory": [],
       "componentType": "adit",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T12:14:59.589Z"
+      "contentUpdatedAt": "2026-10-05T12:14:59.589Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-SILVER-SPOON-MINE",
@@ -3242,7 +3515,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T09:12:55.430Z"
+      "contentUpdatedAt": "2026-10-04T09:12:55.430Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-SILVER-WAVE-MINE",
@@ -3288,7 +3563,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T07:08:24.208Z"
+      "contentUpdatedAt": "2026-10-04T07:08:24.208Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-STAR-OF-THE-WEST",
@@ -3338,7 +3615,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:04:57.347Z"
+      "contentUpdatedAt": "2026-10-05T14:04:57.347Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-STRENG-MINE",
@@ -3359,7 +3638,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T01:10:11.596Z"
+      "contentUpdatedAt": "2026-10-05T01:10:11.596Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-SULTANA-MINE",
@@ -3380,7 +3661,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T08:15:14.371Z"
+      "contentUpdatedAt": "2026-10-05T08:15:14.371Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-SUPERIOR-MINE",
@@ -3426,7 +3709,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T20:13:43.638Z"
+      "contentUpdatedAt": "2026-10-03T20:13:43.638Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-TEN-MILE-TUNNEL",
@@ -3447,7 +3732,9 @@
       "moreHistory": [],
       "componentType": "tunnel",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T05:12:53.698Z"
+      "contentUpdatedAt": "2026-10-05T05:12:53.698Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-TIGER-MINE",
@@ -3468,7 +3755,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T21:15:32.832Z"
+      "contentUpdatedAt": "2026-10-05T21:15:32.832Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-TIP-TOP-MINE",
@@ -3489,7 +3778,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T05:09:18.680Z"
+      "contentUpdatedAt": "2026-10-06T05:09:18.680Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-TOMMY-MINE",
@@ -3510,7 +3801,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T00:07:51.112Z"
+      "contentUpdatedAt": "2026-10-04T00:07:51.112Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-UPPER-CHATAUQUA-MINE",
@@ -3531,7 +3824,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T10:13:16.881Z"
+      "contentUpdatedAt": "2026-10-04T10:13:16.881Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-UPPER-RADICAL-MINE",
@@ -3552,7 +3847,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T22:15:46.711Z"
+      "contentUpdatedAt": "2026-10-04T22:15:46.711Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-WARRIORS-MARK-MINE",
@@ -3590,7 +3887,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-04T14:08:11.358Z"
+      "contentUpdatedAt": "2026-10-04T14:08:11.358Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-WASHINGTON-MINE",
@@ -3640,7 +3939,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T15:11:47.940Z"
+      "contentUpdatedAt": "2026-10-03T15:11:47.940Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-WELLINGTON-MINE",
@@ -3694,7 +3995,9 @@
       ],
       "componentType": "Mine and associated ore-processing complex",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T14:10:46.926Z"
+      "contentUpdatedAt": "2026-10-03T14:10:46.926Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-WHEEL-OF-FORTUNE-MINE",
@@ -3715,7 +4018,9 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T11:12:42.523Z"
+      "contentUpdatedAt": "2026-10-06T11:12:42.523Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-WILD-IRISHMAN-MINE",
@@ -3776,7 +4081,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-13T04:51:19.218Z"
+      "contentUpdatedAt": "2026-10-13T04:51:19.218Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-WIRE-PATCH-MINE",
@@ -3814,7 +4121,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-03T15:11:57.734Z"
+      "contentUpdatedAt": "2026-10-03T15:11:57.734Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-SUMMIT-WOMBAT-MINE",
@@ -3835,11 +4144,13 @@
       "moreHistory": [],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T16:15:14.952Z"
+      "contentUpdatedAt": "2026-10-05T16:15:14.952Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     }
   ],
   "state": "Colorado",
   "county": "Summit County",
-  "generatedAt": "2026-10-23T22:15:12.492Z",
+  "generatedAt": "2026-10-24T21:38:45.484Z",
   "schemaVersion": 1
 }

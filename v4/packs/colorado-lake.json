@@ -24,7 +24,9 @@
       ],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T16:11:24.236Z"
+      "contentUpdatedAt": "2026-10-12T16:11:24.236Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-ADAMS-SHAFT",
@@ -74,7 +76,9 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T15:14:26.360Z"
+      "contentUpdatedAt": "2026-10-11T15:14:26.360Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-ADELAIDE-MINE",
@@ -120,7 +124,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T01:14:10.823Z"
+      "contentUpdatedAt": "2026-10-08T01:14:10.823Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-AGASSIZ-MINE",
@@ -141,7 +147,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T05:13:15.151Z"
+      "contentUpdatedAt": "2026-10-07T05:13:15.151Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-AGWALT-TUNNEL",
@@ -179,7 +187,9 @@
       ],
       "componentType": "tunnel",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T04:09:06.475Z"
+      "contentUpdatedAt": "2026-10-09T04:09:06.475Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-ALL-RIGHT-MINE",
@@ -200,7 +210,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T14:14:00.742Z"
+      "contentUpdatedAt": "2026-10-08T14:14:00.742Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-ALTOONA-MINE",
@@ -221,7 +233,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T12:09:52.668Z"
+      "contentUpdatedAt": "2026-10-08T12:09:52.668Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-AMITY-SHAFT",
@@ -267,7 +281,9 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T19:16:49.265Z"
+      "contentUpdatedAt": "2026-10-12T19:16:49.265Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BADGER-STATE-MINE",
@@ -288,7 +304,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T00:11:27.798Z"
+      "contentUpdatedAt": "2026-10-10T00:11:27.798Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BALD-MOUNTAIN-SHAFT",
@@ -309,7 +327,9 @@
       "moreHistory": [],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T11:08:51.339Z"
+      "contentUpdatedAt": "2026-10-12T11:08:51.339Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BALLARD-MINE",
@@ -347,7 +367,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T20:14:29.865Z"
+      "contentUpdatedAt": "2026-10-13T20:14:29.865Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BANGKOK-MINE",
@@ -368,7 +390,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T21:11:18.381Z"
+      "contentUpdatedAt": "2026-10-11T21:11:18.381Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BECK-SHAFT",
@@ -389,7 +413,9 @@
       "moreHistory": [],
       "componentType": "Shaft",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T00:12:26.634Z"
+      "contentUpdatedAt": "2026-10-09T00:12:26.634Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BELCHER-SHAFT",
@@ -410,7 +436,9 @@
       "moreHistory": [],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T15:09:54.532Z"
+      "contentUpdatedAt": "2026-10-09T15:09:54.532Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BELGIAN-MINE",
@@ -431,7 +459,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T01:12:43.203Z"
+      "contentUpdatedAt": "2026-10-11T01:12:43.203Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BEN-BURB-SHAFT",
@@ -473,7 +503,9 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T00:15:54.902Z"
+      "contentUpdatedAt": "2026-10-13T00:15:54.902Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BESSIE-WILGUS-SHAFT",
@@ -515,7 +547,32 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T22:09:45.808Z"
+      "contentUpdatedAt": "2026-10-08T22:09:45.808Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-LAKE-BIG-FOUR-MINE",
+      "name": "Big Four Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2494444444444,
+        "longitude": -106.233055555556
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-24T18:09:22.437Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
     },
     {
       "id": "CO-LAKE-BIG-PITTSBURG-MINE",
@@ -561,7 +618,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T16:08:17.818Z"
+      "contentUpdatedAt": "2026-10-08T16:08:17.818Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BIRDELLA-SHAFT",
@@ -582,7 +641,9 @@
       "moreHistory": [],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T09:17:00.695Z"
+      "contentUpdatedAt": "2026-10-10T09:17:00.695Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BISON-SHAFT",
@@ -607,7 +668,9 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T04:16:19.813Z"
+      "contentUpdatedAt": "2026-10-08T04:16:19.813Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BLIND-TOM-MINE",
@@ -653,7 +716,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T03:10:14.742Z"
+      "contentUpdatedAt": "2026-10-11T03:10:14.742Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BOEHMER-MINE",
@@ -674,7 +739,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T23:09:59.841Z"
+      "contentUpdatedAt": "2026-10-11T23:09:59.841Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BOHN-MINE",
@@ -699,7 +766,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T20:10:25.246Z"
+      "contentUpdatedAt": "2026-10-12T20:10:25.246Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BON-AIR-MINE",
@@ -757,7 +826,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T14:27:46.737Z"
+      "contentUpdatedAt": "2026-10-12T14:27:46.737Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BOYD-TUNNEL",
@@ -778,7 +849,9 @@
       "moreHistory": [],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T07:14:19.606Z"
+      "contentUpdatedAt": "2026-10-10T07:14:19.606Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BREECE-IRON-MINE",
@@ -816,7 +889,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T17:09:20.879Z"
+      "contentUpdatedAt": "2026-10-07T17:09:20.879Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BRIAN-BORU-MINE",
@@ -854,7 +929,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T19:15:16.808Z"
+      "contentUpdatedAt": "2026-10-10T19:15:16.808Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BROOKLAND-MINE",
@@ -879,7 +956,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T17:09:17.110Z"
+      "contentUpdatedAt": "2026-10-11T17:09:17.110Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BUCKEYE-MINE",
@@ -904,7 +983,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T08:11:19.268Z"
+      "contentUpdatedAt": "2026-10-08T08:11:19.268Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-BULLSEYE-MINE",
@@ -925,7 +1006,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T22:10:34.266Z"
+      "contentUpdatedAt": "2026-10-13T22:10:34.266Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CADY-MINE",
@@ -963,7 +1046,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T20:10:06.093Z"
+      "contentUpdatedAt": "2026-10-12T20:10:06.093Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CARBONIFEROUS-MINE",
@@ -988,7 +1073,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T07:22:49.895Z"
+      "contentUpdatedAt": "2026-10-12T07:22:49.895Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CARLETON-TUNNEL",
@@ -1034,7 +1121,9 @@
       ],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T15:14:45.460Z"
+      "contentUpdatedAt": "2026-10-06T15:14:45.460Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CASTLE-VIEW-MINE",
@@ -1084,7 +1173,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T12:17:34.793Z"
+      "contentUpdatedAt": "2026-10-10T12:17:34.793Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CATALPA-MINE",
@@ -1105,7 +1196,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T22:10:44.631Z"
+      "contentUpdatedAt": "2026-10-06T22:10:44.631Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CHAMPION-MILL",
@@ -1162,7 +1255,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-10T13:54:40.274Z"
+      "contentUpdatedAt": "2026-10-10T13:54:40.274Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CHAMPION-MINE",
@@ -1200,7 +1295,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T19:16:57.262Z"
+      "contentUpdatedAt": "2026-10-13T19:16:57.262Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CHIPPEWA-MINE",
@@ -1225,7 +1322,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T18:08:20.183Z"
+      "contentUpdatedAt": "2026-10-11T18:08:20.183Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CHRYSOLITE-MINE",
@@ -1278,7 +1377,9 @@
           "attributionRequired": false
         }
       ],
-      "contentUpdatedAt": "2026-10-14T10:55:41.515Z"
+      "contentUpdatedAt": "2026-10-14T10:55:41.515Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CLEAR-GRIT-MINE",
@@ -1299,7 +1400,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T14:12:54.498Z"
+      "contentUpdatedAt": "2026-10-09T14:12:54.498Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CLIMAX-MINE",
@@ -1372,7 +1475,9 @@
           "attributionRequired": false
         }
       ],
-      "contentUpdatedAt": "2026-10-18T00:53:10.136Z"
+      "contentUpdatedAt": "2026-10-18T00:53:10.136Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CLOUD-CITY-SHAFT",
@@ -1397,7 +1502,9 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T07:15:41.901Z"
+      "contentUpdatedAt": "2026-10-09T07:15:41.901Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CODFISH-BALLS-MINE",
@@ -1418,7 +1525,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T01:10:41.477Z"
+      "contentUpdatedAt": "2026-10-12T01:10:41.477Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-COLORADO-PRINCE-MINE",
@@ -1439,7 +1548,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T17:13:53.076Z"
+      "contentUpdatedAt": "2026-10-12T17:13:53.076Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-COLUMBIA-TUNNEL",
@@ -1460,7 +1571,9 @@
       "moreHistory": [],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T23:14:28.857Z"
+      "contentUpdatedAt": "2026-10-13T23:14:28.857Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CONTINENTAL-CHIEF-MINE",
@@ -1500,7 +1613,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-17T12:55:37.870Z"
+      "contentUpdatedAt": "2026-10-17T12:55:37.870Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CONTRACT-SHAFT",
@@ -1521,7 +1636,9 @@
       "moreHistory": [],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T02:14:48.102Z"
+      "contentUpdatedAt": "2026-10-13T02:14:48.102Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-COON-VALLEY-MINE",
@@ -1542,7 +1659,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T20:15:36.609Z"
+      "contentUpdatedAt": "2026-10-10T20:15:36.609Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CORONADO-MINE",
@@ -1580,7 +1699,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T17:13:49.347Z"
+      "contentUpdatedAt": "2026-10-06T17:13:49.347Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CRESCENT-MINE",
@@ -1601,7 +1722,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T23:08:10.304Z"
+      "contentUpdatedAt": "2026-10-06T23:08:10.304Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CRESCENTIA-SHAFT",
@@ -1622,7 +1745,9 @@
       "moreHistory": [],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T08:17:26.653Z"
+      "contentUpdatedAt": "2026-10-09T08:17:26.653Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-CROWN-POINT-MINE",
@@ -1647,7 +1772,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T17:16:51.399Z"
+      "contentUpdatedAt": "2026-10-09T17:16:51.399Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-DELANTE-SHAFT",
@@ -1689,7 +1816,9 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T06:09:58.580Z"
+      "contentUpdatedAt": "2026-10-08T06:09:58.580Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-DENVER-CITY-MINE",
@@ -1731,7 +1860,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T20:11:00.146Z"
+      "contentUpdatedAt": "2026-10-07T20:11:00.146Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-DERRY-DREDGE",
@@ -1804,7 +1935,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-15T08:48:21.904Z"
+      "contentUpdatedAt": "2026-10-15T08:48:21.904Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-DIAMOND-MINE",
@@ -1850,7 +1983,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T16:07:58.297Z"
+      "contentUpdatedAt": "2026-10-06T16:07:58.297Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-DINERO-MINE-TUNNEL",
@@ -1900,7 +2035,9 @@
       ],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T15:14:32.929Z"
+      "contentUpdatedAt": "2026-10-06T15:14:32.929Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-DODRIDGE-MINE",
@@ -1921,7 +2058,9 @@
       "moreHistory": [],
       "componentType": "Mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T23:16:49.353Z"
+      "contentUpdatedAt": "2026-10-08T23:16:49.353Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-DOLLY-B-MINE",
@@ -1975,7 +2114,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T17:09:54.455Z"
+      "contentUpdatedAt": "2026-10-10T17:09:54.455Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-DOME-MINE",
@@ -2017,7 +2158,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T08:08:32.681Z"
+      "contentUpdatedAt": "2026-10-13T08:08:32.681Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-ELKHORN-SHAFT",
@@ -2038,7 +2181,9 @@
       "moreHistory": [],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T16:09:04.563Z"
+      "contentUpdatedAt": "2026-10-11T16:09:04.563Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-EVELYN-MINE",
@@ -2080,7 +2225,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T14:16:43.217Z"
+      "contentUpdatedAt": "2026-10-10T14:16:43.217Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-EVENING-STAR-MINE",
@@ -2118,7 +2265,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T01:17:21.820Z"
+      "contentUpdatedAt": "2026-10-07T01:17:21.820Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-FAMOUS-MINE",
@@ -2139,7 +2288,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T17:10:07.881Z"
+      "contentUpdatedAt": "2026-10-10T17:10:07.881Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-FANNY-RAWLINGS-MINE",
@@ -2185,7 +2336,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T18:11:01.005Z"
+      "contentUpdatedAt": "2026-10-07T18:11:01.005Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-FIRST-NATIONAL-MINE",
@@ -2210,7 +2363,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T12:15:30.749Z"
+      "contentUpdatedAt": "2026-10-11T12:15:30.749Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-FLORENCE-MINE",
@@ -2252,7 +2407,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T05:08:38.839Z"
+      "contentUpdatedAt": "2026-10-13T05:08:38.839Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-FORSAKEN-MINE",
@@ -2277,7 +2434,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T19:17:14.281Z"
+      "contentUpdatedAt": "2026-10-09T19:17:14.281Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-FORTUNE-MINE",
@@ -2323,7 +2482,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T09:11:29.718Z"
+      "contentUpdatedAt": "2026-10-08T09:11:29.718Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-FREE-AMERICA-NO-2",
@@ -2344,7 +2505,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T11:14:44.969Z"
+      "contentUpdatedAt": "2026-10-08T11:14:44.969Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-GARBUTT-MINE",
@@ -2384,7 +2547,9 @@
           "attributionRequired": false
         }
       ],
-      "contentUpdatedAt": "2026-10-10T13:57:27.922Z"
+      "contentUpdatedAt": "2026-10-10T13:57:27.922Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-GARIBALDI-TUNNEL",
@@ -2438,7 +2603,9 @@
       ],
       "componentType": "tunnel",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T02:10:27.974Z"
+      "contentUpdatedAt": "2026-10-09T02:10:27.974Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-GORDON-MINE",
@@ -2463,7 +2630,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T19:16:47.264Z"
+      "contentUpdatedAt": "2026-10-09T19:16:47.264Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-GREENBACK-MINE",
@@ -2525,7 +2694,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T19:16:30.228Z"
+      "contentUpdatedAt": "2026-10-08T19:16:30.228Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-HARRISON-REDUCTION-WORKS",
@@ -2587,7 +2758,9 @@
       ],
       "componentType": "REDUCTION_WORKS",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T20:12:51.220Z"
+      "contentUpdatedAt": "2026-10-06T20:12:51.220Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-HAYDEN-SHAFT",
@@ -2637,7 +2810,9 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T03:11:51.830Z"
+      "contentUpdatedAt": "2026-10-08T03:11:51.830Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-HELENA-MINE",
@@ -2662,7 +2837,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T19:17:02.851Z"
+      "contentUpdatedAt": "2026-10-09T19:17:02.851Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-HESS-TUNNEL",
@@ -2683,7 +2860,9 @@
       "moreHistory": [],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T02:12:00.948Z"
+      "contentUpdatedAt": "2026-10-12T02:12:00.948Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-HIBERNIA-MINE",
@@ -2725,7 +2904,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T21:12:28.452Z"
+      "contentUpdatedAt": "2026-10-07T21:12:28.452Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-HIGHLAND-MARY-TUNNEL",
@@ -2746,7 +2927,9 @@
       "moreHistory": [],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T23:16:30.428Z"
+      "contentUpdatedAt": "2026-10-10T23:16:30.428Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-HOME-EXTENSION-MINE",
@@ -2796,7 +2979,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T13:22:49.503Z"
+      "contentUpdatedAt": "2026-10-12T13:22:49.503Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-HOPEMORE-MINE",
@@ -2873,7 +3058,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-16T09:54:00.551Z"
+      "contentUpdatedAt": "2026-10-16T09:54:00.551Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-IRENE-NO-2-MINE",
@@ -2934,7 +3121,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-15T14:55:35.902Z"
+      "contentUpdatedAt": "2026-10-15T14:55:35.902Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-JENNIE-JUNE-MINE",
@@ -2992,7 +3181,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T12:14:12.674Z"
+      "contentUpdatedAt": "2026-10-12T12:14:12.674Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-JOHN-REED-MINE",
@@ -3017,7 +3208,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T18:13:20.096Z"
+      "contentUpdatedAt": "2026-10-09T18:13:20.096Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-JOSIE-MAY-MINE",
@@ -3042,7 +3235,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T06:19:21.836Z"
+      "contentUpdatedAt": "2026-10-12T06:19:21.836Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-JULIA-FISK-MINE",
@@ -3084,7 +3279,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T02:10:07.828Z"
+      "contentUpdatedAt": "2026-10-07T02:10:07.828Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-KENO-SHAFT",
@@ -3105,7 +3302,9 @@
       "moreHistory": [],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T04:10:26.524Z"
+      "contentUpdatedAt": "2026-10-13T04:10:26.524Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LAKEWOOD-MINE",
@@ -3126,7 +3325,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T01:12:47.904Z"
+      "contentUpdatedAt": "2026-10-10T01:12:47.904Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LEADVILLE-MINE-DRAINAGE-TUNNEL",
@@ -3180,7 +3381,9 @@
       ],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T21:10:44.625Z"
+      "contentUpdatedAt": "2026-10-06T21:10:44.625Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LIME-MINE",
@@ -3201,7 +3404,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T00:09:49.330Z"
+      "contentUpdatedAt": "2026-10-12T00:09:49.330Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LITTLE-ALICE-TUNNEL",
@@ -3222,7 +3427,9 @@
       "moreHistory": [],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T14:12:38.192Z"
+      "contentUpdatedAt": "2026-10-09T14:12:38.192Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LITTLE-BOB-SHAFT",
@@ -3243,7 +3450,9 @@
       "moreHistory": [],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T13:13:52.526Z"
+      "contentUpdatedAt": "2026-10-08T13:13:52.526Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LITTLE-CHIEF-MINE",
@@ -3318,7 +3527,9 @@
           "attributionRequired": false
         }
       ],
-      "contentUpdatedAt": "2026-10-10T13:55:31.373Z"
+      "contentUpdatedAt": "2026-10-10T13:55:31.373Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LITTLE-ELLEN-MINE",
@@ -3360,7 +3571,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T19:12:32.397Z"
+      "contentUpdatedAt": "2026-10-07T19:12:32.397Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LITTLE-EVA-MINE",
@@ -3381,7 +3594,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T20:10:22.185Z"
+      "contentUpdatedAt": "2026-10-11T20:10:22.185Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LITTLE-JONNY-MINE",
@@ -3442,7 +3657,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-10T13:55:55.056Z"
+      "contentUpdatedAt": "2026-10-10T13:55:55.056Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LITTLE-KEYSTONE-SHAFT",
@@ -3463,7 +3680,9 @@
       "moreHistory": [],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T14:13:42.988Z"
+      "contentUpdatedAt": "2026-10-08T14:13:42.988Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LITTLE-VINNIE-MINE",
@@ -3505,7 +3724,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-14T01:10:53.929Z"
+      "contentUpdatedAt": "2026-10-14T01:10:53.929Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LITTLE-WINNIE-SHAFT",
@@ -3547,7 +3768,9 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T13:14:07.146Z"
+      "contentUpdatedAt": "2026-10-08T13:14:07.146Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LONG-AND-DERRY-MINE",
@@ -3572,7 +3795,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T22:08:14.182Z"
+      "contentUpdatedAt": "2026-10-09T22:08:14.182Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LOUISVILLE-MINE",
@@ -3610,7 +3835,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T21:16:14.630Z"
+      "contentUpdatedAt": "2026-10-13T21:16:14.630Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LOWER-PRINTER-BOY-MINE",
@@ -3656,7 +3883,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T23:11:38.747Z"
+      "contentUpdatedAt": "2026-10-12T23:11:38.747Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-LOWER-WATERLOO-MINE",
@@ -3698,7 +3927,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T18:08:06.240Z"
+      "contentUpdatedAt": "2026-10-11T18:08:06.240Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-MAID-OF-ERIN-MINE",
@@ -3740,7 +3971,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T14:12:10.878Z"
+      "contentUpdatedAt": "2026-10-06T14:12:10.878Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-MATCHLESS-MINE",
@@ -3801,7 +4034,9 @@
           "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-13T21:56:14.460Z"
+      "contentUpdatedAt": "2026-10-13T21:56:14.460Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-MAY-QUEEN-MINE",
@@ -3826,7 +4061,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T21:13:57.173Z"
+      "contentUpdatedAt": "2026-10-10T21:13:57.173Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-MIDAS-MINE",
@@ -3851,7 +4088,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T16:10:41.553Z"
+      "contentUpdatedAt": "2026-10-13T16:10:41.553Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-MIKE-MINE",
@@ -3872,7 +4111,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T18:13:11.146Z"
+      "contentUpdatedAt": "2026-10-09T18:13:11.146Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-MINNIE-PUMP-SHAFT",
@@ -3893,7 +4134,9 @@
       "moreHistory": [],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T18:09:09.949Z"
+      "contentUpdatedAt": "2026-10-06T18:09:09.949Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-MODEST-GIRL-MINE",
@@ -3918,7 +4161,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T06:08:30.941Z"
+      "contentUpdatedAt": "2026-10-11T06:08:30.941Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-MORNING-STAR-MINE",
@@ -3960,7 +4205,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T01:17:28.828Z"
+      "contentUpdatedAt": "2026-10-07T01:17:28.828Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-MOYER-MINE",
@@ -4014,7 +4261,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T00:16:05.034Z"
+      "contentUpdatedAt": "2026-10-07T00:16:05.034Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-NEW-MIKADO-MINE",
@@ -4035,7 +4284,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T00:16:33.710Z"
+      "contentUpdatedAt": "2026-10-08T00:16:33.710Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-NEW-MONARCH-MINE",
@@ -4081,7 +4332,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T18:11:14.472Z"
+      "contentUpdatedAt": "2026-10-07T18:11:14.472Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-NILES-AUGUSTA-MINE",
@@ -4135,7 +4388,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T16:08:30.254Z"
+      "contentUpdatedAt": "2026-10-08T16:08:30.254Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-OLLIE-REED-MINE",
@@ -4156,7 +4411,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T19:12:53.296Z"
+      "contentUpdatedAt": "2026-10-07T19:12:53.296Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-ONTARIO-SHAFT",
@@ -4177,7 +4434,9 @@
       "moreHistory": [],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T04:16:31.762Z"
+      "contentUpdatedAt": "2026-10-08T04:16:31.762Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-ORO-LA-PLATA-MINE",
@@ -4223,7 +4482,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T08:08:46.299Z"
+      "contentUpdatedAt": "2026-10-13T08:08:46.299Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-PENN-NO-3-MINE",
@@ -4244,7 +4505,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T04:16:14.907Z"
+      "contentUpdatedAt": "2026-10-10T04:16:14.907Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-PENROSE-MINE",
@@ -4269,7 +4532,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T23:16:46.719Z"
+      "contentUpdatedAt": "2026-10-10T23:16:46.719Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-PRINTER-BOY-MINE",
@@ -4294,7 +4559,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T03:11:35.517Z"
+      "contentUpdatedAt": "2026-10-08T03:11:35.517Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-PYRENEES-MINE",
@@ -4315,7 +4582,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T18:08:55.298Z"
+      "contentUpdatedAt": "2026-10-06T18:08:55.298Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-READY-CASH-MINE",
@@ -4353,7 +4622,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T16:10:19.158Z"
+      "contentUpdatedAt": "2026-10-13T16:10:19.158Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-REINDEER-SHAFT",
@@ -4403,7 +4674,9 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T06:09:45.191Z"
+      "contentUpdatedAt": "2026-10-08T06:09:45.191Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-RESULT-MINE",
@@ -4424,7 +4697,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T03:10:05.097Z"
+      "contentUpdatedAt": "2026-10-12T03:10:05.097Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-RESURRECTION-MINE",
@@ -4470,7 +4745,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T16:08:10.037Z"
+      "contentUpdatedAt": "2026-10-06T16:08:10.037Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-REVEILLE-MINE",
@@ -4491,7 +4768,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T03:08:39.373Z"
+      "contentUpdatedAt": "2026-10-10T03:08:39.373Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-ROBERT-E-LEE-MINE",
@@ -4548,7 +4827,9 @@
           "attributionRequired": false
         }
       ],
-      "contentUpdatedAt": "2026-10-10T13:53:28.816Z"
+      "contentUpdatedAt": "2026-10-10T13:53:28.816Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-ROBERT-EMMET-MINE",
@@ -4594,7 +4875,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T17:13:30.007Z"
+      "contentUpdatedAt": "2026-10-06T17:13:30.007Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-SAINT-LOUIS-TUNNEL",
@@ -4615,7 +4898,9 @@
       "moreHistory": [],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T13:12:16.206Z"
+      "contentUpdatedAt": "2026-10-09T13:12:16.206Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-SANGAMON-TUNNEL",
@@ -4636,7 +4921,9 @@
       "moreHistory": [],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T11:08:33.677Z"
+      "contentUpdatedAt": "2026-10-12T11:08:33.677Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-SAWATCH-TUNNEL",
@@ -4686,7 +4973,9 @@
       ],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-14T11:16:33.671Z"
+      "contentUpdatedAt": "2026-10-14T11:16:33.671Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-SEDALIA-MINE",
@@ -4707,7 +4996,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T16:11:04.639Z"
+      "contentUpdatedAt": "2026-10-12T16:11:04.639Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-SEQUIN-MINE",
@@ -4732,7 +5023,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T15:16:55.964Z"
+      "contentUpdatedAt": "2026-10-12T15:16:55.964Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-SHERMAN-MINE",
@@ -4778,7 +5071,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T23:08:14.514Z"
+      "contentUpdatedAt": "2026-10-06T23:08:14.514Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-SILVER-CORD-MINE",
@@ -4824,7 +5119,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T05:11:03.874Z"
+      "contentUpdatedAt": "2026-10-09T05:11:03.874Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-SILVER-WAVE-MINE",
@@ -4845,7 +5142,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T06:11:31.513Z"
+      "contentUpdatedAt": "2026-10-09T06:11:31.513Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-SMUGGLER-MINE",
@@ -4870,7 +5169,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T18:11:52.276Z"
+      "contentUpdatedAt": "2026-10-12T18:11:52.276Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-ST-KEVIN-MINE",
@@ -4916,7 +5217,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-14T16:13:16.994Z"
+      "contentUpdatedAt": "2026-10-14T16:13:16.994Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-STAR-OF-THE-WEST-MINE",
@@ -4937,7 +5240,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T02:12:12.669Z"
+      "contentUpdatedAt": "2026-10-12T02:12:12.669Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-STORKE-TUNNEL",
@@ -4987,7 +5292,9 @@
       ],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T18:10:11.450Z"
+      "contentUpdatedAt": "2026-10-10T18:10:11.450Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-SUNDAY-NO-2-MINE",
@@ -5037,7 +5344,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T18:14:05.574Z"
+      "contentUpdatedAt": "2026-10-08T18:14:05.574Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-TENDERFOOT-SHAFT",
@@ -5083,7 +5392,9 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T07:15:54.117Z"
+      "contentUpdatedAt": "2026-10-09T07:15:54.117Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-THESPIAN-MINE",
@@ -5129,7 +5440,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T04:14:29.412Z"
+      "contentUpdatedAt": "2026-10-11T04:14:29.412Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-TUCSON-MINE",
@@ -5183,7 +5496,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T22:15:05.430Z"
+      "contentUpdatedAt": "2026-10-07T22:15:05.430Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-TURQUOISE-CHIEF-MINE",
@@ -5221,7 +5536,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T06:19:04.700Z"
+      "contentUpdatedAt": "2026-10-12T06:19:04.700Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-UPPER-PRINTER-BOY-MINE",
@@ -5242,7 +5559,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T21:15:14.208Z"
+      "contentUpdatedAt": "2026-10-12T21:15:14.208Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-VENIR-MINE",
@@ -5292,7 +5611,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-08T17:09:31.699Z"
+      "contentUpdatedAt": "2026-10-08T17:09:31.699Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-VESUVIUS-MINE",
@@ -5313,7 +5634,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T04:10:09.630Z"
+      "contentUpdatedAt": "2026-10-13T04:10:09.630Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-VINING-SHAFT",
@@ -5351,7 +5674,9 @@
       ],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T15:16:40.645Z"
+      "contentUpdatedAt": "2026-10-12T15:16:40.645Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-VIRGINIUS-MINE",
@@ -5372,7 +5697,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T20:17:20.317Z"
+      "contentUpdatedAt": "2026-10-09T20:17:20.317Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-VULTURE-MINE",
@@ -5410,7 +5737,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-09T17:16:40.615Z"
+      "contentUpdatedAt": "2026-10-09T17:16:40.615Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-WHITE-CAP-MINE",
@@ -5435,7 +5764,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-11T03:10:01.327Z"
+      "contentUpdatedAt": "2026-10-11T03:10:01.327Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-WHITESIDE-SHAFT",
@@ -5456,7 +5787,9 @@
       "moreHistory": [],
       "componentType": "SHAFT",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T10:08:26.621Z"
+      "contentUpdatedAt": "2026-10-12T10:08:26.621Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-WILD-CAT-MINE",
@@ -5477,7 +5810,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-12T08:24:53.902Z"
+      "contentUpdatedAt": "2026-10-12T08:24:53.902Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-WILKESBARRE-MINE",
@@ -5531,7 +5866,9 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T02:17:13.613Z"
+      "contentUpdatedAt": "2026-10-10T02:17:13.613Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-WOLCOTT-MINE",
@@ -5552,7 +5889,9 @@
       "moreHistory": [],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-10T09:17:17.348Z"
+      "contentUpdatedAt": "2026-10-10T09:17:17.348Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-WOLFTONE-MINE",
@@ -5602,7 +5941,9 @@
       ],
       "componentType": "mine",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T13:10:25.204Z"
+      "contentUpdatedAt": "2026-10-06T13:10:25.204Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-YAK-TUNNEL",
@@ -5648,7 +5989,9 @@
       ],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-06T19:15:24.357Z"
+      "contentUpdatedAt": "2026-10-06T19:15:24.357Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-YALE-TUNNEL",
@@ -5669,7 +6012,9 @@
       "moreHistory": [],
       "componentType": "TUNNEL",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T15:09:30.894Z"
+      "contentUpdatedAt": "2026-10-13T15:09:30.894Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     },
     {
       "id": "CO-LAKE-YANKEE-DOODLE-MINE",
@@ -5715,11 +6060,13 @@
       ],
       "componentType": "MINE",
       "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T23:14:06.650Z"
+      "contentUpdatedAt": "2026-10-07T23:14:06.650Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
     }
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-23T22:15:12.492Z",
+  "generatedAt": "2026-10-24T21:38:45.484Z",
   "schemaVersion": 1
 }

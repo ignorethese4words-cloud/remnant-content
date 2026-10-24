@@ -5,19 +5,19 @@
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/v4/packs/colorado-clear-creek.json",
       "state": "Colorado",
       "county": "Clear Creek County",
-      "siteCount": 18,
-      "generatedAt": "2026-10-23T22:15:12.492Z",
+      "siteCount": 20,
+      "generatedAt": "2026-10-24T21:38:45.484Z",
       "idOnlySiteCount": 3,
-      "exploreSiteCount": 15
+      "exploreSiteCount": 17
     },
     {
       "id": "colorado-lake",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/v4/packs/colorado-lake.json",
       "state": "Colorado",
       "county": "Lake County",
-      "siteCount": 162,
-      "generatedAt": "2026-10-23T22:15:12.492Z",
-      "idOnlySiteCount": 56,
+      "siteCount": 163,
+      "generatedAt": "2026-10-24T21:38:45.484Z",
+      "idOnlySiteCount": 57,
       "exploreSiteCount": 106
     },
     {
@@ -25,14 +25,14 @@
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/v4/packs/colorado-summit.json",
       "state": "Colorado",
       "county": "Summit County",
-      "siteCount": 122,
-      "generatedAt": "2026-10-23T22:15:12.492Z",
-      "idOnlySiteCount": 69,
-      "exploreSiteCount": 53
+      "siteCount": 124,
+      "generatedAt": "2026-10-24T21:38:45.484Z",
+      "idOnlySiteCount": 70,
+      "exploreSiteCount": 54
     }
   ],
   "delivery": "github-raw-v4",
-  "generatedAt": "2026-10-23T22:15:12.492Z",
+  "generatedAt": "2026-10-24T21:38:45.484Z",
   "schemaVersion": 1,
   "minimumAppContentSchema": 1
 }
