@@ -2,6 +2,29 @@
   "id": "colorado-lake",
   "sites": [
     {
+      "id": "CO-LAKE-A-V-MINE",
+      "name": "A V Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.241934,
+        "longitude": -106.28919
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T02:08:40.501Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
+    },
+    {
       "id": "CO-LAKE-AY-MINE",
       "name": "A. Y. Mine",
       "tier": "EXPLORE",
@@ -393,6 +416,29 @@
       "contentUpdatedAt": "2026-10-11T21:11:18.381Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-LAKE-BARTLETT-TUNNEL",
+      "name": "Bartlett Tunnel",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "ADIT_TUNNEL",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2547112,
+        "longitude": -106.3772483
+      },
+      "moreHistory": [],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T15:17:07.994Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
     },
     {
       "id": "CO-LAKE-BECK-SHAFT",
@@ -1664,6 +1710,29 @@
       "locationAccuracyMeters": null
     },
     {
+      "id": "CO-LAKE-CORA-BELLE-MINE",
+      "name": "Cora Belle Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2563785,
+        "longitude": -106.2694677
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T00:11:14.349Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
       "id": "CO-LAKE-CORONADO-MINE",
       "name": "Coronado Mine",
       "tier": "EXPLORE",
@@ -2368,6 +2437,29 @@
       "locationAccuracyMeters": null
     },
     {
+      "id": "CO-LAKE-FITZHUGH-MINE",
+      "name": "Fitzhugh Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2574896,
+        "longitude": -106.2661344
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T16:10:43.719Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
+    },
+    {
       "id": "CO-LAKE-FLORENCE-MINE",
       "name": "Florence Mine",
       "tier": "EXPLORE",
@@ -2606,6 +2698,29 @@
       "contentUpdatedAt": "2026-10-09T02:10:27.974Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-LAKE-GOLDEN-CURRY-MINE",
+      "name": "Golden Curry Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2508222,
+        "longitude": -106.3983599
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T16:11:18.590Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
     },
     {
       "id": "CO-LAKE-GORDON-MINE",
@@ -3685,6 +3800,29 @@
       "locationAccuracyMeters": null
     },
     {
+      "id": "CO-LAKE-LITTLE-SILVER-MINE",
+      "name": "Little Silver Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2511008,
+        "longitude": -106.2694677
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T01:10:01.190Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
+    },
+    {
       "id": "CO-LAKE-LITTLE-VINNIE-MINE",
       "name": "Little Vinnie Mine",
       "tier": "EXPLORE",
@@ -4093,6 +4231,29 @@
       "locationAccuracyMeters": null
     },
     {
+      "id": "CO-LAKE-MIDLAND-SHAFT",
+      "name": "Midland Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.244434,
+        "longitude": -106.284746
+      },
+      "moreHistory": [],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T15:17:22.828Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
+    },
+    {
       "id": "CO-LAKE-MIKE-MINE",
       "name": "Mike Mine",
       "tier": "ID ONLY",
@@ -4264,6 +4425,29 @@
       "contentUpdatedAt": "2026-10-07T00:16:05.034Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-LAKE-NELSON-TUNNEL",
+      "name": "Nelson Tunnel",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "ADIT_TUNNEL",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2505446,
+        "longitude": -106.385304
+      },
+      "moreHistory": [],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T01:09:45.414Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
     },
     {
       "id": "CO-LAKE-NEW-MIKADO-MINE",
@@ -4625,6 +4809,29 @@
       "contentUpdatedAt": "2026-10-13T16:10:19.158Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-LAKE-REED-SHAFT",
+      "name": "Reed Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.3024885,
+        "longitude": -106.3644706
+      },
+      "moreHistory": [],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T16:11:01.586Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
     },
     {
       "id": "CO-LAKE-REINDEER-SHAFT",
@@ -5245,6 +5452,52 @@
       "locationAccuracyMeters": null
     },
     {
+      "id": "CO-LAKE-STEVENS-MINE",
+      "name": "Stevens Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.231657,
+        "longitude": -106.258356
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-24T23:11:54.568Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
+    },
+    {
+      "id": "CO-LAKE-STONEWALL-JACKSON-SHAFT",
+      "name": "Stonewall Jackson Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2524897,
+        "longitude": -106.2736345
+      },
+      "moreHistory": [],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-24T23:12:09.640Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
       "id": "CO-LAKE-STORKE-TUNNEL",
       "name": "Storke Tunnel",
       "tier": "EXPLORE",
@@ -5564,6 +5817,29 @@
       "locationAccuracyMeters": null
     },
     {
+      "id": "CO-LAKE-VANDERBILT-MINE",
+      "name": "Vanderbilt Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.251934,
+        "longitude": -106.27419
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-24T23:12:19.883Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
       "id": "CO-LAKE-VENIR-MINE",
       "name": "Venir Mine",
       "tier": "EXPLORE",
@@ -5616,6 +5892,29 @@
       "locationAccuracyMeters": null
     },
     {
+      "id": "CO-LAKE-VENTURE-SHAFT",
+      "name": "Venture Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2483223,
+        "longitude": -106.3986377
+      },
+      "moreHistory": [],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T14:16:03.917Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
       "id": "CO-LAKE-VESUVIUS-MINE",
       "name": "Vesuvius Mine",
       "tier": "ID ONLY",
@@ -5635,6 +5934,29 @@
       "componentType": "MINE",
       "displayImages": [],
       "contentUpdatedAt": "2026-10-13T04:10:09.630Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-LAKE-VILLA-SHAFT",
+      "name": "Villa Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2452675,
+        "longitude": -106.288357
+      },
+      "moreHistory": [],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T01:10:12.125Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
     },
@@ -5946,6 +6268,29 @@
       "locationAccuracyMeters": null
     },
     {
+      "id": "CO-LAKE-WRIGHT-SHAFT",
+      "name": "Wright Shaft",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.2534485833,
+        "longitude": -106.2694320696
+      },
+      "moreHistory": [],
+      "componentType": "SHAFT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T02:09:22.902Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
       "id": "CO-LAKE-YAK-TUNNEL",
       "name": "Yak Tunnel",
       "tier": "EXPLORE",
@@ -6063,10 +6408,33 @@
       "contentUpdatedAt": "2026-10-07T23:14:06.650Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-LAKE-ZEPHYR-MINE",
+      "name": "Zephyr Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "Lake County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "Lake County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 39.3549885,
+        "longitude": -106.1544659
+      },
+      "moreHistory": [],
+      "componentType": "MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T14:16:16.671Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
     }
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-24T21:38:45.484Z",
+  "generatedAt": "2026-10-25T21:50:50.256Z",
   "schemaVersion": 1
 }

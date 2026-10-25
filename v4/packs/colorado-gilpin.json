@@ -1,0 +1,376 @@
+{
+  "id": "colorado-gilpin",
+  "sites": [
+    {
+      "id": "CO-GILPIN-ADUDDELL-MINE-SOUTH-WILLIS-GULCH",
+      "name": "Aduddell Mine (South Willis Gulch)",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Gilpin County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Gilpin County",
+      "overview": [
+        "Opened around 1869, the Aduddell Mine was an important gold-and-silver producer in Gilpin County's South Willis Gulch. Its separate west and east shafts became part of a connected mining system with neighboring Frontenac, especially after consolidation in 1909. Water once shut the mines down, but drainage through the Argo Tunnel helped operations resume. A historic survey maps the capped Aduddell West Shaft and remnants of its headframe; these features are on private land and are not visitor access points."
+      ],
+      "timeline": [
+        {
+          "text": "Aduddell and neighboring Frontenac mines opened as separate workings.",
+          "year": "Historic period"
+        },
+        {
+          "text": "J. S. Raynolds patented Aduddell Lode, BLM Mineral Survey No. 302.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Excessive mine water caused closure of both mines.",
+          "year": "Historic period"
+        },
+        {
+          "text": "John Owen Mining Company reported as purchaser of Aduddell and Frontenac.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Mines reopened after Argo Tunnel drainage connections and dewatering.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Henry P. Lowe and associates acquired Aduddell; consolidated ownership with Frontenac.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Long-running production ceased.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Mines reopened for a later period of work.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Later activity ended, reportedly amid ownership difficulties.",
+          "year": "Historic period"
+        },
+        {
+          "text": "West Shaft reclaimed and capped with a metal grate.",
+          "year": "Historic period"
+        },
+        {
+          "text": "East Shaft area reclaimed/disturbed.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Frontenac and Aduddell Mine Complex listed in National Register of Historic Places.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.770307,
+        "longitude": -105.519433
+      },
+      "moreHistory": [
+        "The Aduddell Mine on the Aduddell Lode in South Willis Gulch was opened about 1869, separately from the neighboring Frontenac Mine. J. S. Raynolds patented the 2.35-acre Aduddell Lode (Mineral Survey No. 302) in July 1875; its historic plat depicts numerous shafts along a narrow northeast-trending claim. The mine extracted gold and silver-bearing hardrock ores, with associated copper and lead. The Aduddell West Shaft and East Shaft were distinct workings; the West Shaft later provided ventilation to the linked Frontenac-Aduddell mine system. Both mines stopped around 1894 because of excessive water. By 1900 the John Owen Mining Company had purchased both, and dewatering and connections to the Argo Tunnel permitted reopening by 1902. Henry P. Lowe's group acquired Aduddell in 1909, consolidating it with Frontenac under Frontenac Consolidated Mines Ltd. Underground levels connected the two mines, but their separate historic identities remained. The USGS 1966 mine study reports that the Aduddell produced 14,567 tons of crude ore and 1,102 tons of concentrates during 1906-1927, yielding 6,122 oz gold, 76,940 oz silver, 355,797 lb copper and 484,387 lb lead; more than 90% of that tonnage was shipped in 1906. This is ADUDDELL production, not the larger Frontenac figures. Mining continued nearly continuously until 1922, with a final period of activity 1933-1940. The 2020 NRHP survey documented the West Shaft capped with a reclamation grate (1989), nearby timber headframe remains, and a large waste-rock pile and stone building. The East Shaft had been disturbed by reclamation in 2010. The Frontenac and Aduddell Mine Complex was listed on the National Register in December 2020. Historical industrial ruins are on private property and not safe or publicly accessible merely because documented."
+      ],
+      "componentType": "SHAFT_MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T15:17:36.247Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-GILPIN-BOBTAIL-TUNNEL-BLACK-HAWK",
+      "name": "Bobtail Tunnel",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Gilpin County",
+      "appReady": true,
+      "category": "ADIT_TUNNEL",
+      "location": "Gilpin County",
+      "overview": [
+        "The Bobtail Tunnel helped open one of Black Hawk's famous gold-bearing veins. Excavation began in 1863, and its ore later traveled along a remarkable network of horse-drawn and electric tramways to the local mills. In the 1950s, visitors could even ride donkey-drawn carts into the mine. Black Hawk acquired the tunnel and related properties in 2015 and has undertaken preservation work around Gregory Street. Remnant marks the approximate historic mine frontage, not an exact tunnel entrance or a safe access point."
+      ],
+      "timeline": [
+        {
+          "text": "City history records Bobtail Lode discovery by Cotton brothers in July.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Bobtail Tunnel excavation began in March, according to City of Black Hawk.",
+          "year": "Historic period"
+        },
+        {
+          "text": "October 10 city ordinance authorized a horse tramway from near mouth of Bobtail Tunnel across city streets.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Rogers ore tramway connected Bobtail Tunnel frontage and Bobtail mill using separate Church Street transfer portal.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Separate Colvin tramway tunnel through Bates Hill constructed; not Bobtail Tunnel portal.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Bobtail Tunnel operated as donkey-cart visitor mine tour before closing.",
+          "year": "Historic period"
+        },
+        {
+          "text": "City of Black Hawk announced acquisition of Bobtail Tunnel, Bobtail Lode and Gregory Diggings.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Gregory Street Plaza restoration included Bobtail Mine building and bunkhouse.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Municipal mine-improvement scope documents Bobtail Tunnel portal/building and work staging along Gregory Street.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.80045,
+        "longitude": -105.49845
+      },
+      "moreHistory": [
+        "Bobtail Tunnel is a distinct mining entrance serving the Bobtail gold lode in Black Hawk's Gregory Gulch. The City of Black Hawk records the Bobtail Lode discovery by the Cotton brothers in July 1859 and the start of tunnel excavation in March 1863. The name is associated with their ore-hauling ox with a short tail. Historical architectural scholarship locates the mine complex at 400 Gregory Street and describes a tunnel reaching the main vein more than 1,000 feet into Bobtail Hill. In the late 1870s and 1880s the Bobtail operation expanded its ore handling: a Black Hawk ordinance of October 10, 1878 granted a horse-powered tramway right-of-way near the mouth of the Bobtail Tunnel, and Andrew Rogers' ore tram connected the tunnel area with the Bobtail mill via Gregory Street and a separate Church Street transfer tunnel. The city's historic account says a later Colvin electric tram tunnel through Bates Hill was driven in 1899–1900; this is a different tunnel, not the Bobtail Mine entrance. The Bobtail Tunnel became a distinctive mine tour in the 1950s, with visitors carried into the workings by donkey-drawn carts, and the tour closed in the early 1980s. In 2015 the City of Black Hawk announced its acquisition of the Bobtail Tunnel, Bobtail Lode and Gregory Diggings for preservation. During the Gregory Street Plaza redevelopment begun in 2019, the Bobtail Mine building was restored, and city records describe planned future museum/tour uses, not confirmed current public underground access. City mine-improvement specifications published in 2026 identify the tunnel building, portal and controlled work area on Gregory Street. Historic photos of the Bobtail Tunnel and its ore trains are preserved by the Denver Public Library. The current coordinate is a representative historic frontage area, not the original collar or the separate tramway portal."
+      ],
+      "componentType": "TUNNEL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T00:11:36.454Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
+    },
+    {
+      "id": "CO-GILPIN-COEUR-DALENE-MINE-SHAFT-HOUSE-CENTRAL-CITY",
+      "name": "Coeur d'Alene Mine Shaft House",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Gilpin County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Gilpin County",
+      "overview": [
+        "On Academy Hill above Central City stands the Coeur d'Alene Gold Mine Shaft House, a reminder of the town's gold-mining era. Built in the 1880s and later preserved as a museum, the structure helps illustrate the machinery and working life of a historic Colorado mine. Mining continued into the early 1940s. The map marks the approximate historic shaft-house area, not a verified shaft opening or safe access route."
+      ],
+      "timeline": [
+        {
+          "text": "Coeur d'Alene Gold Mine shaft-house building constructed, per Colorado State University architectural documentation.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Mine building enlarged, according to CSU.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Central City visitor account dates end of ore production to 1940; CSU places cessation in 1942; exact year unresolved.",
+          "year": "Historic period"
+        },
+        {
+          "text": "CSU states mine ceased operating by 1942; conflicts slightly with city account of 1940.",
+          "year": "Historic period"
+        },
+        {
+          "text": "CSU reports the historic site serving as a museum associated with the Gilpin Historical Society since 1993.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.7991993,
+        "longitude": -105.5149736
+      },
+      "moreHistory": [
+        "The Coeur d'Alene Gold Mine Shaft House is an Academy Hill landmark above Central City. Colorado State University's Architectural Virtual Library reports an original mine patent held by Catherine and John Cameron and B. W. Cochran, a building constructed in 1884 and enlarged in 1885. Mining continued into the early 1940s: CSU describes activity until 1942, while Central City's visitor account says ore production lasted until 1940, so the precise closing year is not independently resolved. The site was later preserved/interpreted as a museum associated with the Gilpin Historical Society; CSU dates its museum use to 1993. The city visitor account documents surviving historic equipment and describes a fatal mining accident involving Central City's mayor in 1940; that detail should be independently checked against period newspapers before public use. This entry refers to the shaft-house landmark and its museum history, not to an exact mine portal or neighboring London workings."
+      ],
+      "componentType": "SHAFT_MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T02:09:43.414Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
+    },
+    {
+      "id": "CO-GILPIN-FRONTENAC-MINE-SOUTH-WILLIS-GULCH",
+      "name": "Frontenac Mine (South Willis Gulch)",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Gilpin County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Gilpin County",
+      "overview": [
+        "Opened in 1869, the Frontenac was one of South Willis Gulch's major hard-rock mines. Its shafts, adit and later shaft house formed a substantial operation that eventually joined underground with the neighboring Aduddell Mine. The Gilpin Tramway, powerful hoists and Argo Tunnel drainage helped keep ore moving through the early 1900s. A detailed historic survey documented the workings, and the larger mine complex was listed on the National Register in 2020. The displayed location marks an approximate historic working area, not a verified entrance or safe place to approach."
+      ],
+      "timeline": [
+        {
+          "text": "Frontenac and separately named Aduddell mines opened on South Willis Gulch; later workings were linked underground.",
+          "year": "1869"
+        },
+        {
+          "text": "Frontenac Lode and Mill Site mineral survey 461A/B patented; original plat plots multiple distinct shafts, adits and a shaft house.",
+          "year": "1877"
+        },
+        {
+          "text": "Later Frontenac shaft house constructed near the discovery shaft, distinct from original southwest shaft.",
+          "year": "1877–1888"
+        },
+        {
+          "text": "Contemporary reports described Frontenac as a major Gilpin County producer and reported new hoisting machinery.",
+          "year": "1892–1893"
+        },
+        {
+          "text": "Water problems interrupted mining; drainage and access through the Argo Tunnel helped reopen Frontenac and Aduddell by 1902.",
+          "year": "mid-1890s–1902"
+        },
+        {
+          "text": "Frontenac Consolidated Mines joined operations with Aduddell; mechanized hoisting, electric plant, tramway and high ore output documented.",
+          "year": "1909–1912"
+        },
+        {
+          "text": "Main operations ceased in 1922; a later smaller revival occurred from 1933 to approximately 1940.",
+          "year": "1922; 1933–1940"
+        },
+        {
+          "text": "Archaeological survey documented the separate original Frontenac shaft, adit, shaft-house remains and tramway features; historic complex listed on National Register in 2020.",
+          "year": "2019–2020"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.76832,
+        "longitude": -105.522358
+      },
+      "moreHistory": [
+        "The Frontenac Mine opened in 1869 in South Willis Gulch, Gilpin County's Russell Mining District. The original Frontenac Lode claim was surveyed and patented in 1877 as mineral survey 461A, together with its associated mill-site claim 461B. Historic records show several surface workings rather than a single shaft: an original southwestern shaft, an adit, a later northeast shaft house and additional underground development. Frontenac and Aduddell followed related ore veins and were ultimately worked together, but were separate named mines; the neighboring Druid Mine was independently operated. By the 1890s Frontenac was an important producer, with mechanized hoisting and connections to the Gilpin Tramway. Flooding curtailed work in the mid-1890s. The Argo Tunnel drainage system enabled renewed operation by 1902. During the 1907–1912 modernization under Frontenac Consolidated Mines, Ltd., the mine gained electric power, compressors, extensive hoisting and rail infrastructure; the company combined Frontenac and Aduddell operations and sent ore to mills near Black Hawk and Idaho Springs. A contemporary 1914 newspaper account credited Frontenac with 60% of Gilpin County's 1911 output; the 2020 National Register nomination reports major gold, silver, copper, lead and zinc production over 1902–1940, but these historical totals should not be confused with Aduddell's separate figures. The mines mostly operated until 1922, with a lesser revival from 1933 to about 1940. A 2019–2020 field survey recorded the original Frontenac shaft, adit, later shaft-house ruins and tramway features, leading to National Register listing of the 17-acre Frontenac and Aduddell Mine Complex on December 31, 2020. These remains are potentially hazardous and the historical map point is not a visitor access target."
+      ],
+      "componentType": "SHAFT_MINE",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T14:15:50.738Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
+    },
+    {
+      "id": "CO-GILPIN-HIDEE-GOLD-MINE-CENTRAL-CITY",
+      "name": "Hidee Gold Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Gilpin County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "Gilpin County",
+      "overview": [
+        "Gold mining history is still visible at the Hidee Mine near Central City. Its operator traces the mine to an 1896 patent application and an original shaft on the ridge. In the 1980s, a new walk-in passage helped transform the old workings into an educational mine tour. Visitors today can learn about the region's gold-bearing rock and mining techniques through the managed operation. Remnant marks the approximate historic mine/visitor area—not the precise original shaft or a safe, publicly accessible entrance. Any underground visit is controlled by the operator."
+      ],
+      "timeline": [
+        {
+          "text": "Operator reports Hidee mine submitted for patent and initially accessed by ridge-top shaft.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Charles 'Choppo' Fetterhoff establishes walk-in adit for renewed access and educational tours.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Tour program states it has offered mine tours since 1988.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Fetterhoff dies; operator reports Ed Lewandowski continued the mine education program.",
+          "year": "Historic period"
+        },
+        {
+          "text": "CBS Colorado field report documents a Hidee mine tour with Greaves, Stone and Lewandowski.",
+          "year": "Historic period"
+        },
+        {
+          "text": "Operator and Colorado Tourism Office continue to list the named managed mine tour at 1950 Hidee Mine Road.",
+          "year": "Historic period"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.78713,
+        "longitude": -105.50047
+      },
+      "moreHistory": [
+        "The Hidee Gold Mine is a named gold-bearing hard-rock operation in lower Russell Gulch, Gilpin County, in the broader Central City/Virginia Canyon mining region. According to the mine operator's historical account, a patent application was submitted in 1896 and the original mine was entered by a shaft on the ridge. The gold-bearing vein was worked intermittently. In the early 1980s, longtime local miner Charles ('Choppo') Fetterhoff established a separate walk-in adit to reconnect with the workings and use them for geology and mining education. The operator reports Fetterhoff worked with Ed Lewandowski until Fetterhoff's death in 1996, after which Lewandowski continued the educational operation. The mine's public tour program describes itself as operating since 1988. A contemporary 2011 CBS Colorado field report interviewed Mark Greaves, Chris Stone and Lewandowski at the Hidee workings and described underground interpretation of gold-bearing pyrite, historic mining conditions and hands-on specimen collection. The operator describes the tour as visiting an exposed gold-bearing vein via an adit and offering supervised specimen work and gold panning. The Colorado Tourism Office lists Hidee as a named managed heritage tour at 1950 Hidee Mine Road. The patent year, original shaft and Fetterhoff succession details are attributed to the operator, not independently verified from an original patent or survey plat. Do not confuse this location with adjacent separately named Pittsburg/Pittsburgh, Curtis, Cherokee or Notaway mines."
+      ],
+      "componentType": "MINE",
+      "displayImages": [
+        {
+          "id": "hidee-underground-vexx23421-2023",
+          "label": "Underground workings, 2023",
+          "title": "Inside the Hidee Gold Mine, October 2023",
+          "rights": "Photographer/uploader self-published under CC BY-SA 4.0; redistribution and offline copies allowed with credit, license URL, change disclosure, and share-alike for adaptations.",
+          "creator": "Vexx23421",
+          "license": "CC BY-SA 4.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-GILPIN-HIDEE-GOLD-MINE-CENTRAL-CITY/hidee-underground-vexx23421-2023-22eee09e7a2fa7645890.jpg",
+          "sourceNote": "Original 3024 x 4032 JPEG of Hidee Gold Mine underground workings, uploaded by author Vexx23421; EXIF capture 17 October 2023. Unmodified original direct file. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/a/ae/Hidee_Gold_Mine_October_2023.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hidee_Gold_Mine_October_2023.jpg",
+          "attribution": "Vexx23421, Inside the Hidee Gold Mine (2023), CC BY-SA 4.0, via Wikimedia Commons. https://creativecommons.org/licenses/by-sa/4.0/ (unmodified)",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-25T00:54:10.945Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
+    },
+    {
+      "id": "CO-GILPIN-POLAR-STAR-MILL-BLACK-HAWK",
+      "name": "Polar Star Mill",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Gilpin County",
+      "appReady": true,
+      "category": "MILL",
+      "location": "Gilpin County",
+      "overview": [
+        "At the mouth of Chase Gulch, the Polar Star Mill helped turn ore from Gilpin County mines into gold. Established in the late 1860s, it later worked as a stamp and amalgamation mill served by the Gilpin Tramway. A portion of its stone mill building has survived. Its marked location represents the approximate historic mill area, not a mine entrance or public access point."
+      ],
+      "timeline": [
+        {
+          "text": "James Miller reportedly builds and operates Polar Star Mill near Chase Gulch.",
+          "year": "1868"
+        },
+        {
+          "text": "Later stone mill building likely replaces an earlier wooden mill; dating is historian's estimate.",
+          "year": "1870s (estimated)"
+        },
+        {
+          "text": "Gilpin County directory lists Polar Star Mill as 35 stamps under J. V. Kimber.",
+          "year": "1877"
+        },
+        {
+          "text": "Gilpin Tramway era; mill served by narrow-gauge ore deliveries and adjacent railroad transfer facilities.",
+          "year": "1887–1917"
+        },
+        {
+          "text": "State Bureau of Mines describes Polar Star as a 40-stamp amalgamating custom mill.",
+          "year": "1911–1912"
+        },
+        {
+          "text": "State Bureau of Mines reports intermittent milling of free-milling ore with amalgamation and bumping tables.",
+          "year": "1915–1916"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.80392,
+        "longitude": -105.49709
+      },
+      "moreHistory": [
+        "James Miller's pioneer biography records that he built and operated the Polar Star Mill near Chase Gulch in spring 1868. Railroad historian Keith Pashina reports that the surviving stone mill replaced an earlier wooden structure, likely in the 1870s, and describes substantial stone walls and a sloping roof. An 1877 directory listed the Polar Star with 35 stamps under J. V. Kimber; a 1879 engineering journal describes additional regrinding and copper-table treatment. By 1911–12 the Colorado State Bureau of Mines reported a 40-stamp custom mill in Black Hawk treating ore by amalgamation. Its 1915–16 report described intermittent work on free-milling ores with amalgamation and bumping tables. The mill was served by the Gilpin Tram and associated ore handling near the Colorado & Southern railway; historic photographs show rail cars and ore-transfer facilities next to it. A masonry portion was later preserved and restored, but no present public entry or safe vantage is verified. Exact equipment configuration varied over time; historic dates of the original mill and surviving replacement are not identical."
+      ],
+      "componentType": "ORE_PROCESSING_MILL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-25T05:10:43.300Z",
+      "locationPrecision": "approximate",
+      "locationAccuracyMeters": 51
+    }
+  ],
+  "state": "Colorado",
+  "county": "Gilpin County",
+  "generatedAt": "2026-10-25T21:50:50.256Z",
+  "schemaVersion": 1
+}
