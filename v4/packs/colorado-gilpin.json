@@ -16,51 +16,51 @@
       "timeline": [
         {
           "text": "Aduddell and neighboring Frontenac mines opened as separate workings.",
-          "year": "Historic period"
+          "year": "1869"
         },
         {
           "text": "J. S. Raynolds patented Aduddell Lode, BLM Mineral Survey No. 302.",
-          "year": "Historic period"
+          "year": "1875"
         },
         {
           "text": "Excessive mine water caused closure of both mines.",
-          "year": "Historic period"
+          "year": "1894"
         },
         {
           "text": "John Owen Mining Company reported as purchaser of Aduddell and Frontenac.",
-          "year": "Historic period"
+          "year": "1900"
         },
         {
           "text": "Mines reopened after Argo Tunnel drainage connections and dewatering.",
-          "year": "Historic period"
+          "year": "1902"
         },
         {
           "text": "Henry P. Lowe and associates acquired Aduddell; consolidated ownership with Frontenac.",
-          "year": "Historic period"
+          "year": "1909"
         },
         {
           "text": "Long-running production ceased.",
-          "year": "Historic period"
+          "year": "1922"
         },
         {
           "text": "Mines reopened for a later period of work.",
-          "year": "Historic period"
+          "year": "1933"
         },
         {
           "text": "Later activity ended, reportedly amid ownership difficulties.",
-          "year": "Historic period"
+          "year": "1940"
         },
         {
           "text": "West Shaft reclaimed and capped with a metal grate.",
-          "year": "Historic period"
+          "year": "1989"
         },
         {
           "text": "East Shaft area reclaimed/disturbed.",
-          "year": "Historic period"
+          "year": "2010"
         },
         {
           "text": "Frontenac and Aduddell Mine Complex listed in National Register of Historic Places.",
-          "year": "Historic period"
+          "year": "2020"
         }
       ],
       "betaVisible": true,
@@ -92,39 +92,39 @@
       "timeline": [
         {
           "text": "City history records Bobtail Lode discovery by Cotton brothers in July.",
-          "year": "Historic period"
+          "year": "1859"
         },
         {
           "text": "Bobtail Tunnel excavation began in March, according to City of Black Hawk.",
-          "year": "Historic period"
+          "year": "1863"
         },
         {
           "text": "October 10 city ordinance authorized a horse tramway from near mouth of Bobtail Tunnel across city streets.",
-          "year": "Historic period"
+          "year": "1878"
         },
         {
           "text": "Rogers ore tramway connected Bobtail Tunnel frontage and Bobtail mill using separate Church Street transfer portal.",
-          "year": "Historic period"
+          "year": "1880s"
         },
         {
           "text": "Separate Colvin tramway tunnel through Bates Hill constructed; not Bobtail Tunnel portal.",
-          "year": "Historic period"
+          "year": "1899–1900"
         },
         {
           "text": "Bobtail Tunnel operated as donkey-cart visitor mine tour before closing.",
-          "year": "Historic period"
+          "year": "1950s–early 1980s"
         },
         {
           "text": "City of Black Hawk announced acquisition of Bobtail Tunnel, Bobtail Lode and Gregory Diggings.",
-          "year": "Historic period"
+          "year": "2015"
         },
         {
           "text": "Gregory Street Plaza restoration included Bobtail Mine building and bunkhouse.",
-          "year": "Historic period"
+          "year": "2019–2021"
         },
         {
           "text": "Municipal mine-improvement scope documents Bobtail Tunnel portal/building and work staging along Gregory Street.",
-          "year": "Historic period"
+          "year": "2026"
         }
       ],
       "betaVisible": true,
@@ -156,23 +156,23 @@
       "timeline": [
         {
           "text": "Coeur d'Alene Gold Mine shaft-house building constructed, per Colorado State University architectural documentation.",
-          "year": "Historic period"
+          "year": "1884"
         },
         {
           "text": "Mine building enlarged, according to CSU.",
-          "year": "Historic period"
+          "year": "1885"
         },
         {
           "text": "Central City visitor account dates end of ore production to 1940; CSU places cessation in 1942; exact year unresolved.",
-          "year": "Historic period"
+          "year": "1940"
         },
         {
           "text": "CSU states mine ceased operating by 1942; conflicts slightly with city account of 1940.",
-          "year": "Historic period"
+          "year": "1942"
         },
         {
           "text": "CSU reports the historic site serving as a museum associated with the Gilpin Historical Society since 1993.",
-          "year": "Historic period"
+          "year": "1993"
         }
       ],
       "betaVisible": true,
@@ -264,27 +264,27 @@
       "timeline": [
         {
           "text": "Operator reports Hidee mine submitted for patent and initially accessed by ridge-top shaft.",
-          "year": "Historic period"
+          "year": "1896"
         },
         {
           "text": "Charles 'Choppo' Fetterhoff establishes walk-in adit for renewed access and educational tours.",
-          "year": "Historic period"
+          "year": "early 1980s"
         },
         {
           "text": "Tour program states it has offered mine tours since 1988.",
-          "year": "Historic period"
+          "year": "1988"
         },
         {
           "text": "Fetterhoff dies; operator reports Ed Lewandowski continued the mine education program.",
-          "year": "Historic period"
+          "year": "1996"
         },
         {
           "text": "CBS Colorado field report documents a Hidee mine tour with Greaves, Stone and Lewandowski.",
-          "year": "Historic period"
+          "year": "2011"
         },
         {
           "text": "Operator and Colorado Tourism Office continue to list the named managed mine tour at 1950 Hidee Mine Road.",
-          "year": "Historic period"
+          "year": "2026"
         }
       ],
       "betaVisible": true,
@@ -371,6 +371,6 @@
   ],
   "state": "Colorado",
   "county": "Gilpin County",
-  "generatedAt": "2026-10-25T21:50:50.256Z",
+  "generatedAt": "2026-10-26T00:21:30.515Z",
   "schemaVersion": 1
 }

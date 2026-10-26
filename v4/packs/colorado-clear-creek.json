@@ -52,8 +52,37 @@
         "Construction of the Argo Mill began in June 1912; the Argo Reduction and Ore Purchasing Company began processing ore in April 1913. The mill stood at the outlet of Samuel Newhouse's Argo drainage and haulage tunnel, completed in 1910, which helped sustain deep mining in the Central City–Idaho Springs area. According to the original National Register nomination, the mill's large seven-story, steel-framed corrugated-iron building was designed around gravity-fed ore concentration and could handle roughly 300 tons per day. Ore originally came from the Gunnell, Prize, Ophir and Poco mines; later the Gem, Sun and Moon and smaller mines also supplied ore. Its advanced process combined wet stamping, chemical treatment, amalgamation and concentrating tables, allowing lower-grade sulphide ore to be shipped economically to smelters. On January 19, 1943, a deadly underground flooding accident shut down the tunnel and mill. The surviving mill and equipment became a preservation and visitor-education site; the combined Argo Tunnel and Mill was listed in the National Register on January 31, 1978. These are facts about the MILL's role, not claims that the mill was itself a producing underground mine."
       ],
       "componentType": "MILL",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-16T08:17:22.965Z",
+      "displayImages": [
+        {
+          "id": "argo-mill-greverod-2006",
+          "label": "Argo Mill exterior (2006)",
+          "title": "Argo Mill exterior, 2006",
+          "rights": "Author-released public domain image; commercial app redistribution and offline copies permitted under file-specific creator dedication.",
+          "creator": "Greverod",
+          "license": "Public domain",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-CLEAR-CREEK-ARGO-MILL/argo-mill-greverod-2006-0b5a03d5bd5ac41f2f0c.jpg",
+          "sourceNote": "Original unmodified 1819x945 JPEG dated June 2006. Creator identified Argo Gold Mine & Mill in Idaho Springs; image exact-site. Existing verified media lead #263. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/2/2e/Argo_Gold_Mine_%26_Mill.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Argo_Gold_Mine_%26_Mill.jpg",
+          "attribution": "Photo by Greverod, Argo Gold Mine & Mill.jpg, via Wikimedia Commons (public domain).",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": false
+        },
+        {
+          "id": "argo-mill-renlund-2006",
+          "label": "Argo Mill exterior and machinery (2006)",
+          "title": "Argo Mill exterior and machinery, 2006",
+          "rights": "Photographer-licensed CC BY 2.0 image, commercial/offline redistributable with attribution, license link and notice of changes.",
+          "creator": "Mike Renlund",
+          "license": "CC BY 2.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-CLEAR-CREEK-ARGO-MILL/argo-mill-renlund-2006-c93a587575d7d8cc1d41.jpg",
+          "sourceNote": "Original unmodified 2592x1944 JPEG photographed 23 September 2006. Creator's Flickr image was verified as CC BY 2.0 by Wikimedia Commons transfer review in 2009. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/0/0e/Idaho_Springs_CO_-_Argo_Mill.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Idaho_Springs_CO_-_Argo_Mill.jpg",
+          "attribution": "Mike Renlund, Idaho Springs CO - Argo Mill.jpg (2006), via Wikimedia Commons/Flickr, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Unmodified.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-25T23:25:02.537Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
     },
@@ -104,8 +133,23 @@
         "The Argo (originally Newhouse) Tunnel was conceived by mining promoter Samuel Newhouse to solve the costly water, ventilation and ore-transport problems of deep gold mines between Idaho Springs and Central City. Work started at the Idaho Springs portal in September 1893. Intermittent driving ended November 18, 1910 at 21,968 feet (4.16 miles) under Eureka Gulch. The tunnel followed a gentle drainage grade, carried a rail haulage system, and opened deep connections to mines across Clear Creek and Gilpin Counties; the 1978 National Register nomination describes the first 13,100 feet as 8 by 8 feet, with smaller dimensions farther in. An associated ore mill began operating in April 1913, but the tunnel portal is a separate historic feature. On January 19, 1943, water broke into the tunnel from work on a lateral near the Kansas shaft, killing four miners and ending operations. The tunnel continued discharging metal-rich water after closure. EPA's Argo treatment plant began operation April 7, 1998, treating discharge collected just outside the portal. The historic tunnel and mill complex is on the National Register of Historic Places; the portal is now interpreted as part of the Argo visitor experience."
       ],
       "componentType": "TUNNEL",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-17T10:14:02.848Z",
+      "displayImages": [
+        {
+          "id": "CO-CLEAR-CREEK-ARGO-TUNNEL-PORTAL-2009-001",
+          "label": "Argo Tunnel entrance, 2009",
+          "title": "Argo Tunnel signed portal (2009)",
+          "rights": "Original photographer licensed image CC BY 3.0; commercial and offline redistribution permitted with source/creator credit and license link, indicate modifications (none).",
+          "creator": "Plazak",
+          "license": "CC BY 3.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-CLEAR-CREEK-ARGO-TUNNEL/CO-CLEAR-CREEK-ARGO-TUNNEL-PORTAL-2009-001-faa3f010c33ba5591235.jpg",
+          "sourceNote": "Original unmodified 648x428 JPEG. Photographer depicts named Argo Tunnel portal, Idaho Springs, July 12 2009. Low resolution but exact-site entrance useful; not nearby Argo Mill. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/b/bc/Argo-Tunnel-2009.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Argo-Tunnel-2009.jpg",
+          "attribution": "Plazak, Argo-Tunnel-2009.jpg, via Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Unmodified.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-25T23:23:50.101Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
     },
@@ -164,35 +208,35 @@
       "timeline": [
         {
           "text": "George and David Griffith discovered mineralization near Georgetown; later Capital Prize operators trace the mine's origins to their Griffith district claims.",
-          "year": "Historic period"
+          "year": "1859"
         },
         {
           "text": "A Griffith location certificate for the Mills County Lode was filed January 4; a later Capital Prize engineering account connects the claim history to the mine group.",
-          "year": "Historic period"
+          "year": "1861"
         },
         {
           "text": "The long Capital Prize crosscut adit was started from the Georgetown town edge to reach the Aetna vein at depth.",
-          "year": "Historic period"
+          "year": "1905"
         },
         {
           "text": "A concentrator mill was built to treat ore from the Capital operation.",
-          "year": "Historic period"
+          "year": "1907"
         },
         {
           "text": "Ritter documented the two-mouth crosscut, the Aetna-vein workings, and an unsuccessful 877-foot ventilation raise.",
-          "year": "Historic period"
+          "year": "1915"
         },
         {
           "text": "Major industrial operations had largely ceased, though later small leasing and intermittent work continued.",
-          "year": "Historic period"
+          "year": "1918"
         },
         {
           "text": "A town special-use permit supported renewed rehabilitation; the operator's engineering compilation records 1,440 feet of main tunnel rehabilitated.",
-          "year": "Historic period"
+          "year": "1983"
         },
         {
           "text": "The operator reports reopening for public tours after rehabilitation.",
-          "year": "Historic period"
+          "year": "2011"
         }
       ],
       "betaVisible": true,
@@ -247,11 +291,11 @@
       "timeline": [
         {
           "text": "Relocated and rebuilt",
-          "year": "Historic period"
+          "year": "1929"
         },
         {
           "text": "Acquired for preservation",
-          "year": "Historic period"
+          "year": "2004"
         }
       ],
       "betaVisible": true,
@@ -329,9 +373,23 @@
           "attribution": "Photo: Billy Hathorn / Wikimedia Commons, CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ (unmodified; source: https://commons.wikimedia.org/wiki/File:Charlie_Tayler_waterwheel,_Idaho_Springs,_CO_IMG_5429.JPG)",
           "mediaStatus": "PACKAGED",
           "attributionRequired": true
+        },
+        {
+          "id": "charlie-tayler-wheel-light-2018",
+          "label": "Waterwheel and waterfall, 2018",
+          "title": "Charlie Tayler Waterwheel with Bridal Veil Falls, 2018",
+          "rights": "Photographer-released CC BY-SA 4.0; commercial and offline distribution allowed with credit, license link, change notice and share-alike on adaptations; image unmodified.",
+          "creator": "Chris Light",
+          "license": "CC BY-SA 4.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-CLEAR-CREEK-CHARLIE-TAYLER-WATERWHEEL/charlie-tayler-wheel-light-2018-4695515bb58255a9e50c.jpg",
+          "sourceNote": "Unmodified original JPEG (2176x3264, about 2.76 MB). Visually inspected in V4 media lead #309: extant Charlie Tayler Water Wheel with Bridal Veil Falls, Idaho Springs. Distinct composition from already approved Billy Hathorn 2010 image. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/a/a5/Waterfall_%26_Wheel_05-08-2018_310.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Waterfall_%26_Wheel_05-08-2018_310.jpg",
+          "attribution": "Chris Light, 'Waterfall & Wheel 05-08-2018 310.jpg' (2018), via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Unmodified.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-21T08:51:13.609Z",
+      "contentUpdatedAt": "2026-10-25T23:30:43.732Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
     },
@@ -542,7 +600,28 @@
       "overview": [
         "A large, weathered industrial building bearing the Stanley Mines Company name still stands beside Stanley Road west of Idaho Springs. It is the historic Gehrmann Shaft House, part of a mining complex that developed from nineteenth-century Clear Creek gold and base-metal workings. This building held equipment for the mine's underground operations. Original architectural drawings and later photographs help identify what survives today. Look for the distinctive exterior from a lawful roadside vantage, and do not enter the fenced mine property."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "Cornish miners organized what would become the Stanley Little Mattie mining group near Idaho Springs.",
+          "year": "1864"
+        },
+        {
+          "text": "The Stanley properties expanded, developing the Gehrmann shaft and surface hoisting operation to work connected ore veins.",
+          "year": "1890s"
+        },
+        {
+          "text": "The Gehrmann Shaft House was documented as an established mining installation; a USGS benchmark was recorded just east of it.",
+          "year": "Early 1900s"
+        },
+        {
+          "text": "Reportedly the last operation of the mine hoist occurred in November 1981, before the site's long period of inactivity.",
+          "year": "1981"
+        },
+        {
+          "text": "Contemporary photographs show the recognizable Stanley Mines Company structures still standing south of Stanley Road.",
+          "year": "May 2024"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.74582,
@@ -572,19 +651,19 @@
       "timeline": [
         {
           "text": "Mill patented.",
-          "year": "Historic period"
+          "year": "1872"
         },
         {
           "text": "Mill leased.",
-          "year": "Historic period"
+          "year": "1877"
         },
         {
           "text": "National Register listing.",
-          "year": "Historic period"
+          "year": "1971"
         },
         {
           "text": "Mill rebuilt.",
-          "year": "Historic period"
+          "year": "1978"
         }
       ],
       "betaVisible": true,
@@ -659,23 +738,23 @@
       "timeline": [
         {
           "text": "Lebanon Mining Company drives tunnel into Republican Mountain.",
-          "year": "Historic period"
+          "year": "1870"
         },
         {
           "text": "Lebanon among approximately 50 Georgetown mines producing ore.",
-          "year": "Historic period"
+          "year": "1885"
         },
         {
           "text": "Tunnel approximately 1,200 feet; Hise Lode reached at 1,100 feet.",
-          "year": "Historic period"
+          "year": "1886"
         },
         {
           "text": "Preservation crews clear and light Lebanon tunnel; discover associated building footprints.",
-          "year": "Historic period"
+          "year": "1969"
         },
         {
           "text": "Reconstructed Lebanon mine buildings open to public.",
-          "year": "Historic period"
+          "year": "1978"
         }
       ],
       "betaVisible": true,
@@ -722,23 +801,23 @@
       "timeline": [
         {
           "text": "USGS records a small ore shipment from the Little Emma adit.",
-          "year": "Historic period"
+          "year": "1912"
         },
         {
           "text": "U.S. Bureau of Mines records 56 tons of crude ore shipped, yielding gold, silver, lead and zinc.",
-          "year": "Historic period"
+          "year": "1921–1926"
         },
         {
           "text": "Idaho Springs Sampling Works records additional ore assays from the Little Emma workings.",
-          "year": "Historic period"
+          "year": "1930"
         },
         {
           "text": "USGS publishes a mine-specific description and underground plan (fig. 54).",
-          "year": "Historic period"
+          "year": "1966"
         },
         {
           "text": "Colorado reclamation survey identifies Little Emma as site #108, documenting its waste-rock pile and building remnants.",
-          "year": "Historic period"
+          "year": "2001"
         }
       ],
       "betaVisible": true,
@@ -817,8 +896,37 @@
         "Opened in 1871, Phoenix was worked in several periods by successive operators. Phoenix No. 1 and No. 2 and a mill site were reportedly patented in 1875. The Mosch family reports buying the mine in 1968. In the 1970s David and Cyndi Mosch identified the Resurrection Vein, a new gold-bearing occurrence within the Phoenix workings. Underground crosscut work followed in the 1980s, and public tours began in 1988. Clear Creek tourism identifies both Phoenix and Resurrection veins at the site. Some secondary accounts disagree about exact ownership dates."
       ],
       "componentType": "MINE",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-16T10:10:45.393Z",
+      "displayImages": [
+        {
+          "id": "CO-CLEAR-CREEK-PHOENIX-2022-GARLAND-01",
+          "label": "Phoenix Gold Mine (2022), view 1",
+          "title": "Phoenix Gold Mine, Idaho Springs — photograph 1 (2022)",
+          "rights": "Author-published CC BY-SA 4.0; permits commercial use and offline copies with attribution, licensing link, change notice, ShareAlike for adaptations.",
+          "creator": "Shari Garland",
+          "license": "CC BY-SA 4.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-CLEAR-CREEK-PHOENIX-GOLD-MINE/CO-CLEAR-CREEK-PHOENIX-2022-GARLAND-01-905db9f6da5859c7c9cd.jpg",
+          "sourceNote": "Original unmodified 4032x3024 JPEG taken on 25 March 2022, original photograph by Shari Garland. Exact Phoenix Gold Mine Idaho Springs subject, not a neighboring mine. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/5/59/Phoenix_Gold_Mine%2C_Idaho_Springs%2C_Colorado_%281%29.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Phoenix_Gold_Mine,_Idaho_Springs,_Colorado_(1).jpg",
+          "attribution": "Shari Garland, Phoenix Gold Mine, Idaho Springs, Colorado (1).jpg (2022), Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Unmodified.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        },
+        {
+          "id": "CO-CLEAR-CREEK-PHOENIX-2022-GARLAND-02",
+          "label": "Phoenix Gold Mine (2022), view 2",
+          "title": "Phoenix Gold Mine, Idaho Springs — photograph 2 (2022)",
+          "rights": "Creator-released CC BY-SA 4.0 allowing commercial offline app distribution with credit, license link, change notices and share-alike on adaptations.",
+          "creator": "Shari Garland",
+          "license": "CC BY-SA 4.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-CLEAR-CREEK-PHOENIX-GOLD-MINE/CO-CLEAR-CREEK-PHOENIX-2022-GARLAND-02-622ecf9655639b5347a6.jpg",
+          "sourceNote": "Original unmodified 3024x4032 JPEG, exact-source V4 media lead #271; taken by Shari Garland on 25 March 2022; not a historic photograph. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/a/ab/Phoenix_Gold_Mine%2C_Idaho_Springs%2C_Colorado_%282%29.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Phoenix_Gold_Mine,_Idaho_Springs,_Colorado_(2).jpg",
+          "attribution": "Shari Garland, Phoenix Gold Mine, Idaho Springs, Colorado (2).jpg (2022), Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Unmodified.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-25T23:26:33.415Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
     },
@@ -837,11 +945,11 @@
       "timeline": [
         {
           "text": "1353 tons of ore shipped from Silver King group.",
-          "year": "Historic period"
+          "year": "1944-1947"
         },
         {
           "text": "USGS mapped upper and lower portals and underground vein.",
-          "year": "Historic period"
+          "year": "1952"
         }
       ],
       "betaVisible": true,
@@ -873,23 +981,23 @@
       "timeline": [
         {
           "text": "Substantial development began.",
-          "year": "Historic period"
+          "year": "1914"
         },
         {
           "text": "Primos Chemical shipped concentrates.",
-          "year": "Historic period"
+          "year": "1918-1919"
         },
         {
           "text": "Mine and 200-ton-per-day mill operated.",
-          "year": "Historic period"
+          "year": "1944-1946"
         },
         {
           "text": "AMAX restarted large-scale production.",
-          "year": "Historic period"
+          "year": "1967"
         },
         {
           "text": "Urad mine closed and was sealed.",
-          "year": "Historic period"
+          "year": "1974"
         }
       ],
       "betaVisible": true,
@@ -909,6 +1017,6 @@
   ],
   "state": "Colorado",
   "county": "Clear Creek County",
-  "generatedAt": "2026-10-25T21:50:50.256Z",
+  "generatedAt": "2026-10-26T00:21:30.515Z",
   "schemaVersion": 1
 }

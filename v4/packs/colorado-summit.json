@@ -223,19 +223,19 @@
       "timeline": [
         {
           "text": "Daniel Patrick discovered the Rochester Queen.",
-          "year": "Historic period"
+          "year": "c. 1880"
         },
         {
           "text": "The mine reportedly produced about $5,000 in ore per month for three months and began shipments to the Argo smelter.",
-          "year": "Historic period"
+          "year": "1881"
         },
         {
           "text": "Ore shipments to the Argo smelter continued; Rexford developed a few hundred yards below the mine.",
-          "year": "Historic period"
+          "year": "1882"
         },
         {
           "text": "The property had a 75-foot shaft, 325 feet of drifts, a 100-foot tunnel and a 75-foot winze; USGS notes no work was done that year.",
-          "year": "Historic period"
+          "year": "1883"
         }
       ],
       "betaVisible": true,
@@ -1158,11 +1158,11 @@
       "timeline": [
         {
           "text": "General Teller Lode was developed as part of the Montezuma Silver Mining Company property on Glacier/Teller Mountain; a period mining review listed the lode at 800 feet.",
-          "year": "Historic period"
+          "year": "19th century"
         },
         {
           "text": "USGS examined the General Teller prospect for anomalous radioactivity and documented its shaft, lower adit, crosscuts, drifts, vein geometry, access, and holder A. R. Rhine.",
-          "year": "Historic period"
+          "year": "mid-20th century"
         }
       ],
       "betaVisible": true,
@@ -1630,31 +1630,31 @@
       "timeline": [
         {
           "text": "Ida Belle vein discovered.",
-          "year": "Historic period"
+          "year": "1880"
         },
         {
           "text": "Three adits developed; mine shipped steadily during much of the decade.",
-          "year": "Historic period"
+          "year": "1880s"
         },
         {
           "text": "No credited production; USGS concluded the mine was likely idle during most of this interval.",
-          "year": "Historic period"
+          "year": "1889-1916"
         },
         {
           "text": "Recorded production resumed with gold, silver, lead and minor copper.",
-          "year": "Historic period"
+          "year": "1916-1917"
         },
         {
           "text": "Further recorded ore production included gold, silver, lead and zinc.",
-          "year": "Historic period"
+          "year": "1922-1924"
         },
         {
           "text": "USGS recorded another 28 tons of ore and mapped the lower workings; upper adit was inaccessible.",
-          "year": "Historic period"
+          "year": "1928"
         },
         {
           "text": "Colorado state mining report listed Ida Belle under Max Bunker, with silver, lead and zinc products.",
-          "year": "Historic period"
+          "year": "1950-1951"
         }
       ],
       "betaVisible": true,
@@ -2530,23 +2530,23 @@
       "timeline": [
         {
           "text": "Underground operations began at the Minnie Mine.",
-          "year": "Historic period"
+          "year": "late 1870s"
         },
         {
           "text": "Colorado State Bureau of Mines listed a 30-ton rolls/amalgamation mill at the Minnie on Mineral Hill.",
-          "year": "Historic period"
+          "year": "1897"
         },
         {
           "text": "The Traylor Shaft opened as part of an attempted revival.",
-          "year": "Historic period"
+          "year": "1926"
         },
         {
           "text": "The Minnie employed dozens of miners during a renewed period of activity.",
-          "year": "Historic period"
+          "year": "1920s-1930s"
         },
         {
           "text": "A final significant mining effort preceded permanent closure.",
-          "year": "Historic period"
+          "year": "1950s"
         }
       ],
       "betaVisible": true,
@@ -3958,31 +3958,31 @@
       "timeline": [
         {
           "text": "Oro/Wellington-era production begins in French Gulch; EPA identifies 1887 as the start of the Wellington complex.",
-          "year": "Historic period"
+          "year": "1887"
         },
         {
           "text": "The Oro and original Wellington properties are consolidated through the Colorado & Wyoming Development Co.",
-          "year": "Historic period"
+          "year": "1902"
         },
         {
           "text": "EPA records the Wellington and Oro mines as connected underground.",
-          "year": "Historic period"
+          "year": "1903"
         },
         {
           "text": "USGS/MRDS records the mine as closed during this interval before later reopening.",
-          "year": "Historic period"
+          "year": "1929-1948"
         },
         {
           "text": "Colorado Bureau of Mines reports a new Wellington mill operating at more than 100 tons per day.",
-          "year": "Historic period"
+          "year": "1963"
         },
         {
           "text": "EPA records permanent closure of the Wellington/Oro complex.",
-          "year": "Historic period"
+          "year": "1972"
         },
         {
           "text": "Breckenridge History stabilizes the surviving Wellington Ore Bin.",
-          "year": "Historic period"
+          "year": "2016"
         }
       ],
       "betaVisible": true,
@@ -4151,6 +4151,6 @@
   ],
   "state": "Colorado",
   "county": "Summit County",
-  "generatedAt": "2026-10-25T21:50:50.256Z",
+  "generatedAt": "2026-10-26T00:21:30.515Z",
   "schemaVersion": 1
 }

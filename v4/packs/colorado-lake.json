@@ -36,7 +36,40 @@
       "overview": [
         "On Leadville's Iron Hill, the A.Y. Mine helped launch the Guggenheim family's mining fortunes. After a difficult start with groundwater, rich silver-lead ore made the property important in the early 1880s. By the turn of the century, A.Y. was worked alongside the neighboring Minnie mine, shipping lead- and zinc-bearing ore and feeding a concentrating mill. Historic photographs and geological records document the A.Y. locality, but the mapped point is an approximate mine-area marker rather than a confirmed shaft opening. Nearby mine ruins are hazardous and may be on restricted property."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "A professional geological field guide recounts Mayer Guggenheim's $5,000 investment in the A.Y. property, difficult pumping, and an eventual rich silver-lead discovery. The guide contains typographical year errors elsewhere in the account; those are not used.",
+          "year": "1880"
+        },
+        {
+          "text": "A contemporary 1884 trade-journal notice, transcribed in a mining-history chronology, reports Samuel Harsh sold his A.Y. interest to partners Graham and Guggenheim; Thomas Weir succeeded him in management.",
+          "year": "1884-10"
+        },
+        {
+          "text": "Samuel F. Emmons' USGS Leadville monograph documented the area's mineralogy and mining; the A.Y. mineral locality specifically cites this survey for numerous ore minerals.",
+          "year": "1886"
+        },
+        {
+          "text": "Contemporary mining news reported Thomas Weir resigning as manager of the combined A.Y. and Minnie mines to take a position in Montana.",
+          "year": "1888-12"
+        },
+        {
+          "text": "Engineering and Mining Journal reported high-grade ore shipments by A.Y. & Minnie lessees and approximately 100 tons per day treated in the combined mill.",
+          "year": "1900-12"
+        },
+        {
+          "text": "A contemporary report described crude zinc and lead shipments and about 100 tons/day of sulphide ore processed at the A.Y. & Minnie mill.",
+          "year": "1901-03"
+        },
+        {
+          "text": "A district review reported consolidation involving A.M.W., A.Y. & Minnie, and Mahala properties and new milling capacity at A.Y. & Minnie; this does not make the separate workings one location.",
+          "year": "1903-01"
+        },
+        {
+          "text": "USGS mining history lists the A.Y. & Minnie mill among Leadville mills operating in 1906.",
+          "year": "1906"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.23422,
@@ -66,7 +99,7 @@
       "timeline": [
         {
           "text": "Adams Mining Company organized to develop Leadville claims (company-level context).",
-          "year": "Historic period"
+          "year": "1883"
         },
         {
           "text": "Contemporary report locates Adams Shaft on Yankee Hill, near Keene Mine, while sinking toward the ore horizon.",
@@ -82,11 +115,11 @@
         },
         {
           "text": "Adams Mining Company property leased to David H. Moffatt (company-wide, not shaft-specific).",
-          "year": "Historic period"
+          "year": "1889"
         },
         {
           "text": "Nicholson lease began, involving combined operation from the separate Wolftone shaft (company-wide).",
-          "year": "Historic period"
+          "year": "1899"
         }
       ],
       "betaVisible": true,
@@ -118,23 +151,23 @@
       "timeline": [
         {
           "text": "Adelaide Lode located.",
-          "year": "Historic period"
+          "year": "1876"
         },
         {
           "text": "Operators erecting smelter.",
-          "year": "Historic period"
+          "year": "1878"
         },
         {
           "text": "U.S. Supreme Court affirms Adelaide claim rights.",
-          "year": "Historic period"
+          "year": "1887"
         },
         {
           "text": "Contemporary report describes ore chute through Adelaide.",
-          "year": "Historic period"
+          "year": "1892"
         },
         {
           "text": "EPA cultural survey identifies Adelaide (Ward).",
-          "year": "Historic period"
+          "year": "1997"
         }
       ],
       "betaVisible": true,
@@ -189,15 +222,15 @@
       "timeline": [
         {
           "text": "Tunnel reported at 3,300 feet; company sought Little Johnny ore chute.",
-          "year": "Historic period"
+          "year": "1895"
         },
         {
           "text": "Agwalt company leased Tribune claim on Breece Hill.",
-          "year": "Historic period"
+          "year": "1895"
         },
         {
           "text": "EPA cleanup installed portal collection and drainage channels.",
-          "year": "Historic period"
+          "year": "1996"
         }
       ],
       "betaVisible": true,
@@ -275,23 +308,23 @@
       "timeline": [
         {
           "text": "Amity vein discovered.",
-          "year": "Historic period"
+          "year": "c. 1887"
         },
         {
           "text": "Main shaft sunk to approximately 165 feet.",
-          "year": "Historic period"
+          "year": "1907"
         },
         {
           "text": "Birdella tunnel connected with Amity workings.",
-          "year": "Historic period"
+          "year": "1916"
         },
         {
           "text": "Reported intermittent ore production totaled 2,019 tons.",
-          "year": "Historic period"
+          "year": "1915–1939"
         },
         {
           "text": "E. P. Chapman was working the mine and supplied historical information.",
-          "year": "Historic period"
+          "year": "1936"
         }
       ],
       "betaVisible": true,
@@ -369,15 +402,15 @@
       "timeline": [
         {
           "text": "Contemporary Leadville mining reports described Ballard as an active ore shipper on Breece Hill; the shaft was reported at 450 feet deep, with ore extracted at the 415-foot level and bismuth-rich material shipped separately.",
-          "year": "Historic period"
+          "year": "1899"
         },
         {
           "text": "USGS historical compilation, quoting period reporting, identified James Golob of Ballard Mine as a promoter of the Golob-Colley Milling Company. The separate venture's planned feed from other mines must not be assigned to Ballard.",
-          "year": "Historic period"
+          "year": "1900"
         },
         {
           "text": "A cyanide mill was built at the Ballard Mine to treat siliceous gold ores; USGS characterized it as the first such mill in Leadville's gold belt.",
-          "year": "Historic period"
+          "year": "1902"
         }
       ],
       "betaVisible": true,
@@ -524,19 +557,19 @@
       "timeline": [
         {
           "text": "Ben Burb reported producing carbonate-of-lead ore as part of Robert Emmet Consolidation.",
-          "year": "Historic period"
+          "year": "1883"
         },
         {
           "text": "March: shaft sinking underway, with drifting planned after completion.",
-          "year": "Historic period"
+          "year": "1905"
         },
         {
           "text": "July–September: a drift was driven toward the Great O'Sullivan workings.",
-          "year": "Historic period"
+          "year": "1905"
         },
         {
           "text": "October: a new lead-carbonate ore body was reported; contemporary shipments estimated at about 20 tons per day.",
-          "year": "Historic period"
+          "year": "1905"
         }
       ],
       "betaVisible": true,
@@ -568,19 +601,19 @@
       "timeline": [
         {
           "text": "Shaft exceeded 400 feet.",
-          "year": "Historic period"
+          "year": "1904"
         },
         {
           "text": "Drifting and raising.",
-          "year": "Historic period"
+          "year": "1905"
         },
         {
           "text": "Ventilation connection to Reindeer.",
-          "year": "Historic period"
+          "year": "1906"
         },
         {
           "text": "Ore shipments and proposed deepening.",
-          "year": "Historic period"
+          "year": "1907"
         }
       ],
       "betaVisible": true,
@@ -635,23 +668,23 @@
       "timeline": [
         {
           "text": "February: Big Pittsburg Consolidated Mining Company was reported to combine the Big Pittsburg, Joe Bates, Gambetta, Gray Horse, and Ida Nyce properties at the base of Fryer Hill.",
-          "year": "Historic period"
+          "year": "1880"
         },
         {
           "text": "July: Mining-journal reports describe work at the Keene and McCormick shafts on or associated with the Big Pittsburg property, alongside replacement of unsafe or collapsed shafts.",
-          "year": "Historic period"
+          "year": "1880"
         },
         {
           "text": "August: Period reports describe the Pierson-to-Joe Bates development and discoveries of iron-rich ore carrying silver chlorides within the consolidated ground.",
-          "year": "Historic period"
+          "year": "1880"
         },
         {
           "text": "December: The company leased portions of its ground, including the Heystrosser and Joe Bates shaft areas; reports noted limited ore recovery from some leased workings.",
-          "year": "Historic period"
+          "year": "1881"
         },
         {
           "text": "A contemporary geological account traced the northern Fryer Hill ore chute through the north end of Big Pittsburg and Hibernia, while treating nearby mines as distinct.",
-          "year": "Historic period"
+          "year": "1886"
         }
       ],
       "betaVisible": true,
@@ -703,7 +736,20 @@
       "overview": [
         "The Bison Shaft reveals why mining under Leadville could be both rewarding and exceptionally difficult. Underground miners cut through a maze of faults and porphyry intrusions; some of those same fractures helped concentrate valuable ore. A 1907 U.S. Geological Survey report describes the shaft's first level, the Bison and Pendery faults, and later tunnels that found rich ore beyond the fault. Its location is mapped approximately in the historic Downtown district. The scan point marks the historic mine locality, not a confirmed surviving shaft opening."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "Bison shaft was sunk east of the Pendery workings. Miners encountered numerous faults and branching porphyry sheets; the shaft intersected the fault later called Bison fault above its first level. Workings were operated intermittently by different parties, with incomplete surviving records.",
+          "year": "Before 1907"
+        },
+        {
+          "text": "Later lower-level westward drifts crossed the Bison fault and found substantial ore bodies, chiefly in limestone beneath White porphyry, according to USGS investigators.",
+          "year": "Before 1907"
+        },
+        {
+          "text": "Emmons and Irving published a detailed shaft-specific account and cross-section interpretations in Bulletin 320, explaining the Bison fault, the nearby Pendery fault and ore enrichment.",
+          "year": "1907"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.248601,
@@ -801,7 +847,20 @@
       "overview": [
         "Bohn Mine was part of historic underground mining around Leadville. Contemporary accounts place the Bohn name in the 1896 wage dispute, a 1906 mineral-rights court case, and downtown mine production in 1917–1918. Its mapped location is approximate, and nearby Bon Air must be treated separately."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "Contemporary mining report named Bohn among Leadville silver-lead producers involved in a dispute over $2.50 versus $3 daily wages.",
+          "year": "1896-06"
+        },
+        {
+          "text": "Colorado Supreme Court held Leadville did not own ore deep below dedicated streets. Exact linkage of the company to the mapped mine point is unverified.",
+          "year": "1906"
+        },
+        {
+          "text": "State inspector named Bohn among subleased shafts contributing ore to Down Town Mines Company; individual tonnage not stated.",
+          "year": "1917–1918"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.249156,
@@ -954,15 +1013,15 @@
       "timeline": [
         {
           "text": "A contemporary Printer Boy Hill report described five Brian Boru leases, three reaching mineralized ground; an upper lease next to Nellie S. had a 31-foot shaft and reported lead-carbonate ore carrying gold.",
-          "year": "Historic period"
+          "year": "1883"
         },
         {
           "text": "Brian Boru was listed among Leadville mines being worked wholly or partly by lessees.",
-          "year": "Historic period"
+          "year": "1884"
         },
         {
           "text": "USGS Professional Paper 235 described the Brian Boru adit (P-62) as largely caved, with about 300 feet of then-examinable workings and two small mined-out blanket deposits near the portal. This documents conditions at the time of investigation, not present access.",
-          "year": "Historic period"
+          "year": "1953"
         }
       ],
       "betaVisible": true,
@@ -991,7 +1050,24 @@
       "overview": [
         "Brookland Mine was one of the historic workings on Carbonate Hill, part of Leadville's silver-and-lead mining district. By the early 1880s it had substantial underground development, including a deep shaft and steam-powered equipment. Later records describe the Brookland shaft and its connection to neighboring Clontarf workings. Historical accounts of production often combine the two mines, so their figures should not be read as Brookland-only output. The mapped point marks an approximate mine locality, not a confirmed shaft entrance or publicly accessible structure."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "Denver Public Library's historical newspaper index records that pumps were placed at Brookland Mine in 1882; the underlying newspaper article has not been inspected.",
+          "year": "1882"
+        },
+        {
+          "text": "A catalog quoting the 1883 Colorado Mining Directory describes a Brookland shaft about 483 feet deep with steam hoisting and pumping equipment. The mine was distinguished from neighboring Carbonate Hill properties.",
+          "year": "1883"
+        },
+        {
+          "text": "USGS later documented significant ore production from the combined Clontarf–Brookland workings; the reported tonnage belongs to the combined operation, not Brookland Mine individually.",
+          "year": "Mid-1880s"
+        },
+        {
+          "text": "A contemporary Adams Mining Company report describes a south drift from Brookland toward the separate Clontarf shaft and an ore body north of Brookland shaft.",
+          "year": "1886"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.247222,
@@ -1018,7 +1094,28 @@
       "overview": [
         "On the north side of Leadville’s Fryer Hill, the Buckeye Mine has a documented story stretching from early mine financing to a U.S. Supreme Court ruling. In 1880, owners arranged a $10,000 transfer of a one-eighth stake while development continued. Work had stopped by late 1883, and a two-year lease followed in 1885. That lease became the center of Hill v. Sumner, decided in 1889. Buckeye was still listed among small local mining leases in a Colorado report covering 1915–1916. The map point marks an approximate historic mine locality, not a verified entrance."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "On February 12, David K. Hill contracted to buy Edward R. Sumner's one-eighth share for $10,000 subject to development-related credits; Edward H. Sumner retained another one-eighth. The claim lay on the north slope of Fryer Hill.",
+          "year": "1880"
+        },
+        {
+          "text": "The Supreme Court record states Hill's work and development effort stopped around October 10, 1883.",
+          "year": "1883"
+        },
+        {
+          "text": "On July 29, Hill and Robert Esser leased Buckeye to George A. Jenks, with mine-maintenance, drainage, and ore royalty provisions.",
+          "year": "1885"
+        },
+        {
+          "text": "On November 11, Hill v. Sumner held the two-year lease was a disposal of the property under the 1880 agreement and affirmed liability for the unpaid contractual balance.",
+          "year": "1889"
+        },
+        {
+          "text": "The Colorado State Bureau of Mines listed Buckeye among Leadville-area properties operated by small lessee crews, without reporting mine-specific production.",
+          "year": "1915–1916"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.2564,
@@ -1108,7 +1205,12 @@
       "overview": [
         "On Leadville’s Fryer Hill, the Carboniferous Mine formed part of the Chrysolite company’s network of silver-lead workings. In an 1886 federal geological study, Samuel F. Emmons described an ore body followed eastward through the group to the Carboniferous claim, where Carboniferous No. 1 shaft helped open its eastern portion. The same account identifies Carboniferous among the company’s three most productive claims, but does not provide a separate output figure. Today the available map point identifies the historic mine locality, not a confirmed shaft entrance."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "Samuel F. Emmons publishes detailed mapping and geology of the Chrysolite company claims, including the Carboniferous claim and Carboniferous No. 1 shaft.",
+          "year": "1886"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.256389,
@@ -1186,27 +1288,27 @@
       "timeline": [
         {
           "text": "A contemporary mining report described Castle View workings and a proposed drainage connection to the Henriett & Maid system; the connection's completion was not established.",
-          "year": "Historic period"
+          "year": "1888"
         },
         {
           "text": "The Castle View shaft served the Big Chief property; a contemporary report estimated about 150 tons of ore per day through the shaft. This was shaft/Big Chief output, not Castle View-claim-only tonnage.",
-          "year": "Historic period"
+          "year": "1905"
         },
         {
           "text": "USGS Bulletin 427 published multiple chemical analyses explicitly labeled as Castle View mine ore.",
-          "year": "Historic period"
+          "year": "1910"
         },
         {
           "text": "The Colorado state mine inspector named Castle View among three major Carbonate Hill ore shippers; the reported roughly 600 tons per day was a combined figure for all three properties.",
-          "year": "Historic period"
+          "year": "1911–1912"
         },
         {
           "text": "A mining journal reported that Castle View lessee Nicholson sublet work to a group planning to mine oxidized-zone iron ore.",
-          "year": "Historic period"
+          "year": "1914"
         },
         {
           "text": "A state mine report documented M. A. Nicholson operating Big Chief and Castle View claims via Castle View shaft and shipping zinc ore.",
-          "year": "Historic period"
+          "year": "1917–1918"
         }
       ],
       "betaVisible": true,
@@ -1320,15 +1422,15 @@
       "timeline": [
         {
           "text": "USGS recorded production of gold, silver, copper and lead.",
-          "year": "Historic period"
+          "year": "1912-1940"
         },
         {
           "text": "No further production recorded in USGS Bulletin 1636.",
-          "year": "Historic period"
+          "year": "after 1940"
         },
         {
           "text": "USGS noted the road between Champion Mine and Champion Mill had recently been graded.",
-          "year": "Historic period"
+          "year": "1980s"
         }
       ],
       "betaVisible": true,
@@ -1340,8 +1442,23 @@
         "USGS Bulletin 1636 records Champion Mine production during 1912-1940 of 27,032 ounces gold, 12,731 ounces silver, 30,690 pounds copper and 97,839 pounds lead, with no recorded production after 1940. A road connected the mine to the separate Champion Mill and was graded before the 1980s USGS field survey. Secondary accounts describe an aerial tram connecting the mine to the mill."
       ],
       "componentType": "MINE",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-13T19:16:57.262Z",
+      "displayImages": [
+        {
+          "id": "champion-mine-cabin-2022-drg-railfan",
+          "label": "Champion Mine cabin, 2022",
+          "title": "Collapsing cabin at Champion Mine, Mount Champion (2022)",
+          "rights": "Original author CC BY 3.0; app use and offline copies allowed with attribution and license link, 1280px resize disclosed.",
+          "creator": "D&RG Railfan",
+          "license": "CC BY 3.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-CHAMPION-MINE/champion-mine-cabin-2022-drg-railfan-2475f76a553c7ba82171.jpg",
+          "sourceNote": "Wikimedia Commons 1280px rendition of creator's exact-site cabin image, taken 26 August 2022. V4 media lead #253 previously visually inspected; this is Champion Mine on Mount Champion, not nearby Champion Mill. Image resized for efficient offline use. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/A_Cabin_At_The_Abandoned_Champion_Mine%2C_on_Mt._Champion.jpg/1280px-A_Cabin_At_The_Abandoned_Champion_Mine%2C_on_Mt._Champion.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:A_Cabin_At_The_Abandoned_Champion_Mine,_on_Mt._Champion.jpg",
+          "attribution": "D&RG Railfan, 'A Cabin At The Abandoned Champion Mine, on Mt. Champion' (2022), Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Resized 1280px rendition.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-25T23:27:04.583Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
     },
@@ -1357,7 +1474,24 @@
       "overview": [
         "On Breece Hill east of Leadville, Chippewa Mine was one of the district's long-lived underground mining properties. Reports from 1900 describe new shaft development, followed by ore discoveries and leased mining operations. Remarkably, miners were still shipping gold-, silver- and lead-bearing ore from the Chippewa in 1940. Its mapped position is approximate; the original entrance has not been confirmed."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "A January 1900 mining-industry report listed Chippewa Mining Company among the enterprises developing new shafts on western Breece Hill.",
+          "year": "1900"
+        },
+        {
+          "text": "An early-1901 retrospective of the 1900 season reported that the Chippewa company had encountered ore.",
+          "year": "1901"
+        },
+        {
+          "text": "Chippewa Consolidated Mining Company reportedly received royalties from a Breece Hill lease; the lessee followed a rich streak but had not established a large ore body.",
+          "year": "1902"
+        },
+        {
+          "text": "A January 1940 report identified lessees Nick Randall and Eugene Maki as shipping about 100–150 tons of ore monthly from Chippewa Mine.",
+          "year": "1940"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.2469343,
@@ -1519,9 +1653,23 @@
           "attribution": "U.S. Geological Survey, Bulletin 761 (1924), Plate X, via Wikimedia Commons.",
           "mediaStatus": "PACKAGED",
           "attributionRequired": false
+        },
+        {
+          "id": "climax-mine-modern-2018-webster",
+          "label": "Climax Mine, 2018",
+          "title": "Climax Mine processing structures at Fremont Pass (2018)",
+          "rights": "Author-released CC BY 2.0; commercial/offline redistribution permitted with credit, license link, modification notice. Image resized to 1280px.",
+          "creator": "Tony Webster",
+          "license": "CC BY 2.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-CLIMAX-MINE/climax-mine-modern-2018-webster-00ffe2d96dbb13a9664f.jpg",
+          "sourceNote": "Commons 1280px resized JPEG from Tony Webster's original 2018 Flickr image. Resized for offline pack size; no other modifications. Camera location at Fremont Pass: 39.370616,-106.190823. Native ingest retry: original GitHub run was cancelled before job execution; source image, licensing and target site unchanged. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Climax_Molybdenum_Mine%2C_Colorado_%2843347974010%29.jpg/1280px-Climax_Molybdenum_Mine%2C_Colorado_%2843347974010%29.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Climax_Molybdenum_Mine,_Colorado_(43347974010).jpg",
+          "attribution": "Tony Webster, 'Climax Molybdenum Mine, Colorado' (2018), CC BY 2.0 via Wikimedia Commons (https://creativecommons.org/licenses/by/2.0/). 1280px Wikimedia rendition (resized).",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-18T00:53:10.136Z",
+      "contentUpdatedAt": "2026-10-25T23:31:43.117Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
     },
@@ -1537,7 +1685,24 @@
       "overview": [
         "Beneath Leadville's streets, the Cloud City Shaft helped reveal the complex geology of the downtown mining district. In 1904 its operators shipped iron and manganese ore used in smelting while deepening the shaft in search of additional deposits. The mine encountered a major fault that took its name from the shaft, and underground water complicated further work. A 1905 report describes an attempted drift connection toward neighboring Home Extension workings. The mapped point is approximate: the original shaft opening has not been verified on the ground."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "A contemporary 1904 mining report identified the Empire Tunnel Company of Georgetown as controller of Cloud City and recorded shipments of iron and high-grade manganese ore used as smelting flux.",
+          "year": "1904"
+        },
+        {
+          "text": "The same report described the Cloud City shaft being sunk in an effort to intercept the Midas ore shoot; it did not claim that Cloud City produced ore from the separate Midas workings.",
+          "year": "1904"
+        },
+        {
+          "text": "The Engineering and Mining Journal reported a drift being driven from Cloud City toward a planned connection with the Home Extension shaft. The report did not confirm a completed connection.",
+          "year": "1905-09"
+        },
+        {
+          "text": "USGS Bulletin 320 described the shaft cutting 425 feet of Wash and Lake beds before encountering the Cloud City fault, with water and pumping access complicating deeper development.",
+          "year": "1907"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.246934,
@@ -1633,7 +1798,44 @@
       "overview": [
         "High above Iowa Gulch, the Continental Chief Mine was once a productive silver-lead-zinc operation. After years of inactivity it reopened in 1905 under Patrick Mulrooney, and contemporary mining reports described shipments of ore and unusually rich silver discoveries. A later U.S. Geological Survey study mapped its adit, branching tunnels and underground stopes. The approximate mapped mine locality is known, but the original entrance has not been independently confirmed and historic workings may be dangerous or inaccessible."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "By 1905 Continental Chief had produced high-grade ore from upper workings and had lain idle for several years; initial opening date remains unverified.",
+          "year": "Before 1905"
+        },
+        {
+          "text": "An August 19 trade-journal report said Patrick Mulrooney was put in charge and deeper exploration was planned for the fall and winter.",
+          "year": "1905-08"
+        },
+        {
+          "text": "The September 16 report said Mulrooney leased the mine, reopened a southwest drift and was shipping approximately 50 tons of ore daily.",
+          "year": "1905-09"
+        },
+        {
+          "text": "An October 18 Leadville dispatch printed November 4 described a newly struck orebody reportedly valued at $300 silver per ton; a contemporary estimate, not a modern assay.",
+          "year": "1905-10"
+        },
+        {
+          "text": "The December 2 report described silver ore shipments from Continental Chief and plans to work through winter; a separate Maguire tunnel lay about 200 feet south.",
+          "year": "1905-12"
+        },
+        {
+          "text": "USGS MRDS-derived records report roughly $3 million in historical production value before 1920; figure is attributed to legacy source files and is not independently audited.",
+          "year": "Before 1920"
+        },
+        {
+          "text": "Behre's USGS Professional Paper 235 documented mine N-99, a roughly 125-foot eastward adit branching into northern and southern drifts with stopes and main eastern workings.",
+          "year": "1953"
+        },
+        {
+          "text": "Federal exploration-assistance records include Continental Chief Property as Lake County docket 6080 for lead-zinc; the index does not establish a grant, mine reopening or production.",
+          "year": "1960"
+        },
+        {
+          "text": "USGS MRDS-derived locality notes cite Sunshine Mining files estimating 5,000 tons of proven ore at about 17 oz silver/ton and 3% lead, plus 20,000 tons potential; historical estimate only.",
+          "year": "1980"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.23277,
@@ -1830,7 +2032,28 @@
       "overview": [
         "On Rock Hill above Leadville, Crown Point was more than another mine name on a map. In the 1880s, its underground ore claims were caught in a dispute over who owned valuable mineral veins beneath neighboring placer ground—a case that reached the U.S. Supreme Court in 1888. Years later, water-filled workings presented another challenge. By 1897, a company leasing Crown Point ground had drained the mine, resumed ore shipments, and reported a new sulfide-ore discovery. Today's mapped location marks the historic mine locality, not a verified open shaft; the area is private land."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "Court records describe a dispute beginning in 1884 over mineral ground claimed beneath the Wells and Moyer placer by parties associated with Crown Point and Pinnacle lodes.",
+          "year": "1884"
+        },
+        {
+          "text": "Iron Silver Mining Co. v. Reynolds (124 U.S. 374) reverses a lower-court judgment because relevant title evidence was excluded; the decision discusses Crown Point and Pinnacle as separate lode claims.",
+          "year": "1888-01-23"
+        },
+        {
+          "text": "Leadville city directory lists W. G. Wood as manager of the Crown Point–Pinnacle Mine on Rock Hill.",
+          "year": "1888"
+        },
+        {
+          "text": "Engineering and Mining Journal reports plans to drain Rock Hill mining ground through the Crown Point shaft.",
+          "year": "1895-05"
+        },
+        {
+          "text": "Contemporary mining reporting says Nisi Prius Mining Company leased Crown Point ground, drained the workings, shipped ore, and found another sulfide-ore body.",
+          "year": "1897-03"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.22942,
@@ -1860,19 +2083,19 @@
       "timeline": [
         {
           "text": "Searle Placer owners leased mining rights to Robert B. Estey and S. W. Mudd, who advanced the Delante shaft on Poverty Flat.",
-          "year": "Historic period"
+          "year": "1895"
         },
         {
           "text": "A contemporary report describes competing Poverty Flat claim locations and a dispute in which the neighboring Jason claim was reportedly surveyed using the Delante shaft; no final judgment is established by this source.",
-          "year": "Historic period"
+          "year": "1899"
         },
         {
           "text": "USGS described Delante Nos. 1 and 2 as shafts reaching the limestone contact and supplying geological information; the No. 1 contact lay more than 100 feet below the nearby Villa shaft contact.",
-          "year": "Historic period"
+          "year": "1907"
         },
         {
           "text": "A Leadville newspaper obituary retrospectively listed Delante among mining developer Robert B. Estey's enterprises.",
-          "year": "Historic period"
+          "year": "1914"
         }
       ],
       "betaVisible": true,
@@ -1948,35 +2171,35 @@
       "timeline": [
         {
           "text": "Derry family patented and developed the ranch.",
-          "year": "Historic period"
+          "year": "1878"
         },
         {
           "text": "Saguache Gold Mining Company acquired the ranch and resumed placer work.",
-          "year": "Historic period"
+          "year": "1908"
         },
         {
           "text": "New York Engineering Company purchased the property and began shipping dredge machinery.",
-          "year": "Historic period"
+          "year": "1913"
         },
         {
           "text": "The 600-ton Derry bucket dredge began mining along Corske Creek.",
-          "year": "Historic period"
+          "year": "1915"
         },
         {
           "text": "Worker cabins built for the dredge crew.",
-          "year": "Historic period"
+          "year": "1916"
         },
         {
           "text": "Dredge sold and relocated to Box Creek.",
-          "year": "Historic period"
+          "year": "1923"
         },
         {
           "text": "Dredge dismantled.",
-          "year": "Historic period"
+          "year": "1926"
         },
         {
           "text": "Derry Mining Site Camp listed on National Register.",
-          "year": "Historic period"
+          "year": "2000"
         }
       ],
       "betaVisible": true,
@@ -2146,31 +2369,31 @@
       "timeline": [
         {
           "text": "A contemporary mining review reported sustained Dolly B ore output; its owners were also developing a separate shaft on the Board of Trade group.",
-          "year": "Historic period"
+          "year": "1899"
         },
         {
           "text": "On August 13, the Connolly brothers entered a written agreement governing interests in their Leadville mining properties, including the Dolly B Group.",
-          "year": "Historic period"
+          "year": "1900"
         },
         {
           "text": "A federal court case described the financing and disputed management of the four-claim Dolly B Group; it did not identify a precise shaft location.",
-          "year": "Historic period"
+          "year": "1905"
         },
         {
           "text": "USGS leveling surveyors documented benchmarks by Dolly B Mine, including a nearby road and water tank, placing the mine in the historic Evansville/Ibex corridor.",
-          "year": "Historic period"
+          "year": "1911"
         },
         {
           "text": "Colorado's mine commissioner described Dolly B as a consistent but smaller shipper of lead-carbonate ores, with occasional sulfide ore shipments.",
-          "year": "Historic period"
+          "year": "1942–1943"
         },
         {
           "text": "State records listed Dolly B as an operating mine managed by Sam Shimmin for John Roberts & Associates, with gold, silver, lead and zinc products.",
-          "year": "Historic period"
+          "year": "1951"
         },
         {
           "text": "The mine remained listed as operating under Roberts & Company, managed by John Roberts and leased from Resurrection Mining Company; products listed were gold, silver and lead.",
-          "year": "Historic period"
+          "year": "1952"
         }
       ],
       "betaVisible": true,
@@ -2269,19 +2492,19 @@
       "timeline": [
         {
           "text": "A contemporary Graham Park mining dispatch reported that Evelyn's shaft had reached sulfide-bearing rock; future ore shipments were anticipated, not yet demonstrated by that report.",
-          "year": "Historic period"
+          "year": "1901"
         },
         {
           "text": "The Engineering and Mining Journal reported that Evelyn had sunk to approximately 1,000 feet and was drifting toward a projected sulfide ore shoot.",
-          "year": "Historic period"
+          "year": "1902"
         },
         {
           "text": "A December report described a narrow ore streak newly encountered in a lower level; it was not sufficient for steady shipments, and operators continued searching for a larger body.",
-          "year": "Historic period"
+          "year": "1905"
         },
         {
           "text": "USGS geologist G. F. Loughlin documented a large Evelyn ore body at the second (Gray porphyry) contact; possible continuity with nearby Wolftone and Castle View ore shoots remained unverified.",
-          "year": "Historic period"
+          "year": "1926"
         }
       ],
       "betaVisible": true,
@@ -2421,7 +2644,24 @@
       "overview": [
         "On Printer Boy Hill above Iowa Gulch, First National Mine was one of Leadville's historic underground workings. State and federal records document shipments of lead and zinc sulphide ores around 1915–1916, while later geologists studied minerals from its shaft dump. A mining-history field tour photographed a First National headframe in 2007. The map pin marks an approximate historic locality, not a confirmed safe mine entrance."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "A USGS mineral-resources report lists lead-sulphide ore shipments from First National in Iowa Gulch; it does not provide a mine-specific tonnage.",
+          "year": "1915"
+        },
+        {
+          "text": "Colorado's state mine inspector reported that First National Leasing Company had dewatered the shaft and was mining a small tonnage of zinc-sulphide ore.",
+          "year": "1915–1916"
+        },
+        {
+          "text": "USGS Professional Paper 235 described arsenopyrite, pyrite, chalcopyrite and manganosiderite from the First National shaft dump. This is a publication milestone, not evidence of active mining in 1953.",
+          "year": "1953"
+        },
+        {
+          "text": "The Mining History Association's Leadville field-tour gallery identified and photographed the First National Mine headframe; its exact coordinates and present condition were not independently verified.",
+          "year": "2007-06-10"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.22497,
@@ -2474,11 +2714,11 @@
       "timeline": [
         {
           "text": "Federal mining history reports Florence producing lead-carbonate ores containing silver and gold from this year onward.",
-          "year": "Historic period"
+          "year": "1878"
         },
         {
           "text": "The Florence and adjacent mines were consolidated under the Lilian Mining Company earlier in the year.",
-          "year": "Historic period"
+          "year": "1884"
         },
         {
           "text": "Florence reportedly produced and shipped 1,138 tons of ore during July.",
@@ -2486,7 +2726,7 @@
         },
         {
           "text": "Emmons's USGS monograph documented the Florence mineral locality and ore mineralogy.",
-          "year": "Historic period"
+          "year": "1886"
         }
       ],
       "betaVisible": true,
@@ -2515,7 +2755,28 @@
       "overview": [
         "Forsaken Mine was part of the bustling silver-and-lead mining landscape on Carbonate Hill above Leadville. In 1879 miners worked two shafts, linked underground passages and hauled ore using equipment shared with the nearby Buckeye Belle. The property later became part of the larger Morning Star mining enterprise. An 1883 geologist's firsthand study mapped both the Forsaken and Old Forsaken shafts and recorded the ore-bearing rocks underground. Today the mapped point identifies the historic mine area—not a verified shaft entrance—and should be viewed as a historical interpretation rather than directions into mine workings."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "The Leadville Herald report reprinted by Engineering and Mining Journal described upper and lower Forsaken shafts, new ore houses, interconnected drifts and approximately 15 tons of ore mined daily earlier that month. The lower shaft used the neighboring Buckeye Belle's hoisting engine.",
+          "year": "December 1879"
+        },
+        {
+          "text": "Forsaken was among the named lode claims brought under Morning Star Consolidated Mining Company. The reported $6 million deed was a transfer among existing interests, not a verified independent purchase price for Forsaken.",
+          "year": "March–May 1880"
+        },
+        {
+          "text": "Louis D. Ricketts mapped Forsaken and Old Forsaken as separate shafts (Nos. 7 and 8) and inspected rock strata and underground connections; the Forsaken shaft reached ore-bearing contact around 80 feet below surface.",
+          "year": "1882–1883"
+        },
+        {
+          "text": "A contemporary mining report noted only two men prospecting in the Forsaken workings and little ore then present, a contrast with its active 1879 phase.",
+          "year": "August 1884"
+        },
+        {
+          "text": "The California Gulch cultural-resource inventory recorded Forsaken Shaft among distinct components of historic site 5LK1024, supporting its identification but not providing a surveyed public GPS entrance.",
+          "year": "1997 cultural survey (later EPA record)"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.24895,
@@ -2545,23 +2806,23 @@
       "timeline": [
         {
           "text": "Lease and production",
-          "year": "Historic period"
+          "year": "1905"
         },
         {
           "text": "Deeper exploration",
-          "year": "Historic period"
+          "year": "1917"
         },
         {
           "text": "Operating recovery",
-          "year": "Historic period"
+          "year": "1944"
         },
         {
           "text": "Listed as operating",
-          "year": "Historic period"
+          "year": "1951"
         },
         {
           "text": "Reported inactive",
-          "year": "Historic period"
+          "year": "1953"
         }
       ],
       "betaVisible": true,
@@ -2613,7 +2874,24 @@
       "overview": [
         "On Breece Hill east of Leadville, the Garbutt Mine was part of the district's gold belt. Archival underground photographs show miners at work there around the turn of the twentieth century, and contemporary reports record ore shipments by 1899. By 1915–16 the Garbutt Leasing Company was operating the Garbutt alongside its extension and portions of neighboring Ibex ground, employing roughly 100 miners across those workings. Garbutt was also known for unusually fine scheelite crystals, a tungsten mineral, and its distinctive fault-hosted ore vein. The map pin identifies the historic mine locality, not a confirmed shaft entrance; the old workings should not be approached or entered."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "Colorado School of Mines archive identifies F. C. Garbutt Mine as a productive gold mine in the Leadville gold belt around 1895; surviving underground photographs date approximately 1895–1915.",
+          "year": "circa 1895"
+        },
+        {
+          "text": "Engineering and Mining Journal reported small shipments from the Garbutt while separately discussing neighboring Breece Hill operations.",
+          "year": "1899-01-14"
+        },
+        {
+          "text": "Colorado Bureau of Mines reported that Garbutt Leasing Company operated Garbutt, Garbutt Extension and portions of Ibex ground with roughly 100 workers and combined production near 150 tons/day of gold-, silver- and copper-bearing ore.",
+          "year": "1915–1916"
+        },
+        {
+          "text": "State Bureau of Mines identified crystallized scheelite from Garbutt as a rare tungsten occurrence in the Leadville district.",
+          "year": "1915–1916"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.24278,
@@ -2658,31 +2936,31 @@
       "timeline": [
         {
           "text": "W. L. Cooper reportedly resumed work under lease from Garibaldi Mining Company; tunnel was about a quarter mile long.",
-          "year": "Historic period"
+          "year": "1903"
         },
         {
           "text": "Tunnel had advanced to roughly 1,500 feet; Bray & Davis reported sulfur-rich pyritic material and prospective sales.",
-          "year": "Historic period"
+          "year": "1905"
         },
         {
           "text": "G. F. Loughlin studied and mapped the Garibaldi tunnel.",
-          "year": "Historic period"
+          "year": "1934"
         },
         {
           "text": "C. H. Behre Jr. conducted a brief follow-up underground study, aided by E. D. Dickerman.",
-          "year": "Historic period"
+          "year": "1942"
         },
         {
           "text": "Colorado state mining report listed Robert L. Jones as Garibaldi Tunnel lessee from ASARCO in the Sunday-Ibex area.",
-          "year": "Historic period"
+          "year": "1952"
         },
         {
           "text": "Cultural resource inventory documented site 5LK805; drainage diversions were constructed around portal and waste pile.",
-          "year": "Historic period"
+          "year": "1990-1991"
         },
         {
           "text": "Engineering assessment recorded collapsed portal, nearby steam engine remains, ~1.6-acre waste-rock pile and mine drainage issues.",
-          "year": "Historic period"
+          "year": "1995"
         }
       ],
       "betaVisible": true,
@@ -2734,7 +3012,24 @@
       "overview": [
         "High on the slopes west of Twin Lakes, the Gordon Mine followed a narrow quartz vein carrying native gold and other minerals. Early miners worked four underground levels, often chasing the richest pockets rather than extracting every section of the vein. When a state geologist examined the property in the 1910s, parts of the old workings had already caved. A gravity tram had been built but never put into service. Historic diagrams and an ore specimen photograph preserve a rare detailed look at this mine. The map marker shows its approximate historic locality, not a confirmed or accessible entrance."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "A federal appellate decision dated April 7, 1902 concerned a 1901 execution sale of the Gordon and Bengal Tiger lode claims (mineral survey 7557). The two named claims are related in the case but should not be conflated as a single mine entrance.",
+          "year": "1901–1902"
+        },
+        {
+          "text": "The July 14 Engineering and Mining Journal reported a tunnel on the Sunnyside claim, described as the northern extension of Gordon, driven about 400 feet. Sunnyside is a related but distinct claim; this is not a measurement of Gordon Mine's own tunnels.",
+          "year": "1906"
+        },
+        {
+          "text": "J. V. Howell's field investigations recorded four developed levels at Gordon, a three-to-eight-foot quartz vein, free gold with several sulfide minerals, and caved sections of the workings.",
+          "year": "1915–1916"
+        },
+        {
+          "text": "The Colorado Geological Survey's Bulletin 17 documented the Gordon/Gordon-Tiger mine, including a vertical section of the workings and an ore-specimen photograph.",
+          "year": "1918"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.084714,
@@ -2764,39 +3059,39 @@
       "timeline": [
         {
           "text": "Patrick Mulrooney reported locating the Greenback mine in May 1878.",
-          "year": "Historic period"
+          "year": "1878"
         },
         {
           "text": "Mulrooney's biographical account reports a period of Greenback operations.",
-          "year": "Historic period"
+          "year": "1894–1898"
         },
         {
           "text": "A contemporary account cited by USGS describes a 1,240-foot shaft and plans for a 750-ton-per-day hoisting plant; actual installed capacity unconfirmed.",
-          "year": "Historic period"
+          "year": "1901–1902"
         },
         {
           "text": "Mulrooney's biography describes another sustained period of Greenback operations.",
-          "year": "Historic period"
+          "year": "1902–1916"
         },
         {
           "text": "State mining report notes pumping through Greenback and Wolftone shafts to help dewater nearby Robert Emmet workings.",
-          "year": "Historic period"
+          "year": "1915–1916"
         },
         {
           "text": "Western Chemical Manufacturing Company purchased Greenback in May, according to the 1917–1918 state mining report.",
-          "year": "Historic period"
+          "year": "1917"
         },
         {
           "text": "State mining report documents sulphide, pyrite and silver-iron ore production; a January 1919 trade review confirms pyrite operations in 1918.",
-          "year": "Historic period"
+          "year": "1917–1918"
         },
         {
           "text": "A local historical photograph identifies Greenback alongside the distinct Mikado and Wolftone mines in northern Graham Park.",
-          "year": "Historic period"
+          "year": "circa 1920"
         },
         {
           "text": "Keystone View Company stereograph depicts the Greenback mine buildings.",
-          "year": "Historic period"
+          "year": "1928"
         }
       ],
       "betaVisible": true,
@@ -2892,27 +3187,27 @@
       "timeline": [
         {
           "text": "Historic May Queen and Surprise claims map identifies Hayden as a separate shaft alongside neighboring workings.",
-          "year": "Historic period"
+          "year": "1880"
         },
         {
           "text": "Contemporary mining press reports a substantial ore chute accessed through Hayden shaft on May Queen territory, with about 50 tons of ore per day reported.",
-          "year": "Historic period"
+          "year": "1886"
         },
         {
           "text": "May Queen lessees work the Hayden shaft and ship lead-carbonate ore from a narrow seam.",
-          "year": "Historic period"
+          "year": "1892"
         },
         {
           "text": "New lessees resume work through Hayden shaft and ship iron-bearing material.",
-          "year": "Historic period"
+          "year": "1903"
         },
         {
           "text": "Burton, White and Thielen discover and ship high-grade oxidized zinc ore through Hayden shaft, an important milestone for Leadville zinc mining.",
-          "year": "Historic period"
+          "year": "1910"
         },
         {
           "text": "State records list Cadwell Mining Company operating Hayden Shaft; drainage-tunnel construction also connects to the shaft's underground water system.",
-          "year": "Historic period"
+          "year": "1951"
         }
       ],
       "betaVisible": true,
@@ -2941,7 +3236,24 @@
       "overview": [
         "The Helena Mine, also written Hellena, worked ore-bearing ground in Iowa Gulch east of Leadville. Before 1909, its shallow workings reportedly produced about $100,000 worth of ore, but water became a serious obstacle. Operators returned in 1928 and 1929, only to shut down in 1930 amid expensive pumping and disputes over the property. By then the main shaft had reached 766 feet. A 1953 U.S. Geological Survey report describes the mine's connection to the Helena fault and the complex geology that helped concentrate ore here. The map pin marks the approximate historic mine locality—not a confirmed, accessible shaft entrance. Nearby mines shown on maps are separate workings."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "Shallow Helena workings reportedly yielded about $100,000 in ore value before water problems largely halted operations. The amount is historical testimony reported by the USGS, not a verified production ledger.",
+          "year": "Before 1909"
+        },
+        {
+          "text": "Operators reopened the Helena mine after its earlier water-related interruption.",
+          "year": "1928–1929"
+        },
+        {
+          "text": "The shaft had reached 766 feet; increased pumping costs and difficulties between the operating company and landowners forced closure.",
+          "year": "1930"
+        },
+        {
+          "text": "C. H. Behre Jr.'s Professional Paper 235 documents the mine's history, fault setting, and separation from other Iowa Gulch workings.",
+          "year": "1953"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.224713,
@@ -3061,27 +3373,27 @@
       "timeline": [
         {
           "text": "Mining press reported new Home Extension shaft development in Leadville's downtown mining area and manganese ore in the shaft; pumping coordination with nearby Penrose workings was proposed.",
-          "year": "Historic period"
+          "year": "1901"
         },
         {
           "text": "Mining press reported underground drift work involving the bottoms of the Cloud City and Home Extension shafts, with a substantial iron-manganese ore body described above the workings.",
-          "year": "Historic period"
+          "year": "1905"
         },
         {
           "text": "USGS Bulletin 320 documented Home Extension shaft in its Leadville mining-district study (index references pp. 25 and 55).",
-          "year": "Historic period"
+          "year": "1907"
         },
         {
           "text": "A May mining-industry report said the Julia operation at Home Extension found high-grade manganese ore and was shipping approximately 50 tons daily to Colorado Fuel and Iron at Pueblo.",
-          "year": "Historic period"
+          "year": "1917"
         },
         {
           "text": "Colorado State Bureau of Mines reported Clarence Jarbeau as lessee and Leadville District Mining and Milling Co. as operator, with five workers and roughly 300 tons of manganese-iron ore shipped monthly before a temporary market-related shutdown.",
-          "year": "Historic period"
+          "year": "1917–1918"
         },
         {
           "text": "Historic water-level observations at Home Extension shaft recorded groundwater about 23 feet below land surface; later reproduced in a 1979 USGS report.",
-          "year": "Historic period"
+          "year": "1944"
         }
       ],
       "betaVisible": true,
@@ -3113,39 +3425,39 @@
       "timeline": [
         {
           "text": "A building permit was obtained for the separate Leadville mill intended to process Hopemore ore.",
-          "year": "Historic period"
+          "year": "1987"
         },
         {
           "text": "The mill operator reports that Hopemore Mine and the associated mill began sporadic production, continuing for roughly five years; this conflicts with an MRDS first-production field of 1997.",
-          "year": "Historic period"
+          "year": "1989"
         },
         {
           "text": "Colorado mining permit M1990-057 'Hopemore Shaft' was issued to Leadville Mining and Milling, covering the Breece Hill mine and separate mill.",
-          "year": "Historic period"
+          "year": "1990"
         },
         {
           "text": "Sunshine exploration files cited in MRDS reported estimated proven/probable mineral reserves; these were estimates, not actual production.",
-          "year": "Historic period"
+          "year": "1992"
         },
         {
           "text": "MRDS lists Leadville Mining and Milling as owner and 1997 as first-production year, differing from the mill operator's 1989 chronology.",
-          "year": "Historic period"
+          "year": "1997"
         },
         {
           "text": "A Mining History Association field tour documented the modern Hopemore headframe behind Ibex Mine dumps on Breece Hill.",
-          "year": "Historic period"
+          "year": "2007"
         },
         {
           "text": "According to the mill operator, Robert Calder/Lockland acquired Hopemore Mine around this time.",
-          "year": "Historic period"
+          "year": "2008"
         },
         {
           "text": "Hopemore became known for underground heritage tours led by Bob Calder; mine and mill permit arrangements also changed.",
-          "year": "Historic period"
+          "year": "2009"
         },
         {
           "text": "A geotagged photograph documented the named Hopemore Mine locality; its camera coordinates do not locate the shaft.",
-          "year": "Historic period"
+          "year": "2024"
         }
       ],
       "betaVisible": true,
@@ -3192,23 +3504,23 @@
       "timeline": [
         {
           "text": "ASARCO listed for exploration and development.",
-          "year": "Historic period"
+          "year": "1952"
         },
         {
           "text": "Irene shaft closed due to low metal prices.",
-          "year": "Historic period"
+          "year": "1957"
         },
         {
           "text": "ASARCO and Resurrection reopened Irene workings.",
-          "year": "Historic period"
+          "year": "1965"
         },
         {
           "text": "Separate Black Cloud shaft sunk and production began; later connected to Irene.",
-          "year": "Historic period"
+          "year": "1969–1971"
         },
         {
           "text": "EPA identified Irene No. 2 as active.",
-          "year": "Historic period"
+          "year": "1986"
         }
       ],
       "betaVisible": true,
@@ -3312,7 +3624,28 @@
       "overview": [
         "Near Fremont Pass, the abandoned John Reed Mine became known for something smaller than its underground workings: brilliant rose-pink rhodochrosite crystals. Mineralogists were describing its unusually clear red specimens by 1887 and studying their properties in the early twentieth century. A 1961 USGS account recalled crystals as large as half an inch, including a remarkable group of forty from one small cavity. The mine had long been abandoned by then, though occasional specimens could still be found on its dump. Remnant marks the approximate historic mine locality, not a verified safe entrance; the similarly named mine in Park County is a separate mapped feature."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "George F. Kunz's 1887 work documented rich red, transparent rhodochrosite crystals from John Reed Mine, as cited and summarized in Wayland's 1942 scientific review.",
+          "year": "1887"
+        },
+        {
+          "text": "Larsen and Wherry published measurements of transparent rhodochrosite crystals from the John Reed Mine, according to Wayland's later scientific review.",
+          "year": "1917"
+        },
+        {
+          "text": "The USGS Climax-area geological bulletin mapped the John Reed locality; later MRDS documentation cites the report and its plate 23.",
+          "year": "1933"
+        },
+        {
+          "text": "A mineralogical study drew on the earlier analyses of John Reed rhodochrosite when comparing chemical and optical properties of the mineral.",
+          "year": "1942"
+        },
+        {
+          "text": "USGS mineralogist Edwin Eckel reported the mine long abandoned but still known for gem-quality rose-pink rhodochrosite; occasional specimens were found on its dump.",
+          "year": "1961"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.35478,
@@ -3339,7 +3672,24 @@
       "overview": [
         "Above Turquoise Lake, the Josie May prospect was a small but geologically unusual turquoise mine. In 1936 it had a 25-foot inclined shaft and scattered prospect pits. By 1951 miners had enlarged the workings and cut a long bulldozer trench. USGS geologists recorded turquoise with green copper minerals and torbernite, a uranium-bearing mineral, in altered rock. Josie May is distinct from the nearby Turquoise Chief mine. The map point shows the approximate historic workings area, not a verified or safe mine entrance."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "USGS survey later recorded a 25-foot inclined shaft and small prospect pits at Josie May in 1936.",
+          "year": "1936"
+        },
+        {
+          "text": "USGS described a deepened inclined shaft, enlarged nearby pits and a roughly 190-foot bulldozer trench; the shaft contained water.",
+          "year": "1951"
+        },
+        {
+          "text": "USGS documented turquoise, malachite, chrysocolla and uranium-bearing torbernite at Josie May, distinct from the nearby Turquoise Chief occurrence.",
+          "year": "1953"
+        },
+        {
+          "text": "A geological symposium described Josie May as smaller open cuts southwest of Turquoise Chief near Forest Road 103.",
+          "year": "2002"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.28464,
@@ -3837,19 +4187,19 @@
       "timeline": [
         {
           "text": "Interest sold",
-          "year": "Historic period"
+          "year": "1879"
         },
         {
           "text": "Heavy ore shipper",
-          "year": "Historic period"
+          "year": "1899"
         },
         {
           "text": "Leased operations",
-          "year": "Historic period"
+          "year": "1902"
         },
         {
           "text": "Recorded production",
-          "year": "Historic period"
+          "year": "1906"
         }
       ],
       "betaVisible": true,
@@ -3881,19 +4231,19 @@
       "timeline": [
         {
           "text": "Shaft and drifts documented in a mining journal.",
-          "year": "Historic period"
+          "year": "1879"
         },
         {
           "text": "Contemporary report claims about 100 tons hoisted per day.",
-          "year": "Historic period"
+          "year": "1901"
         },
         {
           "text": "Leadville heritage guide describes mine and smelter supply.",
-          "year": "Historic period"
+          "year": "1978"
         },
         {
           "text": "EPA records identify Yak Tunnel connection.",
-          "year": "Historic period"
+          "year": "2016"
         }
       ],
       "betaVisible": true,
@@ -3922,7 +4272,32 @@
       "overview": [
         "Long and Derry was part of the early silver-and-lead mining history around Leadville. Miners explored dark, metal-rich rock along Long and Derry Hill, where several closely spaced shafts and tunnels came to be known collectively as the Long and Derry mines. Historical records mention the mines by 1879, document a mining company in 1882, and list the mine among Lake County's silver-and-lead properties in 1915–16. The map marker represents the historic mine locality, not a confirmed entrance. Do not enter abandoned mine workings."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "Samuel Ware referred to the Long and Derry mines as nearby established workings.",
+          "year": "June 1879"
+        },
+        {
+          "text": "An 1882 Long and Derry Hill Mining Co. certificate survives; its precise relation to each shaft is not established.",
+          "year": "1882"
+        },
+        {
+          "text": "Samuel F. Emmons described the ore-bearing rocks and Long and Derry workings.",
+          "year": "1886"
+        },
+        {
+          "text": "Hawkins, Long and Derry Mining and Tunnel Co. was listed with Harry Mamlock as manager; corporate continuity is uncertain.",
+          "year": "1912"
+        },
+        {
+          "text": "The Colorado Bureau of Mines lists Long and Derry with wagon transport to Leadville.",
+          "year": "1915–1916"
+        },
+        {
+          "text": "Behre identified the cluster of named workings collectively known as Long and Derry mines, including shallow shafts and a caved tunnel.",
+          "year": "1953"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.2161015,
@@ -3952,15 +4327,15 @@
       "timeline": [
         {
           "text": "Lower ore-zone development documented in limestone; D.H. Moffat and W.M. Clayton identified as Louisville owners.",
-          "year": "Historic period"
+          "year": "1886"
         },
         {
           "text": "J.J. Brown superintendent after serving as foreman in 1886.",
-          "year": "Historic period"
+          "year": "1887"
         },
         {
           "text": "Directory lists Eben Smith managing Louisville and separate Colorado No. 2.",
-          "year": "Historic period"
+          "year": "1888"
         }
       ],
       "betaVisible": true,
@@ -3992,7 +4367,7 @@
       "timeline": [
         {
           "text": "A later historical study reports that Printer Boy's northern portion was sold and that Upper and Lower Printer Boy thereafter became distinct names; this is historical context for the split, not proof of a specific shaft date.",
-          "year": "Historic period"
+          "year": "1868"
         },
         {
           "text": "Engineering and Mining Journal reported a gold-bearing quartz crevice and gold in washings specifically at the lower Printer Boy.",
@@ -4170,9 +4545,23 @@
           "attribution": "Jeffrey Beall, 'Matchless Mine.JPG', Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Resized to 1280px from original.",
           "mediaStatus": "PACKAGED",
           "attributionRequired": true
+        },
+        {
+          "id": "CO-LAKE-MATCHLESS-MINE-MODERN-1997-001",
+          "label": "Matchless Mine remains, 1997",
+          "title": "Matchless Mine headframe and surface buildings (July 1997)",
+          "rights": "Original creator CC BY-SA 4.0; commercial and offline copies allowed with proper attribution/license link/change notice and ShareAlike on image adaptations.",
+          "creator": "LBM1948",
+          "license": "CC BY-SA 4.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-MATCHLESS-MINE/CO-LAKE-MATCHLESS-MINE-MODERN-1997-001-eaa880450a6b26b9ef24.jpg",
+          "sourceNote": "Own-work original 1025x682 JPEG made July 1997. Original uploader visually names exact Matchless Mine remains in Leadville, Lake County. Existing verified media lead #85. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/8/89/Leadville%2C_CO_1997_04.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Leadville,_CO_1997_04.jpg",
+          "attribution": "LBM1948, 'Leadville, CO 1997 04.jpg' (1997), via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Unmodified.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-13T21:56:14.460Z",
+      "contentUpdatedAt": "2026-10-25T23:30:30.437Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
     },
@@ -4188,7 +4577,28 @@
       "overview": [
         "On Fryer Hill above Leadville, the May Queen Mine helped change what miners looked for underground. Its Hayden shaft had already yielded lead ore by 1892. In 1910, a leasing team led by Howard E. Burton found commercially valuable high-grade oxidized zinc ore there. The discovery helped launch a broader search through Leadville's older workings, where zinc minerals once overlooked became important products. Contemporary reports show May Queen was still shipping newly opened zinc-carbonate ore in 1912. The map marker indicates the approximate historic May Queen locality, not an identified open shaft or a public-access route."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "An archival May Queen and Surprise claims map was made, naming the Hayden, McCormick/Line, Dexter, Discovery and Surprise shafts. The catalog establishes historical claim identity, not surveyed modern coordinates.",
+          "year": "1880"
+        },
+        {
+          "text": "A contemporary mining journal reported May Queen's Hayden shaft under lease and producing lead-carbonate ore from a streak approximately 25 inches thick.",
+          "year": "1892-02-27"
+        },
+        {
+          "text": "Howard E. Burton, H. K. White and Alfred Thielen discovered high-grade oxidized zinc ore on a lease at the May Queen's Hayden shaft, with pioneering commercial shipments in Leadville.",
+          "year": "1910"
+        },
+        {
+          "text": "A contemporary mining report noted new zinc-carbonate ore in a lower level of May Queen on Fryer Hill and steady shipments.",
+          "year": "1912-11-16"
+        },
+        {
+          "text": "USGS Bulletin 681 recorded the May Queen discovery as a catalyst for further oxidized-zinc exploration in Leadville.",
+          "year": "1918"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.25285,
@@ -4215,7 +4625,24 @@
       "overview": [
         "Near Leadville's downtown mining district, the Midas Mine was one of several deep underground operations working ore beneath the city. A 1907 U.S. Geological Survey report describes the Midas shaft and the geology of its silver-, gold- and lead-bearing ore. Historical reports describe substantial shipments and later underground work connected to the neighboring Penrose mine. The app marker shows the recorded Midas Mine locality, not a confirmed open shaft or public access point."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "A later USGS historical account describes the Midas as a significant downtown shipper, with shipments reported around 5,000 tons monthly during the cited period and ore encountered at approximately 515 feet. The account does not establish a precise opening date.",
+          "year": "circa 1900"
+        },
+        {
+          "text": "USGS archival inventory records S. F. Emmons's Leadville notebook covering the Midas and neighboring downtown mines.",
+          "year": "1901"
+        },
+        {
+          "text": "USGS Bulletin 320 separately mapped and discussed the Midas shaft and its ore bodies; ore occurred in limestone near porphyry contacts, with additional mineralization east of the shaft along the Pendery fault.",
+          "year": "1907"
+        },
+        {
+          "text": "The Engineering and Mining Journal reported leasing by Frank H. Trego and associates, work on the 500-foot level, and underground haulage to the separate Penrose shaft for hoisting.",
+          "year": "1908-01-25"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.2497118,
@@ -4311,7 +4738,20 @@
       "overview": [
         "On southern Carbonate Hill near Leadville, the Modest Girl was one of the smaller historic mine workings explored for ore below the hill. Reports from 1884 describe pockets of promising ore. In 1910, miners reported a zinc-bearing zone and plans to follow it from a lower tunnel. A 1926 U.S. Geological Survey study later confirmed that exploration through the Modest Girl shaft had found a small ore body, though no large discovery was documented. The map marker shows an approximate historic locality, not a verified entrance; nearby mines are separate sites."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "A contemporary mining journal repeated a Leadville Herald account of limited pockets of good ore at Modest Girl and other separately named Carbonate Hill properties, in limestone just below a geologic contact.",
+          "year": "1884-09-06"
+        },
+        {
+          "text": "A mining journal reported an approximately five-foot zinc-carbonate zone in Modest Girl's upper workings, reportedly averaging 40% zinc. A lower tunnel was planned; neither the reported grade nor completed construction is independently verified.",
+          "year": "1910-12-24"
+        },
+        {
+          "text": "USGS Bulletin 779 described exploration through the Modest Girl shaft in southern Carbonate Hill and recorded a small ore body, distinguishing this working from the nearby Toledo Avenue, California Gulch, and Thespian shafts. This is a publication date, not evidence of mining in 1926.",
+          "year": "1926"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.23889,
@@ -4515,8 +4955,23 @@
         "The New Monarch emerged from consolidation during Leadville's post-silver-crash gold era. In 1897 the reorganized New Monarch Mining Company absorbed Australian and Monarch properties and controlled 32 acres between South Evans and Big Evans gulches. By 1904 the operation was working three shafts on Little Ellen Hill: New Monarch, Cleveland, and Winnie. In December 1905 it was shipping about 200 tons per day of gold ore to the independent Salida smelter while its main shaft was being deepened toward lower sulphide levels. A 1907 account described roughly 100 acres on the northwest slope of Little Ellen Hill, credited the company to Timothy Goodwin, Mr. Kortz and associates of the Ohio & Colorado Smelting and Refining Company, described it as a continuous dividend earner, and reported a contract to deepen the Cleveland-area shaft 150 feet from an existing depth of 500 feet. The operation remained active into the twentieth century: Colorado's 1950-51 mining report lists the New Monarch Lease/Monarch Shaft producing gold, silver, lead, and zinc. The surviving ore house gives the site a particularly strong visible connection to this documented history."
       ],
       "componentType": "MINE",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-07T18:11:14.472Z",
+      "displayImages": [
+        {
+          "id": "new-monarch-mine-brown-2024-001",
+          "label": "Mine locality, 2024",
+          "title": "Monarch Mine site, Lake County (2024)",
+          "rights": "Original author CC BY-SA 4.0; commercial in-app and offline use permitted with attribution, license link and SA on image adaptations; Wikimedia 1280px thumbnail is resized.",
+          "creator": "Clyde Charles Brown",
+          "license": "CC BY-SA 4.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-LAKE-NEW-MONARCH-MINE/new-monarch-mine-brown-2024-001-7d5c434165a240382267.jpg",
+          "sourceNote": "Wikimedia 1280px resized rendition of original unmodified 6000x4000 JPEG, photographed 10 Oct 2024. Photographer personally named Monarch Mine; EXIF and V4 location coincide 3.2 metres. Photo is a modern mine-locality image, not claimed to depict a particular original structure. Ingestion retry after initial Commons Special:FilePath width redirect resolved to disallowed thumb.wikimedia.org; use original Wikimedia Commons upload-domain 1280px thumbnail URL. No source/license/site change. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Monarch_Mine%2C_Colorado%2C_US.jpg/1280px-Monarch_Mine%2C_Colorado%2C_US.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Monarch_Mine,_Colorado,_US.jpg",
+          "attribution": "Clyde Charles Brown, 'Monarch Mine, Colorado, US' (2024), Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Resized to 1280px.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-26T00:14:02.101Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
     },
@@ -4535,31 +4990,31 @@
       "timeline": [
         {
           "text": "Contemporary mining press reported that Niles-Augusta was expected to resume work.",
-          "year": "Historic period"
+          "year": "1882"
         },
         {
           "text": "Leadville city directory listed Niles and Augusta mines on Carbonate Hill under general manager John H. Simmons.",
-          "year": "Historic period"
+          "year": "1888"
         },
         {
           "text": "Mining press described an ore chute first opened at Niles-Augusta that continued toward adjacent Wildcat ground, complicated by faulting.",
-          "year": "Historic period"
+          "year": "1894"
         },
         {
           "text": "Mining journal described Niles-Augusta as actively producing.",
-          "year": "Historic period"
+          "year": "1900"
         },
         {
           "text": "Lessees shipped about 350 tons per month from an upper level while searching for the main ore body.",
-          "year": "Historic period"
+          "year": "1901-07"
         },
         {
           "text": "Iron ore shipments continued while a drift at the 225-foot level exposed promising lead ore.",
-          "year": "Historic period"
+          "year": "1901-08"
         },
         {
           "text": "Federal report listed Niles-Augusta among properties affected by broader district dewatering/consolidation activity.",
-          "year": "Historic period"
+          "year": "1915"
         }
       ],
       "betaVisible": true,
@@ -4705,7 +5160,44 @@
       "overview": [
         "The Penrose Mine was more than an ore producer: its powerful pumps helped drain Leadville's flooded downtown mines. Begun in 1891, it endured a major labor shutdown and several restarts before an ambitious electrically powered dewatering system went to work in 1915. At its height, Penrose supported a busy network of underground workings and employed about 150 people. Operations faded in the 1920s, and later environmental cleanup altered much of the visible mine complex. This map point marks the approximate historic mine locality, not a confirmed shaft opening or public access point."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "Patent 16289 for the Penrose claim (U.S. Survey 4311) was issued to Lewis J. Chamberlin on May 21, 1890.",
+          "year": "1890"
+        },
+        {
+          "text": "Major A. V. Bohn established the Penrose shaft to pursue deep ore beneath the Leadville basin.",
+          "year": "1891"
+        },
+        {
+          "text": "The Leadville labor strike interrupted production and dewatering; Penrose and Bon Air withdrew pumps in August.",
+          "year": "1896"
+        },
+        {
+          "text": "The Leadville Pumping Association began installing large pumps at Penrose, reopening possibilities for downtown mines.",
+          "year": "1898"
+        },
+        {
+          "text": "Down Town Mines Company installed high-capacity electric pumps; active dewatering began in spring 1915.",
+          "year": "1915"
+        },
+        {
+          "text": "Contemporary reports describe approximately 150 employees and production of several classes of lead-, manganese-, zinc-, and silver-bearing ores.",
+          "year": "1918"
+        },
+        {
+          "text": "Financial pressure and operating costs culminated in the withdrawal of major Penrose pumps.",
+          "year": "1923"
+        },
+        {
+          "text": "State inspectors reported further pumping, but the mine company's annual return recorded no production and forfeited leases.",
+          "year": "1929"
+        },
+        {
+          "text": "Cultural-resource monitoring recorded Penrose shaft foundations, tunnel, and transformer building; the shaft foundation was removed after documentation for safety.",
+          "year": "1997"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.24861,
@@ -4732,7 +5224,24 @@
       "overview": [
         "Printer Boy helped revive gold mining around California Gulch in 1868, years before Leadville became famous for its silver and lead. Prospectors found gold in a narrow vein on the slopes above Georgia Gulch, and a stamp mill at Oro crushed ore from the workings. Accounts of rich gold pockets drew investors and miners back to the district, though the most spectacular claims were never fully verified. Over time the property became known as Upper and Lower Printer Boy. This marker identifies the historic mine-group area, not an exact shaft or a safe entrance."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "In June, Charles J. Mullen and Cooper Smith identified the Printer Boy gold vein while prospecting for J. Marshall Paul. Some accounts suggest an earlier claim, so 1868 is the documented lode discovery rather than an unquestioned first staking.",
+          "year": "1868"
+        },
+        {
+          "text": "The Boston and Philadelphia Gold and Silver Mining Company was organized in August, and a stamp mill was built at Oro in California Gulch to process Printer Boy ore.",
+          "year": "1868"
+        },
+        {
+          "text": "Rich, shallow gold pockets attracted renewed attention to the California Gulch district. Contemporary accounts report substantial production but the precise yield is poorly documented; activity persisted into the 1870s.",
+          "year": "1868–1870s"
+        },
+        {
+          "text": "The historic property was described as divided into Upper and Lower Printer Boy workings. Contemporary observers criticized primitive and unsafe mining methods; these are distinct workings rather than one known portal.",
+          "year": "By 1881"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.23053,
@@ -4785,15 +5294,15 @@
       "timeline": [
         {
           "text": "Houx and Tucker listed at Lake County Ready Cash mine.",
-          "year": "Historic period"
+          "year": "1879"
         },
         {
           "text": "Avalanche near mine; blacksmith Sam Kibler rescued after 18 hours.",
-          "year": "Historic period"
+          "year": "1900"
         },
         {
           "text": "USGS documents Ready Cash/Two Mile High adit, ore geology and reported output.",
-          "year": "Historic period"
+          "year": "1953"
         }
       ],
       "betaVisible": true,
@@ -4848,27 +5357,27 @@
       "timeline": [
         {
           "text": "Reindeer Mining Company begins a deep shaft on Wells-Moyer ground, Rock Hill, near but separate from Sequin; 500-foot initial target.",
-          "year": "Historic period"
+          "year": "1903"
         },
         {
           "text": "Retrospective reports new Reindeer shaft completed to 500 feet, intended to reach Rock and Dome shoots west of the fault.",
-          "year": "Historic period"
+          "year": "1904"
         },
         {
           "text": "Separate Sequin mine reports first shipment from the Reindeer ore shoot, illustrating adjacent interconnected mineralization.",
-          "year": "Historic period"
+          "year": "1905"
         },
         {
           "text": "Reindeer listed among prominent Leadville district tonnage producers in year-end review.",
-          "year": "Historic period"
+          "year": "1906"
         },
         {
           "text": "Contemporary Rock Hill report estimates Reindeer output near 75 tons daily.",
-          "year": "Historic period"
+          "year": "1907"
         },
         {
           "text": "USGS geological study documents Reindeer as part of western Rock Hill mining geology.",
-          "year": "Historic period"
+          "year": "1927"
         }
       ],
       "betaVisible": true,
@@ -5147,27 +5656,27 @@
       "timeline": [
         {
           "text": "Contemporary mining reporting said the Siwatch tunnel intersected three important veins.",
-          "year": "Historic period"
+          "year": "1911"
         },
         {
           "text": "By March, the main tunnel was reported at 4,400 feet, with a west lateral of 700 feet and 14 employees.",
-          "year": "Historic period"
+          "year": "1912"
         },
         {
           "text": "In February, reports described an intersection with the Venture vein 580 feet below outcrop and efforts to drain/connect old workings.",
-          "year": "Historic period"
+          "year": "1914"
         },
         {
           "text": "An engineering text documented electric-powered drilling and haulage, a roughly 6-by-7.5-foot tunnel in granite, timbered sections, and intermittent development.",
-          "year": "Historic period"
+          "year": "1914"
         },
         {
           "text": "In September, a local leasing group reportedly resumed development and found gold- and silver-bearing ore on a raise at the Venture vein.",
-          "year": "Historic period"
+          "year": "1914"
         },
         {
           "text": "USGS retrospective documented the Siwatch crosscut and characterized the vein exploration reached by the tunnel as limited in ore yield.",
-          "year": "Historic period"
+          "year": "1955"
         }
       ],
       "betaVisible": true,
@@ -5219,7 +5728,28 @@
       "overview": [
         "On Rock Hill east of Leadville, the Sequin Mine was already deep underground by 1882. Historic reports describe a 445-foot shaft and promising lead-silver ore assays. More than two decades later, the mine appeared again in mining news: shipments resumed, and a 1907 discovery brought attention to a new body of carbonate ore containing galena. Contemporary reports distinguish Sequin from the neighboring Bessie Wilgus and Reindeer workings. Its map marker shows the approximate historic mine area, not a confirmed entrance; old workings and nearby land may be hazardous or privately owned."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "A contemporary account reprinted in The Rock Island Argus described the Sequin shaft as 445 feet deep and reported a new lead-silver carbonate ore strike, with two reported silver/lead assays. The account attributed the original report to the Leadville Daily Herald of February 2.",
+          "year": "1882-02"
+        },
+        {
+          "text": "Denver Public Library's Western History Subject Index cites a February 10, 1882 Rocky Mountain News item identifying the Chicago-based Leadville and Gunnison Mining Company as operating the Sequin mine.",
+          "year": "1882-02-10"
+        },
+        {
+          "text": "Engineering and Mining Journal reported a new shipment of lead-silver carbonate ore from the Sequin, associated with the Reindeer ore shoot and management by Wilgus. This appears to be a new shipment phase, not the mine's first-ever production.",
+          "year": "1905-12"
+        },
+        {
+          "text": "Engineering and Mining Journal listed Sequin separately from Reindeer and Bessie Wilgus among Leadville mines producing ore daily.",
+          "year": "1906-07"
+        },
+        {
+          "text": "Engineering and Mining Journal reported a newly encountered sand-carbonate ore body with galena at Sequin, then a regular shipper, and located it a few hundred feet west of the separate Bessie Wilgus workings.",
+          "year": "1907-01"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.22833,
@@ -5297,23 +5827,23 @@
       "timeline": [
         {
           "text": "August mining journal described substantial silver-lead ore in the Silver Cord combination under superintendent Arthur B. Litchfield; reported assays are contemporary estimates.",
-          "year": "Historic period"
+          "year": "1880"
         },
         {
           "text": "December report described a 380-foot main shaft, approximately 2,000 feet of drifts, six claims totaling about 60 acres, and regular ore shipments.",
-          "year": "Historic period"
+          "year": "1880"
         },
         {
           "text": "Silver Cord Combination Mining Company continued development, with work noted near the Williard claim, Gros shaft and 1,100-foot level.",
-          "year": "Historic period"
+          "year": "1889"
         },
         {
           "text": "Colorado Supreme Court decision documented the company's 835-foot rail incline and a workforce exceeding 100 miners; incident occurred before the decision.",
-          "year": "Historic period"
+          "year": "1890"
         },
         {
           "text": "Historical reconstruction places completion of the original Blow drainage/haulage tunnel to the Silver Cord incline by June; the later Yak Tunnel was a separate expanded system.",
-          "year": "Historic period"
+          "year": "1892"
         }
       ],
       "betaVisible": true,
@@ -5365,7 +5895,28 @@
       "overview": [
         "On the southwest side of Iron Hill near Leadville, the Smuggler Mine worked lead- and silver-bearing ore during Colorado's mining boom. Contemporary accounts described steady production in 1883 and a successful leasing operation the following year. By 1894, miners were sinking a new shaft hundreds of feet through limestone to investigate deeper deposits. A state archive later recorded a map of the mine's underground workings. Its mapped position is approximate; the historic shaft entrance has not been verified, and the area should not be treated as safe or publicly accessible."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "A contemporary trade report placed Smuggler on southwest Iron Hill, between the Iron Silver, Silver Cord and Iron Hill Consolidated properties, and said it had been producing regularly for several months.",
+          "year": "1883-08"
+        },
+        {
+          "text": "The Engineering and Mining Journal identified Mr. Slockett as a Smuggler lessee and estimated sizable profits from the lease; amount was not audited.",
+          "year": "1884-05"
+        },
+        {
+          "text": "Samuel F. Emmons published the USGS Leadville monograph later cited for minerals at the Smuggler locality in California Gulch; not a specific production report.",
+          "year": "1886"
+        },
+        {
+          "text": "A May trade report said a new shaft at Smuggler on Iron Hill had reached about 350 feet in limestone; miners planned to continue to quartzite to test the contact.",
+          "year": "1894-05"
+        },
+        {
+          "text": "Colorado's state archival catalogue recorded an undated Smuggler underground-workings map associated with Iron Silver Mining Company in Section 30, T9S R79W. The original map was not examined.",
+          "year": "1936-12"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.2338789,
@@ -5395,23 +5946,23 @@
       "timeline": [
         {
           "text": "Mine map attributed to Jay A. Wilcox showed St. Kevin inclined shaft and workings at 217- and 256-foot levels; separate Grandview shaft accessed a deeper level.",
-          "year": "Historic period"
+          "year": "1890"
         },
         {
           "text": "St. Kevin shaft deepened approximately 60 feet to investigate ground below the 256-foot level; results uncertain.",
-          "year": "Historic period"
+          "year": "1914"
         },
         {
           "text": "McNair's August survey found the related Rosse tunnel had not yet reached the St. Kevin vein.",
-          "year": "Historic period"
+          "year": "1917"
         },
         {
           "text": "USGS reports intermittent output totaling 1,412 tons of ore, based on available records.",
-          "year": "Historic period"
+          "year": "1914–1946"
         },
         {
           "text": "USGS Bulletin 1027-E documented the St. Kevin workings, vein geometry, and historic output.",
-          "year": "Historic period"
+          "year": "1955"
         }
       ],
       "betaVisible": true,
@@ -5512,27 +6063,27 @@
       "timeline": [
         {
           "text": "Colorado Bureau of Mines listed Storke Tunnel as a Lake County molybdenum operation, naming Gibbons & Reed and Boyle Brothers and manager William McGlothlin.",
-          "year": "Historic period"
+          "year": "1951"
         },
         {
           "text": "State mining records listed Storke Tunnel as exploration and development work associated with Climax Molybdenum Company.",
-          "year": "Historic period"
+          "year": "1952"
         },
         {
           "text": "Mining engineers published a contemporary technical study of the Storke Level's role in Climax's large underground operation.",
-          "year": "Historic period"
+          "year": "1954"
         },
         {
           "text": "State report recorded completion of No. 4 Shaft inside Storke Tunnel for 600- and 900-level development and construction of a separate No. 5 Shaft outside the portal.",
-          "year": "Historic period"
+          "year": "1961"
         },
         {
           "text": "Mining History Association contributor Mike Kaas later recalled working on the Storke and Phillipson underground levels in summer 1962.",
-          "year": "Historic period"
+          "year": "1962"
         },
         {
           "text": "The broader Climax mine shifted from underground block-caving toward open-pit mining; this is context for the Storke system, not a documented exact tunnel closure date.",
-          "year": "Historic period"
+          "year": "1970s–1980s"
         }
       ],
       "betaVisible": true,
@@ -5564,27 +6115,27 @@
       "timeline": [
         {
           "text": "A later mine-history photo caption dates sinking of the Sunday No. 2 shaft to 1904, reporting a cost of $84,000; primary record not yet checked.",
-          "year": "Historic period"
+          "year": "1904"
         },
         {
           "text": "USGS Professional Paper 148 maps Sunday No. 2 among the Leadville district workings (Plate 45).",
-          "year": "Historic period"
+          "year": "1927"
         },
         {
           "text": "U.S. Bureau of Mines investigated Leadville shafts, including a separately indexed Sunday No. 2 shaft; a modern caption reports lease arrangements and removal of the deteriorated headframe, pending primary verification.",
-          "year": "Historic period"
+          "year": "1946"
         },
         {
           "text": "USGS Professional Paper 235 mapped Sunday No. 2 shaft distinctly from Sunday No. 1, along with nearby faults, veins, and tunnels.",
-          "year": "Historic period"
+          "year": "1953"
         },
         {
           "text": "USGS surveyed the abandoned Sunday #2 mine-waste pile on Ball Mountain, documenting dump topography and vegetation-damage zones.",
-          "year": "Historic period"
+          "year": "1998"
         },
         {
           "text": "USGS characterized Sunday No. 2 mine-waste minerals and later published electrical-property research, keeping Sunday #2 separate from the Venir mine.",
-          "year": "Historic period"
+          "year": "2000-2003"
         }
       ],
       "betaVisible": true,
@@ -5616,7 +6167,7 @@
       "timeline": [
         {
           "text": "Tenderfoot Consolidated Mining Company associated with Tenderfoot, Alps No. 3, and Mary claims in historical compilation; contemporaneous stock certificates corroborate the company's existence but not individual shaft location.",
-          "year": "Historic period"
+          "year": "1880"
         },
         {
           "text": "Contemporary mining report states a cave-in interrupted work at Leadville's Tenderfoot mine.",
@@ -5632,7 +6183,7 @@
         },
         {
           "text": "Federal mining review includes Tenderfoot among Leadville-area mines shipping ore.",
-          "year": "Historic period"
+          "year": "1915"
         }
       ],
       "betaVisible": true,
@@ -5664,23 +6215,23 @@
       "timeline": [
         {
           "text": "Contemporary mining news reported shaft sinking underway at the Thespian property on Carbonate Hill.",
-          "year": "Historic period"
+          "year": "1882"
         },
         {
           "text": "Thespian shaft was reported 590 feet deep; drilling had crossed contact material and entered limestone, with drifting planned.",
-          "year": "Historic period"
+          "year": "1883"
         },
         {
           "text": "A trade journal reported low-grade silver-bearing iron ore at about 520 feet, with a winze showing at least 14 feet of ore.",
-          "year": "Historic period"
+          "year": "1891"
         },
         {
           "text": "A later USGS account dates a small Thespian ore-body discovery to 1894; chronology is not fully reconciled with the 1891 report.",
-          "year": "Historic period"
+          "year": "1894"
         },
         {
           "text": "The old shaft was described as roughly 600 feet deep with over 5,000 feet of drifting; water hampered work and diamond drilling was planned.",
-          "year": "Historic period"
+          "year": "1900"
         }
       ],
       "betaVisible": true,
@@ -5712,31 +6263,31 @@
       "timeline": [
         {
           "text": "Tucson and Luella properties were added to the Iron Silver Mining Company holdings of W. H. Stevens and Levi Z. Leiter.",
-          "year": "Historic period"
+          "year": "1881"
         },
         {
           "text": "The Tucson property was patented by Charles J. Doud and associates.",
-          "year": "Historic period"
+          "year": "1886"
         },
         {
           "text": "High-grade silver was mined in lower levels; one reported assay reached 2,000 ounces of silver per ton.",
-          "year": "Historic period"
+          "year": "1910"
         },
         {
           "text": "Considerable mining continued, with lead and zinc sulfides becoming principal ores.",
-          "year": "Historic period"
+          "year": "1912-1918"
         },
         {
           "text": "Axel Lind and associates reopened the upper shaft to work a remaining zinc-carbonate orebody.",
-          "year": "Historic period"
+          "year": "1940"
         },
         {
           "text": "Low-grade lead-carbonate shipments ended and the mine closed again.",
-          "year": "Historic period"
+          "year": "1944"
         },
         {
           "text": "USGS published a geoelectrical laboratory and field study of materials from the Tucson Mine dump.",
-          "year": "Historic period"
+          "year": "2000"
         }
       ],
       "betaVisible": true,
@@ -5768,15 +6319,15 @@
       "timeline": [
         {
           "text": "Reported initial turquoise extraction by two Navajo miners, with approximately 1,000 pounds recovered over two years (Pearl 1951, cited by Modreski & Murphy 2002; reported figure).",
-          "year": "Historic period"
+          "year": "1935–1937"
         },
         {
           "text": "USGS report identified metatorbernite disseminated in granite at Turquoise Chief, separate from Josie May mineral occurrences.",
-          "year": "Historic period"
+          "year": "1953"
         },
         {
           "text": "Geologists Modreski and Murphy described the Turquoise Chief workings as a relatively large open pit and distinguished Josie May's smaller cuts southwest of it.",
-          "year": "Historic period"
+          "year": "2002"
         }
       ],
       "betaVisible": true,
@@ -5854,27 +6405,27 @@
       "timeline": [
         {
           "text": "Venir/South Ibex operated intermittently; underground development reached four levels with intervening stopes.",
-          "year": "Historic period"
+          "year": "1920–1935"
         },
         {
           "text": "John Cortellini supplied reported assays for low-grade mineralized rock near the Venir shaft; these were estimates, not verified production.",
-          "year": "Historic period"
+          "year": "1929"
         },
         {
           "text": "USGS-reported underground plans document the four mine levels and the long fourth-level workings.",
-          "year": "Historic period"
+          "year": "1935"
         },
         {
           "text": "Contemporary mining news described a 75-ton Venir Mining Company mill on Breece Hill.",
-          "year": "Historic period"
+          "year": "1940"
         },
         {
           "text": "A larger California Gulch milling plant was planned as an outgrowth of Venir milling operations; the small plant treated both mine and dump ore.",
-          "year": "Historic period"
+          "year": "1941"
         },
         {
           "text": "USGS surveyed and sampled the abandoned Venir mine-waste pile for environmental research.",
-          "year": "Historic period"
+          "year": "1998–2000"
         }
       ],
       "betaVisible": true,
@@ -5975,15 +6526,15 @@
       "timeline": [
         {
           "text": "Argent Mining Company worked the Vining claim near Rock and Dome; contemporary report described a shaft, tunnel and winze.",
-          "year": "Historic period"
+          "year": "1881"
         },
         {
           "text": "A contemporary account of Argent's property sale described a deep shaft and extensive prospecting on the Vining and adjacent Frank Shipman claims, with sporadic ore and poor profitability.",
-          "year": "Historic period"
+          "year": "1884"
         },
         {
           "text": "USGS Professional Paper 148 mapped and documented the geology of the Leadville district, including western Rock Hill workings.",
-          "year": "Historic period"
+          "year": "1927"
         }
       ],
       "betaVisible": true,
@@ -6038,15 +6589,15 @@
       "timeline": [
         {
           "text": "Vulture supplied Leadville ore sampling operations; underground fire reported in its workings.",
-          "year": "Historic period"
+          "year": "1880"
         },
         {
           "text": "Original discoverer J. C. Langhorne leased southern Vulture ground.",
-          "year": "Historic period"
+          "year": "1883"
         },
         {
           "text": "USGS described Vulture No. 1 shaft and the lead-silver ore body.",
-          "year": "Historic period"
+          "year": "1886"
         }
       ],
       "betaVisible": true,
@@ -6075,7 +6626,24 @@
       "overview": [
         "On Iron Hill east of Leadville, White Cap was part of a network of underground workings connected to the district's lead and silver mining era. A report from 1884 identifies its shaft as an ore-hoisting route for the Iron Hill Consolidated property. In 1901 a new lessee returned to the old shaft and pursued deeper mineralized ground, reaching a reported 712-foot station. Historic records document the workings, but the mine's exact entrance is not verified today."
       ],
-      "timeline": [],
+      "timeline": [
+        {
+          "text": "White Cap was named among Iron Hill Consolidated claims leased for royalty working; company-wide lead-price pressures were noted.",
+          "year": "1884-06"
+        },
+        {
+          "text": "Bunker & Kyle operated and subleased portions of Iron Hill Consolidated property; ore from a north level was hoisted through the White Cap shaft.",
+          "year": "1884-09"
+        },
+        {
+          "text": "Nayr Mining Company secured a lease and proposed deepening the White Cap shaft by 200 feet to a planned depth of 760 feet to explore sulphide ore.",
+          "year": "1901-03"
+        },
+        {
+          "text": "Nayr reported cutting a station at 712 feet in mineralized ground with copper and gold indications; commercial production at this depth was not established.",
+          "year": "1901-07"
+        }
+      ],
       "betaVisible": true,
       "coordinates": {
         "latitude": 39.23499,
@@ -6151,31 +6719,31 @@
       "timeline": [
         {
           "text": "The Arty and Snow silver vein was located; this was the vein later accessed by the Wilkesbarre mining group, not proof that the lower Wilkesbarre tunnel already existed.",
-          "year": "Historic period"
+          "year": "1884"
         },
         {
           "text": "Robert Morseman and associates drove more than 300 feet of adit on the Wilkesbarre group and encountered silver-bearing oxide ore; the precise attribution of this early drive to today's lower portal is uncertain.",
-          "year": "Historic period"
+          "year": "1904"
         },
         {
           "text": "The Wilkesbarre Mine shipped siliceous gold-silver ore.",
-          "year": "Historic period"
+          "year": "1910"
         },
         {
           "text": "Upper Arty and Snow workings yielded about $15,000 in gross production; this is group-level history, not proven production from the lower Wilkesbarre adit.",
-          "year": "Historic period"
+          "year": "1920–1923"
         },
         {
           "text": "Workers developed a lower drift, probably today's Wilkesbarre adit #102, to intercept the Snow Lode vein beneath earlier upper workings.",
-          "year": "Historic period"
+          "year": "1924"
         },
         {
           "text": "USGS geologists could enter much of the lower Wilkesbarre adit and mapped its underground geology.",
-          "year": "Historic period"
+          "year": "1951"
         },
         {
           "text": "State mine inventories and subsequent Colorado Geological Survey research documented the Wilkesbarre adits and their waste-rock/environmental issues.",
-          "year": "Historic period"
+          "year": "1996–2001"
         }
       ],
       "betaVisible": true,
@@ -6230,19 +6798,19 @@
       "timeline": [
         {
           "text": "Samuel Morgan and Aden Alexander located the Wolftone Mine on Carbonate Hill.",
-          "year": "Historic period"
+          "year": "1876"
         },
         {
           "text": "Malta Smelting and Mining Company requested survey; patent was granted later that year.",
-          "year": "Historic period"
+          "year": "1880"
         },
         {
           "text": "Ore was reported at 633 feet, including a seven-foot body of pyrite mixed with galena.",
-          "year": "Historic period"
+          "year": "1882"
         },
         {
           "text": "S. D. Nicholson searched old Wolftone workings for oxidized zinc and found a major zinc-silicate body.",
-          "year": "Historic period"
+          "year": "circa 1910"
         },
         {
           "text": "A formal Robert Burns banquet was held underground at the Wolftone Mine.",
@@ -6250,7 +6818,7 @@
         },
         {
           "text": "The Wolftone shaft was reported at 1,120 feet deep with eight levels.",
-          "year": "Historic period"
+          "year": "1920"
         }
       ],
       "betaVisible": true,
@@ -6435,6 +7003,6 @@
   ],
   "state": "Colorado",
   "county": "Lake County",
-  "generatedAt": "2026-10-25T21:50:50.256Z",
+  "generatedAt": "2026-10-26T00:21:30.515Z",
   "schemaVersion": 1
 }
