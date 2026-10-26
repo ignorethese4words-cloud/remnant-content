@@ -3614,8 +3614,23 @@
         "The Star of the West vein was discovered in 1874. USGS Professional Paper 178 reports that by 1882 the lower level had a 218-foot crosscut and 200-foot drift; a middle level extended 225 feet on the lode and an upper level 60 feet. Ore included free gold, gray copper, chalcopyrite, bismuth and galena. Ore shipments are documented in 1875 and 1882, with another reported about 1898. Total production was probably under 50 tons, but 1887 shipments averaged about 5 ounces of gold and 40 ounces of silver per ton. The mine was inaccessible when examined in 1929."
       ],
       "componentType": "MINE",
-      "displayImages": [],
-      "contentUpdatedAt": "2026-10-05T14:04:57.347Z",
+      "displayImages": [
+        {
+          "id": "star-of-the-west-native-gold-lavinsky-2009-255182",
+          "label": "Native gold specimen attributed to Star of the West Mine",
+          "title": "Native gold in matrix from Star of the West Mine (2009 photograph)",
+          "rights": "Creative Commons Attribution-ShareAlike 3.0 Unported; https://creativecommons.org/licenses/by-sa/3.0/ ; commercial online and offline reuse permitted with attribution and applicable ShareAlike.",
+          "creator": "Rob Lavinsky (iRocks.com)",
+          "license": "CC BY-SA 3.0",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-SUMMIT-STAR-OF-THE-WEST/star-of-the-west-native-gold-lavinsky-2009-255182-c1bd10291a1fbadd1b3e.jpg",
+          "sourceNote": "Close-up native gold wire in matrix, collector-labeled Star of the West Mine, Teller Mountain. Photo shot October 3, 2009. Original resolution 411x360 pixels. This is mineral specimen/ore-output interpretive media ONLY, not an image of a portal, headframe, working or historical mine landscape; origin attribution is from prior collection label, not a surveyed extraction record. | Original image URL: https://upload.wikimedia.org/wikipedia/commons/7/74/Gold-255182.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Gold-255182.jpg",
+          "attribution": "Native gold specimen attributed to Star of the West Mine, Teller Mountain, Colorado. Photograph © Rob Lavinsky, iRocks.com, 2009. Licensed CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ ; Wikimedia Commons File:Gold-255182.jpg. Resizing, if any, should be disclosed.",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
+        }
+      ],
+      "contentUpdatedAt": "2026-10-26T02:55:00.562Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
     },
@@ -4151,6 +4166,6 @@
   ],
   "state": "Colorado",
   "county": "Summit County",
-  "generatedAt": "2026-10-26T00:21:30.515Z",
+  "generatedAt": "2026-10-26T23:09:50.027Z",
   "schemaVersion": 1
 }

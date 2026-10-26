@@ -80,9 +80,23 @@
           "attribution": "Mike Renlund, Idaho Springs CO - Argo Mill.jpg (2006), via Wikimedia Commons/Flickr, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Unmodified.",
           "mediaStatus": "PACKAGED",
           "attributionRequired": true
+        },
+        {
+          "id": "argo-mill-1941-russell-lee-loc-fsa-8c01096",
+          "label": "Argo industrial structures, 1941",
+          "title": "Abandoned Argo Tunnel gold-mill structure (1941)",
+          "rights": "Public domain original U.S. government FSA/OWI photographic negative; LOC unrestricted commercial/offline reuse.",
+          "creator": "Russell Lee",
+          "license": "Public Domain (U.S. Government FSA/OWI)",
+          "remoteUri": "https://gbgehvkacuoyavgoucou.supabase.co/storage/v1/object/public/site-media/CO-CLEAR-CREEK-ARGO-MILL/argo-mill-1941-russell-lee-loc-fsa-8c01096-3ad7167ef3ee59fedda0.jpg",
+          "sourceNote": "Russell Lee photograph in May 1941 showing weathered industrial timberwork labeled ARGO TUNNEL at gold mill site in Idaho Springs. Does not claim specific underground portal nor an intact full mill. LOC original archival medium JPEG; native ingest will confirm bytes and MIME before site_media approval. | Original image URL: https://tile.loc.gov/storage-services/service/pnp/fsa/8c01000/8c01000/8c01096r.jpg",
+          "sourcePage": "https://www.loc.gov/item/2017789231/",
+          "attribution": "Russell Lee, Abandoned gold mill, Idaho Springs, Colorado (May 1941), Library of Congress FSA/OWI Collection, LC-USF34-039022-D, fsa.8c01096 (public domain).",
+          "mediaStatus": "PACKAGED",
+          "attributionRequired": true
         }
       ],
-      "contentUpdatedAt": "2026-10-25T23:25:02.537Z",
+      "contentUpdatedAt": "2026-10-26T01:35:41.111Z",
       "locationPrecision": "mapped",
       "locationAccuracyMeters": null
     },
@@ -1017,6 +1031,6 @@
   ],
   "state": "Colorado",
   "county": "Clear Creek County",
-  "generatedAt": "2026-10-26T00:21:30.515Z",
+  "generatedAt": "2026-10-26T23:09:50.027Z",
   "schemaVersion": 1
 }
