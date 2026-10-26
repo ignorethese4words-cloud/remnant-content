@@ -1,5 +1,5 @@
 {
-  "requestSequence": 6,
-  "requestedBy": "V4 MEDIA MIGRATION",
-  "reason": "Publish all six stored/verified v4 media assets in county packs"
+  "requestSequence": 7,
+  "requestedBy": "V4 TIMELINE EXPORT FIX",
+  "reason": "Refresh county packs with verified original event years and complete timeline descriptions; no change to historical source records or worker settings."
 }
