@@ -1,0 +1,17 @@
+name: Verify V4-only content delivery
+on:
+  push:
+    branches: [main, cleanup-v4-only]
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: node scripts/validate-v4-content.mjs
