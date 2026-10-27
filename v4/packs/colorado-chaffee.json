@@ -1,0 +1,137 @@
+{
+  "id": "colorado-chaffee",
+  "sites": [
+    {
+      "id": "CO-CHAFFEE-BLANK-MINE-MOUNT-SHAVANO",
+      "name": "Blank Mine — Mount Shavano",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Chaffee County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Chaffee County",
+      "overview": [
+        "On Mount Shavano's southeastern slopes, the historic Blank Mine—also listed as Gold Eagle—had two principal workings: a lower adit and an upper shaft. Colorado Geological Survey field mapping in 2005 found both caved, with sizable waste dumps, along with smaller nearby adits and evidence of later exploration drilling. The lower working was associated with flowing spring water. Geologists identified copper-, lead- and zinc-bearing mineralization in the shaft's dump material, but the available records do not establish the mine's total output or exact operating years. The displayed location represents a historic, field-mapped upper shaft position, not a verified open entrance or an invitation to approach the workings."
+      ],
+      "timeline": [
+        {
+          "text": "Sunshine Mining exploration files, cited in the USGS MRDS Gold Eagle/Blank record, discussed copper-lead-zinc mineralization and exploration at the shaft; original files not independently examined.",
+          "year": "1964"
+        },
+        {
+          "text": "Colorado Geological Survey field mapping recorded the lower caved adit, upper caved shaft, smaller northern adits, drilling traces and a geochemical sample from the upper shaft dump (05-280).",
+          "year": "2005"
+        },
+        {
+          "text": "Colorado Geological Survey published OF-06-10, including the mapped Blank Mine workings and NAD27 UTM point-file data.",
+          "year": "2006"
+        },
+        {
+          "text": "A.B. Wilson's visit, reported in USGS MRDS, described the lower cut and a possible shaft west-northwest of it; shaft identification was tentative.",
+          "year": "2010-09-11"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 38.5983067845,
+        "longitude": -106.2131208423
+      },
+      "moreHistory": [
+        "The Blank Mine occupied the Shavano fault zone between Squaw Creek and the North Fork on the southeastern flank of Mount Shavano. The Colorado Geological Survey's 2005 field mapping recorded a lower caved adit with a substantial, partly spread-out waste dump and flowing spring water, and an upper caved shaft with a large dump. The survey also identified six smaller caved adits farther north and traces of exploration drilling, including five short access roads and at least four drill pads between the main workings. The survey inferred, rather than independently dated, that the mining and drilling preceded the later decades of the twentieth century; no precise opening, closure, ownership or production dates are established here. Geological sampling of the upper shaft dump (sample 05-280) found mineralized limestone and fault-brecciated older rocks. The survey reported 8,340 ppm zinc, 3,960 ppm lead, 220 ppm copper, 3 ppm silver and 0.011 ppm gold for that selected dump sample; these are assay results, not mine production totals. Separately, the USGS MRDS Gold Eagle/Blank record cites Sunshine Mining exploration files from 1964 discussing copper-lead-zinc mineralization in a shaft and reports an independent September 11, 2010 visit by A. B. Wilson. Wilson described water issuing from the lower cut and a possible shaft west-northwest of it; that identification was expressed as an assumption, not a confirmed shaft survey. The MRDS general mine dot should not be mistaken for the shaft. Sources: Colorado Geological Survey, Shannon and McCalpin, OF-06-10 (2006), pp. 34, 186, 193–194, appendix 1, https://coloradogeologicalsurvey.org/publications/geologic-map-maysville-quadrangle-chaffee-colorado/ (report text examined at https://studyres.com/doc/2369900/the-geologic-map-of-the-maysville-quadrangle--chaffee); USGS MRDS record USGS10311053 as reproduced at https://thediggings.com/mines/usgs10311053."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-27T16:15:25.164Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-CHAFFEE-BON-TON-MINE-MAYSVILLE",
+      "name": "Bon Ton Mine — Maysville",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Chaffee County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Chaffee County",
+      "overview": [
+        "Bon Ton was a small historic mine south of Maysville on the ridge between Willow and Green Creeks. A 1913 geological account describes a shaft and multiple adits already present in 1909. When state geologists revisited the area in 2005, they documented separate southwest and northeast adits and studied zinc- and copper-bearing minerals in the surrounding rock. The map point marks the southwest adit recorded in that field survey, rather than an exact location for every working. Some older publications confused Bon Ton with the nearby Cinderella mine, so the identification follows the later direct field mapping. This is a historical map location only; the condition of the workings today and permission to access the land have not been verified. Never enter or approach abandoned mine openings."
+      ],
+      "timeline": [
+        {
+          "text": "Crawford's later published account describes the Bon Ton property as having a shaft and at least two adits on a sphalerite-pyrite vein.",
+          "year": "1909"
+        },
+        {
+          "text": "R. D. Crawford published the Monarch and Tomichi district survey including a Bon Ton mine account (p.280).",
+          "year": "1913"
+        },
+        {
+          "text": "CGS field mapping documented and sampled the Bon Ton SW and NE adits as distinct workings; the SW point was recorded in NAD27 UTM zone 13.",
+          "year": "2005"
+        },
+        {
+          "text": "CGS published the Maysville quadrangle report, noting that earlier researchers had sometimes reversed the Bon Ton and Cinderella mine locations.",
+          "year": "2006"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 38.5093114007831,
+        "longitude": -106.19701430499
+      },
+      "moreHistory": [
+        "On the ridge between Willow Creek and Green Creek south of Maysville, the Bon Ton property was described by R. D. Crawford in a 1913 survey as having, in 1909, one shaft and at least two adits following a narrow sphalerite-pyrite vein in garnet-bearing gneiss. This is a documented state of the workings, not evidence of when mining began or how much ore was produced. Colorado Geological Survey fieldwork in 2005 identified separate southwest and northeast adits and collected mineral samples from each. The 2006 Maysville quadrangle report describes zinc-copper sulfide mineralization associated with calc-silicate and amphibolite gneiss, including sphalerite, chalcopyrite and the zinc spinel gahnite. Its analyses reported copper, zinc, silver and low concentrations of gold in selected adit samples; these are sample assays, NOT mine production totals. The survey also recorded later exploration cuts and claims in the wider ridge area, but does not establish that Bon Ton itself resumed production. The report cautioned that some earlier geological studies interchanged Bon Ton and the nearby Cinderella mine; subsequent peer-reviewed work describes Cinderella as a separate deposit farther south. The mapped point for this entry represents the CGS-observed southwest adit, not the shaft, the northeast adit, or the entire mineralized ridge. Abandoned mine openings can be unstable and hazardous."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-27T14:13:18.586Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-CHAFFEE-PAYMASTER-WORKINGS-WEST-MAYSVILLE",
+      "name": "Paymaster Mine Workings — West Maysville",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Chaffee County",
+      "appReady": true,
+      "category": "mine",
+      "location": "Chaffee County",
+      "overview": [
+        "The Paymaster workings west of Maysville were a small group of silver-lead-gold mines, rather than one single tunnel. Historical reporting described five adits and small ore shipments. When Colorado Geological Survey geologists revisited the area in 2005, they recorded three caved adits and collected mineralized material from their dumps. The location shown is one of those individually field-mapped adits within the Paymaster group, not a verified main entrance or a safe place to enter. The exact relationship between each early tunnel and the later mapped openings remains uncertain."
+      ],
+      "timeline": [
+        {
+          "text": "R.D. Crawford's mapping of the Paymaster unpatented-claim group and historic adits was later summarized in CGS OF-06-10; original Crawford map not directly inspected.",
+          "year": "1913"
+        },
+        {
+          "text": "Colorado Geological Survey fieldwork documented three caved adits in the Paymaster group and collected the 05-648/648A/649 composite sample.",
+          "year": "2005"
+        },
+        {
+          "text": "Colorado Geological Survey published OF-06-10 with the Paymaster group description, geochemistry and individual field-mapped adit coordinates.",
+          "year": "2006"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 38.5369385147,
+        "longitude": -106.2121696374
+      },
+      "moreHistory": [
+        "The Paymaster group was a cluster of unpatented mining claims approximately one mile west of Maysville. In its 2006 study of the Maysville quadrangle, the Colorado Geological Survey reported that Crawford's 1913 map showed the group in the southeast quarter of section 32, T50N R7E. The CGS report states that five historic adits, each reported as about 125–300 feet long, produced several small shipments of silver-lead ore carrying gold; the source does not establish exact production quantities, owners, or start and end dates. In 2005 CGS geologists mapped three caved adits in the same mine group and collected a composite mineralized-rock sample from their dumps, field samples 05-648, 05-648A and 05-649. The sampled material was associated with a narrow calc-silicate gneiss horizon and showed 152 ppm silver, 2.12 ppm gold, about 1.09% copper, 3.88% lead and 0.45% zinc. These measurements describe selected dump material, not average ore grade or production. CGS Appendix 1 identifies the individual mapped features and field coordinates, but does not prove which of the five earlier adits was a main Paymaster entrance. The CGS study distinguishes the Paymaster group from another mine/prospect cluster southwest of Maysville, and the separate Paymaster mines near Monarch should not be merged with it. Sources: CGS Shannon and McCalpin OF-06-10 (2006), pp.188–189,198–199, Table 8 and Appendix 1, https://coloradogeologicalsurvey.org/publications/geologic-map-maysville-quadrangle-chaffee-colorado/ ; report text inspected in https://studyres.com/doc/2369900/the-geologic-map-of-the-maysville-quadrangle--chaffee . The older Crawford 1913 Bulletin 4 was located in the original publisher catalog, https://coloradogeologicalsurvey.org/publications/geology-ore-deposits-monarch-tomichi-districts/ , but its original mine map and passage were not independently examined; historical Paymaster specifics here are attributed to the later CGS report."
+      ],
+      "componentType": "mine",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-10-27T16:15:54.962Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    }
+  ],
+  "state": "Colorado",
+  "county": "Chaffee County",
+  "generatedAt": "2026-10-27T22:59:15.732Z",
+  "schemaVersion": 1
+}

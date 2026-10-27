@@ -1,14 +1,24 @@
 {
   "packs": [
     {
+      "id": "colorado-chaffee",
+      "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/v4/packs/colorado-chaffee.json",
+      "state": "Colorado",
+      "county": "Chaffee County",
+      "siteCount": 3,
+      "generatedAt": "2026-10-27T22:59:15.732Z",
+      "idOnlySiteCount": 0,
+      "exploreSiteCount": 3
+    },
+    {
       "id": "colorado-clear-creek",
       "url": "https://raw.githubusercontent.com/ignorethese4words-cloud/remnant-content/main/v4/packs/colorado-clear-creek.json",
       "state": "Colorado",
       "county": "Clear Creek County",
-      "siteCount": 20,
-      "generatedAt": "2026-10-26T23:09:50.027Z",
+      "siteCount": 21,
+      "generatedAt": "2026-10-27T22:59:15.732Z",
       "idOnlySiteCount": 3,
-      "exploreSiteCount": 17
+      "exploreSiteCount": 18
     },
     {
       "id": "colorado-gilpin",
@@ -16,7 +26,7 @@
       "state": "Colorado",
       "county": "Gilpin County",
       "siteCount": 6,
-      "generatedAt": "2026-10-26T23:09:50.027Z",
+      "generatedAt": "2026-10-27T22:59:15.732Z",
       "idOnlySiteCount": 0,
       "exploreSiteCount": 6
     },
@@ -26,7 +36,7 @@
       "state": "Colorado",
       "county": "Lake County",
       "siteCount": 179,
-      "generatedAt": "2026-10-26T23:09:50.027Z",
+      "generatedAt": "2026-10-27T22:59:15.732Z",
       "idOnlySiteCount": 73,
       "exploreSiteCount": 106
     },
@@ -36,13 +46,13 @@
       "state": "Colorado",
       "county": "Summit County",
       "siteCount": 124,
-      "generatedAt": "2026-10-26T23:09:50.027Z",
+      "generatedAt": "2026-10-27T22:59:15.732Z",
       "idOnlySiteCount": 70,
       "exploreSiteCount": 54
     }
   ],
   "delivery": "github-raw-v4",
-  "generatedAt": "2026-10-26T23:09:50.027Z",
+  "generatedAt": "2026-10-27T22:59:15.732Z",
   "schemaVersion": 1,
   "minimumAppContentSchema": 1
 }
