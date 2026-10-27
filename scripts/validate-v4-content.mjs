@@ -1,8 +1,10 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-const forbidden = ['packs','verified-sites','media','dashboard','docs','pack-index.json'];
+const forbidden = ['packs','verified-sites','media','dashboard','pack-index.json'];
 for (const p of forbidden) if (fs.existsSync(p)) throw new Error('Legacy publication path still present: '+p);
+const docs = fs.existsSync('docs') ? fs.readdirSync('docs') : [];
+if (docs.some(filename => filename !== 'index.md')) throw new Error('Unexpected legacy documentation in docs/');
 
 const manifest = JSON.parse(fs.readFileSync('v4/pack-index.json','utf8'));
 if (!Array.isArray(manifest.packs) || !manifest.packs.length) throw new Error('Missing V4 manifest');
