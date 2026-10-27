@@ -1,0 +1,33 @@
+name: Prepare V4 legacy retirement inventory
+
+on:
+  push:
+    branches: [cleanup-v4-only]
+    paths:
+      - 'scripts/collect-legacy-tombstones.mjs'
+      - '.github/workflows/prepare-v4-retirements.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Extract legacy site IDs and exclude current V4 sites
+        env:
+          LEGACY_ROOTS: '["packs","verified-sites","v4/packs/colorado-summitcounty.json"]'
+        run: node scripts/collect-legacy-tombstones.mjs
+      - name: Commit retirement inventory on cleanup branch only
+        run: |
+          git config user.name 'Remnant cleanup inventory'
+          git config user.email 'actions@users.noreply.github.com'
+          git add audit/legacy-retired-site-ids.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record retired legacy site IDs for V4 migration'
+            git push origin HEAD:cleanup-v4-only
+          fi
