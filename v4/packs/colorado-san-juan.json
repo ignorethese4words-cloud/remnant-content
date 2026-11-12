@@ -1,0 +1,80 @@
+{
+  "id": "colorado-san-juan",
+  "sites": [
+    {
+      "id": "CO-SAN-JUAN-NATALIE-OCCIDENTAL-MINE",
+      "name": "Natalie/Occidental Mine",
+      "tier": "ID ONLY",
+      "state": "Colorado",
+      "county": "San Juan County",
+      "appReady": false,
+      "category": "MINE",
+      "location": "San Juan County",
+      "overview": [],
+      "timeline": [],
+      "betaVisible": false,
+      "coordinates": {
+        "latitude": 37.8775277778,
+        "longitude": -107.6440555556
+      },
+      "moreHistory": [],
+      "componentType": "ADIT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-11-11T09:09:46.956Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    },
+    {
+      "id": "CO-SAN-JUAN-RED-AND-BONITA-MINE",
+      "name": "Red and Bonita Mine",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "San Juan County",
+      "appReady": true,
+      "category": "MINE",
+      "location": "San Juan County",
+      "overview": [
+        "Red and Bonita is an early mine above Cement Creek whose surviving historical significance includes its later environmental legacy. EPA records place its original mining before 1899 and describe extensive underground workings. A collapsed entrance was reopened for investigation in 2011, and the mine became the focus of a proposed bulkhead project to control metal-bearing water. It is distinct from neighboring Gold King and American Tunnel workings. This marker identifies the documented mine area, not an invitation to approach or enter it."
+      ],
+      "timeline": [
+        {
+          "text": "Historic mapping indicates mining had begun; EPA describes a short operating period.",
+          "year": "Before 1899"
+        },
+        {
+          "text": "EPA removed entrance blockage and constructed a replacement portal.",
+          "year": "2011"
+        },
+        {
+          "text": "EPA and Colorado mine-safety investigators assessed underground water flow and bulkhead feasibility.",
+          "year": "2012–2013"
+        },
+        {
+          "text": "EPA approved a removal action proposing a reinforced bulkhead.",
+          "year": "September 2014"
+        },
+        {
+          "text": "EPA published a construction fact sheet describing planned work.",
+          "year": "May 2015"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 37.8972083333,
+        "longitude": -107.6440833333
+      },
+      "moreHistory": [
+        "EPA records indicate Red and Bonita mining began before 1899 and lasted a relatively short time; no later mining activity was reported in its 2014 assessment. EPA estimated approximately 3,500 feet of underground workings and about 1.25 acres of waste rock and suspected tailings. Following a historic collapse that obstructed the entrance, EPA cleared approximately 30 feet of blockage and built a replacement portal in 2011. Subsequent investigations in 2012 and 2013 examined water inflows and conditions for a possible concrete bulkhead. In 2014 EPA reported approximately 300 gallons per minute of mine drainage and attributed an estimated 18 percent of zinc loading at a downstream Animas River monitoring station during the 2012 low-flow assessment to this mine. EPA planned a bulkhead project for 2015 to help manage contaminated drainage; this plan should not be mistaken for confirmation of the later operating condition."
+      ],
+      "componentType": "ADIT",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-11-11T08:14:23.635Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    }
+  ],
+  "state": "Colorado",
+  "county": "San Juan County",
+  "generatedAt": "2026-11-12T01:33:37.848Z",
+  "schemaVersion": 1
+}
