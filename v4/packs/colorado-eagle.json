@@ -1,0 +1,53 @@
+{
+  "id": "colorado-eagle",
+  "sites": [
+    {
+      "id": "CO-EAGLE-BASALT-CHARCOAL-KILNS-ARBANEY-PARK-BASALT",
+      "name": "Basalt Charcoal Kilns (Fryingpan Kilns, Arbaney Park)",
+      "tier": "EXPLORE",
+      "state": "Colorado",
+      "county": "Eagle County",
+      "appReady": true,
+      "category": "MILL",
+      "location": "Eagle County",
+      "overview": [
+        "These beehive-shaped charcoal kilns helped supply fuel for Aspen silver smelters during the 1880s. Seven historic kilns remain in varying condition at Arbaney Park. Their story connects Basalt’s early settlement with Aspen’s mining industry and later efforts to preserve the structures."
+      ],
+      "timeline": [
+        {
+          "text": "Historic American Landscapes Survey dates initial kiln construction to this approximate period.",
+          "year": "ca. 1882–1884"
+        },
+        {
+          "text": "Local walking-tour account reports seven kilns built; preservation research cites an 1884 contemporary report of kiln construction.",
+          "year": "1884"
+        },
+        {
+          "text": "Local historical walking-tour interpretation reports kiln operations ended.",
+          "year": "1887"
+        },
+        {
+          "text": "Local historical interpretation reports completion of restoration work.",
+          "year": "2010"
+        }
+      ],
+      "betaVisible": true,
+      "coordinates": {
+        "latitude": 39.368594,
+        "longitude": -107.028106
+      },
+      "moreHistory": [
+        "The Fryingpan charcoal kilns were built in the early 1880s to produce charcoal used as fuel in Aspen-area silver smelting. The Historic American Landscapes Survey dates initial construction to approximately 1882–1884. A local historical walking-tour account dates seven kilns to 1884 and associates construction with the Aspen Silver Company; preservation research cites an 1884 newspaper report describing construction by the Aspen Mining and Smelting Company. These corporate labels are reported as attributed rather than assumed to be identical. Wood was converted to charcoal in the kiln chambers, and the fuel was transported to Aspen. The local interpretation reports that operation ended in 1887 as railway transportation and alternative coal-derived smelter fuel became available. The kilns later served ranch storage uses, and a local preservation effort culminated in restoration in 2010. Preservation research documents seven kiln remains, including brick and stone examples in differing states of repair. The group survives as an industrial reminder of the fuel supply that supported the silver-mining economy."
+      ],
+      "componentType": "ORE_PROCESSING_MILL",
+      "displayImages": [],
+      "contentUpdatedAt": "2026-11-14T10:13:15.105Z",
+      "locationPrecision": "mapped",
+      "locationAccuracyMeters": null
+    }
+  ],
+  "state": "Colorado",
+  "county": "Eagle County",
+  "generatedAt": "2026-11-14T23:00:13.603Z",
+  "schemaVersion": 1
+}
